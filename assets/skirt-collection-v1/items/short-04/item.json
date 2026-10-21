@@ -1,0 +1,55 @@
+{
+  "id": "short-04",
+  "category": "short-skirt",
+  "name": "雾绿工装短裙",
+  "design": "a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design",
+  "raw": "raw/short-04.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+  "sourceWaistFraction": 0.03,
+  "target": {
+    "top": 565,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 350,
+    "hem": 950,
+    "shoulderWidth": 285
+  },
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 913810,
+      "x0": 66,
+      "y0": 122,
+      "x1": 1133,
+      "y1": 1188
+    },
+    "waistFraction": 0.03,
+    "waistSource": {
+      "left": 298,
+      "right": 901,
+      "width": 604,
+      "center": 599.5
+    },
+    "waistFactor": 0.2980132450331126,
+    "baseFactor": 0.32771535580524347
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": -22,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M378 566 Q469 610 560 566 L560 545 L378 545 Z"
+  ]
+}

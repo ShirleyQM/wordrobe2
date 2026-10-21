@@ -1,0 +1,34 @@
+{
+  "id": "dress-03",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "transparent_background": true,
+    "nonempty": true,
+    "not_clipped": true,
+    "waist_width": true,
+    "waist_center": true,
+    "hem": true
+  },
+  "measurements": {
+    "bounds": [
+      237,
+      275,
+      700,
+      1285
+    ],
+    "waistY": 565,
+    "waistWidth": 181,
+    "waistCenter": 469
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "source_hash": "bbd2017707b637dca75ae2986042d124d4a6732304e1b91f2f7eac0b3b7e5052",
+  "layer_hash": "c20e27a34033b9d8b45c5f2a5e19cbb65867cbd9af5c81da313ac5da50e1e57f",
+  "proof_hash": "e517e927f3e8defe775bcd6bbe2affe87660bf8d427706ee214208f847a286c5",
+  "tryon_hash": "c2653b672f1a52c57efae21226580c2c854cf24bacea229cf7ff4f712590d4e0",
+  "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+  "reviewed_at": "2026-10-21T12:11:08.872Z",
+  "detail_hash": "a1e23e51fbb5a3d086c332a26c47e1e02bf9c6f061ab8515cbd9ededa142d723"
+}

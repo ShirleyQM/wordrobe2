@@ -1,0 +1,23 @@
+{
+  "id": "suede-skirt",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "nonempty": true,
+    "has_transparency": true,
+    "not_clipped": true,
+    "partition_reconstructs_alpha": true,
+    "partition_preserves_rgb": true
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "bounds": [
+    273,
+    641,
+    668,
+    945
+  ],
+  "layer_sha256": "3211e6e0f74541182e5647c297be8587dc1158c74fe25ecc314d1612498ecad1",
+  "observations": "Reviewed waist front/back partition, hem, no-underwear exposure, both bare upper-body and shirt combinations, pale and dark backgrounds. Waist rim stays behind body; buckle remains on front. Original colored illustration was normalized by alpha bounds before registration."
+}

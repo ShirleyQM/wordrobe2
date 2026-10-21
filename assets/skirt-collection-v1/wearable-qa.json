@@ -1,0 +1,391 @@
+{
+  "complete": true,
+  "counts": {
+    "long-skirt": 5,
+    "short-skirt": 5,
+    "dress": 5
+  },
+  "items": [
+    {
+      "id": "long-01",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 588 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1486,
+      "wear_offset_y": -11,
+      "alpha_partition_max_error": 0,
+      "source_hash": "7819897c6bcd1156a5f4cd8034107644113dd36671c92d3f13a9137d1a32a02b",
+      "front_hash": "8b49a6192dac3fd5b82eedeed97dc367075eee1b2f2a16ae6647089a4c07cb72",
+      "back_hash": "85fe0ce88318ccd385e1a6a4d58182c28c6a54d003e155a8473eac1670fab4cc",
+      "proof_hash": "c457d6419a91aaf0e9876e34b565906bd47b68e3992973aa3a40b6580df2585b",
+      "tryon_hash": "bb983f19c1198789af7ab360dcfe20b2fb33b2b8dd0ebaf801d92ca7a9b2a233",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.231Z"
+    },
+    {
+      "id": "long-02",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 586 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1432,
+      "wear_offset_y": -10,
+      "alpha_partition_max_error": 0,
+      "source_hash": "b8186115a657bd313db175999511d95a736578b615a1d6e1ab6819682e87d071",
+      "front_hash": "cbf91399c3fc48d834e5f5358002eb79af86d461f7a2dec5b2ee36b9351b1b8f",
+      "back_hash": "9d555a3d286eb5ec648119b264a682d80ca93e6993ea73a6adf6616071d97f31",
+      "proof_hash": "7008ff8f7634cd90f18141ba786ae58e8c5dca7158466eb0edd307b8e1f9cbbe",
+      "tryon_hash": "6cf7ef411316e59bf926b453a4685990cd6e59104a324b4106ef689b3f18fd3b",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.288Z"
+    },
+    {
+      "id": "long-03",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 584 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1110,
+      "wear_offset_y": -9,
+      "alpha_partition_max_error": 0,
+      "source_hash": "dca33ee45f03235728ac10e891ebc028c442f842eac5f8e28ab7d50da2824df6",
+      "front_hash": "87875a74de864a176864c70ecca2d2fe58bc66d5fc65cecda04a1d42813c5c3e",
+      "back_hash": "d258fcb8c870c9a4dd369b89514526df5f28fa26c7d0835bd333350552f871ac",
+      "proof_hash": "d4b436be4d9ee1613b50887e646c7de38c7a99772dcd6ec92d681a7b104969e6",
+      "tryon_hash": "3c0ff7f588b19ac175d8f6a1609c973e16cc80970966a443e83ee4f6b191b4f1",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.341Z"
+    },
+    {
+      "id": "long-04",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 590 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1555,
+      "wear_offset_y": -12,
+      "alpha_partition_max_error": 0,
+      "source_hash": "8aa282052b7c9a49e261e5b8d6039339051fe3f3074b474213a86ca4b053c28a",
+      "front_hash": "38b727429136900a405cef955e92bfa8eaf7f5f620ebcefd725c6937cdb5f5ca",
+      "back_hash": "ac38b80e129e9d99171e14caebfd7d2a91b723845bfd014b22430477c954a6cb",
+      "proof_hash": "2935d3d57fe52a1d20a853b8728d9ecfb22f85cd62b4eb9e0a3f14b4a3e9661b",
+      "tryon_hash": "6c68d16bb322977696a85f68e93692fd1c6a1a129ace6918d98cce7514448c51",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.400Z"
+    },
+    {
+      "id": "long-05",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 588 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1473,
+      "wear_offset_y": -11,
+      "alpha_partition_max_error": 0,
+      "source_hash": "bb831a33b64ea86e3d30444a2b5e38dbad5a67450ff7492b1ca968cb247c0fe6",
+      "front_hash": "c7ff9d4048bc264a5c021a08e8c4b75cbb180edda01dc3b72fd362cd118c58ae",
+      "back_hash": "eb665679887238746f721e390abb44c0d5ef0396d2da75d930bed2a8daa7b6c0",
+      "proof_hash": "772c4b37cb30402703674362cbfa108f997fff7952cf0f0566802d2aee0678ff",
+      "tryon_hash": "dc3e6500c413503d288dd2cc2319d6712dda654e7b98fa9ad51cd60c827b63a9",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.455Z"
+    },
+    {
+      "id": "short-01",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 588 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1429,
+      "wear_offset_y": -11,
+      "alpha_partition_max_error": 0,
+      "source_hash": "2ba00eb0abdf60085aa1c548fc83b6281d5dac9bd58cdbf81ad364fdb9e31db2",
+      "front_hash": "adf510ede753b69af96235161246ede57f44996344b548f8ae16286214491f25",
+      "back_hash": "3746ded581f318e59611654460d0cf9a69c1a91ee99885b3bcbbf1f615d90996",
+      "proof_hash": "b993a502253f4aff1691da5e435a87807f5ff6a17b40ec4de59aa1f8d9564025",
+      "tryon_hash": "2042c1d1c87a8d383dd9174d8d030915129787fc1f351e65771c6286f17b505f",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.506Z"
+    },
+    {
+      "id": "short-02",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 612 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 2754,
+      "wear_offset_y": -23,
+      "alpha_partition_max_error": 0,
+      "source_hash": "66c2a21d3d2531724e81cea260822e435e471c3adfde5577d35b0f18e0d2ba5f",
+      "front_hash": "a2dbe3fa260c85c7280b3163b34e4de50600506ce463d5f2e805eeebeab659c9",
+      "back_hash": "16f206565f8a5aef10ee6d7f2aa36b28207300df5bdaa9386e6b6b10bea5a423",
+      "proof_hash": "68cc5ed4f905edfa5c0b24b9524c6ec95326b674dbbff3adb4c365167f63ce49",
+      "tryon_hash": "bfd1c401bcf2c8e619b0afbed8879967469e56bb6afd0fd73e8ce15c30d4093e",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.558Z"
+    },
+    {
+      "id": "short-03",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 590 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1432,
+      "wear_offset_y": -12,
+      "alpha_partition_max_error": 0,
+      "source_hash": "2e0bd6c624a87c377b611b1e553232421fff698bcf914be9fbf64411cb211a66",
+      "front_hash": "3cdc111b5c6fbf42b79742e7e22ac8db74925e8a14fc4fc5232ec6c921ff2008",
+      "back_hash": "8c6679774ba598c98b7254c74128a5cbf0a11912771ce67d471db2a865eaf550",
+      "proof_hash": "29bbf323fb4b2b0a82adb752e97d4ca8c6a7287a4af70b9b36a328778a5daebe",
+      "tryon_hash": "d3ec9c8be80dca0cb718741dfada2a572540c4913dd24d4cb3ed8dfba8ee5646",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.610Z"
+    },
+    {
+      "id": "short-04",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 610 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 2752,
+      "wear_offset_y": -22,
+      "alpha_partition_max_error": 0,
+      "source_hash": "bf2116305ec16bbfe3deaf21a16bef6ff1db3a4047d93ef9befe32dadbeea4fe",
+      "front_hash": "170f876aa08a35f581f770b79a77e155378099732deb38bbf5a79cd7df78765d",
+      "back_hash": "3c371ed531870d5bf22afd6ac7ab106c47bbf978efa9484b906ca2891897e8b5",
+      "proof_hash": "3ca3b4609b7774d2dd2f4bc3502599d310dc188fee53e7d5b12ad7c5acb2f0f5",
+      "tryon_hash": "1c8abea2c584ed71c916f9c5d6e23be7ae058abf0c48ad07a782cba103e35d87",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.662Z"
+    },
+    {
+      "id": "short-05",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M378 566 Q469 598 560 566 L560 545 L378 545 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 2002,
+      "wear_offset_y": -16,
+      "alpha_partition_max_error": 0,
+      "source_hash": "6f75964383daf5ff52d9f23af8e846ecf72d1419e14ecfe16007d29966237678",
+      "front_hash": "727d75408b65394bc3d456bfd0de6dd46194f507756a5361534acd97b85c6b54",
+      "back_hash": "f6bf894c9280586f2b2192363c18f25d26f1c0ca5de3f99d06ed57788eb6aaa1",
+      "proof_hash": "1c384a47c8ad03da2890879353cc6296dfcf0ffda2ae57831b33a3dbba77d398",
+      "tryon_hash": "9a8846e974923d2e8a321051ed02311f9809dfaf7c1379351b7f29de18acf96d",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+      "reviewed_at": "2026-10-21T12:11:08.713Z"
+    },
+    {
+      "id": "dress-01",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M409 275 Q469 311 529 275 L529 250 L409 250 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1463,
+      "wear_offset_y": 0,
+      "alpha_partition_max_error": 0,
+      "source_hash": "7d7f64fdec5f4a0f4628286039a6e0a6684af4243d0966a43e72a1025523b482",
+      "front_hash": "f8fa02f3c31c7860bd938723a9ae69ecb27286ab6d8b1893e70ea146c15f970b",
+      "back_hash": "2b8c3bb045ae179b9e65236edef676669fc43148b065da4a95abe4a0e12ac44c",
+      "proof_hash": "a120a321f0519adaed4a75854a5b5a3a14657941d8463816c9c891e288afe1d2",
+      "tryon_hash": "71d9d5b45ad5a703f7f6c032e8273c2dd947dc37739902bf13b7b72fb2e4e9bb",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+      "reviewed_at": "2026-10-21T12:11:08.768Z"
+    },
+    {
+      "id": "dress-02",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M440 275 Q440 293 469 305 Q498 293 498 275 L498 250 L440 250 Z",
+        "M324 419 Q344 427 353 440 L352 450 Q335 443 324 419 Z",
+        "M615 419 Q595 427 586 440 L587 450 Q604 443 615 419 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1902,
+      "wear_offset_y": 0,
+      "alpha_partition_max_error": 0,
+      "source_hash": "713f2c25557155c12a61f45aca5bd0b0a155d9f5ba1d2bd3f176bef8d86fb021",
+      "front_hash": "2a494e6303b6cab97697fb1938f5c0e44bdf76b63a5c23c8064a27e826a84015",
+      "back_hash": "47796ac3c9f47f41c40247cccc7bbcca5ed4c6f285f5e04b05b1af5dd4d8d669",
+      "proof_hash": "9c8d716364276a1b17b66967f92162b8f6db6ebb0b1f0dbb652fa392a0a8e344",
+      "tryon_hash": "a682e22e956ae4facca86572971c2a84d510e8538ec1e3b53d37068c59e8a536",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+      "reviewed_at": "2026-10-21T12:11:08.821Z"
+    },
+    {
+      "id": "dress-03",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M430 275 Q469 299 507 275 L507 250 L430 250 Z",
+        "M327 475 L337 465 L346 485 L327 491 Z",
+        "M612 475 L602 465 L593 485 L612 491 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 917,
+      "wear_offset_y": 0,
+      "alpha_partition_max_error": 0,
+      "source_hash": "c20e27a34033b9d8b45c5f2a5e19cbb65867cbd9af5c81da313ac5da50e1e57f",
+      "front_hash": "971d858fe7368e0833c139e57631273a9b23fe6ba6326d7ea265d1fa329fdf65",
+      "back_hash": "7dd56269136e02fd78541fe48c49379e83abaaf23c044e8fff4bbbf0905e87d1",
+      "proof_hash": "e517e927f3e8defe775bcd6bbe2affe87660bf8d427706ee214208f847a286c5",
+      "tryon_hash": "c2653b672f1a52c57efae21226580c2c854cf24bacea229cf7ff4f712590d4e0",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+      "reviewed_at": "2026-10-21T12:11:08.872Z"
+    },
+    {
+      "id": "dress-04",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M423 275 Q469 301 516 275 L516 250 L423 250 Z",
+        "M338 493 L347 480 L354 501 L338 507 Z",
+        "M601 493 L592 480 L585 501 L601 507 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 1401,
+      "wear_offset_y": 0,
+      "alpha_partition_max_error": 0,
+      "source_hash": "1682b6ca2089f16cfe537033178dfb9480f6eda9aa267ed39be796729e743b7c",
+      "front_hash": "9bf3fab1562ddf675671782b45f9ea9513ebb3b4a3ce4ea89d715d3fe9126f9f",
+      "back_hash": "8e918b4004002ee70f8a5990fa9e5e6fe6555bfbe8a31e00a70b2fd3ecc2ed96",
+      "proof_hash": "c9640c4fe1fc54105d33d80b81a15c51e0b3fabace29ea56d855221bc4fbc72f",
+      "tryon_hash": "18c5e5d533c7cbccf1326ec62b3e9ecd4bd7b163feae3f0637bf1beb666a4e40",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+      "reviewed_at": "2026-10-21T12:11:08.924Z"
+    },
+    {
+      "id": "dress-05",
+      "canvas": {
+        "width": 939,
+        "height": 1676
+      },
+      "display": "layer.png",
+      "front": "wear-front.png",
+      "back": "wear-back.png",
+      "rearMaskPaths": [
+        "M410 275 Q469 295 530 275 L530 250 L410 250 Z"
+      ],
+      "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+      "removed_pixels": 842,
+      "wear_offset_y": 0,
+      "alpha_partition_max_error": 0,
+      "source_hash": "85a36e32718c35805602e256d09f54714930f6716191e260809a21464a568d77",
+      "front_hash": "626934b9035f93f5ab8d6aff25f73db9553f962c7a32944e03df205ff114f4c5",
+      "back_hash": "04680d88a8241a17fd312ab329da358cffb3a17d2debc5c875a47f9edff470cd",
+      "proof_hash": "a05f8c0b41fcb318db02018852ab74bde0d260328c53d21c325c9c816c8375b1",
+      "tryon_hash": "17f2193197668f7826c22501b216f82837d37636c5c01400a914669822a9368a",
+      "visual_reviewed": true,
+      "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+      "reviewed_at": "2026-10-21T12:11:08.977Z"
+    }
+  ]
+}

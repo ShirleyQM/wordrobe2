@@ -1,0 +1,25 @@
+{
+  "id": "dress-01",
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "display": "layer.png",
+  "front": "wear-front.png",
+  "back": "wear-back.png",
+  "rearMaskPaths": [
+    "M409 275 Q469 311 529 275 L529 250 L409 250 Z"
+  ],
+  "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+  "removed_pixels": 1463,
+  "wear_offset_y": 0,
+  "alpha_partition_max_error": 0,
+  "source_hash": "7d7f64fdec5f4a0f4628286039a6e0a6684af4243d0966a43e72a1025523b482",
+  "front_hash": "f8fa02f3c31c7860bd938723a9ae69ecb27286ab6d8b1893e70ea146c15f970b",
+  "back_hash": "2b8c3bb045ae179b9e65236edef676669fc43148b065da4a95abe4a0e12ac44c",
+  "proof_hash": "a120a321f0519adaed4a75854a5b5a3a14657941d8463816c9c891e288afe1d2",
+  "tryon_hash": "71d9d5b45ad5a703f7f6c032e8273c2dd947dc37739902bf13b7b72fb2e4e9bb",
+  "visual_reviewed": true,
+  "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+  "reviewed_at": "2026-10-21T12:11:08.768Z"
+}

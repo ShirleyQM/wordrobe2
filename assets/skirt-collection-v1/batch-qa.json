@@ -1,0 +1,632 @@
+{
+  "total": 15,
+  "passed": 15,
+  "counts": {
+    "long-skirt": 5,
+    "short-skirt": 5,
+    "dress": 5
+  },
+  "complete": true,
+  "results": [
+    {
+      "id": "long-01",
+      "category": "long-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "long-01",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            250,
+            565,
+            688,
+            1370
+          ],
+          "waistY": 589,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "9d7d479dbb29376bf5180f46c4cfd0bc9147dfc7a6df7a43e8e80cf09d192fcd",
+        "layer_hash": "7819897c6bcd1156a5f4cd8034107644113dd36671c92d3f13a9137d1a32a02b",
+        "proof_hash": "c457d6419a91aaf0e9876e34b565906bd47b68e3992973aa3a40b6580df2585b",
+        "tryon_hash": "bb983f19c1198789af7ab360dcfe20b2fb33b2b8dd0ebaf801d92ca7a9b2a233",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.232Z",
+        "detail_hash": "568c1af22260aebae4ee275b23e821423d983b6347245f6518407128bbcba1d5",
+        "no_upper_hash": "2298398172d49008cdca582faaab62fcbb3ba478921fc14daeea2e91520ae0d1",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "long-02",
+      "category": "long-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "long-02",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            264,
+            565,
+            674,
+            1300
+          ],
+          "waistY": 587,
+          "waistWidth": 180,
+          "waistCenter": 469.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "94e7218aa5dcfafc5003a2238b2af065c2a0b51a239c1a1a098733beb0872a5f",
+        "layer_hash": "b8186115a657bd313db175999511d95a736578b615a1d6e1ab6819682e87d071",
+        "proof_hash": "7008ff8f7634cd90f18141ba786ae58e8c5dca7158466eb0edd307b8e1f9cbbe",
+        "tryon_hash": "6cf7ef411316e59bf926b453a4685990cd6e59104a324b4106ef689b3f18fd3b",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.289Z",
+        "detail_hash": "06ebb5a723acbfb1ea219bc27334cede77398f3fb6bb6dad8fb09d7d79a95f87",
+        "no_upper_hash": "80d7c3e33e6f6f212d22b0ac0d552b3474a3fe164e6106cc1d51a29e35e720b9",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "long-03",
+      "category": "long-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "long-03",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            257,
+            565,
+            681,
+            1360
+          ],
+          "waistY": 589,
+          "waistWidth": 180,
+          "waistCenter": 469.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "ee33c5c6b9a82ab7ccc38ae8a028db7e47189cf0b9e2a4a3549411d0e56c810f",
+        "layer_hash": "dca33ee45f03235728ac10e891ebc028c442f842eac5f8e28ab7d50da2824df6",
+        "proof_hash": "d4b436be4d9ee1613b50887e646c7de38c7a99772dcd6ec92d681a7b104969e6",
+        "tryon_hash": "3c0ff7f588b19ac175d8f6a1609c973e16cc80970966a443e83ee4f6b191b4f1",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.342Z",
+        "detail_hash": "5ee983338aa9c96943d5b26ddd24e37319ad944b74d1a3bb18e8e5458f23c3c6",
+        "no_upper_hash": "4d7175c39aa4f13fc4030505c860e065683fedff1762664bc7740fb5eed4bad4",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "long-04",
+      "category": "long-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "long-04",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            285,
+            565,
+            653,
+            1395
+          ],
+          "waistY": 590,
+          "waistWidth": 180,
+          "waistCenter": 468.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "98b746e85f0d20189137822441354e3f06ebae08593d73519456936a3def9b4e",
+        "layer_hash": "8aa282052b7c9a49e261e5b8d6039339051fe3f3074b474213a86ca4b053c28a",
+        "proof_hash": "2935d3d57fe52a1d20a853b8728d9ecfb22f85cd62b4eb9e0a3f14b4a3e9661b",
+        "tryon_hash": "6c68d16bb322977696a85f68e93692fd1c6a1a129ace6918d98cce7514448c51",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.402Z",
+        "detail_hash": "eb7dac6ddaa5a6d73bcb384d5c13670662c89cead3aa1aa6ecb9eeb99c8955fd",
+        "no_upper_hash": "c8b2d3877e6acb85fa7f9a56e7e54012c38cd0ab06ba5c98c7dc67258cd7996e",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "long-05",
+      "category": "long-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "long-05",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            244,
+            565,
+            694,
+            1340
+          ],
+          "waistY": 588,
+          "waistWidth": 180,
+          "waistCenter": 468.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "0decfd226e06864b6b5ca02b50ebd2815d85dd894348a7b58ed6f6782a5a7fb7",
+        "layer_hash": "bb831a33b64ea86e3d30444a2b5e38dbad5a67450ff7492b1ca968cb247c0fe6",
+        "proof_hash": "772c4b37cb30402703674362cbfa108f997fff7952cf0f0566802d2aee0678ff",
+        "tryon_hash": "dc3e6500c413503d288dd2cc2319d6712dda654e7b98fa9ad51cd60c827b63a9",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.455Z",
+        "detail_hash": "a32e4e560046de3e7366597771da689ba67f275c26c572b683ca9f0602bdd7e9",
+        "no_upper_hash": "043a85dbadba3361349a79f22a3719b390094926b8dc55b04a30423e7aa4f047",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "short-01",
+      "category": "short-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "short-01",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            285,
+            565,
+            653,
+            930
+          ],
+          "waistY": 576,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "874c50d480ec510c79fde46f12b9456efefdb866252021990c9863d8fe037824",
+        "layer_hash": "2ba00eb0abdf60085aa1c548fc83b6281d5dac9bd58cdbf81ad364fdb9e31db2",
+        "proof_hash": "b993a502253f4aff1691da5e435a87807f5ff6a17b40ec4de59aa1f8d9564025",
+        "tryon_hash": "2042c1d1c87a8d383dd9174d8d030915129787fc1f351e65771c6286f17b505f",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.506Z",
+        "detail_hash": "777a89e331104cc72918ce356e3d541285efb2a1e344245db214591bc713af23",
+        "no_upper_hash": "01f10e1c1d66971f60ad8b57c8ef694bb3f82a80e76c939372fad05a5774172e",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "short-02",
+      "category": "short-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "short-02",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            295,
+            565,
+            644,
+            940
+          ],
+          "waistY": 576,
+          "waistWidth": 180,
+          "waistCenter": 468.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "07f61e3dd6987d58d642729bbfbed15dd6e29d61b7c30af958ecce24b0680866",
+        "layer_hash": "66c2a21d3d2531724e81cea260822e435e471c3adfde5577d35b0f18e0d2ba5f",
+        "proof_hash": "68cc5ed4f905edfa5c0b24b9524c6ec95326b674dbbff3adb4c365167f63ce49",
+        "tryon_hash": "bfd1c401bcf2c8e619b0afbed8879967469e56bb6afd0fd73e8ce15c30d4093e",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.559Z",
+        "detail_hash": "3b85586134037d695b9e87dc4b3b2bd224d2edf9df76af17ea4b1b9c7096b936",
+        "no_upper_hash": "f8c333a674eff0a6a6fdc4f5b8ff039fe8ff832081f4d82d6519273f05b61a47",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "short-03",
+      "category": "short-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "short-03",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            289,
+            565,
+            649,
+            955
+          ],
+          "waistY": 577,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "22d01f533b23293111753755e76adce870585f5dea253839c59a1875bcd5a658",
+        "layer_hash": "2e0bd6c624a87c377b611b1e553232421fff698bcf914be9fbf64411cb211a66",
+        "proof_hash": "29bbf323fb4b2b0a82adb752e97d4ca8c6a7287a4af70b9b36a328778a5daebe",
+        "tryon_hash": "d3ec9c8be80dca0cb718741dfada2a572540c4913dd24d4cb3ed8dfba8ee5646",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.611Z",
+        "detail_hash": "8d4d895509fcbac2c1e12c8dd5954d44ef25a9833f5ab78174f09ba581011525",
+        "no_upper_hash": "2d710b47fa93935a808c9471961751014a5e2f01735e610dbcd6cc1fa35b4732",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "short-04",
+      "category": "short-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "short-04",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            294,
+            565,
+            643,
+            950
+          ],
+          "waistY": 577,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "be3249976c9c3d6f9061bd194053ba895812b2fd0b5b6eeb44902b98d2a15077",
+        "layer_hash": "bf2116305ec16bbfe3deaf21a16bef6ff1db3a4047d93ef9befe32dadbeea4fe",
+        "proof_hash": "3ca3b4609b7774d2dd2f4bc3502599d310dc188fee53e7d5b12ad7c5acb2f0f5",
+        "tryon_hash": "1c8abea2c584ed71c916f9c5d6e23be7ae058abf0c48ad07a782cba103e35d87",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.663Z",
+        "detail_hash": "9fe1569ae24aea2689ce6457f8614453159cf57ab4f9dd25a0685fcaa8688310",
+        "no_upper_hash": "b0d329874453fbc1779f14b9a7e76262c75ad3e1bc09413df2ef2727dd3bdf32",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "short-05",
+      "category": "short-skirt",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "short-05",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            282,
+            565,
+            656,
+            910
+          ],
+          "waistY": 575,
+          "waistWidth": 179,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "d4e3949edf43d5228b8f1c11366df0bbdd77a1fb57e06e4de09c783e2f057b48",
+        "layer_hash": "6f75964383daf5ff52d9f23af8e846ecf72d1419e14ecfe16007d29966237678",
+        "proof_hash": "1c384a47c8ad03da2890879353cc6296dfcf0ffda2ae57831b33a3dbba77d398",
+        "tryon_hash": "9a8846e974923d2e8a321051ed02311f9809dfaf7c1379351b7f29de18acf96d",
+        "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+        "reviewed_at": "2026-10-21T12:11:08.714Z",
+        "detail_hash": "bc1026d8aa9d660b1d1e07bbe977a7840df26bdebf314eb1a45eae8fc6e90d14",
+        "no_upper_hash": "0e71d8720e9042a90b7ad947c17b1bc441de0ada515aef96b973a15fe0d91035",
+        "no_upper_visual_reviewed": true
+      }
+    },
+    {
+      "id": "dress-01",
+      "category": "dress",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "dress-01",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            265,
+            275,
+            674,
+            1270
+          ],
+          "waistY": 565,
+          "waistWidth": 180,
+          "waistCenter": 468.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "34e3e3c8d74575203997eca6cb0b772a0c960e6a47c7e4a8535d1b758f946b1c",
+        "layer_hash": "7d7f64fdec5f4a0f4628286039a6e0a6684af4243d0966a43e72a1025523b482",
+        "proof_hash": "a120a321f0519adaed4a75854a5b5a3a14657941d8463816c9c891e288afe1d2",
+        "tryon_hash": "71d9d5b45ad5a703f7f6c032e8273c2dd947dc37739902bf13b7b72fb2e4e9bb",
+        "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+        "reviewed_at": "2026-10-21T12:11:08.769Z",
+        "detail_hash": "74e92283579d70e45e289bab9e0a7c209dd07d50aa8ed8126d3bd47dfbbd3eaa"
+      }
+    },
+    {
+      "id": "dress-02",
+      "category": "dress",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "dress-02",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            259,
+            275,
+            678,
+            1250
+          ],
+          "waistY": 565,
+          "waistWidth": 180,
+          "waistCenter": 469.5
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "9b54e223283f8806a633fab052b7a832ad9f29bbf5c168dedda853441f88f83a",
+        "layer_hash": "713f2c25557155c12a61f45aca5bd0b0a155d9f5ba1d2bd3f176bef8d86fb021",
+        "proof_hash": "9c8d716364276a1b17b66967f92162b8f6db6ebb0b1f0dbb652fa392a0a8e344",
+        "tryon_hash": "a682e22e956ae4facca86572971c2a84d510e8538ec1e3b53d37068c59e8a536",
+        "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+        "reviewed_at": "2026-10-21T12:11:08.822Z",
+        "detail_hash": "aa09af2e745d2fbe8e16cf1e4048f6c209cd931e50cd88acd65f7dd579fba08b"
+      }
+    },
+    {
+      "id": "dress-03",
+      "category": "dress",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "dress-03",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            237,
+            275,
+            700,
+            1285
+          ],
+          "waistY": 565,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "bbd2017707b637dca75ae2986042d124d4a6732304e1b91f2f7eac0b3b7e5052",
+        "layer_hash": "c20e27a34033b9d8b45c5f2a5e19cbb65867cbd9af5c81da313ac5da50e1e57f",
+        "proof_hash": "e517e927f3e8defe775bcd6bbe2affe87660bf8d427706ee214208f847a286c5",
+        "tryon_hash": "c2653b672f1a52c57efae21226580c2c854cf24bacea229cf7ff4f712590d4e0",
+        "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+        "reviewed_at": "2026-10-21T12:11:08.872Z",
+        "detail_hash": "a1e23e51fbb5a3d086c332a26c47e1e02bf9c6f061ab8515cbd9ededa142d723"
+      }
+    },
+    {
+      "id": "dress-04",
+      "category": "dress",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "dress-04",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            237,
+            275,
+            700,
+            1235
+          ],
+          "waistY": 565,
+          "waistWidth": 179,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "83e7413883cf33cb58e2f9c586c0fcd80bde38fd42f9054b2c5a9b35176cc9d7",
+        "layer_hash": "1682b6ca2089f16cfe537033178dfb9480f6eda9aa267ed39be796729e743b7c",
+        "proof_hash": "c9640c4fe1fc54105d33d80b81a15c51e0b3fabace29ea56d855221bc4fbc72f",
+        "tryon_hash": "18c5e5d533c7cbccf1326ec62b3e9ecd4bd7b163feae3f0637bf1beb666a4e40",
+        "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+        "reviewed_at": "2026-10-21T12:11:08.925Z",
+        "detail_hash": "e0c7c803da9782f06e8457a66e719b5a39dfed4028a80afc015fbbacb79ad854"
+      }
+    },
+    {
+      "id": "dress-05",
+      "category": "dress",
+      "pass": true,
+      "error": "",
+      "qa": {
+        "id": "dress-05",
+        "technical_pass": true,
+        "checks": {
+          "canvas": true,
+          "transparent_background": true,
+          "nonempty": true,
+          "not_clipped": true,
+          "waist_width": true,
+          "waist_center": true,
+          "hem": true
+        },
+        "measurements": {
+          "bounds": [
+            259,
+            275,
+            678,
+            1350
+          ],
+          "waistY": 565,
+          "waistWidth": 181,
+          "waistCenter": 469
+        },
+        "visual_reviewed": true,
+        "wearable_validated": true,
+        "recolor_ready": false,
+        "source_hash": "a6560043fd6ee13302681d75e027999d6435cb5fa4e3b2478f1a4ee3f0892c7c",
+        "layer_hash": "85a36e32718c35805602e256d09f54714930f6716191e260809a21464a568d77",
+        "proof_hash": "a05f8c0b41fcb318db02018852ab74bde0d260328c53d21c325c9c816c8375b1",
+        "tryon_hash": "17f2193197668f7826c22501b216f82837d37636c5c01400a914669822a9368a",
+        "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+        "reviewed_at": "2026-10-21T12:11:08.977Z",
+        "detail_hash": "06750093863e7e858075746cb557e5b448393e32aec1b10f8a10efcf2cd84b5f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+const fs=require('fs'),path=require('path');
+const root=__dirname,cfg=JSON.parse(fs.readFileSync(path.join(root,'batch.json')));
+const extra=' Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.';
+for(let n=0;n<cfg.items.length;n++){
+ const i=cfg.items[n]; i.referenceFiles=n===0?['../gentle-campus-v1/base-no-bangs.png']:[];
+ i.originalPrompt=i.originalPrompt||i.prompt;
+ if(n>0&&n<10)i.prompt=i.originalPrompt+extra;
+ if(n===10){i.name='静蓝小高领无袖收腰裙';i.prompt=i.originalPrompt+' Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one complete dress only.';i.repairPrompt='Edit this ONE isolated navy anime dress. Keep the same silhouette, matte navy color, seams, waist button and skirt. Add an opaque neat modest navy mock-neck collar rising prominently at the CENTER ABOVE the shoulder line, about 7 cm high, to cover underwear straps at the base of the neck when worn. The neck opening must be narrow, about one third of the shoulder width, not a wide boat neck. Shoulder tips slope downward naturally from the neck. Complete garment only, no body, mannequin or skin. Clean transparent background, no halo, no glow, no cast shadow. Fine anime outlines, diffuse matte cel shading.';i.repairReference='raw/dress-01-round-neck-rejected.png';i.design+='; revised to a narrow mock neck to cover the master base straps';}
+ if(n===11)i.prompt=i.originalPrompt+' Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. The shirt collar rises at center well above shoulder tips, narrow neck opening not boatneck. Output one complete dress only.';
+ if(n===12)i.prompt=i.originalPrompt+' Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Stand collar rises at the CENTER ABOVE sloping shoulder tips, narrow opening. Output one complete dress only.';
+ if(n===13){i.prompt=i.originalPrompt+' Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Ivory blouse with narrow high standing collar centered ABOVE sloping shoulder tips, generous opaque bust coverage and no armpit gaps. The blouse and pinafore dress are one complete inseparable wearable design. Output one complete dress set only.';i.combinedGarment=true;}
+ if(n===14){i.prompt=i.originalPrompt+' Add an INTEGRATED ivory high mock-neck modesty yoke inside the sage square neckline, covering the entire chest and base of neck. It is a sewn-in ivory yoke panel of this sleeveless dress, NOT a separate blouse; no sleeves. Narrow ivory collar rises at CENTER ABOVE downward sloping shoulder tips, modest broad opaque shoulder construction. Fine charcoal-blue anime outlines, diffuse matte cel shading, true transparent background, one dress only.';i.design+='; integrated ivory mock-neck modesty yoke';}
+ i.assetStage='registered-colored-wearable';i.recolorReady=false;
+ const p=path.join(root,'items',i.id,'item.json'),saved=JSON.parse(fs.readFileSync(p));fs.writeFileSync(p,JSON.stringify({...saved,...i},null,2));
+}
+fs.writeFileSync(path.join(root,'batch.json'),JSON.stringify(cfg,null,2));
+fs.copyFileSync(path.join(root,'../../skills/dressup-single-item/SKILL.md'),path.join(root,'SKILL.txt'));
+fs.copyFileSync(path.join(root,'../../skills/dressup-single-item/references/production-sop.md'),path.join(root,'SOP.txt'));
+fs.writeFileSync(path.join(root,'README.txt'),'沈知微 · 15 款裙装\n长裙 5 / 短裙 5 / 连衣裙 5。每件 939 × 1676 RGBA，与母版左上角对齐。\nitems/<ID>/layer.png 为独立彩色穿戴图层；alpha.png 为遮罩；proof.png 为浅深底及试穿证据；tryon.png 为合成效果；qa.json 保存逐件签收。\nraw/ 保存生成原稿，不能直接作为已归位图使用。dress-01-round-neck-rejected.png 为已淘汰领口方案，不计数量。\n裙装搭配母版上衣；连衣裙替换上衣及下装，dress-04 为衬衫与背带裙组合槽位。宽裙使用手部前景遮罩。\n本批不是可改色生产资产：线稿/基色/阴影尚未独立分层。\nSkill 已安装为 $dressup-single-item；完整可移植副本在 skill/。原项目引用的母版在 ../gentle-campus-v2/layers。\n');
+console.log('Final metadata and SOP exported');

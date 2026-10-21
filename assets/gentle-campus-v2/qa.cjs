@@ -1,0 +1,8 @@
+const fs=require('fs'),path=require('path'),assert=require('assert/strict');const sharp=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');const root=__dirname;
+(async()=>{const manifest=JSON.parse(fs.readFileSync(path.join(root,'layers.json'))),required=['upper','skirt','bag','socks','shoes','hair-front','hair-back'];
+const checks=[];for(const id of required){const l=manifest.layers.find(x=>x.id===id);checks.push({check:'required-layer',layer:id,pass:!!l});}
+for(const l of manifest.layers){const {data,info}=await sharp(path.join(root,l.file)).ensureAlpha().raw().toBuffer({resolveWithObject:true});let alpha=0,transparent=0;for(let i=3;i<data.length;i+=4){if(data[i])alpha++;else transparent++;}
+assert.equal(info.width,939);assert.equal(info.height,1676);assert.ok(alpha>0);assert.ok(transparent>939*1676*.4);checks.push({check:'canvas-alpha',layer:l.id,pass:true,width:info.width,height:info.height,visible_pixels:alpha});
+if(l.source_rgb_identity!==undefined){assert.equal(l.source_rgb_identity,1);checks.push({check:'source-rgb-preserved',layer:l.id,pass:true});}}
+const report={required_layers_present:required.every(id=>manifest.layers.some(l=>l.id===id)),checks,method:'固定画布轮廓遮罩切分；不改原图可见区域RGB。AI补画与几何归位单独记账。',limits:['程序检查不代替领口、袜口和发际线的人工边缘验收。','上衣是衬衫＋开衫组合件。','彩色PNG不是已分离线稿、基色与阴影的改色素材。'],production_ready:false};fs.writeFileSync(path.join(root,'qa.json'),JSON.stringify(report,null,2));console.log('QA:',checks.length,'checks;',report.required_layers_present?'all requested layer files present':'waiting for layer files');
+})();

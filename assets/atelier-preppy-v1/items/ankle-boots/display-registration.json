@@ -1,0 +1,36 @@
+[
+  {
+    "side": 0,
+    "source_bounds": [
+      48,
+      894,
+      452,
+      1491
+    ],
+    "mirror_x": true,
+    "source_ankle_x": 118.5,
+    "destination": [
+      369,
+      1436,
+      112,
+      225
+    ]
+  },
+  {
+    "side": 1,
+    "source_bounds": [
+      488,
+      894,
+      891,
+      1491
+    ],
+    "mirror_x": true,
+    "source_ankle_x": 283.5,
+    "destination": [
+      459,
+      1436,
+      112,
+      225
+    ]
+  }
+]

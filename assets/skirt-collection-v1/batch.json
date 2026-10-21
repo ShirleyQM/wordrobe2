@@ -1,0 +1,409 @@
+{
+  "name": "沈知微 · 长裙/短裙/连衣裙十五款",
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "masterDirectory": "master",
+  "requiredCounts": {
+    "long-skirt": 5,
+    "short-skirt": 5,
+    "dress": 5
+  },
+  "items": [
+    {
+      "id": "long-01",
+      "category": "long-skirt",
+      "name": "雾蓝垂感 A 字长裙",
+      "design": "a muted mist-blue high-waisted A-line ankle-length skirt, clean six-panel construction, soft matte crepe, gently flared hem, narrow structured waistband",
+      "raw": "raw/long-01.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted mist-blue high-waisted A-line ankle-length skirt, clean six-panel construction, soft matte crepe, gently flared hem, narrow structured waistband. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 440,
+        "hem": 1370,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [
+        "references/base-no-bangs.png"
+      ],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted mist-blue high-waisted A-line ankle-length skirt, clean six-panel construction, soft matte crepe, gently flared hem, narrow structured waistband. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "long-02",
+      "category": "long-skirt",
+      "name": "深蓝细百褶长裙",
+      "design": "a navy high-waisted midi-long skirt with many narrow fine accordion pleats, matte woven fabric, crisp narrow waistband, restrained flowing volume",
+      "raw": "raw/long-02.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy high-waisted midi-long skirt with many narrow fine accordion pleats, matte woven fabric, crisp narrow waistband, restrained flowing volume. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 410,
+        "hem": 1300,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy high-waisted midi-long skirt with many narrow fine accordion pleats, matte woven fabric, crisp narrow waistband, restrained flowing volume. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "long-03",
+      "category": "long-skirt",
+      "name": "灰蓝裹式长裙",
+      "design": "a muted slate-blue high-waisted wrap maxi skirt, clear diagonal overlapping front panel, simple flat side tie, modest overlapping opening, matte cotton linen, asymmetrical hem",
+      "raw": "raw/long-03.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted slate-blue high-waisted wrap maxi skirt, clear diagonal overlapping front panel, simple flat side tie, modest overlapping opening, matte cotton linen, asymmetrical hem. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 425,
+        "hem": 1360,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted slate-blue high-waisted wrap maxi skirt, clear diagonal overlapping front panel, simple flat side tie, modest overlapping opening, matte cotton linen, asymmetrical hem. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "long-04",
+      "category": "long-skirt",
+      "name": "燕麦微鱼尾长裙",
+      "design": "an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train",
+      "raw": "raw/long-04.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 390,
+        "hem": 1395,
+        "shoulderWidth": 285,
+        "widthProfile": [
+          [
+            0,
+            180
+          ],
+          [
+            0.03,
+            180
+          ],
+          [
+            0.16,
+            290
+          ],
+          [
+            0.32,
+            310
+          ],
+          [
+            0.5,
+            295
+          ],
+          [
+            0.65,
+            275
+          ],
+          [
+            0.8,
+            305
+          ],
+          [
+            1,
+            390
+          ]
+        ]
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "long-05",
+      "category": "long-skirt",
+      "name": "月白层次长裙",
+      "design": "an ivory white high-waisted long skirt with three restrained gathered tiers, opaque matte cotton, subtle fine navy seam piping, soft controlled volume, no lace",
+      "raw": "raw/long-05.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an ivory white high-waisted long skirt with three restrained gathered tiers, opaque matte cotton, subtle fine navy seam piping, soft controlled volume, no lace. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 450,
+        "hem": 1340,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an ivory white high-waisted long skirt with three restrained gathered tiers, opaque matte cotton, subtle fine navy seam piping, soft controlled volume, no lace. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "short-01",
+      "category": "short-skirt",
+      "name": "学院深蓝百褶短裙",
+      "design": "a navy high-waisted above-knee school-campus pleated skirt for an adult college student, eight broad box pleats, structured matte wool blend, neat waistband, no badges",
+      "raw": "raw/short-01.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy high-waisted above-knee school-campus pleated skirt for an adult college student, eight broad box pleats, structured matte wool blend, neat waistband, no badges. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 370,
+        "hem": 930,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy high-waisted above-knee school-campus pleated skirt for an adult college student, eight broad box pleats, structured matte wool blend, neat waistband, no badges. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "short-02",
+      "category": "short-skirt",
+      "name": "浅蓝牛仔 A 字短裙",
+      "design": "a light washed-blue high-waisted above-knee A-line denim skirt, central button placket, two tidy front pockets, subtle stitch lines, matte texture, no distressed holes",
+      "raw": "raw/short-02.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a light washed-blue high-waisted above-knee A-line denim skirt, central button placket, two tidy front pockets, subtle stitch lines, matte texture, no distressed holes. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 350,
+        "hem": 940,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a light washed-blue high-waisted above-knee A-line denim skirt, central button placket, two tidy front pockets, subtle stitch lines, matte texture, no distressed holes. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "short-03",
+      "category": "short-skirt",
+      "name": "蓝灰斜裹短裙",
+      "design": "a blue-grey high-waisted above-knee asymmetric wrap skirt, clear diagonal front overlap, two small flat silver side buttons, opaque matte suiting, no exposed thigh slit",
+      "raw": "raw/short-03.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a blue-grey high-waisted above-knee asymmetric wrap skirt, clear diagonal front overlap, two small flat silver side buttons, opaque matte suiting, no exposed thigh slit. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 360,
+        "hem": 955,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a blue-grey high-waisted above-knee asymmetric wrap skirt, clear diagonal front overlap, two small flat silver side buttons, opaque matte suiting, no exposed thigh slit. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "short-04",
+      "category": "short-skirt",
+      "name": "雾绿工装短裙",
+      "design": "a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design",
+      "raw": "raw/short-04.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 350,
+        "hem": 950,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage high-waisted above-knee straight A-line utility skirt, two clean flat cargo pockets, a short central seam, matte cotton twill, restrained practical campus design. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "short-05",
+      "category": "short-skirt",
+      "name": "月白运动褶裙",
+      "design": "an opaque ivory-white high-waisted above-knee tennis-inspired pleated skirt, broad flat waistband, narrow muted blue double hem piping, controlled pleats, matte cotton, no logos",
+      "raw": "raw/short-05.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an opaque ivory-white high-waisted above-knee tennis-inspired pleated skirt, broad flat waistband, narrow muted blue double hem piping, controlled pleats, matte cotton, no logos. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+      "sourceWaistFraction": 0.03,
+      "target": {
+        "top": 565,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 375,
+        "hem": 910,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an opaque ivory-white high-waisted above-knee tennis-inspired pleated skirt, broad flat waistband, narrow muted blue double hem piping, controlled pleats, matte cotton, no logos. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "dress-01",
+      "category": "dress",
+      "name": "静蓝小高领无袖收腰裙",
+      "design": "a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe; revised to a narrow mock neck to cover the master base straps",
+      "raw": "raw/dress-01.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one complete dress only.",
+      "sourceWaistFraction": 0.29,
+      "target": {
+        "top": 275,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 410,
+        "hem": 1270,
+        "shoulderWidth": 285
+      },
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+      "repairPrompt": "Edit this ONE isolated navy anime dress. Keep the same silhouette, matte navy color, seams, waist button and skirt. Add an opaque neat modest navy mock-neck collar rising prominently at the CENTER ABOVE the shoulder line, about 7 cm high, to cover underwear straps at the base of the neck when worn. The neck opening must be narrow, about one third of the shoulder width, not a wide boat neck. Shoulder tips slope downward naturally from the neck. Complete garment only, no body, mannequin or skin. Clean transparent background, no halo, no glow, no cast shadow. Fine anime outlines, diffuse matte cel shading.",
+      "repairReference": "raw/dress-01-round-neck-rejected.png",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "dress-02",
+      "category": "dress",
+      "name": "雾蓝短袖衬衫裙",
+      "design": "a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton",
+      "raw": "raw/dress-02.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. The shirt collar rises at center well above shoulder tips, narrow neck opening not boatneck. Output one complete dress only.",
+      "sourceWaistFraction": 0.3,
+      "target": {
+        "top": 275,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 420,
+        "hem": 1250,
+        "shoulderWidth": 285,
+        "shoulderY": 305
+      },
+      "sourceShoulderFraction": 0.055,
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "dress-03",
+      "category": "dress",
+      "name": "月白小立领连衣裙",
+      "design": "an opaque ivory-white modest small-stand-collar midi dress, broad covered shoulders, neat short puff-cap sleeves, narrow navy waist piping, three subtle vertical pintucks at chest, softly gathered A-line skirt, matte cotton",
+      "raw": "raw/dress-03.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an opaque ivory-white modest small-stand-collar midi dress, broad covered shoulders, neat short puff-cap sleeves, narrow navy waist piping, three subtle vertical pintucks at chest, softly gathered A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Stand collar rises at the CENTER ABOVE sloping shoulder tips, narrow opening. Output one complete dress only.",
+      "sourceWaistFraction": 0.28,
+      "target": {
+        "top": 275,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 430,
+        "hem": 1285,
+        "shoulderWidth": 345,
+        "shoulderY": 305,
+        "chestEase": 0.2
+      },
+      "sourceShoulderFraction": 0.05,
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an opaque ivory-white modest small-stand-collar midi dress, broad covered shoulders, neat short puff-cap sleeves, narrow navy waist piping, three subtle vertical pintucks at chest, softly gathered A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "dress-04",
+      "category": "dress",
+      "name": "蓝灰学院背带裙套装",
+      "design": "an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia",
+      "raw": "raw/dress-04.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Ivory blouse with narrow high standing collar centered ABOVE sloping shoulder tips, generous opaque bust coverage and no armpit gaps. The blouse and pinafore dress are one complete inseparable wearable design. Output one complete dress set only.",
+      "sourceWaistFraction": 0.294,
+      "target": {
+        "top": 275,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 415,
+        "hem": 1235,
+        "shoulderWidth": 330,
+        "shoulderY": 305,
+        "chestEase": 0.12
+      },
+      "sourceShoulderFraction": 0.05,
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+      "combinedGarment": true,
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    },
+    {
+      "id": "dress-05",
+      "category": "dress",
+      "name": "雾绿方领长连衣裙",
+      "design": "a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen; integrated ivory mock-neck modesty yoke",
+      "raw": "raw/dress-05.png",
+      "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Add an INTEGRATED ivory high mock-neck modesty yoke inside the sage square neckline, covering the entire chest and base of neck. It is a sewn-in ivory yoke panel of this sleeveless dress, NOT a separate blouse; no sleeves. Narrow ivory collar rises at CENTER ABOVE downward sloping shoulder tips, modest broad opaque shoulder construction. Fine charcoal-blue anime outlines, diffuse matte cel shading, true transparent background, one dress only.",
+      "sourceWaistFraction": 0.26,
+      "target": {
+        "top": 275,
+        "waistY": 565,
+        "waistWidth": 180,
+        "centerX": 469,
+        "maxWidth": 420,
+        "hem": 1350,
+        "shoulderWidth": 285,
+        "shoulderY": 305
+      },
+      "sourceShoulderFraction": 0.045,
+      "referenceFiles": [],
+      "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+      "assetStage": "registered-colored-wearable",
+      "recolorReady": false
+    }
+  ],
+  "foregroundHandRects": [
+    [
+      238,
+      803,
+      67,
+      122
+    ],
+    [
+      635,
+      803,
+      68,
+      122
+    ]
+  ],
+  "requireWearablePartition": true
+}

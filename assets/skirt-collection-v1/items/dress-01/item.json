@@ -1,0 +1,57 @@
+{
+  "id": "dress-01",
+  "category": "dress",
+  "name": "静蓝小高领无袖收腰裙",
+  "design": "a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe; revised to a narrow mock neck to cover the master base straps",
+  "raw": "raw/dress-01.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one complete dress only.",
+  "sourceWaistFraction": 0.29,
+  "target": {
+    "top": 275,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 410,
+    "hem": 1270,
+    "shoulderWidth": 285
+  },
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 777837,
+      "x0": 47,
+      "y0": 19,
+      "x1": 976,
+      "y1": 1485
+    },
+    "waistFraction": 0.29,
+    "waistSource": {
+      "left": 378,
+      "right": 646,
+      "width": 269,
+      "center": 512
+    },
+    "waistFactor": 0.6691449814126395,
+    "baseFactor": 0.44086021505376344
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a navy blue sleeveless modest high-round-neck midi dress, broad shoulder panels fully covering sports-bra straps, opaque high chest coverage, fitted natural waist seam, six-panel A-line skirt, small silver waist button, matte crepe. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+  "repairPrompt": "Edit this ONE isolated navy anime dress. Keep the same silhouette, matte navy color, seams, waist button and skirt. Add an opaque neat modest navy mock-neck collar rising prominently at the CENTER ABOVE the shoulder line, about 7 cm high, to cover underwear straps at the base of the neck when worn. The neck opening must be narrow, about one third of the shoulder width, not a wide boat neck. Shoulder tips slope downward naturally from the neck. Complete garment only, no body, mannequin or skin. Clean transparent background, no halo, no glow, no cast shadow. Fine anime outlines, diffuse matte cel shading.",
+  "repairReference": "raw/dress-01-round-neck-rejected.png",
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": 0,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M409 275 Q469 311 529 275 L529 250 L409 250 Z"
+  ]
+}

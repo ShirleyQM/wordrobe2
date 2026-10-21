@@ -1,0 +1,23 @@
+{
+  "name": "深蓝格纹衬衫",
+  "slot": "upper",
+  "back": "back.png",
+  "id": "navy-shirt",
+  "canvas": [
+    939,
+    1676
+  ],
+  "source": "color-original.png",
+  "lineart": "lineart.png",
+  "front": "front.png",
+  "display": "display.png",
+  "bounds": [
+    239,
+    264,
+    465,
+    438
+  ],
+  "generation_mode": "built-in image_gen",
+  "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+  "requireWearablePartition": true
+}

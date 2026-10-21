@@ -1,0 +1,233 @@
+{
+  "character": "沈知微",
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "method": "same-canvas deterministic alpha masks; original RGB retained without rescaling",
+  "production_ready": false,
+  "layers": [
+    {
+      "id": "upper",
+      "name": "上衣套件 · 衬衫＋开衫",
+      "source": "upper-repair.png",
+      "z": 50,
+      "paths": "M433 281 Q420 302 400 312 L347 328 Q332 337 326 363 L311 433 L308 509 L292 590 L280 636 L275 678 L262 716 Q257 738 263 758 L264 777 L261 806 L292 808 L302 765 L316 727 L330 696 L370 708 L399 565 L542 565 L565 708 L608 695 L620 733 L639 769 L642 807 L679 807 L677 771 L684 752 Q687 736 677 711 L660 659 L652 602 L637 551 L631 510 L626 440 L615 362 Q608 337 592 328 L540 311 L512 281 L507 281 Q505 335 470 394 Q435 342 433 281 Z",
+      "note": "一个上衣槽位，衬衫与开衫作为组合件；不是两件可独立卸下的商品。包带及遮挡处使用独立补画源。",
+      "file": "layers/upper.png",
+      "mask": "masks/upper.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        259,
+        281,
+        684,
+        806
+      ],
+      "visible_pixels": 111208,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "skirt",
+      "name": "深蓝百褶裙",
+      "source": "underlay-repair.png",
+      "z": 40,
+      "paths": "M379 563 Q470 555 560 563 L565 594 Q600 724 651 909 Q566 932 473 931 Q380 931 286 908 Q335 725 375 594 Z",
+      "note": "使用无外套补画源，保留完整腰头。",
+      "file": "layers/skirt.png",
+      "mask": "masks/skirt.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        290,
+        565,
+        646,
+        930
+      ],
+      "visible_pixels": 96747,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "bag",
+      "name": "蓝灰肩包",
+      "source": "outfit.png",
+      "z": 65,
+      "paths": "M558 315 L573 315 Q579 457 599 601 L606 638 Q630 638 637 663 L653 733 Q656 747 641 751 L618 756 Q606 757 602 743 L586 671 Q582 650 589 640 L585 606 Q566 454 558 315 Z",
+      "note": "包身与前段背带同画布；后段延长带另作隐藏补片。",
+      "file": "layers/bag.png",
+      "mask": "masks/bag.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        558,
+        315,
+        653,
+        755
+      ],
+      "visible_pixels": 10923,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "socks",
+      "name": "白色短袜 · 完整脚部",
+      "source": "underlay-repair.png",
+      "z": 30,
+      "paths": "M340 1448 H595 V1650 H340 Z",
+      "note": "袜脚使用脱鞋补画源，不把鞋内不可见区域留空。",
+      "file": "layers/socks.png",
+      "mask": "masks/socks.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        368,
+        1449,
+        571,
+        1642
+      ],
+      "visible_pixels": 24396,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review",
+      "occluded_by_shoes": "layers/socks-shoes-on.png",
+      "occlusion_note": "穿鞋时隐藏鞋内脚部及袜脚，避免原身体脚趾轮廓从鞋边露出；卸鞋恢复完整层。"
+    },
+    {
+      "id": "shoes",
+      "name": "深蓝乐福鞋",
+      "source": "outfit.png",
+      "z": 60,
+      "paths": "M376 1535 Q390 1544 417 1534 Q431 1535 440 1556 L448 1592 Q466 1617 464 1630 Q462 1644 443 1646 L395 1642 Q372 1638 370 1620 L371 1580 Z M524 1534 Q550 1535 563 1554 L567 1596 Q572 1616 559 1630 Q544 1645 516 1646 L485 1646 Q471 1643 474 1628 L488 1594 L502 1561 Q507 1540 524 1534 Z",
+      "note": "鞋成对导出；不包含袜口或皮肤。",
+      "file": "layers/shoes.png",
+      "mask": "masks/shoes.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        371,
+        1535,
+        566,
+        1644
+      ],
+      "visible_pixels": 14642,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "earrings",
+      "name": "银色耳钉",
+      "source": "outfit.png",
+      "z": 75,
+      "paths": "M404 212 A4 4 0 1 0 412 212 A4 4 0 1 0 404 212 M529 212 A4 4 0 1 0 537 212 A4 4 0 1 0 529 212",
+      "note": "首饰位置沿用原图；耳垂不应烘焙进首饰。",
+      "file": "layers/earrings.png",
+      "mask": "masks/earrings.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        404,
+        210,
+        536,
+        215
+      ],
+      "visible_pixels": 76,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "necklace",
+      "name": "银链蓝吊坠",
+      "source": "outfit.png",
+      "z": 70,
+      "paths": "M434 324 Q470 343 505 324 L505 327 Q470 347 434 327 Z M468 342 L472 342 L472 350 L475 355 L473 360 L469 361 L466 357 L467 352 L468 350 Z",
+      "note": "颈根坐标定位；贴肤饰品需人工复核皮肤残留。",
+      "file": "layers/necklace.png",
+      "mask": "masks/necklace.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        434,
+        327,
+        497,
+        357
+      ],
+      "visible_pixels": 70,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "hair-front",
+      "name": "前发 · 中分发冠与鬓角",
+      "source": "base.png",
+      "z": 90,
+      "paths": "M390 180 C386 128 409 66 470 37 C525 38 554 80 560 166 L554 196 Q549 202 543 207 L535 205 Q542 178 527 142 Q512 110 489 103 L472 105 L457 102 Q430 105 416 139 Q404 165 406 194 L398 204 Q392 197 390 180 Z",
+      "mode": "hair",
+      "note": "无刘海，前额留空；前发只含发冠与两侧鬓角，不含脸、耳或眼睛。",
+      "file": "layers/hair-front.png",
+      "mask": "masks/hair-front.png",
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "bounds": [
+        389,
+        38,
+        559,
+        206
+      ],
+      "visible_pixels": 11153,
+      "source_rgb_identity": 1,
+      "status": "cut-preview-needs-edge-review"
+    },
+    {
+      "id": "body",
+      "name": "身体与基础内搭",
+      "file": "layers/body.png",
+      "source": "base.png",
+      "z": 10,
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "status": "cut-preview-needs-edge-review",
+      "note": "不包含前发或后发；基础内搭暂与身体合层，供头发分层检查。",
+      "occluded_by_shoes": "layers/body-shoes-on.png",
+      "occlusion_note": "穿鞋时隐藏鞋内脚部及袜脚，避免原身体脚趾轮廓从鞋边露出；卸鞋恢复完整层。"
+    },
+    {
+      "id": "hair-back",
+      "name": "后发 · 完整补画",
+      "file": "layers/hair-back.png",
+      "source": "hair-back-generated.png",
+      "z": 0,
+      "width": 939,
+      "height": 1676,
+      "x": 0,
+      "y": 0,
+      "status": "generated-repair-registered",
+      "registration": {
+        "scale": 0.5234285714285715,
+        "left": 288,
+        "top": 37,
+        "contentWidth": 362,
+        "contentHeight": 458
+      },
+      "note": "后发中间补全，置于身体后方；生成稿先按母版发冠中心与肩外宽度归位，非原图直接切片。"
+    }
+  ]
+}

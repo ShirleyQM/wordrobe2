@@ -1,0 +1,89 @@
+{
+  "id": "long-04",
+  "category": "long-skirt",
+  "name": "燕麦微鱼尾长裙",
+  "design": "an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train",
+  "raw": "raw/long-04.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Output one skirt only.",
+  "sourceWaistFraction": 0.03,
+  "target": {
+    "top": 565,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 390,
+    "hem": 1395,
+    "shoulderWidth": 285,
+    "widthProfile": [
+      [
+        0,
+        180
+      ],
+      [
+        0.03,
+        180
+      ],
+      [
+        0.16,
+        290
+      ],
+      [
+        0.32,
+        310
+      ],
+      [
+        0.5,
+        295
+      ],
+      [
+        0.65,
+        275
+      ],
+      [
+        0.8,
+        305
+      ],
+      [
+        1,
+        390
+      ]
+    ]
+  },
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 684472,
+      "x0": 103,
+      "y0": 62,
+      "x1": 922,
+      "y1": 1482
+    },
+    "waistFraction": 0.03,
+    "waistSource": {
+      "left": 374,
+      "right": 652,
+      "width": 279,
+      "center": 513
+    },
+    "waistFactor": 0.6451612903225806,
+    "baseFactor": 0.47560975609756095
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an oatmeal-grey high-waisted long skirt with a softly fitted hip and a gentle mermaid flare starting below the knees, matte suiting fabric, elegant visible panel seams, no train. Draw the COMPLETE waistband with an unambiguous top and natural waistline, not covered by any other garment.",
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": -12,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M378 566 Q469 590 560 566 L560 545 L378 545 Z"
+  ]
+}

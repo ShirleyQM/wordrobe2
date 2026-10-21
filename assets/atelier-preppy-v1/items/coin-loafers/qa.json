@@ -1,0 +1,23 @@
+{
+  "id": "coin-loafers",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "nonempty": true,
+    "has_transparency": true,
+    "not_clipped": true,
+    "partition_reconstructs_alpha": true,
+    "partition_preserves_rgb": true
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "bounds": [
+    353,
+    1533,
+    586,
+    1661
+  ],
+  "layer_sha256": "c4f2ebcf486bcfa4391a683cd1b0e504ff28eeeea29bada47b8642dae85e900b",
+  "observations": "Reviewed original line-art fit, colored fit, close-up foot insertion and white/dark fronts. Heel cups and insole/opening rims are behind the feet; antialiased front/back mask removes floating back-rim arcs. Base feet hidden below y1600; coin straps, fringe and toe seams remain in front."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "word-atelier-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "词间衣橱：换装与背单词交互原型",
+  "scripts": {"start": "node server.cjs", "test": "node test.cjs && node test-print-transform.cjs && node test-print-garment.cjs", "test:assets": "node test-wearable-layers.cjs", "package:assets": "node package-assets.cjs"}
+}

@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "body": "references/body.png",
+  "bodyHash": "b6cadc566a8d3ff45cd34176e3d08592832168fc9fc5ddc4eeb3bd5e80386fc7",
+  "canvas": [
+    939,
+    1676
+  ],
+  "requireWearablePartition": true,
+  "items": [
+    {
+      "name": "深蓝格纹衬衫",
+      "slot": "upper",
+      "back": "back.png",
+      "id": "navy-shirt",
+      "canvas": [
+        939,
+        1676
+      ],
+      "source": "color-original.png",
+      "lineart": "lineart.png",
+      "front": "front.png",
+      "display": "display.png",
+      "bounds": [
+        233,
+        258,
+        477,
+        450
+      ],
+      "generation_mode": "built-in image_gen",
+      "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+      "requireWearablePartition": true,
+      "contours": [
+        "M438 261 L513 264 L531 282 L561 297 L615 312 L630 324 L636 381 L645 402 L657 459 L669 480 L681 489 L681 513 L696 522 L696 534 L705 543 L702 570 L678 579 L648 612 L633 612 L615 579 L615 558 L597 546 L594 519 L585 507 L579 522 L579 546 L594 567 L591 600 L606 618 L612 648 L573 684 L531 699 L483 705 L417 699 L372 684 L357 669 L351 669 L342 654 L333 651 L333 630 L351 597 L351 570 L366 543 L360 504 L348 522 L345 549 L330 558 L330 579 L315 597 L312 612 L294 612 L261 576 L237 567 L237 549 L249 531 L249 522 L261 516 L261 495 L279 477 L288 456 L300 396 L306 387 L312 324 L327 312 L375 300 L411 282 L429 264 Z"
+      ],
+      "defaultVisible": true
+    },
+    {
+      "name": "腰带麂皮短裙",
+      "slot": "lower",
+      "back": "back.png",
+      "id": "suede-skirt",
+      "canvas": [
+        939,
+        1676
+      ],
+      "source": "color-original.png",
+      "lineart": "lineart.png",
+      "front": "front.png",
+      "display": "display.png",
+      "bounds": [
+        267,
+        635,
+        407,
+        316
+      ],
+      "generation_mode": "built-in image_gen",
+      "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+      "requireWearablePartition": true,
+      "contours": [
+        "M441 636 L594 642 L606 663 L606 690 L615 702 L615 711 L627 729 L630 747 L639 762 L642 792 L666 861 L672 900 L663 909 L621 930 L564 945 L507 951 L435 951 L339 936 L312 927 L270 903 L273 870 L300 795 L312 744 L339 684 L339 654 L348 648 L348 642 Z"
+      ],
+      "defaultVisible": true
+    },
+    {
+      "name": "复古短靴",
+      "slot": "shoes",
+      "back": "back.png",
+      "id": "ankle-boots",
+      "canvas": [
+        939,
+        1676
+      ],
+      "source": "color-original.png",
+      "lineart": "lineart.png",
+      "front": "front.png",
+      "display": "display.png",
+      "bounds": [
+        363,
+        1430,
+        214,
+        237
+      ],
+      "generation_mode": "built-in image_gen",
+      "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+      "requireWearablePartition": true,
+      "contours": [
+        "M372 1434 L393 1434 L393 1446 L420 1446 L420 1449 L432 1452 L435 1527 L438 1527 L438 1539 L441 1539 L447 1566 L453 1572 L453 1581 L456 1581 L459 1593 L468 1599 L468 1605 L480 1593 L480 1587 L492 1569 L498 1542 L501 1542 L501 1530 L504 1530 L504 1518 L507 1518 L507 1506 L504 1506 L507 1455 L513 1449 L522 1449 L522 1446 L546 1446 L549 1434 L570 1434 L567 1518 L570 1518 L573 1557 L576 1557 L576 1602 L564 1614 L546 1617 L543 1638 L540 1638 L534 1653 L528 1653 L525 1659 L516 1659 L510 1665 L432 1665 L432 1662 L411 1656 L399 1644 L393 1617 L381 1617 L366 1605 L366 1536 L369 1536 L369 1524 L372 1524 L372 1491 L369 1491 L369 1482 L372 1482 L369 1437 Z"
+      ],
+      "defaultVisible": true,
+      "hideBodyFrom": 1500
+    },
+    {
+      "name": "金币乐福鞋",
+      "slot": "shoes",
+      "back": "back.png",
+      "id": "coin-loafers",
+      "canvas": [
+        939,
+        1676
+      ],
+      "source": "color-original.png",
+      "lineart": "lineart.png",
+      "front": "front.png",
+      "display": "display.png",
+      "bounds": [
+        347,
+        1527,
+        245,
+        140
+      ],
+      "generation_mode": "built-in image_gen",
+      "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+      "requireWearablePartition": true,
+      "contours": [
+        "M387 1530 L417 1530 L417 1533 L423 1533 L423 1536 L438 1548 L438 1554 L444 1557 L444 1563 L447 1563 L447 1569 L450 1569 L450 1575 L453 1575 L453 1581 L456 1581 L456 1593 L462 1593 L462 1602 L465 1602 L465 1659 L462 1659 L462 1662 L456 1662 L456 1665 L402 1665 L402 1662 L381 1659 L381 1656 L369 1653 L366 1647 L360 1647 L360 1644 L354 1641 L354 1614 L357 1614 L357 1608 L348 1602 L348 1587 L351 1587 L351 1578 L354 1578 L354 1563 L357 1563 L360 1554 L363 1554 L381 1533 L387 1533 Z",
+        "M525 1530 L552 1530 L552 1533 L558 1533 L558 1536 L579 1554 L579 1560 L585 1563 L585 1578 L588 1578 L588 1587 L591 1587 L591 1602 L582 1608 L582 1614 L585 1614 L585 1641 L582 1641 L579 1647 L573 1647 L570 1653 L564 1653 L564 1656 L558 1656 L558 1659 L549 1659 L549 1662 L537 1662 L537 1665 L486 1665 L486 1662 L480 1662 L480 1659 L474 1656 L474 1617 L477 1617 L477 1602 L480 1602 L480 1593 L486 1590 L486 1581 L489 1581 L489 1572 L492 1572 L498 1554 L507 1548 L507 1542 L510 1542 L513 1536 L519 1536 L519 1533 L525 1533 Z"
+      ],
+      "defaultVisible": false,
+      "hideBodyFrom": 1600
+    }
+  ]
+}

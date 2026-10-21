@@ -1,0 +1,167 @@
+{
+  "required_layers_present": true,
+  "checks": [
+    {
+      "check": "required-layer",
+      "layer": "upper",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "skirt",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "bag",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "socks",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "shoes",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "hair-front",
+      "pass": true
+    },
+    {
+      "check": "required-layer",
+      "layer": "hair-back",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "upper",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 111208
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "upper",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "skirt",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 96747
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "skirt",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "bag",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 10923
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "bag",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "socks",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 24396
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "socks",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "shoes",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 14642
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "shoes",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "earrings",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 76
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "earrings",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "necklace",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 70
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "necklace",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "hair-front",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 11153
+    },
+    {
+      "check": "source-rgb-preserved",
+      "layer": "hair-front",
+      "pass": true
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "body",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 316418
+    },
+    {
+      "check": "canvas-alpha",
+      "layer": "hair-back",
+      "pass": true,
+      "width": 939,
+      "height": 1676,
+      "visible_pixels": 104827
+    }
+  ],
+  "method": "固定画布轮廓遮罩切分；不改原图可见区域RGB。AI补画与几何归位单独记账。",
+  "limits": [
+    "程序检查不代替领口、袜口和发际线的人工边缘验收。",
+    "上衣是衬衫＋开衫组合件。",
+    "彩色PNG不是已分离线稿、基色与阴影的改色素材。"
+  ],
+  "production_ready": false
+}

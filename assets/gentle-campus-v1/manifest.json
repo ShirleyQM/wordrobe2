@@ -1,0 +1,20 @@
+{
+  "name": "温柔 · 日常校园装",
+  "version": "concept-v1",
+  "generation_mode": "built-in image_gen",
+  "master": "base-no-bangs.png",
+  "canvas": {"width": 939, "height": 1676, "origin": "top-left"},
+  "assets": [
+    {"file": "base-no-bangs.png", "role": "新人物坐标母版，无刘海"},
+    {"file": "campus-complete.png", "role": "完整穿搭效果参考"},
+    {"file": "campus-lineart-reference.png", "role": "待校正的线稿参考，不是色区遮罩"},
+    {"file": "campus-details.png", "role": "首饰、妆容、面料、鞋包细节参考，不参与定位"}
+  ],
+  "outfit": ["白衬衫", "雾蓝开衫", "深蓝百褶裙", "白袜", "深蓝乐福鞋", "蓝灰肩包", "银耳钉", "银链蓝吊坠", "哑光淡妆"],
+  "production_ready": false,
+  "reason": "尚未输出独立穿戴图层与改色遮罩；可见部位局部匹配存在数像素差异，不能签收为像素级贴合资产。",
+  "rejected_draft": "AI透明提取稿因比例漂移拒收，未列入正式文件。",
+  "sop": "SOP.html",
+  "qa": "alignment-report.json",
+  "prompts": "prompts.txt"
+}

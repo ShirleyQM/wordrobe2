@@ -1,0 +1,36 @@
+{
+  "id": "short-01",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "transparent_background": true,
+    "nonempty": true,
+    "not_clipped": true,
+    "waist_width": true,
+    "waist_center": true,
+    "hem": true
+  },
+  "measurements": {
+    "bounds": [
+      285,
+      565,
+      653,
+      930
+    ],
+    "waistY": 576,
+    "waistWidth": 181,
+    "waistCenter": 469
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "source_hash": "874c50d480ec510c79fde46f12b9456efefdb866252021990c9863d8fe037824",
+  "layer_hash": "2ba00eb0abdf60085aa1c548fc83b6281d5dac9bd58cdbf81ad364fdb9e31db2",
+  "proof_hash": "b993a502253f4aff1691da5e435a87807f5ff6a17b40ec4de59aa1f8d9564025",
+  "tryon_hash": "2042c1d1c87a8d383dd9174d8d030915129787fc1f351e65771c6286f17b505f",
+  "visual_notes": "已逐件检查前腰弧放大试穿：后腰头位于身体之后，前腰线重新对齐上衣下摆，无横穿腹部的内侧椭圆；裙摆与手部遮挡正确。",
+  "reviewed_at": "2026-10-21T12:11:08.506Z",
+  "detail_hash": "777a89e331104cc72918ce356e3d541285efb2a1e344245db214591bc713af23",
+  "no_upper_hash": "01f10e1c1d66971f60ad8b57c8ef694bb3f82a80e76c939372fad05a5774172e",
+  "no_upper_visual_reviewed": true
+}

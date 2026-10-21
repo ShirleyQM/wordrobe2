@@ -1,0 +1,57 @@
+{
+  "id": "dress-05",
+  "category": "dress",
+  "name": "雾绿方领长连衣裙",
+  "design": "a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen; integrated ivory mock-neck modesty yoke",
+  "raw": "raw/dress-05.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Add an INTEGRATED ivory high mock-neck modesty yoke inside the sage square neckline, covering the entire chest and base of neck. It is a sewn-in ivory yoke panel of this sleeveless dress, NOT a separate blouse; no sleeves. Narrow ivory collar rises at CENTER ABOVE downward sloping shoulder tips, modest broad opaque shoulder construction. Fine charcoal-blue anime outlines, diffuse matte cel shading, true transparent background, one dress only.",
+  "sourceWaistFraction": 0.26,
+  "target": {
+    "top": 275,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 420,
+    "hem": 1350,
+    "shoulderWidth": 285,
+    "shoulderY": 305
+  },
+  "sourceShoulderFraction": 0.045,
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 667611,
+      "x0": 148,
+      "y0": 17,
+      "x1": 875,
+      "y1": 1517
+    },
+    "waistFraction": 0.26,
+    "waistSource": {
+      "left": 396,
+      "right": 629,
+      "width": 234,
+      "center": 512.5
+    },
+    "waistFactor": 0.7692307692307693,
+    "baseFactor": 0.5769230769230769
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a muted grey-sage sleeveless modest high-square-neck long dress, broad opaque shoulder sections fully covering sports-bra straps, high opaque chest panel, narrow waist seam and a simple side fabric tab, softly flared long skirt, matte linen. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": 0,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M410 275 Q469 295 530 275 L530 250 L410 250 Z"
+  ]
+}

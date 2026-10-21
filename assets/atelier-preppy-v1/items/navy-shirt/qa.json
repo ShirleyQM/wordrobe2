@@ -1,0 +1,23 @@
+{
+  "id": "navy-shirt",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "nonempty": true,
+    "has_transparency": true,
+    "not_clipped": true,
+    "partition_reconstructs_alpha": true,
+    "partition_preserves_rgb": true
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "bounds": [
+    239,
+    264,
+    704,
+    702
+  ],
+  "layer_sha256": "eb752f35aaae42a1886f311bc8e62ecf039a1e0eb28fb34801f58b38d4be1359",
+  "observations": "Checked registered front, collar partition, shoulder/cuff fit and white/dark backgrounds. Back collar band moved behind neck; no blue base straps visible. Colored wearable only; original line art retained, color regions not separated."
+}

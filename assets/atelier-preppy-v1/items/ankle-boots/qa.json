@@ -1,0 +1,23 @@
+{
+  "id": "ankle-boots",
+  "technical_pass": true,
+  "checks": {
+    "canvas": true,
+    "nonempty": true,
+    "has_transparency": true,
+    "not_clipped": true,
+    "partition_reconstructs_alpha": true,
+    "partition_preserves_rgb": true
+  },
+  "visual_reviewed": true,
+  "wearable_validated": true,
+  "recolor_ready": false,
+  "bounds": [
+    369,
+    1436,
+    571,
+    1661
+  ],
+  "layer_sha256": "0c5f91d1c6584eb24b629ed50b512f3ab46c48ed34644099cd7dc3ff01472d8c",
+  "observations": "Reviewed ankle openings, sole baseline, toe alignment, white/dark fronts and full-body fit. Both source boots mirrored individually to match inward-facing feet; shaft back rims and pull tabs partitioned behind legs. Base feet hidden below y1500 while wearing boots."
+}

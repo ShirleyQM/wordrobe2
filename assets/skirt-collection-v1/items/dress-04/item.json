@@ -1,0 +1,61 @@
+{
+  "id": "dress-04",
+  "category": "dress",
+  "name": "蓝灰学院背带裙套装",
+  "design": "an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia",
+  "raw": "raw/dress-04.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. Ivory blouse with narrow high standing collar centered ABOVE sloping shoulder tips, generous opaque bust coverage and no armpit gaps. The blouse and pinafore dress are one complete inseparable wearable design. Output one complete dress set only.",
+  "sourceWaistFraction": 0.294,
+  "target": {
+    "top": 275,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 415,
+    "hem": 1235,
+    "shoulderWidth": 330,
+    "shoulderY": 305,
+    "chestEase": 0.12
+  },
+  "sourceShoulderFraction": 0.05,
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 772198,
+      "x0": 93,
+      "y0": 51,
+      "x1": 931,
+      "y1": 1484
+    },
+    "waistFraction": 0.294,
+    "waistSource": {
+      "left": 385,
+      "right": 640,
+      "width": 256,
+      "center": 512.5
+    },
+    "waistFactor": 0.703125,
+    "baseFactor": 0.49463647199046484
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: an adult university daily one-piece pinafore dress outfit: a muted slate-blue high square-bib pinafore with broad shoulder straps over an opaque ivory short-sleeve high-collar blouse, fitted natural waist, subtle front patch pockets and A-line midi skirt, matte fabrics, no bow or insignia. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+  "combinedGarment": true,
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": 0,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M423 275 Q469 301 516 275 L516 250 L423 250 Z",
+    "M338 493 L347 480 L354 501 L338 507 Z",
+    "M601 493 L592 480 L585 501 L601 507 Z"
+  ]
+}

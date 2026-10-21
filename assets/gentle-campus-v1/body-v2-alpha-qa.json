@@ -1,0 +1,14 @@
+{
+  "canvas": [
+    939,
+    1676
+  ],
+  "source": "base-open-arms-v2.png",
+  "output": "base-open-arms-v2-clean.png",
+  "cleanup": "Remove neutral white background residue, keep torso-connected alpha component; no RGB repaint or spatial transforms.",
+  "visible_pixels": 366360,
+  "alpha_extrema": [
+    0,
+    255
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "asset": "skirt",
+    "sourceBox": {
+      "id": 1,
+      "area": 753065,
+      "x": 210,
+      "y": 50,
+      "width": 1112,
+      "height": 925
+    },
+    "destination": {
+      "x": 286,
+      "y": 565,
+      "width": 365,
+      "height": 366
+    },
+    "operation": "axis registration of generated completion; no transform applied to original outfit cuts"
+  },
+  {
+    "asset": "sock-0",
+    "sourceBox": {
+      "id": 1,
+      "area": 219708,
+      "x": 200,
+      "y": 254,
+      "width": 414,
+      "height": 823
+    },
+    "destination": {
+      "x": 365,
+      "y": 1449,
+      "width": 105,
+      "height": 197
+    },
+    "flipX": true
+  },
+  {
+    "asset": "sock-1",
+    "sourceBox": {
+      "id": 2,
+      "area": 220838,
+      "x": 714,
+      "y": 255,
+      "width": 409,
+      "height": 822
+    },
+    "destination": {
+      "x": 473,
+      "y": 1449,
+      "width": 105,
+      "height": 197
+    },
+    "flipX": true
+  },
+  {
+    "asset": "skirt-visible-original",
+    "operation": "restore original visible navy pleats/hem, exclude upper and bag masks; use generated completion only behind those occlusions",
+    "preservedPixels": 91331
+  },
+  {
+    "asset": "sock-silhouette",
+    "operation": "master-foot contour mask with 2px fabric allowance; white fill completes generated sock texture gaps"
+  }
+]

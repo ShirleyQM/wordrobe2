@@ -1,0 +1,14 @@
+{
+  "body": "../gentle-campus-v1/base-open-arms-v2-clean.png",
+  "canvas": [939, 1676],
+  "body_edit": "User-authorized pose and bust revision. Built-in image_gen edit; original and actual prompt retained. Alpha cleanup only after generation.",
+  "garments": [
+    {"id":"regular", "method":"editable native SVG", "visual_reviewed":true, "observations":"Front neckline, sleeves and waist checked on V2 body. Widened lower right waist after detecting a small exposed edge. Tested light blue and dark colors."},
+    {"id":"loose", "method":"editable native SVG", "visual_reviewed":true, "observations":"Roomier hem and sleeves checked on V2 body. Symmetric shoulder anchor/control drag, undo, redo and persistence exercised in browser."},
+    {"id":"cropped", "method":"editable native SVG", "visual_reviewed":true, "observations":"Cropped hem exposes intended midriff; upper base undergarment is covered. New arm pose leaves both hands clear of torso."}
+  ],
+  "layers": ["body base", "skirt", "editable tee fill", "volume gradient", "displaced print", "shared fold shading", "cotton weave", "neck and hem seams", "editor overlays"],
+  "runtime_checks": ["curve anchor drag", "quadratic control drag", "mirrored edits", "straight edge to mirrored curve", "undo/redo", "reload persistence", "JSON download", "fold strength 0 and 100", "390px mobile editor without horizontal overflow"],
+  "evidence": ["../../tshirt-fabric-v2-preview.png", "../../tshirt-curve-editor-preview.png", "../../tshirt-v2-cropped-qa.png"],
+  "scope": "Local 2D interactive demo on this body version. Procedural fold shading and displacement; no physical cloth simulation or cross-character fit validation. Native editable SVG layers, not a delivered raster garment production pack."
+}

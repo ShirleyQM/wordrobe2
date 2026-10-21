@@ -1,0 +1,27 @@
+{
+  "id": "dress-04",
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "display": "layer.png",
+  "front": "wear-front.png",
+  "back": "wear-back.png",
+  "rearMaskPaths": [
+    "M423 275 Q469 301 516 275 L516 250 L423 250 Z",
+    "M338 493 L347 480 L354 501 L338 507 Z",
+    "M601 493 L592 480 L585 501 L601 507 Z"
+  ],
+  "order": "hair-back > garment-back > body > socks > garment-front > upper-if-skirt > shoes > hands > hair-front",
+  "removed_pixels": 1401,
+  "wear_offset_y": 0,
+  "alpha_partition_max_error": 0,
+  "source_hash": "1682b6ca2089f16cfe537033178dfb9480f6eda9aa267ed39be796729e743b7c",
+  "front_hash": "9bf3fab1562ddf675671782b45f9ea9513ebb3b4a3ce4ea89d715d3fe9126f9f",
+  "back_hash": "8e918b4004002ee70f8a5990fa9e5e6fe6555bfbe8a31e00a70b2fd3ecc2ed96",
+  "proof_hash": "c9640c4fe1fc54105d33d80b81a15c51e0b3fabace29ea56d855221bc4fbc72f",
+  "tryon_hash": "18c5e5d533c7cbccf1326ec62b3e9ecd4bd7b163feae3f0637bf1beb666a4e40",
+  "visual_reviewed": true,
+  "visual_notes": "已逐件检查领口及袖口放大试穿：后领与袖筒内侧在身体后方，脖颈及手臂显露正确，前片浅深底边缘连续；整身无错误遮挡。",
+  "reviewed_at": "2026-10-21T12:11:08.924Z"
+}

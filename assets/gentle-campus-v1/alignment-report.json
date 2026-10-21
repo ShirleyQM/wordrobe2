@@ -1,0 +1,94 @@
+{
+  "master_size": [
+    939,
+    1676
+  ],
+  "look_size": [
+    939,
+    1676
+  ],
+  "same_canvas": true,
+  "reference_only": true,
+  "production_layers_status": "not exported; transparent extraction rejected for scale drift",
+  "measurements": [
+    {
+      "region": "left_eye",
+      "base_rect": [
+        411,
+        166,
+        450,
+        194
+      ],
+      "best_ncc": 0.9524,
+      "dx": 0,
+      "dy": 0,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    },
+    {
+      "region": "right_eye",
+      "base_rect": [
+        488,
+        166,
+        528,
+        194
+      ],
+      "best_ncc": 0.958,
+      "dx": 0,
+      "dy": 0,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    },
+    {
+      "region": "left_hand",
+      "base_rect": [
+        247,
+        823,
+        294,
+        902
+      ],
+      "best_ncc": 0.6214,
+      "dx": -1,
+      "dy": 2,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    },
+    {
+      "region": "right_hand",
+      "base_rect": [
+        644,
+        823,
+        689,
+        902
+      ],
+      "best_ncc": 0.7122,
+      "dx": 0,
+      "dy": 1,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    },
+    {
+      "region": "left_knee",
+      "base_rect": [
+        360,
+        1110,
+        404,
+        1170
+      ],
+      "best_ncc": 0.967,
+      "dx": 0,
+      "dy": -3,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    },
+    {
+      "region": "right_knee",
+      "base_rect": [
+        539,
+        1110,
+        581,
+        1170
+      ],
+      "best_ncc": 0.9894,
+      "dx": 0,
+      "dy": -2,
+      "interpretation": "local texture correspondence only; not a silhouette or production-layer certification"
+    }
+  ],
+  "method": "normalized grayscale template correlation within +/-12 pixels; low scores require visual review; visible makeup and shading may differ"
+}

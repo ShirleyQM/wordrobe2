@@ -1,0 +1,35 @@
+(function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;else root.PrintGarment=api;})(typeof window!=='undefined'?window:globalThis,function(){
+ 'use strict';
+ const clone=value=>JSON.parse(JSON.stringify(value));
+ function parse(path){const tokens=path.match(/[MLQCZ]|-?\d*\.?\d+(?:e[-+]?\d+)?/gi)||[],out=[];let i=0;while(i<tokens.length){const type=tokens[i++].toUpperCase(),count={M:2,L:2,Q:4,C:6,Z:0}[type];if(count===undefined)throw new Error('Unsupported path command');const values=tokens.slice(i,i+count).map(Number);if(values.length!==count||values.some(v=>!Number.isFinite(v)))throw new Error('Invalid curve');i+=count;out.push({type,values});}return out;}
+ function path(segments){return segments.map(s=>s.type+s.values.map(v=>+v.toFixed(2)).join(' ')).join(' ');}
+ function points(segments){return segments.flatMap((s,index)=>{const out=[];for(let offset=0;offset<s.values.length;offset+=2)out.push({index,offset,x:s.values[offset],y:s.values[offset+1],kind:offset===s.values.length-2?'anchor':'control'});return out;});}
+ function valid(segments){return Array.isArray(segments)&&segments.length>3&&segments.length<100&&segments[0]?.type==='M'&&segments.at(-1)?.type==='Z'&&segments.every(s=>({M:2,L:2,Q:4,C:6,Z:0}[s.type]===s.values?.length)&&s.values.every(v=>Number.isFinite(v)&&v>=-500&&v<=2200));}
+ function move(segments,reference,index,offset,dx,dy,symmetry){const out=clone(segments),s=out[index];if(!s||offset<0||offset+1>=s.values.length)return out;const source=reference[index],x=source.values[offset],y=source.values[offset+1];if(symmetry&&Math.abs(x-470)<.1)dx=0;s.values[offset]+=dx;s.values[offset+1]+=dy;
+  // Moving an anchor carries its own incoming and the next outgoing controls.
+  if(offset===s.values.length-2){if(s.type==='Q'||s.type==='C'){const k=s.values.length-4;s.values[k]+=dx/2;s.values[k+1]+=dy/2;}const next=out[index+1];if(next&&(next.type==='Q'||next.type==='C')){next.values[0]+=dx/2;next.values[1]+=dy/2;}
+   const last=out.length-2,lastRef=reference[last],firstRef=reference[0];if(lastRef?.values.length&&firstRef.values[0]===lastRef.values.at(-2)&&firstRef.values[1]===lastRef.values.at(-1)){
+    if(index===last){out[0].values[0]+=dx;out[0].values[1]+=dy;}
+    else if(index===0){out[last].values[out[last].values.length-2]+=dx;out[last].values[out[last].values.length-1]+=dy;if(out[last].type==='Q'){out[last].values[0]+=dx/2;out[last].values[1]+=dy/2;}}
+   }
+  }
+  if(symmetry){const candidates=points(reference).filter(p=>!(p.index===index&&p.offset===offset)&&p.kind===(offset===source.values.length-2?'anchor':'control'));const target=candidates.sort((a,b)=>Math.hypot(a.x-(940-x),a.y-y)-Math.hypot(b.x-(940-x),b.y-y))[0];if(target&&Math.hypot(target.x-(940-x),target.y-y)<18){const moved=move(out,reference,target.index,target.offset,-dx,dy,false);return moved;}}
+  return out;
+ }
+ function bend(segments,index,symmetry){const out=clone(segments),s=out[index];if(!s||s.type!=='L')return out;const end=s.values.slice(),from=out[index-1].values.slice(-2);out[index]={type:'Q',values:[(from[0]+end[0])/2,(from[1]+end[1])/2,...end]};if(symmetry){const other=segments.findIndex((seg,i)=>{if(i===index||i<1||seg.type!=='L')return false;const start=segments[i-1].values.slice(-2);return Math.hypot(seg.values[0]-(940-from[0]),seg.values[1]-from[1])<18&&Math.hypot(start[0]-(940-end[0]),start[1]-end[1])<18;});if(other>0)return bend(out,other,false);}return out;}
+ function reference(segments,original){if(segments.length!==original.length)return clone(segments);const out=clone(original);for(let i=1;i<out.length;i++)if(out[i].type==='L'&&segments[i]?.type==='Q')out[i]=bend(out,i,false)[i];return out;}
+ const mix=(a,b,t)=>[a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t];
+ function geometry(shape,index){const s=shape[index];if(!s||index<1||s.type==='M')return null;const start=shape[index-1].values.slice(-2),end=s.type==='Z'?shape[0].values:s.values.slice(-2);return {start,end,controls:s.type==='Q'?[s.values.slice(0,2)]:s.type==='C'?[s.values.slice(0,2),s.values.slice(2,4)]:[]};}
+ function at(shape,index,t){const g=geometry(shape,index);if(!g)return null;let row=[g.start,...g.controls,g.end];while(row.length>1)row=row.slice(1).map((p,i)=>mix(row[i],p,t));return {x:row[0][0],y:row[0][1]};}
+ function nearest(shape,x,y){let best=null;for(let index=1;index<shape.length;index++){const g=geometry(shape,index);if(!g||Math.hypot(g.end[0]-g.start[0],g.end[1]-g.start[1])<1e-8&&!g.controls.length)continue;let t=0,distance=Infinity;for(let j=0;j<=80;j++){const p=at(shape,index,j/80),d=Math.hypot(p.x-x,p.y-y);if(d<distance){distance=d;t=j/80;}}let lo=Math.max(0,t-1/80),hi=Math.min(1,t+1/80);for(let j=0;j<28;j++){const a=lo+(hi-lo)/3,b=hi-(hi-lo)/3,pa=at(shape,index,a),pb=at(shape,index,b);if(Math.hypot(pa.x-x,pa.y-y)<Math.hypot(pb.x-x,pb.y-y))hi=b;else lo=a;}t=(lo+hi)/2;const p=at(shape,index,t);distance=Math.hypot(p.x-x,p.y-y);if(!best||distance<best.distance)best={index,t,...p,distance};}return best;}
+ function split(shape,index,t){const out=clone(shape),s=out[index],g=geometry(out,index);if(!g||t<=0||t>=1)return null;const lerp=(a,b)=>mix(a,b,t),p=lerp(g.start,g.end);let left,right;
+  if(s.type==='Q'){const a=lerp(g.start,g.controls[0]),b=lerp(g.controls[0],g.end),m=lerp(a,b);left={...s,values:[...a,...m]};right={...s,values:[...b,...g.end]};}
+  else if(s.type==='C'){const a=lerp(g.start,g.controls[0]),b=lerp(g.controls[0],g.controls[1]),c=lerp(g.controls[1],g.end),d=lerp(a,b),e=lerp(b,c),m=lerp(d,e);left={...s,values:[...a,...d,...m]};right={...s,values:[...e,...c,...g.end]};}
+  else{left={...s,type:'L',values:p};right=s.type==='Z'?{type:'Z',values:[]}:{...s,values:g.end};}
+  out.splice(index,1,left,right);return out;
+ }
+ function insert(shape,x,y,symmetry=false,maxDistance=18){if(shape.length>96)return null;const hit=nearest(shape,x,y);if(!hit||hit.distance>maxDistance||points(shape).some(p=>p.kind==='anchor'&&Math.hypot(p.x-hit.x,p.y-hit.y)<5))return null;let out=split(shape,hit.index,hit.t);if(!out)return null;let added=1;if(symmetry&&Math.abs(hit.x-470)>5){const mirrored=nearest(out,940-hit.x,hit.y);if(mirrored&&mirrored.distance<=18&&!points(out).some(p=>p.kind==='anchor'&&Math.hypot(p.x-mirrored.x,p.y-mirrored.y)<5)){out=split(out,mirrored.index,mirrored.t);added++;}}const node=points(out).find(p=>p.kind==='anchor'&&Math.hypot(p.x-hit.x,p.y-hit.y)<.001);return {segments:out,node,added};}
+ function tagSeams(shape,original){const out=clone(shape);if(out.some(s=>s.seam)||out.length!==original.length)return out;const hem=original.findIndex(s=>s.type==='Q'&&s.values[0]===470&&s.values[1]>600);if(hem>=0)out[hem].seam='hem';out[out.length-2].seam='neck';return out;}
+ function seamPath(shape,name,inset=0){let d='';for(let i=1;i<shape.length;i++){const s=shape[i];if(s.seam!==name)continue;const g=geometry(shape,i);if(!g)continue;const from=[g.start[0],g.start[1]-inset],values=s.values.map((v,k)=>k%2?v-inset:v);d+='M'+from.join(' ')+s.type+values.join(' ')+' ';}return d.trim();}
+ return {clone,parse,path,points,valid,move,bend,reference,at,nearest,split,insert,tagSeams,seamPath};
+});

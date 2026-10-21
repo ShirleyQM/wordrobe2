@@ -1,0 +1,18 @@
+node_modules/
+.tools/
+.cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.git-credentials
+credentials*.json
+id_rsa*
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Rebuild downloadable archives with npm run package:assets.
+*.zip

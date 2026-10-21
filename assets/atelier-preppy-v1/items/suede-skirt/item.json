@@ -1,0 +1,23 @@
+{
+  "name": "腰带麂皮短裙",
+  "slot": "lower",
+  "back": "back.png",
+  "id": "suede-skirt",
+  "canvas": [
+    939,
+    1676
+  ],
+  "source": "color-original.png",
+  "lineart": "lineart.png",
+  "front": "front.png",
+  "display": "display.png",
+  "bounds": [
+    273,
+    641,
+    395,
+    304
+  ],
+  "generation_mode": "built-in image_gen",
+  "layer_kind": "registered colored wearable, original line-art reference retained; not region-separated recolor production pack",
+  "requireWearablePartition": true
+}

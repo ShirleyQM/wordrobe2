@@ -1,0 +1,59 @@
+{
+  "id": "dress-02",
+  "category": "dress",
+  "name": "雾蓝短袖衬衫裙",
+  "design": "a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton",
+  "raw": "raw/dress-02.png",
+  "prompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps. Style: hand-drawn fine charcoal-blue outlines, Japanese anime game inventory art, flat matte diffuse cel shading. The shirt collar rises at center well above shoulder tips, narrow neck opening not boatneck. Output one complete dress only.",
+  "sourceWaistFraction": 0.3,
+  "target": {
+    "top": 275,
+    "waistY": 565,
+    "waistWidth": 180,
+    "centerX": 469,
+    "maxWidth": 420,
+    "hem": 1250,
+    "shoulderWidth": 285,
+    "shoulderY": 305
+  },
+  "sourceShoulderFraction": 0.055,
+  "canvas": {
+    "width": 939,
+    "height": 1676
+  },
+  "registration": {
+    "sourceBounds": {
+      "count": 763015,
+      "x0": 66,
+      "y0": 41,
+      "x1": 956,
+      "y1": 1496
+    },
+    "waistFraction": 0.3,
+    "waistSource": {
+      "left": 397,
+      "right": 630,
+      "width": 234,
+      "center": 513.5
+    },
+    "waistFactor": 0.7692307692307693,
+    "baseFactor": 0.4713804713804714
+  },
+  "generation_mode": "built-in image_gen",
+  "output": "wear-front.png",
+  "qa": "qa.json",
+  "referenceFiles": [],
+  "originalPrompt": "One isolated wearable garment asset for a 2D anime dress-up game. Match the reference adult character's clean thin linework, soft matte cel shading and understated low-saturation campus fashion. STRICT FRONT VIEW, symmetric neutral standing fit with natural vertical gravity. ONLY ONE garment, no person, skin, face, limbs, mannequin, hanger, props, jewelry, text or sheet. Complete all hidden parts including waistband or shoulder/armhole construction. True transparent background, no cast shadow, no glow or haze around the edges, no shiny satin highlights. Keep all garment parts connected where physically connected. Fully visible garment with small clear margins. Design: a powder-blue short-sleeve collared shirt midi dress, modest closed upper chest, opaque broad shoulders and soft short cap sleeves, central small ivory button placket, fitted natural waist with narrow fabric belt, A-line skirt, matte cotton. The dress must cover the chest and broad shoulder areas so pale-blue sports-bra straps from the reference cannot show through. Waist seam easy to identify, no low neckline, no thin spaghetti straps.",
+  "assetStage": "registered-colored-wearable",
+  "recolorReady": false,
+  "display": "layer.png",
+  "wearFront": "wear-front.png",
+  "wearBack": "wear-back.png",
+  "wearOffsetY": 0,
+  "wearableQA": "wearable-qa.json",
+  "rearMaskPaths": [
+    "M440 275 Q440 293 469 305 Q498 293 498 275 L498 250 L440 250 Z",
+    "M324 419 Q344 427 353 440 L352 450 Q335 443 324 419 Z",
+    "M615 419 Q595 427 586 440 L587 450 Q604 443 615 419 Z"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "images": [
+    {
+      "id": "long-01",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "long-02",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "long-03",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "long-04",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "long-05",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "short-01",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "short-02",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "short-03",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "short-04",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "short-05",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "dress-01",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "dress-02",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "dress-03",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "dress-04",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    },
+    {
+      "id": "dress-05",
+      "width": 939,
+      "height": 1676,
+      "alpha": true
+    }
+  ],
+  "duplicate_rejected": true,
+  "source_mismatch_rejected": true,
+  "skill_metadata_and_references": true,
+  "final_batch": true
+}
