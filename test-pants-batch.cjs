@@ -1,0 +1,16 @@
+const fs=require('fs'),path=require('path'),os=require('os'),assert=require('assert/strict'),crypto=require('crypto');
+const sharp=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp'),M=require('./assets/garment-prints/material.js');
+const dir='assets/materials/sources/pants-batch-v1',specs=JSON.parse(fs.readFileSync(dir+'/generation.json')),catalog=JSON.parse(fs.readFileSync('assets/materials/garments/collection.json')).items;
+const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+(async()=>{assert.equal(specs.filter(s=>!s.existing).length,4);assert.equal(specs.length,5);
+for(const s of specs){const it=catalog.find(i=>i.id===s.id);assert.ok(it,it?.id);assert.equal(it.slot,'bottom');assert.ok(it.recolor_ready);assert.ok(fs.existsSync('.'+it.materialManifest));const home=dir+'/'+s.id,qa=read(home+'/qa.json');assert.ok(qa.technical_pass&&qa.visual_reviewed);if(!s.existing)assert.ok(qa.wearable_validated);
+const source=await sharp(home+'/front.png').ensureAlpha().raw().toBuffer(),opts={source,color:'#507a92',reference:M.median(source)};
+if(!s.existing)for(const [k,f]of Object.entries({mask:'base-mask',shadow:'shadow',highlight:'highlight',lineart:'lineart',texture:'texture'}))opts[k]=await sharp(home+'/'+f+'.png').ensureAlpha().raw().toBuffer();
+const tinted=M.pixels(opts);let changed=0;for(let k=0;k<source.length;k+=4){assert.equal(tinted[k+3],source[k+3],'exact garment alpha retained');if(source[k+3]>128&&tinted[k]!==source[k])changed++;}assert.ok(changed>50000,'visible recolor');for(const f of ['front.png','back.png']){const meta=await sharp(home+'/'+f).metadata();assert.equal(meta.width,939);assert.equal(meta.height,1676);assert.ok(meta.hasAlpha);}
+for(const c of it.contours)assert.ok(require('./print-garment.js').valid(require('./print-garment.js').parse(c)));
+}
+const root=fs.mkdtempSync(path.join(os.tmpdir(),'pants-recolor-')),base=catalog.find(i=>i.id===specs[0].id),write=(p,v)=>{const f=path.join(root,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,JSON.stringify(v));};write('assets/materials/garments/collection.json',{items:[base]});write('assets/materials/sources/imported/catalog.json',{items:[]});fs.mkdirSync(path.join(root,'assets'),{recursive:true});fs.copyFileSync('assets/garment-names.js',path.join(root,'assets/garment-names.js'));
+const png=p=>'data:image/png;base64,'+fs.readFileSync('.'+p).toString('base64');const result=require('./printed-garments.cjs')(root).save({requestId:crypto.randomUUID(),baseId:base.id,sourceImage:base.front,sourceBack:base.back,patternId:null,box:null,material:{color:'#507a92',fabric:null,textureStrength:100},bounds:base.bounds,front:png(base.front),back:png(base.back),thumbnail:png(base.thumbnail)});assert.match(result.name,/^改色＋/);assert.ok(result.id!==base.id);
+const h=fs.readFileSync('assets/garment-prints/index.html','utf8');assert.ok(h.includes('id="garment-color"'));assert.ok(h.includes('id="target-category"'));assert.ok(h.includes('颜色与布料'));
+console.log('PASS: 4 new pants + original, 5 recolor materials, 939×1676 layers, exact alpha, actual color changes, valid fitting contours, and material-only save as a separate garment.');
+})().catch(e=>{console.error(e);process.exitCode=1;});

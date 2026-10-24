@@ -1,0 +1,32 @@
+{
+  "id": "sneaker-shell-classic",
+  "backLayers": true,
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "defaultColor": "#d5d5cf",
+  "referenceLuminance": 150,
+  "sourceSeparation": "Generated neutral gray material master deliberately for dynamic recolor, not grayscale conversion of colored artwork. Luminance calibrated into neutral shadow/highlight; high-frequency grain into texture. No separate authored ink; lineart intentionally empty, seam detail retained in tonal maps. Base-mask excludes fixed sole/trim.",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "empty": true
+    }
+  ],
+  "presets": "../../material-presets.json"
+}

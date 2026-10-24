@@ -1,0 +1,28 @@
+{
+  "frontStyles": 17,
+  "newFrontStyles": 16,
+  "backStyles": 16,
+  "eyeReveal": "face pixels layered above front hair; hair pixels and alpha unchanged",
+  "protectedHashes": {
+    "assets\\materials\\characters\\hair-silk-pilot-v1\\front-gray.png": "7b9d29eebaa44f722c5782eb4fdbadc1170a33105651c81768638c77e4b4721c",
+    "assets\\materials\\characters\\hair-silk-pilot-v1\\back-gray.png": "0a255d240ad62687b43f45d8f4d94b4883f43a206a65ebfbb2014b7233ed434a",
+    "assets\\materials\\characters\\hair-silk-pilot-v1\\generated.png": "aad3d75867f3bf2cd052b83551565b5b65b8fb8f0c2aa025d97c9b08b09a2630",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\01-back-lineart.png": "14d48b07cbb85b260d72ef1aeb17887d90f7621574d73583194d1a9c95696974",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\02-back-lineart.png": "20d36cdfcc89fcea42215bb200e60988ad54320aa5aacd25f40edad19601bec0",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\03-back-lineart.png": "07ffd612e79cec96205f3273376934eaa47167aa3d14e291ccb79161450effef",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\04-back-lineart.png": "6022a4f3f2c41a8face0a674fe39b985836673243c4f32d145bd34e9c2401d9d",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\05-back-lineart.png": "e9fefbce71ef18440fc78b75078bef4c6705f3d3069f43401b6b3d1a4b3c7c6d",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\06-back-lineart.png": "d8bf776a6d6885cc63740bb7a850237eb9d7fd20837bbb96a6b167b83132db6d",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\07-back-lineart.png": "9698dd4665ae6bf65bbfaa4b6fa94aebe2cd96b3d7d1d4841d7ad146c570015e",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\08-back-lineart.png": "21deb2c0feb52ea0d3c4fdf0608897f6b133500881d51143995a7cd813898c5a",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\09-back-lineart.png": "28217f80209068673b7ae563442248dfdb42d352c79ad17c9734e210cb00ef02",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\10-back-lineart.png": "c99bf6d5083e12106f3c093e284f1128ce1d5f5382ee0ffb5297fa84288cb54c",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\11-back-lineart.png": "cfa2ca0618058b78dd250704c9a0656f8234e4d57ed70c37ffaff2141501f5cb",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\12-back-lineart.png": "9d94ba79d0de47006cbd4912db1555d1d839eadcb5bc71d522296a344d1a32a4",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\13-back-lineart.png": "229f4bdd52999efec21ef8e03b80c75431380864c49a86ac2918cc9e54b75151",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\14-back-lineart.png": "e1695d921c881d669db7e19f7d64a959bf1bb25026ed3faac3cea974b466ec94",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\15-back-lineart.png": "04d2ec0501cb1d318e537b394c4d2e964e48f25ca3e84413386472eb898e9629",
+    "assets\\materials\\characters\\hair-original-clean-v3\\parts\\16-back-lineart.png": "a433d3882fe89d4c46141e6790e471d9228f7ef427f193f60de2a73bda697088"
+  },
+  "protectedAssetsUnchanged": true
+}

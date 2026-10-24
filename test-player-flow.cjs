@@ -1,0 +1,12 @@
+const assert=require('assert/strict'),fs=require('fs'),vm=require('vm'),E=require('./assets/player-economy.js');
+const code=fs.readFileSync('assets/mobile/player-flow.js','utf8');const tour=fs.readFileSync('assets/onboarding.js','utf8');assert(!tour.includes("target:'[data-tab="));assert(tour.includes("target:'.main-tabs button[data-tab=clothes]'"));
+(async()=>{let wallet=E.fresh({balance:110}),worn=null;const rows=[{id:'cheap',price:40},{id:'expensive',price:120}],box={innerHTML:'',hidden:true};const ctx={trialId:'cheap',item:id=>rows.find(i=>i.id===id),$:()=>box,pointsUI:n=>String(n),uiIcon:s=>s,itemPrice:i=>i.price,render(){},equip:id=>worn=id,PlayerEconomy:{owns:id=>wallet.owned.includes(id),balance:()=>wallet.balance,purchase:async(id,n)=>{const result=E.purchase(wallet,id,n);if(result.wallet)wallet=result.wallet;return result;},setWish(){}},location:{}};vm.createContext(ctx);vm.runInContext(code.slice(code.indexOf('function renderTrial'),code.indexOf('function decorateCategories')),ctx);
+ctx.renderTrial();assert(box.innerHTML.includes('data-trial="buy"'));assert.equal(wallet.balance,110);assert.equal(worn,null);
+ctx.trialId='expensive';ctx.renderTrial();assert(box.innerHTML.includes('data-trial="study"'));assert.equal(wallet.balance,110);
+await box.onclick({target:{closest:()=>({dataset:{trial:'cancel'}})}});assert.equal(ctx.trialId,null);assert.equal(worn,null);
+ctx.trialId='cheap';ctx.renderTrial();await box.onclick({target:{closest:()=>({dataset:{trial:'buy'}})}});assert.equal(wallet.balance,70);assert.equal(worn,'cheap');assert(wallet.owned.includes('cheap'));
+const grant=E.credit(E.fresh({balance:10}),'user-test-credit-100-v1',100);assert.equal(E.credit(grant,'user-test-credit-100-v1',100).balance,110);
+const unlock=E.purchase(E.fresh({balance:110}),'feature:tailor',100);assert.equal(unlock.wallet.balance,10);assert.equal(E.purchase(unlock.wallet,'feature:tailor',100).wallet.balance,10);
+const gifts=E.starter(E.fresh(),[{id:'t',slot:'top',price:1,testProduct:true},{id:'real',slot:'top',price:40}]);assert(!gifts.owned.includes('t'));
+console.log('PASS: try-on never spends or equips; affordable buy vs insufficient study; cancel restores outfit; purchase spends once and equips; test credit once; Tailor 100 once; test products excluded from starter gifts.');
+})().catch(e=>{console.error(e);process.exitCode=1;});

@@ -16,3 +16,7 @@ __pycache__/
 Thumbs.db
 # Rebuild downloadable archives with npm run package:assets.
 *.zip
+# Generated local previews, dependency tools and release copies.
+.build-tools/
+exports/
+outputs/

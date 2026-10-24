@@ -1,0 +1,40 @@
+{
+  "openingItems": [
+    "tops-bandeau-navy",
+    "tops-bandeau-knit",
+    "tops-bandeau-ivory",
+    "tops-bandeau-denim",
+    "tops-bandeau-drape",
+    "tops-bandeau-bow",
+    "tops-hoodie-pullover",
+    "tops-hoodie-zip",
+    "tops-sweatshirt-crop",
+    "tops-sweatshirt-halfzip",
+    "tops-sweatshirt-raglan",
+    "tops-hoodie-cropzip",
+    "capsule-pencil-navy",
+    "capsule-pencil-wrap",
+    "capsule-pencil-denim",
+    "capsule-mermaid-satin",
+    "capsule-mermaid-pearl",
+    "capsule-mermaid-violet",
+    "campus-01-blue-sailor-top",
+    "campus-01-blue-sailor-skirt",
+    "campus-02-gray-knit-shirt-tie",
+    "campus-02-gray-knit-cardigan",
+    "campus-02-gray-knit-skirt",
+    "campus-03-cream-pinafore-polo",
+    "campus-03-cream-pinafore-pinafore",
+    "campus-04-navy-tailored-shirt-tie",
+    "campus-04-navy-tailored-blazer",
+    "campus-04-navy-tailored-trousers"
+  ],
+  "underlayerItems": [
+    "underlayer-straight",
+    "underlayer-plunge",
+    "underlayer-seamless"
+  ],
+  "fixedSourcesPreserved": true,
+  "savedFittingsPreserved": true,
+  "separateEditorImported": false
+}

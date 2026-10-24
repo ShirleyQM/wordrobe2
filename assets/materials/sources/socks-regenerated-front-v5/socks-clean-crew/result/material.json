@@ -1,0 +1,32 @@
+{
+  "id": "socks-clean-crew",
+  "defaultColor": "#e9e5dd",
+  "geometryDisplacement": false,
+  "paintedFolds": false,
+  "frontOnly": true,
+  "backPanelDrawn": false,
+  "alphaSource": "New generated front sprite, component cleanup and per-sock affine registration only. No inherited bare-foot mask, manual edge patch, hole fill or row warp.",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "empty": true
+    }
+  ],
+  "presets": "../../material-presets.json"
+}

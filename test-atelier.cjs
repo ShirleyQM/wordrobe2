@@ -5,6 +5,9 @@ const moved=M.move(mesh,16,-15,6,true);assert.ok(moved);assert.equal(moved.point
 const p={x:385,y:590},d=M.map(moved,p),restored=M.map(moved,d,true);assert.ok(Math.hypot(restored.x-p.x,restored.y-p.y)<1e-7,'source/destination coordinates must be invertible');
 assert.equal(M.move(mesh,16,1000,0),null,'folded-over mesh triangles must be rejected');
 const matrix=M.matrix([{x:0,y:0},{x:1,y:0},{x:0,y:1}],[{x:4,y:5},{x:6,y:5},{x:4,y:8}]);assert.deepEqual(matrix,[2,0,0,3,4,5]);
+const C=require('./print-garment.js'),outline=C.parse('M250 280 L690 280 L690 710 L250 710 Z'),enlarged=C.parse('M235 280 L705 280 L705 710 L235 710 Z');
+const fitted=M.outlineWarp(mesh,[outline],[enlarged],C);assert.ok(M.valid(fitted));assert.ok(fitted.points[0].x<250&&fitted.points[12].x>690,'outline editing must move painted pixels, not only clip them');
+const html=fs.readFileSync('assets/atelier-preppy-v1/index.html','utf8');assert.ok(html.includes('id="edit-shape"'));assert.ok(!html.includes('data-tool="mesh"')&&!html.includes('data-tool="curve"'));assert.ok(html.includes('../print-studio/garment.js'),'reuse the same T-shirt curve editor library');
 const dir='assets/atelier-preppy-v1',data=JSON.parse(fs.readFileSync(path.join(dir,'collection.json'),'utf8'));
 assert.deepEqual(data.canvas,[939,1676]);
 for(const item of data.items){for(const file of ['front.png','back.png','lineart-front.png','lineart-back.png','item.json','qa.json'])assert.ok(fs.existsSync(path.join(dir,'items',item.id,file)));assert.ok(item.contours.length>0);const qa=JSON.parse(fs.readFileSync(path.join(dir,'items',item.id,'qa.json'),'utf8'));assert.ok(qa.technical_pass,item.id);}

@@ -15,6 +15,8 @@ for(const p of paths){const shape=curve.tagSeams(curve.parse(p),curve.parse(p)),
 for(const shape of [curve.parse('M0 0 L100 40 L120 120 L0 120 Z'),curve.parse('M0 0 Q20 90 100 40 L120 120 L0 120 Z'),curve.parse('M0 0 C10 80 70 90 100 40 L120 120 L0 120 Z')]){const t=.37,split=curve.split(shape,1,t);for(let j=0;j<=100;j++){const u=j/100,before=curve.at(shape,1,u),after=u<=t?curve.at(split,1,u/t):curve.at(split,2,(u-t)/(1-t));assert.ok(Math.hypot(before.x-after.x,before.y-after.y)<1e-8,'inserting preserves exact line/Bezier shape');}}
 const tagged=curve.tagSeams(original,original),hem=tagged.findIndex(s=>s.seam==='hem'),hemSplit=curve.split(tagged,hem,.5);assert.equal(hemSplit.filter(s=>s.seam==='hem').length,2,'split seam retains both halves');assert.equal((curve.seamPath(hemSplit,'hem').match(/Q/g)||[]).length,2);
 const closing=curve.parse('M0 0 L100 0 L100 100 L0 100 Z'),closedSplit=curve.split(closing,closing.length-1,.5);assert.equal(closedSplit.at(-1).type,'Z');assert.deepEqual(closedSplit.at(-2).values,[0,50]);
-let variation=0;for(let y=280;y<800;y+=5)for(let x=230;x<710;x+=5){const f=fabric.field(x,y,692);assert.ok(Object.values(f).every(Number.isFinite));assert.ok(Math.abs(f.dx)<9&&Math.abs(f.dy)<9,'displacement fits RG map range');variation+=Math.abs(f.dx);}
-assert.ok(variation>100,'fold map must actually distort the print');
-console.log('PASS: three editable outlines, symmetric anchors, independent controls, closed seams, immutable history, valid finite fold field.');
+for(let y=280;y<800;y+=25)for(let x=230;x<710;x+=25)assert.deepEqual(fabric.field(x,y,692),{dx:0,dy:0,shade:0},'legacy fold settings cannot distort or shade prints');
+const teeRenderer=fs.readFileSync('print.js','utf8'),printRenderer=fs.readFileSync('assets/garment-prints/editor.js','utf8');
+assert.doesNotMatch(teeRenderer,/feDisplacementMap|id="fabric-shadow"|filter="url\(#fabric-warp\)"/,'tee renderer does not apply generated fold maps');
+assert.doesNotMatch(printRenderer,/warpTeePrint|PrintFabric\.field/,'unified print preview stays flat for every garment');
+console.log('PASS: editable outlines, independent curves and history; no procedural fold displacement or shading in tee/print renderers.');

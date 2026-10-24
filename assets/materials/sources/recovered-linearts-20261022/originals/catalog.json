@@ -1,0 +1,200 @@
+{
+  "note": "Panel-only original paintings; aspect ratio preserved; current wardrobe fitted assets are untouched.",
+  "items": [
+    {
+      "id": "campus-03-cream-pinafore-polo",
+      "name": "奶油色针织 Polo 衫",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/campus-03-cream-pinafore-polo/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/09bc438d-a1e3-48da-9a2e-f44e8ef158f5/result/color-original.png",
+      "sha256": "1337ccabc50f16465d10f76128930e07403c4a4d38ff39fed8f6bfa988bf2b7f",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.4312946783161239,
+        "left": 198,
+        "top": 288
+      },
+      "previousImage": "/assets/materials/garments/campus-03-cream-pinafore-polo/regenerated/2a2b3567-601b-4a47-ba83-f4372b684c59/front.png"
+    },
+    {
+      "id": "campus-02-gray-knit-shirt-tie",
+      "name": "白衬衫·含藏蓝领带",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/campus-02-gray-knit-shirt-tie/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/993aa46e-7c64-4fdf-a6ef-c66ef44d4241/result/color-original.png",
+      "sha256": "98214b315d0e59090e64c0c4d539092d93c67436ef61a755b79d443302071cdb",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.38046068308181097,
+        "left": 228,
+        "top": 296
+      },
+      "previousImage": "/assets/materials/garments/campus-02-gray-knit-shirt-tie/saved/665-a48fee0ee8c0/front.png"
+    },
+    {
+      "id": "tops-bandeau-ivory",
+      "name": "奶白拼片抹胸",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/tops-bandeau-ivory/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/c44f676e-a263-43cd-8da0-096c0d5f474d/result/color-original.png",
+      "sha256": "042fa4e6a7e48cc6d1ae9e6b878f72dfbb6aa75ebcb9911d7b0ed1d507f77dee",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.2525458248472505,
+        "left": 346,
+        "top": 391
+      },
+      "previousImage": "/assets/materials/garments/tops-bandeau-ivory/regenerated/c44f676e-a263-43cd-8da0-096c0d5f474d/front.png"
+    },
+    {
+      "id": "dress2-black-velvet",
+      "name": "黑丝绒蕾丝领短裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress2-black-velvet/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/33e4e799-195c-48fe-b36d-3f33631a4064/result/color-original.png",
+      "sha256": "bcd3331672c0f5c1f1f667ab7ca235ccd004c390bca85df38bd8d16d21d96041",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.4536290322580645,
+        "left": 245,
+        "top": 287
+      },
+      "previousImage": "/assets/materials/garments/dress2-black-velvet/saved/944-03928f8b7e6c/front.png"
+    },
+    {
+      "id": "dress-blue-puff",
+      "name": "晴蓝方领泡泡袖裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress-blue-puff/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/bc224eef-308b-4c21-ac3d-8097641361d9/result/color-original.png",
+      "sha256": "22717f2541f7556ac9107ad996c1d911a1ac9e65a6e7a9672ca949225dbc2774",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.4774193548387097,
+        "left": 208,
+        "top": 286
+      },
+      "previousImage": "/assets/materials/garments/dress-blue-puff/saved/944-e592ab55f5d2/front.png"
+    },
+    {
+      "id": "dress-ivory-sleeve",
+      "name": "长袖修身裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress-ivory-sleeve/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/45524fcc-9fbc-4caa-abe9-863354e1007b/result/color-original.png",
+      "sha256": "ea5d836cb0bdfb725d0f73f6d5fc49e3a2a76446b1996814884bd54b182cbab3",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.5041095890410959,
+        "left": 180,
+        "top": 291
+      },
+      "previousImage": "/assets/materials/garments/dress-ivory-sleeve/saved/944-88364de7c45d/front.png"
+    },
+    {
+      "id": "dress-black-halter",
+      "name": "挂脖短裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress-black-halter/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/63d30a87-258c-451b-9c1b-348cc521ffef/result/color-original.png",
+      "sha256": "f46356dae901e92b58230e8373e092f83bb952101963472e523c7e98b936df0a",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.4504792332268371,
+        "left": 257,
+        "top": 296
+      },
+      "previousImage": "/assets/materials/garments/dress-black-halter/saved/944-2cbd1f6a6126/front.png"
+    },
+    {
+      "id": "dress-03",
+      "name": "月白小立领连衣裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress-03/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/66b2887c-192c-494b-9166-cd0107788eed/result/color-original.png",
+      "sha256": "8b771e42bd0b8aa8014d374993d09fde5d3718d954803d3460e4c73928dcea3c",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.5639810426540285,
+        "left": 233,
+        "top": 263
+      },
+      "previousImage": "/assets/materials/garments/dress-03/saved/944-4e282a18520d/front.png"
+    },
+    {
+      "id": "dress-02",
+      "name": "雾蓝短袖衬衫裙",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/dress-02/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/407b815e-1b6a-44fe-a9e5-5027c1345972/result/color-original.png",
+      "sha256": "50c619c3dc9b6dad80fde2d42f07a14f72b230c2959be6e1f3ce0ff318abcfb6",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.5291970802919708,
+        "left": 247,
+        "top": 263
+      },
+      "previousImage": "/assets/materials/garments/dress-02/saved/1121-d056174bb7c3/front.png"
+    },
+    {
+      "id": "tops-bandeau-denim",
+      "name": "牛仔纽扣抹胸",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/tops-bandeau-denim/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/fdc23afa-b783-44a3-9900-2b3831e56bc8/result/color-original.png",
+      "sha256": "9522a8d824f56d5a4f2b39b45aa694b9aeb47686d5cc5419e4fa4ac10997b53c",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.26813365933170336,
+        "left": 331,
+        "top": 409
+      },
+      "previousImage": "/assets/materials/garments/tops-bandeau-denim/saved/1189-e309e8e39b00/front.png"
+    },
+    {
+      "id": "tops-hoodie-pullover",
+      "name": "雾蓝套头连帽卫衣",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/tops-hoodie-pullover/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/0e78d871-5708-45fa-bc22-63e6f5684667/result/color-original.png",
+      "sha256": "b62e9c444cd84962cbf71a9e6c664849734612000a5814b70d5e49e4c3a4f0b8",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.47960033305578686,
+        "left": 182,
+        "top": 253
+      },
+      "previousImage": "/assets/materials/garments/tops-hoodie-pullover/regenerated/0e78d871-5708-45fa-bc22-63e6f5684667/front.png"
+    },
+    {
+      "id": "top-v1-lavender-wrap",
+      "name": "雾紫裹身短袖上衣",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/top-v1-lavender-wrap/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/regeneration/jobs/9191dced-bdb1-46c3-821a-b9ede40de297/result/color-original.png",
+      "sha256": "f4fca5a0ca1e10148971d61c86e0a5e1189c92c3e4917b5b56af2db117887ce1",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 0.41148325358851673,
+        "left": 238,
+        "top": 300
+      },
+      "previousImage": "/assets/materials/garments/top-v1-lavender-wrap/regenerated/9191dced-bdb1-46c3-821a-b9ede40de297/front.png"
+    },
+    {
+      "id": "separate-v1-mustard-polo",
+      "name": "姜黄条纹长袖Polo衫",
+      "image": "/assets/materials/sources/recovered-linearts-20261022/originals/separate-v1-mustard-polo/front.png",
+      "back": "/assets/materials/sources/recovered-linearts-20261022/originals/empty-back.png",
+      "originalSource": "assets/materials/sources/polo-redraw-v2/source/mustard-cropped.png",
+      "sha256": "4fb179b88164813872a6a3d4447300f96ccff9863e27e2b7151cd544da6571e4",
+      "transform": {
+        "method": "uniform-scale-translation",
+        "scale": 1.565217391304348,
+        "left": 137,
+        "top": 87
+      },
+      "previousImage": "/assets/materials/garments/separate-v1-mustard-polo/saved/1227-2a7a1eed1c86/front.png"
+    }
+  ]
+}

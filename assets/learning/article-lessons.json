@@ -1,0 +1,1950 @@
+{
+  "version": 1,
+  "description": "Two six-word pilot lessons. Project-authored practice and reading adaptations of linked NASA reports; not GRE test questions.",
+  "levels": [
+    {
+      "id": "article-pilot-01",
+      "number": 1,
+      "title": "Why the sea keeps rising",
+      "article": {
+        "title": "Cooling the planet will not immediately lower the sea",
+        "publisher": "NASA",
+        "date": "2026-10-06",
+        "url": "https://sealevel.nasa.gov/news/283/the-seas-will-keep-rising-even-if-the-planet-cools/",
+        "adapted": true,
+        "paragraphs": [
+          {
+            "en": "A new NASA report explores a troubling scenario: global temperatures rise above 1.5°C, then fall again. The ocean does not respond as quickly as the air. Even in a cooler future, sea levels could continue rising for centuries.",
+            "zh": "NASA 的一份新报告探讨了一种令人担忧的情景：全球气温升幅超过 1.5°C，随后又回落。海洋的反应没有空气那么快。即使未来变得更凉爽，海平面仍可能持续上升数百年。"
+          },
+          {
+            "en": "The rate of sea level rise has more than doubled since 1993. Satellite measurements provide an independent check on climate models. The report expects another 10 to 15 centimeters of global rise by 2050, regardless of the path taken by emissions.",
+            "zh": "自 1993 年以来，海平面上升的速度已增加到两倍以上。卫星测量为气候模型提供了独立检验。报告预计，无论排放走向如何，到 2050 年全球海平面还将上升 10 至 15 厘米。"
+          },
+          {
+            "en": "Later outcomes still depend on our choices. The temperature peak matters, as does the time spent near it. For coastal communities, this means preparing for flooding while continuing to reduce pollution. A falling temperature curve should not be mistaken for an immediate end to rising seas.",
+            "zh": "更长远的结果仍取决于我们的选择。气温的峰值很重要，在峰值附近持续多久也同样重要。对沿海社区来说，这意味着既要为洪水做准备，也要继续减少污染。气温曲线下降，并不意味着海平面上升会立即停止。"
+          }
+        ]
+      },
+      "words": [
+        {
+          "word": "scenario",
+          "definition": "a possible situation, especially one used to think about the future",
+          "meaning": "可能出现的情景；设想",
+          "phrases": [
+            "a possible scenario",
+            "a worst-case scenario"
+          ],
+          "examples": [
+            {
+              "en": "In one scenario, the town builds a sea wall.",
+              "zh": "在一种设想中，小镇修建一道海堤。"
+            },
+            {
+              "en": "We should prepare for the worst-case scenario.",
+              "zh": "我们应该为最坏的情况做好准备。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "scenario-first",
+              "type": "dialogue",
+              "prompt": "“Will the town definitely flood?”\n“No. The report describes one possible _____.”",
+              "options": [
+                "scenario",
+                "measurement",
+                "promise"
+              ],
+              "answer": "scenario",
+              "explanation": "A scenario is a possible situation, not a prediction that must come true.",
+              "translation": "“小镇一定会被淹吗？”“不会，报告描述的只是一个可能出现的情景。”",
+              "optionGlosses": {
+                "scenario": {
+                  "en": "a possible situation or future event",
+                  "zh": "可能的情景或未来事件"
+                },
+                "measurement": {
+                  "en": "a size or amount found by measuring",
+                  "zh": "测量得到的尺寸或数量"
+                },
+                "promise": {
+                  "en": "a statement that you will certainly do something",
+                  "zh": "承诺一定会做某事"
+                }
+              }
+            },
+            {
+              "id": "scenario-mixed",
+              "type": "reading",
+              "prompt": "A coastal town prepares for three futures: mild flooding, frequent flooding, and permanent retreat. None is treated as certain. Why keep all three in the plan?",
+              "options": [
+                "They are scenarios for testing different responses.",
+                "They are measurements proving what will happen.",
+                "They are promises that the coast will remain safe.",
+                "They are averages of events that already happened."
+              ],
+              "answer": "They are scenarios for testing different responses.",
+              "explanation": "The futures are possibilities used for planning, rather than measured facts or promises.",
+              "revision": 2,
+              "translation": "一座沿海小镇为轻度洪水、频繁洪水和永久撤离三种未来做准备，未认定任何一种必然发生。为何保留这三种方案？",
+              "optionGlosses": {
+                "They are scenarios for testing different responses.": {
+                  "en": "scenarios: possible situations or future events",
+                  "zh": "用不同的可能情景检验不同应对措施。"
+                },
+                "They are measurements proving what will happen.": {
+                  "en": "This option means: They are measurements proving what will happen.",
+                  "zh": "测量结果证明了必然发生的事。"
+                },
+                "They are promises that the coast will remain safe.": {
+                  "en": "This option means: They are promises that the coast will remain safe.",
+                  "zh": "承诺海岸会一直安全。"
+                },
+                "They are averages of events that already happened.": {
+                  "en": "This option means: They are averages of events that already happened.",
+                  "zh": "对已发生事件求平均值。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "rate",
+          "definition": "how fast something happens; also an amount charged for a service",
+          "meaning": "速度；比率；收费标准",
+          "phrases": [
+            "the rate of change",
+            "at a faster rate"
+          ],
+          "examples": [
+            {
+              "en": "The water is rising at a faster rate than before.",
+              "zh": "水位正在以比以前更快的速度上涨。"
+            },
+            {
+              "en": "This hotel offers a lower rate in winter.",
+              "zh": "这家酒店冬季收费更低。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "rate-first",
+              "type": "dialogue",
+              "prompt": "“The water rose two centimeters last year and four this year.”\n“So the _____ has increased.”",
+              "options": [
+                "rate",
+                "location",
+                "depth of the ocean"
+              ],
+              "answer": "rate",
+              "explanation": "The amount of rise per year tells us the rate.",
+              "translation": "“去年水位上涨了两厘米，今年涨了四厘米。”“所以，上涨的速度加快了。”",
+              "optionGlosses": {
+                "rate": {
+                  "en": "the speed at which something happens",
+                  "zh": "某事发生的速度"
+                },
+                "location": {
+                  "en": "the place where something is",
+                  "zh": "某物所在的位置"
+                },
+                "depth of the ocean": {
+                  "en": "the distance from the ocean surface to its bottom",
+                  "zh": "海面到海底的距离"
+                }
+              }
+            },
+            {
+              "id": "rate-mixed",
+              "type": "reading",
+              "prompt": "Town A gains 8 cm of water in 20 years. Town B gains 6 cm in 10 years. Which comparison is supported?",
+              "options": [
+                "Town B has the faster rate despite the smaller total rise.",
+                "Town A has the faster rate because its total rise is larger.",
+                "Both have the same rate because both levels increased.",
+                "Neither rate can be compared without knowing ocean depth."
+              ],
+              "answer": "Town B has the faster rate despite the smaller total rise.",
+              "explanation": "Compare rise per year: A is 0.4 cm, B is 0.6 cm. A larger total does not necessarily mean a faster rate.",
+              "revision": 2,
+              "translation": "A 镇水位二十年涨八厘米，B 镇十年涨六厘米。哪个比较有依据？",
+              "optionGlosses": {
+                "Town B has the faster rate despite the smaller total rise.": {
+                  "en": "total: the whole amount when all parts are added together; rate: the speed at which something happens",
+                  "zh": "B 总涨幅较小，但上涨速度更快。"
+                },
+                "Town A has the faster rate because its total rise is larger.": {
+                  "en": "total: the whole amount when all parts are added together; rate: the speed at which something happens",
+                  "zh": "A 总涨幅更大，所以上涨速度更快。"
+                },
+                "Both have the same rate because both levels increased.": {
+                  "en": "rate: the speed at which something happens",
+                  "zh": "两地水位都涨了，所以速度相同。"
+                },
+                "Neither rate can be compared without knowing ocean depth.": {
+                  "en": "rate: the speed at which something happens",
+                  "zh": "不知道海洋深度就无法比较速度。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "independent",
+          "definition": "not controlled by someone else; not relying on the same evidence",
+          "meaning": "独立的；不依赖他人的",
+          "phrases": [
+            "an independent check",
+            "independent research"
+          ],
+          "examples": [
+            {
+              "en": "A second team provided an independent check of the results.",
+              "zh": "第二个团队对结果进行了独立检验。"
+            },
+            {
+              "en": "She became financially independent after finding a job.",
+              "zh": "找到工作后，她实现了经济独立。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "independent-first",
+              "type": "dialogue",
+              "prompt": "“Did the second team simply copy the first team’s figures?”\n“No, it made an _____ assessment.”",
+              "options": [
+                "independent",
+                "identical",
+                "imaginary"
+              ],
+              "answer": "independent",
+              "explanation": "The second team reached its assessment separately.",
+              "translation": "“第二个团队只是照搬了第一个团队的数据吗？”“没有，它做了独立评估。”",
+              "optionGlosses": {
+                "independent": {
+                  "en": "separate and not controlled by another person or group",
+                  "zh": "独立的，不受其他人或团体控制的"
+                },
+                "identical": {
+                  "en": "exactly the same",
+                  "zh": "完全相同的"
+                },
+                "imaginary": {
+                  "en": "existing only in the mind, rather than in real life",
+                  "zh": "想象中的，而非真实存在的"
+                }
+              }
+            },
+            {
+              "id": "independent-mixed",
+              "type": "reading",
+              "prompt": "Two reports agree. One repeats the other’s calculations; a third team tests the claim using separately collected satellite data. Which adds the strongest independent check?",
+              "options": [
+                "The third team, because its evidence was collected separately.",
+                "The repeated report, because agreement always proves independence.",
+                "Both reports equally, because identical results require separate evidence.",
+                "Neither, because independent studies must disagree."
+              ],
+              "answer": "The third team, because its evidence was collected separately.",
+              "explanation": "Independent refers to a separate source or method. Agreement alone does not show independence.",
+              "revision": 2,
+              "translation": "两份报告一致，但其中一份重复了另一份的计算。第三个团队用独立采集的卫星数据检验结论。哪个提供了最有力的独立检验？",
+              "optionGlosses": {
+                "The third team, because its evidence was collected separately.": {
+                  "en": "This option means: The third team, because its evidence was collected separately.",
+                  "zh": "第三个团队，因为证据是独立采集的。"
+                },
+                "The repeated report, because agreement always proves independence.": {
+                  "en": "This option means: The repeated report, because agreement always proves independence.",
+                  "zh": "重复报告，因为结论一致必然意味着独立。"
+                },
+                "Both reports equally, because identical results require separate evidence.": {
+                  "en": "identical: exactly the same",
+                  "zh": "两份报告相同，因为结果相同必然需要独立证据。"
+                },
+                "Neither, because independent studies must disagree.": {
+                  "en": "independent: separate and not controlled by another person or group",
+                  "zh": "都不算，因为独立研究必须结论不同。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "emissions",
+          "definition": "gases or other substances released into the air",
+          "meaning": "排放物；排放量",
+          "phrases": [
+            "reduce emissions",
+            "carbon emissions"
+          ],
+          "examples": [
+            {
+              "en": "Cleaner buses can help reduce emissions.",
+              "zh": "更清洁的公交车有助于减少排放。"
+            },
+            {
+              "en": "The factory must measure its carbon emissions.",
+              "zh": "这家工厂必须测量碳排放量。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "emissions-first",
+              "type": "dialogue",
+              "prompt": "“What changes when we replace diesel buses with electric ones?”\n“We can reduce exhaust _____ on city streets.”",
+              "options": [
+                "emissions",
+                "coastlines",
+                "scenarios"
+              ],
+              "answer": "emissions",
+              "explanation": "Exhaust gases released into the air are emissions.",
+              "translation": "“把柴油公交车换成电动车会带来什么变化？”“我们可以减少城市街道上的尾气排放。”",
+              "optionGlosses": {
+                "emissions": {
+                  "en": "gases or substances released into the air",
+                  "zh": "释放到空气中的气体或物质"
+                },
+                "coastlines": {
+                  "en": "the edges of the land beside the sea",
+                  "zh": "陆地与海洋相接的边缘"
+                },
+                "scenarios": {
+                  "en": "possible situations or future events",
+                  "zh": "可能出现的情景或未来事件"
+                }
+              }
+            },
+            {
+              "id": "emissions-mixed",
+              "type": "reading",
+              "prompt": "A city builds a flood barrier and replaces diesel buses with electric buses. Which action addresses the cause of warming more directly?",
+              "options": [
+                "Replacing the buses can reduce emissions; the barrier mainly manages flooding.",
+                "Building the barrier reduces emissions by keeping seawater out.",
+                "Both actions reduce emissions by exactly the same amount.",
+                "Neither can affect emissions because only ocean levels are changing."
+              ],
+              "answer": "Replacing the buses can reduce emissions; the barrier mainly manages flooding.",
+              "explanation": "Emissions are substances released into the air. A barrier limits flood damage but does not directly reduce exhaust.",
+              "revision": 2,
+              "translation": "城市既修建防洪屏障，也把柴油公交换成电动车。哪项措施更直接针对变暖的原因？",
+              "optionGlosses": {
+                "Replacing the buses can reduce emissions; the barrier mainly manages flooding.": {
+                  "en": "emissions: gases or substances released into the air",
+                  "zh": "换车可减少排放，屏障主要应对洪水。"
+                },
+                "Building the barrier reduces emissions by keeping seawater out.": {
+                  "en": "emissions: gases or substances released into the air",
+                  "zh": "屏障通过阻挡海水来减少排放。"
+                },
+                "Both actions reduce emissions by exactly the same amount.": {
+                  "en": "emissions: gases or substances released into the air",
+                  "zh": "两项措施减少的排放量完全相等。"
+                },
+                "Neither can affect emissions because only ocean levels are changing.": {
+                  "en": "emissions: gases or substances released into the air",
+                  "zh": "两者都不影响排放，因为只有海平面在变。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "peak",
+          "definition": "the highest point or level; to reach that point",
+          "meaning": "峰值；顶峰；达到最高点",
+          "phrases": [
+            "reach a peak",
+            "the temperature peak"
+          ],
+          "examples": [
+            {
+              "en": "Electricity use reaches a peak in the evening.",
+              "zh": "用电量在晚间达到高峰。"
+            },
+            {
+              "en": "Temperatures may peak in the afternoon.",
+              "zh": "气温可能在下午达到最高值。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "peak-first",
+              "type": "dialogue",
+              "prompt": "“The temperature climbs, reaches 35°C, then falls.”\n“What is 35°C on that curve?”",
+              "options": [
+                "The peak",
+                "The starting point",
+                "The average"
+              ],
+              "answer": "The peak",
+              "explanation": "The peak is the highest point before the curve falls.",
+              "translation": "“气温攀升到 35°C，然后下降。”“35°C 是这条曲线上的什么？”",
+              "optionGlosses": {
+                "The peak": {
+                  "en": "the highest point or level",
+                  "zh": "最高点或最高水平"
+                },
+                "The starting point": {
+                  "en": "the place or level where something begins",
+                  "zh": "某事开始的位置或水平"
+                },
+                "The average": {
+                  "en": "a value found by adding amounts and dividing by their number",
+                  "zh": "各数相加后除以个数得到的平均值"
+                }
+              }
+            },
+            {
+              "id": "peak-mixed",
+              "type": "reading",
+              "prompt": "Two climate models reach 2°C above the baseline. One stays there for five years, the other for fifty. Which conclusion follows?",
+              "options": [
+                "They share a temperature peak but differ in duration.",
+                "They share a duration but differ in their temperature peak.",
+                "They must produce identical sea levels because their peaks match.",
+                "The longer-lasting model necessarily has a higher temperature peak."
+              ],
+              "answer": "They share a temperature peak but differ in duration.",
+              "explanation": "Peak describes the highest level. How long that level lasts is duration, and can affect later outcomes.",
+              "revision": 2,
+              "translation": "两个模型的最高温度都比基准高两度，一个持续五年，另一个持续五十年。能得出什么结论？",
+              "optionGlosses": {
+                "They share a temperature peak but differ in duration.": {
+                  "en": "duration: the length of time something lasts; peak: the highest point or level",
+                  "zh": "最高温度相同，持续时间不同。"
+                },
+                "They share a duration but differ in their temperature peak.": {
+                  "en": "duration: the length of time something lasts; peak: the highest point or level",
+                  "zh": "持续时间相同，最高温度不同。"
+                },
+                "They must produce identical sea levels because their peaks match.": {
+                  "en": "identical: exactly the same",
+                  "zh": "峰值相同就必然导致海平面完全相同。"
+                },
+                "The longer-lasting model necessarily has a higher temperature peak.": {
+                  "en": "peak: the highest point or level",
+                  "zh": "持续更久的模型必然温度峰值更高。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "coastal",
+          "definition": "near the sea or connected with the coast",
+          "meaning": "沿海的；海岸的",
+          "phrases": [
+            "coastal communities",
+            "coastal flooding"
+          ],
+          "examples": [
+            {
+              "en": "Coastal communities are preparing for higher tides.",
+              "zh": "沿海社区正在为更高的潮位做准备。"
+            },
+            {
+              "en": "We followed a coastal road past several fishing villages.",
+              "zh": "我们沿着一条海岸公路经过几个渔村。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "coastal-first",
+              "type": "dialogue",
+              "prompt": "“Which villages face the most direct risk from higher tides?”\n“The _____ ones, beside the sea.”",
+              "options": [
+                "coastal",
+                "inland",
+                "mountainous"
+              ],
+              "answer": "coastal",
+              "explanation": "Coastal places are beside the sea.",
+              "translation": "“哪些村庄面临涨潮最直接的风险？”“海边的那些村庄。”",
+              "optionGlosses": {
+                "coastal": {
+                  "en": "near the sea or along the coast",
+                  "zh": "靠近海洋或位于海岸的"
+                },
+                "inland": {
+                  "en": "away from the sea, towards the inside of the land",
+                  "zh": "远离海洋、靠近内陆的"
+                },
+                "mountainous": {
+                  "en": "having many mountains",
+                  "zh": "多山的"
+                }
+              }
+            },
+            {
+              "id": "coastal-mixed",
+              "type": "reading",
+              "prompt": "A village beside a bay depends on fishing. Another lies far inland beside a river. Both may flood. Which description is most precise?",
+              "options": [
+                "Only the first is coastal; flood risk alone does not make a place coastal.",
+                "Both are coastal because any place that floods is coastal.",
+                "Only the second is coastal because rivers eventually reach the sea.",
+                "Neither is coastal unless it has already experienced a flood."
+              ],
+              "answer": "Only the first is coastal; flood risk alone does not make a place coastal.",
+              "explanation": "Coastal describes location beside the sea, rather than whether flooding has happened.",
+              "revision": 2,
+              "translation": "海湾旁的村庄依赖捕鱼，另一个位于远离海洋的内陆河边，两者都可能遇洪水。哪个描述最准确？",
+              "optionGlosses": {
+                "Only the first is coastal; flood risk alone does not make a place coastal.": {
+                  "en": "coastal: near the sea or along the coast",
+                  "zh": "只有第一个沿海；洪水风险不等于沿海。"
+                },
+                "Both are coastal because any place that floods is coastal.": {
+                  "en": "coastal: near the sea or along the coast",
+                  "zh": "会发洪水的地方都算沿海。"
+                },
+                "Only the second is coastal because rivers eventually reach the sea.": {
+                  "en": "coastal: near the sea or along the coast",
+                  "zh": "只有第二个沿海，因为河流最终入海。"
+                },
+                "Neither is coastal unless it has already experienced a flood.": {
+                  "en": "coastal: near the sea or along the coast",
+                  "zh": "发生过洪水之后才算沿海。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "word": "scenario · rate · independent · emissions · peak · coastal",
+      "questions": [
+        {
+          "id": "scenario-first",
+          "type": "dialogue",
+          "prompt": "“Will the town definitely flood?”\n“No. The report describes one possible _____.”",
+          "options": [
+            "scenario",
+            "measurement",
+            "promise"
+          ],
+          "answer": "scenario",
+          "explanation": "A scenario is a possible situation, not a prediction that must come true.",
+          "translation": "“小镇一定会被淹吗？”“不会，报告描述的只是一个可能出现的情景。”",
+          "optionGlosses": {
+            "scenario": {
+              "en": "a possible situation or future event",
+              "zh": "可能的情景或未来事件"
+            },
+            "measurement": {
+              "en": "a size or amount found by measuring",
+              "zh": "测量得到的尺寸或数量"
+            },
+            "promise": {
+              "en": "a statement that you will certainly do something",
+              "zh": "承诺一定会做某事"
+            }
+          }
+        },
+        {
+          "id": "rate-first",
+          "type": "dialogue",
+          "prompt": "“The water rose two centimeters last year and four this year.”\n“So the _____ has increased.”",
+          "options": [
+            "rate",
+            "location",
+            "depth of the ocean"
+          ],
+          "answer": "rate",
+          "explanation": "The amount of rise per year tells us the rate.",
+          "translation": "“去年水位上涨了两厘米，今年涨了四厘米。”“所以，上涨的速度加快了。”",
+          "optionGlosses": {
+            "rate": {
+              "en": "the speed at which something happens",
+              "zh": "某事发生的速度"
+            },
+            "location": {
+              "en": "the place where something is",
+              "zh": "某物所在的位置"
+            },
+            "depth of the ocean": {
+              "en": "the distance from the ocean surface to its bottom",
+              "zh": "海面到海底的距离"
+            }
+          }
+        },
+        {
+          "id": "independent-first",
+          "type": "dialogue",
+          "prompt": "“Did the second team simply copy the first team’s figures?”\n“No, it made an _____ assessment.”",
+          "options": [
+            "independent",
+            "identical",
+            "imaginary"
+          ],
+          "answer": "independent",
+          "explanation": "The second team reached its assessment separately.",
+          "translation": "“第二个团队只是照搬了第一个团队的数据吗？”“没有，它做了独立评估。”",
+          "optionGlosses": {
+            "independent": {
+              "en": "separate and not controlled by another person or group",
+              "zh": "独立的，不受其他人或团体控制的"
+            },
+            "identical": {
+              "en": "exactly the same",
+              "zh": "完全相同的"
+            },
+            "imaginary": {
+              "en": "existing only in the mind, rather than in real life",
+              "zh": "想象中的，而非真实存在的"
+            }
+          }
+        },
+        {
+          "id": "emissions-first",
+          "type": "dialogue",
+          "prompt": "“What changes when we replace diesel buses with electric ones?”\n“We can reduce exhaust _____ on city streets.”",
+          "options": [
+            "emissions",
+            "coastlines",
+            "scenarios"
+          ],
+          "answer": "emissions",
+          "explanation": "Exhaust gases released into the air are emissions.",
+          "translation": "“把柴油公交车换成电动车会带来什么变化？”“我们可以减少城市街道上的尾气排放。”",
+          "optionGlosses": {
+            "emissions": {
+              "en": "gases or substances released into the air",
+              "zh": "释放到空气中的气体或物质"
+            },
+            "coastlines": {
+              "en": "the edges of the land beside the sea",
+              "zh": "陆地与海洋相接的边缘"
+            },
+            "scenarios": {
+              "en": "possible situations or future events",
+              "zh": "可能出现的情景或未来事件"
+            }
+          }
+        },
+        {
+          "id": "peak-first",
+          "type": "dialogue",
+          "prompt": "“The temperature climbs, reaches 35°C, then falls.”\n“What is 35°C on that curve?”",
+          "options": [
+            "The peak",
+            "The starting point",
+            "The average"
+          ],
+          "answer": "The peak",
+          "explanation": "The peak is the highest point before the curve falls.",
+          "translation": "“气温攀升到 35°C，然后下降。”“35°C 是这条曲线上的什么？”",
+          "optionGlosses": {
+            "The peak": {
+              "en": "the highest point or level",
+              "zh": "最高点或最高水平"
+            },
+            "The starting point": {
+              "en": "the place or level where something begins",
+              "zh": "某事开始的位置或水平"
+            },
+            "The average": {
+              "en": "a value found by adding amounts and dividing by their number",
+              "zh": "各数相加后除以个数得到的平均值"
+            }
+          }
+        },
+        {
+          "id": "coastal-first",
+          "type": "dialogue",
+          "prompt": "“Which villages face the most direct risk from higher tides?”\n“The _____ ones, beside the sea.”",
+          "options": [
+            "coastal",
+            "inland",
+            "mountainous"
+          ],
+          "answer": "coastal",
+          "explanation": "Coastal places are beside the sea.",
+          "translation": "“哪些村庄面临涨潮最直接的风险？”“海边的那些村庄。”",
+          "optionGlosses": {
+            "coastal": {
+              "en": "near the sea or along the coast",
+              "zh": "靠近海洋或位于海岸的"
+            },
+            "inland": {
+              "en": "away from the sea, towards the inside of the land",
+              "zh": "远离海洋、靠近内陆的"
+            },
+            "mountainous": {
+              "en": "having many mountains",
+              "zh": "多山的"
+            }
+          }
+        },
+        {
+          "id": "scenario-mixed",
+          "type": "reading",
+          "prompt": "A coastal town prepares for three futures: mild flooding, frequent flooding, and permanent retreat. None is treated as certain. Why keep all three in the plan?",
+          "options": [
+            "They are scenarios for testing different responses.",
+            "They are measurements proving what will happen.",
+            "They are promises that the coast will remain safe.",
+            "They are averages of events that already happened."
+          ],
+          "answer": "They are scenarios for testing different responses.",
+          "explanation": "The futures are possibilities used for planning, rather than measured facts or promises.",
+          "revision": 2,
+          "translation": "一座沿海小镇为轻度洪水、频繁洪水和永久撤离三种未来做准备，未认定任何一种必然发生。为何保留这三种方案？",
+          "optionGlosses": {
+            "They are scenarios for testing different responses.": {
+              "en": "scenarios: possible situations or future events",
+              "zh": "用不同的可能情景检验不同应对措施。"
+            },
+            "They are measurements proving what will happen.": {
+              "en": "This option means: They are measurements proving what will happen.",
+              "zh": "测量结果证明了必然发生的事。"
+            },
+            "They are promises that the coast will remain safe.": {
+              "en": "This option means: They are promises that the coast will remain safe.",
+              "zh": "承诺海岸会一直安全。"
+            },
+            "They are averages of events that already happened.": {
+              "en": "This option means: They are averages of events that already happened.",
+              "zh": "对已发生事件求平均值。"
+            }
+          }
+        },
+        {
+          "id": "rate-mixed",
+          "type": "reading",
+          "prompt": "Town A gains 8 cm of water in 20 years. Town B gains 6 cm in 10 years. Which comparison is supported?",
+          "options": [
+            "Town B has the faster rate despite the smaller total rise.",
+            "Town A has the faster rate because its total rise is larger.",
+            "Both have the same rate because both levels increased.",
+            "Neither rate can be compared without knowing ocean depth."
+          ],
+          "answer": "Town B has the faster rate despite the smaller total rise.",
+          "explanation": "Compare rise per year: A is 0.4 cm, B is 0.6 cm. A larger total does not necessarily mean a faster rate.",
+          "revision": 2,
+          "translation": "A 镇水位二十年涨八厘米，B 镇十年涨六厘米。哪个比较有依据？",
+          "optionGlosses": {
+            "Town B has the faster rate despite the smaller total rise.": {
+              "en": "total: the whole amount when all parts are added together; rate: the speed at which something happens",
+              "zh": "B 总涨幅较小，但上涨速度更快。"
+            },
+            "Town A has the faster rate because its total rise is larger.": {
+              "en": "total: the whole amount when all parts are added together; rate: the speed at which something happens",
+              "zh": "A 总涨幅更大，所以上涨速度更快。"
+            },
+            "Both have the same rate because both levels increased.": {
+              "en": "rate: the speed at which something happens",
+              "zh": "两地水位都涨了，所以速度相同。"
+            },
+            "Neither rate can be compared without knowing ocean depth.": {
+              "en": "rate: the speed at which something happens",
+              "zh": "不知道海洋深度就无法比较速度。"
+            }
+          }
+        },
+        {
+          "id": "independent-mixed",
+          "type": "reading",
+          "prompt": "Two reports agree. One repeats the other’s calculations; a third team tests the claim using separately collected satellite data. Which adds the strongest independent check?",
+          "options": [
+            "The third team, because its evidence was collected separately.",
+            "The repeated report, because agreement always proves independence.",
+            "Both reports equally, because identical results require separate evidence.",
+            "Neither, because independent studies must disagree."
+          ],
+          "answer": "The third team, because its evidence was collected separately.",
+          "explanation": "Independent refers to a separate source or method. Agreement alone does not show independence.",
+          "revision": 2,
+          "translation": "两份报告一致，但其中一份重复了另一份的计算。第三个团队用独立采集的卫星数据检验结论。哪个提供了最有力的独立检验？",
+          "optionGlosses": {
+            "The third team, because its evidence was collected separately.": {
+              "en": "This option means: The third team, because its evidence was collected separately.",
+              "zh": "第三个团队，因为证据是独立采集的。"
+            },
+            "The repeated report, because agreement always proves independence.": {
+              "en": "This option means: The repeated report, because agreement always proves independence.",
+              "zh": "重复报告，因为结论一致必然意味着独立。"
+            },
+            "Both reports equally, because identical results require separate evidence.": {
+              "en": "identical: exactly the same",
+              "zh": "两份报告相同，因为结果相同必然需要独立证据。"
+            },
+            "Neither, because independent studies must disagree.": {
+              "en": "independent: separate and not controlled by another person or group",
+              "zh": "都不算，因为独立研究必须结论不同。"
+            }
+          }
+        },
+        {
+          "id": "emissions-mixed",
+          "type": "reading",
+          "prompt": "A city builds a flood barrier and replaces diesel buses with electric buses. Which action addresses the cause of warming more directly?",
+          "options": [
+            "Replacing the buses can reduce emissions; the barrier mainly manages flooding.",
+            "Building the barrier reduces emissions by keeping seawater out.",
+            "Both actions reduce emissions by exactly the same amount.",
+            "Neither can affect emissions because only ocean levels are changing."
+          ],
+          "answer": "Replacing the buses can reduce emissions; the barrier mainly manages flooding.",
+          "explanation": "Emissions are substances released into the air. A barrier limits flood damage but does not directly reduce exhaust.",
+          "revision": 2,
+          "translation": "城市既修建防洪屏障，也把柴油公交换成电动车。哪项措施更直接针对变暖的原因？",
+          "optionGlosses": {
+            "Replacing the buses can reduce emissions; the barrier mainly manages flooding.": {
+              "en": "emissions: gases or substances released into the air",
+              "zh": "换车可减少排放，屏障主要应对洪水。"
+            },
+            "Building the barrier reduces emissions by keeping seawater out.": {
+              "en": "emissions: gases or substances released into the air",
+              "zh": "屏障通过阻挡海水来减少排放。"
+            },
+            "Both actions reduce emissions by exactly the same amount.": {
+              "en": "emissions: gases or substances released into the air",
+              "zh": "两项措施减少的排放量完全相等。"
+            },
+            "Neither can affect emissions because only ocean levels are changing.": {
+              "en": "emissions: gases or substances released into the air",
+              "zh": "两者都不影响排放，因为只有海平面在变。"
+            }
+          }
+        },
+        {
+          "id": "peak-mixed",
+          "type": "reading",
+          "prompt": "Two climate models reach 2°C above the baseline. One stays there for five years, the other for fifty. Which conclusion follows?",
+          "options": [
+            "They share a temperature peak but differ in duration.",
+            "They share a duration but differ in their temperature peak.",
+            "They must produce identical sea levels because their peaks match.",
+            "The longer-lasting model necessarily has a higher temperature peak."
+          ],
+          "answer": "They share a temperature peak but differ in duration.",
+          "explanation": "Peak describes the highest level. How long that level lasts is duration, and can affect later outcomes.",
+          "revision": 2,
+          "translation": "两个模型的最高温度都比基准高两度，一个持续五年，另一个持续五十年。能得出什么结论？",
+          "optionGlosses": {
+            "They share a temperature peak but differ in duration.": {
+              "en": "duration: the length of time something lasts; peak: the highest point or level",
+              "zh": "最高温度相同，持续时间不同。"
+            },
+            "They share a duration but differ in their temperature peak.": {
+              "en": "duration: the length of time something lasts; peak: the highest point or level",
+              "zh": "持续时间相同，最高温度不同。"
+            },
+            "They must produce identical sea levels because their peaks match.": {
+              "en": "identical: exactly the same",
+              "zh": "峰值相同就必然导致海平面完全相同。"
+            },
+            "The longer-lasting model necessarily has a higher temperature peak.": {
+              "en": "peak: the highest point or level",
+              "zh": "持续更久的模型必然温度峰值更高。"
+            }
+          }
+        },
+        {
+          "id": "coastal-mixed",
+          "type": "reading",
+          "prompt": "A village beside a bay depends on fishing. Another lies far inland beside a river. Both may flood. Which description is most precise?",
+          "options": [
+            "Only the first is coastal; flood risk alone does not make a place coastal.",
+            "Both are coastal because any place that floods is coastal.",
+            "Only the second is coastal because rivers eventually reach the sea.",
+            "Neither is coastal unless it has already experienced a flood."
+          ],
+          "answer": "Only the first is coastal; flood risk alone does not make a place coastal.",
+          "explanation": "Coastal describes location beside the sea, rather than whether flooding has happened.",
+          "revision": 2,
+          "translation": "海湾旁的村庄依赖捕鱼，另一个位于远离海洋的内陆河边，两者都可能遇洪水。哪个描述最准确？",
+          "optionGlosses": {
+            "Only the first is coastal; flood risk alone does not make a place coastal.": {
+              "en": "coastal: near the sea or along the coast",
+              "zh": "只有第一个沿海；洪水风险不等于沿海。"
+            },
+            "Both are coastal because any place that floods is coastal.": {
+              "en": "coastal: near the sea or along the coast",
+              "zh": "会发洪水的地方都算沿海。"
+            },
+            "Only the second is coastal because rivers eventually reach the sea.": {
+              "en": "coastal: near the sea or along the coast",
+              "zh": "只有第二个沿海，因为河流最终入海。"
+            },
+            "Neither is coastal unless it has already experienced a flood.": {
+              "en": "coastal: near the sea or along the coast",
+              "zh": "发生过洪水之后才算沿海。"
+            }
+          }
+        }
+      ],
+      "plan": [
+        {
+          "phase": "card",
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "index": 0,
+          "wordIndex": 0
+        },
+        {
+          "phase": "card",
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "index": 1,
+          "wordIndex": 1
+        },
+        {
+          "phase": "card",
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "index": 2,
+          "wordIndex": 2
+        },
+        {
+          "phase": "card",
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "index": 3,
+          "wordIndex": 3
+        },
+        {
+          "phase": "card",
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "index": 4,
+          "wordIndex": 4
+        },
+        {
+          "phase": "card",
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "index": 5,
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "index": 6,
+          "mixed": true,
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "index": 7,
+          "mixed": true,
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "index": 8,
+          "mixed": true,
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "index": 9,
+          "mixed": true,
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "index": 10,
+          "mixed": true,
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "index": 11,
+          "mixed": true,
+          "wordIndex": 5
+        },
+        {
+          "phase": "reading"
+        }
+      ]
+    },
+    {
+      "id": "article-pilot-02",
+      "number": 2,
+      "title": "Finding the asteroids we miss",
+      "article": {
+        "title": "A telescope built to find hidden asteroids",
+        "publisher": "NASA",
+        "date": "2026-05-05",
+        "url": "https://science.nasa.gov/blogs/neo-surveyor/2026/05/05/nasas-next-gen-near-earth-asteroid-space-telescope-takes-shape/",
+        "adapted": true,
+        "paragraphs": [
+          {
+            "en": "Some asteroids are difficult to find from Earth. They may be dark, small, or hidden by the Sun’s glare. NASA is building NEO Surveyor, an infrared space telescope, to detect objects that ordinary ground telescopes can miss.",
+            "zh": "从地球上很难找到某些小行星。它们可能颜色暗、体积小，或被太阳的强光遮住。NASA 正在建造红外空间望远镜 NEO Surveyor，以探测普通地面望远镜可能漏掉的天体。"
+          },
+          {
+            "en": "Not every asteroid is hazardous. The mission focuses on objects that could threaten our planet. Earlier discovery could give people more time to respond and help mitigate the risk. The telescope looks for heat from objects warmed by the Sun, rather than relying only on reflected visible light.",
+            "zh": "并非每颗小行星都危险。这项任务关注的是可能威胁地球的天体。更早发现它们，可以让人们有更多应对时间，帮助降低风险。望远镜寻找的是天体受太阳加热后产生的热辐射，而不只是依赖反射的可见光。"
+          },
+          {
+            "en": "The team needs a robust observatory that can work in the harsh conditions of space. Scientists are also designing an efficient survey strategy: they want to examine large areas of sky and turn repeated observations into useful measurements. The project combines careful engineering with a simple goal—finding potential threats before they become emergencies.",
+            "zh": "团队需要一座能在严酷太空环境中工作的可靠观测台。科学家也在设计高效的巡天策略：他们希望观察大片天空，并把反复观测转化为有用的测量结果。这个项目把严谨的工程设计与一个简单目标结合起来：在潜在威胁变成紧急事件之前找到它们。"
+          }
+        ]
+      },
+      "words": [
+        {
+          "word": "detect",
+          "definition": "to discover that something is present, often using a device",
+          "meaning": "发现；探测；察觉",
+          "phrases": [
+            "detect a signal",
+            "detect an object"
+          ],
+          "examples": [
+            {
+              "en": "The sensor can detect a faint heat signal.",
+              "zh": "传感器可以探测到微弱的热信号。"
+            },
+            {
+              "en": "I could detect a slight change in her voice.",
+              "zh": "我能察觉到她的声音有一点变化。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "detect-first",
+              "type": "dialogue",
+              "prompt": "“The image looks empty to me.”\n“The instrument can still _____ a faint signal.”",
+              "options": [
+                "detect",
+                "prevent",
+                "invent"
+              ],
+              "answer": "detect",
+              "explanation": "To detect a signal is to discover that it is present.",
+              "translation": "“在我看来，这张图是空的。”“仪器仍然可以探测到微弱信号。”",
+              "optionGlosses": {
+                "detect": {
+                  "en": "to discover or notice that something is present",
+                  "zh": "发现或察觉某物存在"
+                },
+                "prevent": {
+                  "en": "to stop something from happening",
+                  "zh": "阻止某事发生"
+                },
+                "invent": {
+                  "en": "to create something new for the first time",
+                  "zh": "首次创造出新事物"
+                }
+              }
+            },
+            {
+              "id": "detect-mixed",
+              "type": "reading",
+              "prompt": "An instrument records a faint heat signal from an asteroid before scientists calculate its orbit. What has the instrument achieved so far?",
+              "options": [
+                "It has detected the object, but has not yet established whether it threatens Earth.",
+                "It has prevented the object from approaching Earth.",
+                "It has proved that the object is hazardous by recording heat.",
+                "It has mitigated the object’s orbit by observing it."
+              ],
+              "answer": "It has detected the object, but has not yet established whether it threatens Earth.",
+              "explanation": "Detection establishes presence. It does not by itself establish danger, prevent impact, or reduce risk.",
+              "revision": 2,
+              "translation": "仪器记录到小行星的微弱热信号，科学家还未计算轨道。仪器目前做到了什么？",
+              "optionGlosses": {
+                "It has detected the object, but has not yet established whether it threatens Earth.": {
+                  "en": "This option means: It has detected the object, but has not yet established whether it threatens Earth.",
+                  "zh": "发现了天体，但尚未确定它是否威胁地球。"
+                },
+                "It has prevented the object from approaching Earth.": {
+                  "en": "This option means: It has prevented the object from approaching Earth.",
+                  "zh": "阻止了天体接近地球。"
+                },
+                "It has proved that the object is hazardous by recording heat.": {
+                  "en": "hazardous: likely to cause harm or danger",
+                  "zh": "记录到热量就证明天体危险。"
+                },
+                "It has mitigated the object’s orbit by observing it.": {
+                  "en": "This option means: It has mitigated the object’s orbit by observing it.",
+                  "zh": "通过观测减轻了天体的轨道。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "hazardous",
+          "definition": "likely to cause harm or danger",
+          "meaning": "危险的；有害的",
+          "phrases": [
+            "potentially hazardous",
+            "hazardous conditions"
+          ],
+          "examples": [
+            {
+              "en": "Ice makes this road hazardous at night.",
+              "zh": "结冰让这条路在夜间变得危险。"
+            },
+            {
+              "en": "The team studies potentially hazardous asteroids.",
+              "zh": "团队研究可能带来危险的小行星。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "hazardous-first",
+              "type": "dialogue",
+              "prompt": "“Can we drive across that broken bridge?”\n“No. The crossing is too _____.”",
+              "options": [
+                "hazardous",
+                "efficient",
+                "ordinary"
+              ],
+              "answer": "hazardous",
+              "explanation": "A crossing that may cause harm is hazardous.",
+              "translation": "“我们能开车穿过那座损坏的桥吗？”“不能，过桥太危险了。”",
+              "optionGlosses": {
+                "hazardous": {
+                  "en": "likely to cause harm or danger",
+                  "zh": "可能造成伤害或危险的"
+                },
+                "efficient": {
+                  "en": "working well without wasting time or energy",
+                  "zh": "不浪费时间或精力、效率高的"
+                },
+                "ordinary": {
+                  "en": "normal or usual, rather than special",
+                  "zh": "普通的、常见的"
+                }
+              }
+            },
+            {
+              "id": "hazardous-mixed",
+              "type": "reading",
+              "prompt": "An asteroid is large, but its known orbit stays far from Earth. Another is smaller and may pass very close. What should guide the hazard assessment?",
+              "options": [
+                "Potential harm matters; size alone does not establish that an object is hazardous.",
+                "The larger asteroid must be hazardous regardless of its orbit.",
+                "The smaller asteroid is harmless by definition.",
+                "Every detected asteroid is equally hazardous."
+              ],
+              "answer": "Potential harm matters; size alone does not establish that an object is hazardous.",
+              "explanation": "Hazardous means potentially harmful. Assessing danger requires more than identifying an object or comparing size.",
+              "revision": 2,
+              "translation": "一颗大型小行星的已知轨道远离地球；另一颗较小，但可能靠得很近。评估危险时应考虑什么？",
+              "optionGlosses": {
+                "Potential harm matters; size alone does not establish that an object is hazardous.": {
+                  "en": "hazardous: likely to cause harm or danger",
+                  "zh": "要考虑潜在危害，单凭大小无法确定危险。"
+                },
+                "The larger asteroid must be hazardous regardless of its orbit.": {
+                  "en": "hazardous: likely to cause harm or danger",
+                  "zh": "大型小行星无论轨道如何都危险。"
+                },
+                "The smaller asteroid is harmless by definition.": {
+                  "en": "This option means: The smaller asteroid is harmless by definition.",
+                  "zh": "按定义，小型小行星无害。"
+                },
+                "Every detected asteroid is equally hazardous.": {
+                  "en": "hazardous: likely to cause harm or danger",
+                  "zh": "所有被发现的小行星同样危险。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "mitigate",
+          "definition": "to make a harmful situation less severe",
+          "meaning": "减轻；缓和；降低危害",
+          "phrases": [
+            "mitigate the risk",
+            "mitigate the effects"
+          ],
+          "examples": [
+            {
+              "en": "Better warnings can mitigate the effects of a storm.",
+              "zh": "更好的预警可以减轻风暴造成的影响。"
+            },
+            {
+              "en": "The new barriers help mitigate flood risk.",
+              "zh": "新的屏障有助于降低洪水风险。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "mitigate-first",
+              "type": "dialogue",
+              "prompt": "“We cannot stop every storm.”\n“True, but stronger buildings can _____ the damage.”",
+              "options": [
+                "mitigate",
+                "predict perfectly",
+                "increase"
+              ],
+              "answer": "mitigate",
+              "explanation": "Mitigate means reduce harm, even when the cause cannot be removed.",
+              "translation": "“我们无法阻止每一场风暴。”“没错，但更坚固的建筑可以减轻损失。”",
+              "optionGlosses": {
+                "mitigate": {
+                  "en": "to make harm or a problem less severe",
+                  "zh": "减轻危害或问题的严重程度"
+                },
+                "predict perfectly": {
+                  "en": "to say exactly what will happen, without any mistakes",
+                  "zh": "准确无误地预测将发生的事情"
+                },
+                "increase": {
+                  "en": "to become greater, or make something greater",
+                  "zh": "增加或使某物增加"
+                }
+              }
+            },
+            {
+              "id": "mitigate-mixed",
+              "type": "reading",
+              "prompt": "A warning cannot stop a storm, but it gives residents time to move valuables upstairs. What does the warning help them do?",
+              "options": [
+                "Mitigate the damage without eliminating the storm.",
+                "Prevent the storm by predicting its arrival.",
+                "Detect the damage only after it has occurred.",
+                "Guarantee that the storm will cause no harm."
+              ],
+              "answer": "Mitigate the damage without eliminating the storm.",
+              "explanation": "Mitigation reduces severity. It does not require removing the cause or guaranteeing zero harm.",
+              "revision": 2,
+              "translation": "预警不能阻止风暴，但让居民有时间把贵重物品搬到楼上。预警帮助他们做到了什么？",
+              "optionGlosses": {
+                "Mitigate the damage without eliminating the storm.": {
+                  "en": "mitigate: to make harm or a problem less severe",
+                  "zh": "减轻损失，但不消除风暴。"
+                },
+                "Prevent the storm by predicting its arrival.": {
+                  "en": "prevent: to stop something from happening",
+                  "zh": "预测到达时间就能阻止风暴。"
+                },
+                "Detect the damage only after it has occurred.": {
+                  "en": "detect: to discover or notice that something is present",
+                  "zh": "只在损失发生后才发现它。"
+                },
+                "Guarantee that the storm will cause no harm.": {
+                  "en": "guarantee: to make certain that something will happen",
+                  "zh": "保证风暴不会造成任何伤害。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "robust",
+          "definition": "strong and able to work well under difficult conditions",
+          "meaning": "坚固的；可靠的；有韧性的",
+          "phrases": [
+            "a robust system",
+            "robust evidence"
+          ],
+          "examples": [
+            {
+              "en": "The camera needs a robust housing for use outdoors.",
+              "zh": "这台相机需要坚固的外壳才能在户外使用。"
+            },
+            {
+              "en": "The finding is supported by robust evidence from several studies.",
+              "zh": "多项研究提供的有力证据支持这一发现。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "robust-first",
+              "type": "dialogue",
+              "prompt": "“Will the equipment work after a long, cold journey?”\n“It should. We designed a _____ system.”",
+              "options": [
+                "robust",
+                "fragile",
+                "temporary"
+              ],
+              "answer": "robust",
+              "explanation": "A robust system keeps working under demanding conditions.",
+              "translation": "“设备经历漫长而寒冷的旅程后还能工作吗？”“应该可以，我们设计的是可靠耐用的系统。”",
+              "optionGlosses": {
+                "robust": {
+                  "en": "strong and able to work well in difficult conditions",
+                  "zh": "坚固可靠，能在困难条件下正常工作的"
+                },
+                "fragile": {
+                  "en": "easily broken or damaged",
+                  "zh": "容易破碎或损坏的"
+                },
+                "temporary": {
+                  "en": "lasting for only a limited time",
+                  "zh": "仅持续有限时间的、暂时的"
+                }
+              }
+            },
+            {
+              "id": "robust-mixed",
+              "type": "reading",
+              "prompt": "A sensor works quickly in a laboratory but fails in extreme cold. A slower sensor keeps producing reliable data in space. Which claim is supported?",
+              "options": [
+                "The second sensor is more robust under the conditions of the mission.",
+                "The first sensor is more robust simply because it works faster.",
+                "Both are equally robust because both worked in the laboratory.",
+                "The second sensor cannot be robust because it is slower."
+              ],
+              "answer": "The second sensor is more robust under the conditions of the mission.",
+              "explanation": "Robustness concerns reliability under difficult conditions. Speed is a different property.",
+              "revision": 2,
+              "translation": "一个传感器实验室里很快，却在严寒中失灵；另一个较慢，在太空仍提供可靠数据。哪个判断有依据？",
+              "optionGlosses": {
+                "The second sensor is more robust under the conditions of the mission.": {
+                  "en": "robust: strong and able to work well in difficult conditions",
+                  "zh": "第二个在任务环境中更可靠耐用。"
+                },
+                "The first sensor is more robust simply because it works faster.": {
+                  "en": "robust: strong and able to work well in difficult conditions",
+                  "zh": "第一个更快，所以更可靠耐用。"
+                },
+                "Both are equally robust because both worked in the laboratory.": {
+                  "en": "robust: strong and able to work well in difficult conditions",
+                  "zh": "两者在实验室都正常，所以同样耐用。"
+                },
+                "The second sensor cannot be robust because it is slower.": {
+                  "en": "robust: strong and able to work well in difficult conditions",
+                  "zh": "第二个较慢，所以不可能可靠耐用。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "efficient",
+          "definition": "working well without wasting time, energy, or resources",
+          "meaning": "高效的；效率高的",
+          "phrases": [
+            "an efficient strategy",
+            "an efficient use of time"
+          ],
+          "examples": [
+            {
+              "en": "An efficient route lets the team visit more sites in one day.",
+              "zh": "高效的路线让团队一天能走访更多地点。"
+            },
+            {
+              "en": "This heater is more energy-efficient than the old one.",
+              "zh": "这台暖气比旧款更节能。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "efficient-first",
+              "type": "dialogue",
+              "prompt": "“We have the same telescope time but want to examine more sky.”\n“We need a more _____ strategy.”",
+              "options": [
+                "efficient",
+                "wasteful",
+                "hazardous"
+              ],
+              "answer": "efficient",
+              "explanation": "An efficient strategy achieves more with the available resources.",
+              "translation": "“望远镜观测时间没有增加，但我们想看更多天空。”“我们需要更高效的策略。”",
+              "optionGlosses": {
+                "efficient": {
+                  "en": "working well without wasting time or energy",
+                  "zh": "不浪费时间或精力、效率高的"
+                },
+                "wasteful": {
+                  "en": "using more time, energy, or materials than necessary",
+                  "zh": "浪费时间、能源或材料的"
+                },
+                "hazardous": {
+                  "en": "likely to cause harm or danger",
+                  "zh": "可能造成伤害或危险的"
+                }
+              }
+            },
+            {
+              "id": "efficient-mixed",
+              "type": "reading",
+              "prompt": "Two survey plans detect the same objects with equally reliable results. Plan B uses half the telescope time. What makes B more efficient?",
+              "options": [
+                "It achieves the same useful result with fewer resources.",
+                "It must be more robust in extreme cold.",
+                "It detects twice as many objects by definition.",
+                "It avoids the need to check whether results are reliable."
+              ],
+              "answer": "It achieves the same useful result with fewer resources.",
+              "explanation": "Efficiency compares useful results with the resources used. It does not automatically imply robustness or higher total output.",
+              "revision": 2,
+              "translation": "两种观测方案找到相同天体且同样可靠，B 只用一半观测时间。B 为何更高效？",
+              "optionGlosses": {
+                "It achieves the same useful result with fewer resources.": {
+                  "en": "resources: time, energy, money, or materials available for use",
+                  "zh": "以更少资源得到同样的有效结果。"
+                },
+                "It must be more robust in extreme cold.": {
+                  "en": "robust: strong and able to work well in difficult conditions",
+                  "zh": "它必然在严寒中更可靠。"
+                },
+                "It detects twice as many objects by definition.": {
+                  "en": "This option means: It detects twice as many objects by definition.",
+                  "zh": "按定义，它会发现两倍的天体。"
+                },
+                "It avoids the need to check whether results are reliable.": {
+                  "en": "reliable: able to be trusted to work or give accurate results",
+                  "zh": "不必再检查结果是否可靠。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "word": "survey",
+          "definition": "a systematic examination of an area; also a set of questions to collect opinions",
+          "meaning": "系统调查；勘测；问卷调查",
+          "phrases": [
+            "a sky survey",
+            "conduct a survey"
+          ],
+          "examples": [
+            {
+              "en": "The telescope will conduct a survey of a large area of sky.",
+              "zh": "望远镜将对一大片天空进行系统观测。"
+            },
+            {
+              "en": "A passenger survey asked people about delays.",
+              "zh": "一项乘客问卷调查询问了人们对延误的看法。"
+            }
+          ],
+          "questions": [
+            {
+              "id": "survey-first",
+              "type": "dialogue",
+              "prompt": "“Is the telescope only taking one photograph?”\n“No. It will carry out a systematic _____ of the sky.”",
+              "options": [
+                "survey",
+                "emission",
+                "peak"
+              ],
+              "answer": "survey",
+              "explanation": "A survey examines an area systematically, rather than taking one isolated look.",
+              "translation": "“望远镜只是拍一张照片吗？”“不是，它将对天空开展系统巡查。”",
+              "optionGlosses": {
+                "survey": {
+                  "en": "a systematic examination, or questions used to collect information",
+                  "zh": "系统性调查，或用于收集信息的问卷"
+                },
+                "emission": {
+                  "en": "a release of gas or another substance",
+                  "zh": "一次气体或其他物质的排放"
+                },
+                "peak": {
+                  "en": "the highest point or level",
+                  "zh": "最高点或最高水平"
+                }
+              }
+            },
+            {
+              "id": "survey-mixed",
+              "type": "reading",
+              "prompt": "A team repeatedly maps a region of sky; another collects passenger opinions through a questionnaire. Why can both be described as a survey?",
+              "options": [
+                "Both systematically collect information, although their methods differ.",
+                "Both ask people the same list of questions.",
+                "Both measure only physical distances.",
+                "Both involve one isolated observation without a plan."
+              ],
+              "answer": "Both systematically collect information, although their methods differ.",
+              "explanation": "Survey can refer to a systematic examination of an area or to questions used to gather information.",
+              "revision": 2,
+              "translation": "一个团队反复绘制某片天空，另一个用问卷收集乘客意见。为何两者都可称为 survey？",
+              "optionGlosses": {
+                "Both systematically collect information, although their methods differ.": {
+                  "en": "systematically: in a planned and organized way",
+                  "zh": "都系统收集信息，但方法不同。"
+                },
+                "Both ask people the same list of questions.": {
+                  "en": "This option means: Both ask people the same list of questions.",
+                  "zh": "都向人们询问同样的问题。"
+                },
+                "Both measure only physical distances.": {
+                  "en": "This option means: Both measure only physical distances.",
+                  "zh": "都只测量物理距离。"
+                },
+                "Both involve one isolated observation without a plan.": {
+                  "en": "This option means: Both involve one isolated observation without a plan.",
+                  "zh": "都是没有计划的单次观测。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "word": "detect · hazardous · mitigate · robust · efficient · survey",
+      "questions": [
+        {
+          "id": "detect-first",
+          "type": "dialogue",
+          "prompt": "“The image looks empty to me.”\n“The instrument can still _____ a faint signal.”",
+          "options": [
+            "detect",
+            "prevent",
+            "invent"
+          ],
+          "answer": "detect",
+          "explanation": "To detect a signal is to discover that it is present.",
+          "translation": "“在我看来，这张图是空的。”“仪器仍然可以探测到微弱信号。”",
+          "optionGlosses": {
+            "detect": {
+              "en": "to discover or notice that something is present",
+              "zh": "发现或察觉某物存在"
+            },
+            "prevent": {
+              "en": "to stop something from happening",
+              "zh": "阻止某事发生"
+            },
+            "invent": {
+              "en": "to create something new for the first time",
+              "zh": "首次创造出新事物"
+            }
+          }
+        },
+        {
+          "id": "hazardous-first",
+          "type": "dialogue",
+          "prompt": "“Can we drive across that broken bridge?”\n“No. The crossing is too _____.”",
+          "options": [
+            "hazardous",
+            "efficient",
+            "ordinary"
+          ],
+          "answer": "hazardous",
+          "explanation": "A crossing that may cause harm is hazardous.",
+          "translation": "“我们能开车穿过那座损坏的桥吗？”“不能，过桥太危险了。”",
+          "optionGlosses": {
+            "hazardous": {
+              "en": "likely to cause harm or danger",
+              "zh": "可能造成伤害或危险的"
+            },
+            "efficient": {
+              "en": "working well without wasting time or energy",
+              "zh": "不浪费时间或精力、效率高的"
+            },
+            "ordinary": {
+              "en": "normal or usual, rather than special",
+              "zh": "普通的、常见的"
+            }
+          }
+        },
+        {
+          "id": "mitigate-first",
+          "type": "dialogue",
+          "prompt": "“We cannot stop every storm.”\n“True, but stronger buildings can _____ the damage.”",
+          "options": [
+            "mitigate",
+            "predict perfectly",
+            "increase"
+          ],
+          "answer": "mitigate",
+          "explanation": "Mitigate means reduce harm, even when the cause cannot be removed.",
+          "translation": "“我们无法阻止每一场风暴。”“没错，但更坚固的建筑可以减轻损失。”",
+          "optionGlosses": {
+            "mitigate": {
+              "en": "to make harm or a problem less severe",
+              "zh": "减轻危害或问题的严重程度"
+            },
+            "predict perfectly": {
+              "en": "to say exactly what will happen, without any mistakes",
+              "zh": "准确无误地预测将发生的事情"
+            },
+            "increase": {
+              "en": "to become greater, or make something greater",
+              "zh": "增加或使某物增加"
+            }
+          }
+        },
+        {
+          "id": "robust-first",
+          "type": "dialogue",
+          "prompt": "“Will the equipment work after a long, cold journey?”\n“It should. We designed a _____ system.”",
+          "options": [
+            "robust",
+            "fragile",
+            "temporary"
+          ],
+          "answer": "robust",
+          "explanation": "A robust system keeps working under demanding conditions.",
+          "translation": "“设备经历漫长而寒冷的旅程后还能工作吗？”“应该可以，我们设计的是可靠耐用的系统。”",
+          "optionGlosses": {
+            "robust": {
+              "en": "strong and able to work well in difficult conditions",
+              "zh": "坚固可靠，能在困难条件下正常工作的"
+            },
+            "fragile": {
+              "en": "easily broken or damaged",
+              "zh": "容易破碎或损坏的"
+            },
+            "temporary": {
+              "en": "lasting for only a limited time",
+              "zh": "仅持续有限时间的、暂时的"
+            }
+          }
+        },
+        {
+          "id": "efficient-first",
+          "type": "dialogue",
+          "prompt": "“We have the same telescope time but want to examine more sky.”\n“We need a more _____ strategy.”",
+          "options": [
+            "efficient",
+            "wasteful",
+            "hazardous"
+          ],
+          "answer": "efficient",
+          "explanation": "An efficient strategy achieves more with the available resources.",
+          "translation": "“望远镜观测时间没有增加，但我们想看更多天空。”“我们需要更高效的策略。”",
+          "optionGlosses": {
+            "efficient": {
+              "en": "working well without wasting time or energy",
+              "zh": "不浪费时间或精力、效率高的"
+            },
+            "wasteful": {
+              "en": "using more time, energy, or materials than necessary",
+              "zh": "浪费时间、能源或材料的"
+            },
+            "hazardous": {
+              "en": "likely to cause harm or danger",
+              "zh": "可能造成伤害或危险的"
+            }
+          }
+        },
+        {
+          "id": "survey-first",
+          "type": "dialogue",
+          "prompt": "“Is the telescope only taking one photograph?”\n“No. It will carry out a systematic _____ of the sky.”",
+          "options": [
+            "survey",
+            "emission",
+            "peak"
+          ],
+          "answer": "survey",
+          "explanation": "A survey examines an area systematically, rather than taking one isolated look.",
+          "translation": "“望远镜只是拍一张照片吗？”“不是，它将对天空开展系统巡查。”",
+          "optionGlosses": {
+            "survey": {
+              "en": "a systematic examination, or questions used to collect information",
+              "zh": "系统性调查，或用于收集信息的问卷"
+            },
+            "emission": {
+              "en": "a release of gas or another substance",
+              "zh": "一次气体或其他物质的排放"
+            },
+            "peak": {
+              "en": "the highest point or level",
+              "zh": "最高点或最高水平"
+            }
+          }
+        },
+        {
+          "id": "detect-mixed",
+          "type": "reading",
+          "prompt": "An instrument records a faint heat signal from an asteroid before scientists calculate its orbit. What has the instrument achieved so far?",
+          "options": [
+            "It has detected the object, but has not yet established whether it threatens Earth.",
+            "It has prevented the object from approaching Earth.",
+            "It has proved that the object is hazardous by recording heat.",
+            "It has mitigated the object’s orbit by observing it."
+          ],
+          "answer": "It has detected the object, but has not yet established whether it threatens Earth.",
+          "explanation": "Detection establishes presence. It does not by itself establish danger, prevent impact, or reduce risk.",
+          "revision": 2,
+          "translation": "仪器记录到小行星的微弱热信号，科学家还未计算轨道。仪器目前做到了什么？",
+          "optionGlosses": {
+            "It has detected the object, but has not yet established whether it threatens Earth.": {
+              "en": "This option means: It has detected the object, but has not yet established whether it threatens Earth.",
+              "zh": "发现了天体，但尚未确定它是否威胁地球。"
+            },
+            "It has prevented the object from approaching Earth.": {
+              "en": "This option means: It has prevented the object from approaching Earth.",
+              "zh": "阻止了天体接近地球。"
+            },
+            "It has proved that the object is hazardous by recording heat.": {
+              "en": "hazardous: likely to cause harm or danger",
+              "zh": "记录到热量就证明天体危险。"
+            },
+            "It has mitigated the object’s orbit by observing it.": {
+              "en": "This option means: It has mitigated the object’s orbit by observing it.",
+              "zh": "通过观测减轻了天体的轨道。"
+            }
+          }
+        },
+        {
+          "id": "hazardous-mixed",
+          "type": "reading",
+          "prompt": "An asteroid is large, but its known orbit stays far from Earth. Another is smaller and may pass very close. What should guide the hazard assessment?",
+          "options": [
+            "Potential harm matters; size alone does not establish that an object is hazardous.",
+            "The larger asteroid must be hazardous regardless of its orbit.",
+            "The smaller asteroid is harmless by definition.",
+            "Every detected asteroid is equally hazardous."
+          ],
+          "answer": "Potential harm matters; size alone does not establish that an object is hazardous.",
+          "explanation": "Hazardous means potentially harmful. Assessing danger requires more than identifying an object or comparing size.",
+          "revision": 2,
+          "translation": "一颗大型小行星的已知轨道远离地球；另一颗较小，但可能靠得很近。评估危险时应考虑什么？",
+          "optionGlosses": {
+            "Potential harm matters; size alone does not establish that an object is hazardous.": {
+              "en": "hazardous: likely to cause harm or danger",
+              "zh": "要考虑潜在危害，单凭大小无法确定危险。"
+            },
+            "The larger asteroid must be hazardous regardless of its orbit.": {
+              "en": "hazardous: likely to cause harm or danger",
+              "zh": "大型小行星无论轨道如何都危险。"
+            },
+            "The smaller asteroid is harmless by definition.": {
+              "en": "This option means: The smaller asteroid is harmless by definition.",
+              "zh": "按定义，小型小行星无害。"
+            },
+            "Every detected asteroid is equally hazardous.": {
+              "en": "hazardous: likely to cause harm or danger",
+              "zh": "所有被发现的小行星同样危险。"
+            }
+          }
+        },
+        {
+          "id": "mitigate-mixed",
+          "type": "reading",
+          "prompt": "A warning cannot stop a storm, but it gives residents time to move valuables upstairs. What does the warning help them do?",
+          "options": [
+            "Mitigate the damage without eliminating the storm.",
+            "Prevent the storm by predicting its arrival.",
+            "Detect the damage only after it has occurred.",
+            "Guarantee that the storm will cause no harm."
+          ],
+          "answer": "Mitigate the damage without eliminating the storm.",
+          "explanation": "Mitigation reduces severity. It does not require removing the cause or guaranteeing zero harm.",
+          "revision": 2,
+          "translation": "预警不能阻止风暴，但让居民有时间把贵重物品搬到楼上。预警帮助他们做到了什么？",
+          "optionGlosses": {
+            "Mitigate the damage without eliminating the storm.": {
+              "en": "mitigate: to make harm or a problem less severe",
+              "zh": "减轻损失，但不消除风暴。"
+            },
+            "Prevent the storm by predicting its arrival.": {
+              "en": "prevent: to stop something from happening",
+              "zh": "预测到达时间就能阻止风暴。"
+            },
+            "Detect the damage only after it has occurred.": {
+              "en": "detect: to discover or notice that something is present",
+              "zh": "只在损失发生后才发现它。"
+            },
+            "Guarantee that the storm will cause no harm.": {
+              "en": "guarantee: to make certain that something will happen",
+              "zh": "保证风暴不会造成任何伤害。"
+            }
+          }
+        },
+        {
+          "id": "robust-mixed",
+          "type": "reading",
+          "prompt": "A sensor works quickly in a laboratory but fails in extreme cold. A slower sensor keeps producing reliable data in space. Which claim is supported?",
+          "options": [
+            "The second sensor is more robust under the conditions of the mission.",
+            "The first sensor is more robust simply because it works faster.",
+            "Both are equally robust because both worked in the laboratory.",
+            "The second sensor cannot be robust because it is slower."
+          ],
+          "answer": "The second sensor is more robust under the conditions of the mission.",
+          "explanation": "Robustness concerns reliability under difficult conditions. Speed is a different property.",
+          "revision": 2,
+          "translation": "一个传感器实验室里很快，却在严寒中失灵；另一个较慢，在太空仍提供可靠数据。哪个判断有依据？",
+          "optionGlosses": {
+            "The second sensor is more robust under the conditions of the mission.": {
+              "en": "robust: strong and able to work well in difficult conditions",
+              "zh": "第二个在任务环境中更可靠耐用。"
+            },
+            "The first sensor is more robust simply because it works faster.": {
+              "en": "robust: strong and able to work well in difficult conditions",
+              "zh": "第一个更快，所以更可靠耐用。"
+            },
+            "Both are equally robust because both worked in the laboratory.": {
+              "en": "robust: strong and able to work well in difficult conditions",
+              "zh": "两者在实验室都正常，所以同样耐用。"
+            },
+            "The second sensor cannot be robust because it is slower.": {
+              "en": "robust: strong and able to work well in difficult conditions",
+              "zh": "第二个较慢，所以不可能可靠耐用。"
+            }
+          }
+        },
+        {
+          "id": "efficient-mixed",
+          "type": "reading",
+          "prompt": "Two survey plans detect the same objects with equally reliable results. Plan B uses half the telescope time. What makes B more efficient?",
+          "options": [
+            "It achieves the same useful result with fewer resources.",
+            "It must be more robust in extreme cold.",
+            "It detects twice as many objects by definition.",
+            "It avoids the need to check whether results are reliable."
+          ],
+          "answer": "It achieves the same useful result with fewer resources.",
+          "explanation": "Efficiency compares useful results with the resources used. It does not automatically imply robustness or higher total output.",
+          "revision": 2,
+          "translation": "两种观测方案找到相同天体且同样可靠，B 只用一半观测时间。B 为何更高效？",
+          "optionGlosses": {
+            "It achieves the same useful result with fewer resources.": {
+              "en": "resources: time, energy, money, or materials available for use",
+              "zh": "以更少资源得到同样的有效结果。"
+            },
+            "It must be more robust in extreme cold.": {
+              "en": "robust: strong and able to work well in difficult conditions",
+              "zh": "它必然在严寒中更可靠。"
+            },
+            "It detects twice as many objects by definition.": {
+              "en": "This option means: It detects twice as many objects by definition.",
+              "zh": "按定义，它会发现两倍的天体。"
+            },
+            "It avoids the need to check whether results are reliable.": {
+              "en": "reliable: able to be trusted to work or give accurate results",
+              "zh": "不必再检查结果是否可靠。"
+            }
+          }
+        },
+        {
+          "id": "survey-mixed",
+          "type": "reading",
+          "prompt": "A team repeatedly maps a region of sky; another collects passenger opinions through a questionnaire. Why can both be described as a survey?",
+          "options": [
+            "Both systematically collect information, although their methods differ.",
+            "Both ask people the same list of questions.",
+            "Both measure only physical distances.",
+            "Both involve one isolated observation without a plan."
+          ],
+          "answer": "Both systematically collect information, although their methods differ.",
+          "explanation": "Survey can refer to a systematic examination of an area or to questions used to gather information.",
+          "revision": 2,
+          "translation": "一个团队反复绘制某片天空，另一个用问卷收集乘客意见。为何两者都可称为 survey？",
+          "optionGlosses": {
+            "Both systematically collect information, although their methods differ.": {
+              "en": "systematically: in a planned and organized way",
+              "zh": "都系统收集信息，但方法不同。"
+            },
+            "Both ask people the same list of questions.": {
+              "en": "This option means: Both ask people the same list of questions.",
+              "zh": "都向人们询问同样的问题。"
+            },
+            "Both measure only physical distances.": {
+              "en": "This option means: Both measure only physical distances.",
+              "zh": "都只测量物理距离。"
+            },
+            "Both involve one isolated observation without a plan.": {
+              "en": "This option means: Both involve one isolated observation without a plan.",
+              "zh": "都是没有计划的单次观测。"
+            }
+          }
+        }
+      ],
+      "plan": [
+        {
+          "phase": "card",
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "index": 0,
+          "wordIndex": 0
+        },
+        {
+          "phase": "card",
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "index": 1,
+          "wordIndex": 1
+        },
+        {
+          "phase": "card",
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "index": 2,
+          "wordIndex": 2
+        },
+        {
+          "phase": "card",
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "index": 3,
+          "wordIndex": 3
+        },
+        {
+          "phase": "card",
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "index": 4,
+          "wordIndex": 4
+        },
+        {
+          "phase": "card",
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "index": 5,
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "index": 6,
+          "mixed": true,
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "index": 7,
+          "mixed": true,
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "index": 8,
+          "mixed": true,
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "index": 9,
+          "mixed": true,
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "index": 10,
+          "mixed": true,
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "index": 11,
+          "mixed": true,
+          "wordIndex": 5
+        },
+        {
+          "phase": "reading"
+        }
+      ]
+    }
+  ]
+}

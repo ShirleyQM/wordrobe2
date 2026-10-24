@@ -1,0 +1,12 @@
+const fs=require('fs'),path=require('path'),os=require('os'),http=require('http'),assert=require('assert/strict');
+(async()=>{const root=fs.mkdtempSync(path.join(os.tmpdir(),'fit-concurrency-')),dir=path.join(root,'assets/materials/published');fs.mkdirSync(dir,{recursive:true});
+const original={group:'fittings',key:'wardrobe-fittings-v1',revision:4,draft:{'navy-shirt':{x:1},'suede-skirt':{x:2}},items:[]};fs.writeFileSync(path.join(dir,'fittings.json'),JSON.stringify(original));
+const route=require('./wardrobe-store.cjs')(root),server=http.createServer((req,res)=>route(req,res,new URL(req.url,'http://localhost').pathname));await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+try{const url='http://127.0.0.1:'+server.address().port+'/api/wardrobe/fittings',image='data:image/png;base64,'+fs.readFileSync('assets/atelier-preppy-v1/items/navy-shirt/front.png').toString('base64');
+const put=(id,slot,expected,x)=>fetch(url,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({revision:4,expectedDrafts:{[id]:expected},draft:{[id]:{x},'unrelated-stale':{destroy:true}},items:[{id,name:id,slot,front:image,back:image}]})});
+assert.equal((await put('navy-shirt','top',{x:1},3)).status,200);
+assert.equal((await put('suede-skirt','bottom',{x:2},8)).status,200,'unrelated updates should save despite global revision change');
+assert.equal((await put('navy-shirt','top',{x:1},99)).status,409,'same-item stale writes must be rejected');
+const current=JSON.parse(fs.readFileSync(path.join(dir,'fittings.json')));assert.deepEqual(current.draft['navy-shirt'],{x:3});assert.deepEqual(current.draft['suede-skirt'],{x:8});assert.ok(!current.draft['unrelated-stale']);
+console.log('PASS: concurrent different garments save safely; stale same-garment edits are rejected; unrelated drafts are not overwritten.');
+}finally{await new Promise(resolve=>server.close(resolve));}})().catch(e=>{console.error(e);process.exitCode=1;});

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "T01",
+    "text": "daydream",
+    "meaning": "白日梦",
+    "style": "black-handwritten",
+    "png": "png/T01-black-handwritten-daydream.png",
+    "square512": "square-512/T01-black-handwritten-daydream.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 1,
+    "sourceBounds": [
+      10,
+      163,
+      451,
+      370
+    ],
+    "width": 473,
+    "height": 239,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T02",
+    "text": "be kind",
+    "meaning": "心怀善意",
+    "style": "black-handwritten",
+    "png": "png/T02-black-handwritten-be-kind.png",
+    "square512": "square-512/T02-black-handwritten-be-kind.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 2,
+    "sourceBounds": [
+      469,
+      171,
+      831,
+      323
+    ],
+    "width": 394,
+    "height": 184,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T03",
+    "text": "little joys",
+    "meaning": "小小欢喜",
+    "style": "black-handwritten",
+    "png": "png/T03-black-handwritten-little-joys.png",
+    "square512": "square-512/T03-black-handwritten-little-joys.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 3,
+    "sourceBounds": [
+      853,
+      178,
+      1241,
+      376
+    ],
+    "width": 420,
+    "height": 230,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T04",
+    "text": "sunshine",
+    "meaning": "阳光",
+    "style": "black-handwritten",
+    "png": "png/T04-black-handwritten-sunshine.png",
+    "square512": "square-512/T04-black-handwritten-sunshine.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 4,
+    "sourceBounds": [
+      13,
+      552,
+      434,
+      713
+    ],
+    "width": 453,
+    "height": 193,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T05",
+    "text": "good things",
+    "meaning": "美好事物",
+    "style": "black-handwritten",
+    "png": "png/T05-black-handwritten-good-things.png",
+    "square512": "square-512/T05-black-handwritten-good-things.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 5,
+    "sourceBounds": [
+      426,
+      551,
+      881,
+      743
+    ],
+    "width": 487,
+    "height": 224,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T06",
+    "text": "slow days",
+    "meaning": "慢慢过日子",
+    "style": "black-handwritten",
+    "png": "png/T06-black-handwritten-slow-days.png",
+    "square512": "square-512/T06-black-handwritten-slow-days.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 6,
+    "sourceBounds": [
+      897,
+      545,
+      1244,
+      751
+    ],
+    "width": 379,
+    "height": 238,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T07",
+    "text": "just breathe",
+    "meaning": "深呼吸",
+    "style": "black-handwritten",
+    "png": "png/T07-black-handwritten-just-breathe.png",
+    "square512": "square-512/T07-black-handwritten-just-breathe.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 7,
+    "sourceBounds": [
+      15,
+      956,
+      477,
+      1139
+    ],
+    "width": 494,
+    "height": 215,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T08",
+    "text": "stay curious",
+    "meaning": "保持好奇",
+    "style": "black-handwritten",
+    "png": "png/T08-black-handwritten-stay-curious.png",
+    "square512": "square-512/T08-black-handwritten-stay-curious.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 8,
+    "sourceBounds": [
+      477,
+      965,
+      870,
+      1146
+    ],
+    "width": 425,
+    "height": 213,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T09",
+    "text": "lovely day",
+    "meaning": "美好的一天",
+    "style": "black-handwritten",
+    "png": "png/T09-black-handwritten-lovely-day.png",
+    "square512": "square-512/T09-black-handwritten-lovely-day.png",
+    "sourceSheet": "sheets/black-handwritten.png",
+    "sourceCell": 9,
+    "sourceBounds": [
+      872,
+      939,
+      1242,
+      1152
+    ],
+    "width": 402,
+    "height": 245,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T10",
+    "text": "bloom",
+    "meaning": "绽放",
+    "style": "burgundy-elegant",
+    "png": "png/T10-burgundy-elegant-bloom.png",
+    "square512": "square-512/T10-burgundy-elegant-bloom.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 1,
+    "sourceBounds": [
+      8,
+      173,
+      433,
+      378
+    ],
+    "width": 457,
+    "height": 237,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T11",
+    "text": "sweet moments",
+    "meaning": "甜蜜时刻",
+    "style": "burgundy-elegant",
+    "png": "png/T11-burgundy-elegant-sweet-moments.png",
+    "square512": "square-512/T11-burgundy-elegant-sweet-moments.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 2,
+    "sourceBounds": [
+      438,
+      183,
+      815,
+      388
+    ],
+    "width": 409,
+    "height": 237,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T12",
+    "text": "with love",
+    "meaning": "带着爱",
+    "style": "burgundy-elegant",
+    "png": "png/T12-burgundy-elegant-with-love.png",
+    "square512": "square-512/T12-burgundy-elegant-with-love.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 3,
+    "sourceBounds": [
+      836,
+      209,
+      1247,
+      376
+    ],
+    "width": 443,
+    "height": 199,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T13",
+    "text": "grateful",
+    "meaning": "心怀感激",
+    "style": "burgundy-elegant",
+    "png": "png/T13-burgundy-elegant-grateful.png",
+    "square512": "square-512/T13-burgundy-elegant-grateful.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 4,
+    "sourceBounds": [
+      22,
+      574,
+      408,
+      776
+    ],
+    "width": 418,
+    "height": 234,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T14",
+    "text": "beautiful soul",
+    "meaning": "美丽的灵魂",
+    "style": "burgundy-elegant",
+    "png": "png/T14-burgundy-elegant-beautiful-soul.png",
+    "square512": "square-512/T14-burgundy-elegant-beautiful-soul.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 5,
+    "sourceBounds": [
+      425,
+      550,
+      832,
+      789
+    ],
+    "width": 439,
+    "height": 271,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T15",
+    "text": "soft heart",
+    "meaning": "柔软的心",
+    "style": "burgundy-elegant",
+    "png": "png/T15-burgundy-elegant-soft-heart.png",
+    "square512": "square-512/T15-burgundy-elegant-soft-heart.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 6,
+    "sourceBounds": [
+      850,
+      563,
+      1236,
+      746
+    ],
+    "width": 418,
+    "height": 215,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T16",
+    "text": "wildflower",
+    "meaning": "野花",
+    "style": "burgundy-elegant",
+    "png": "png/T16-burgundy-elegant-wildflower.png",
+    "square512": "square-512/T16-burgundy-elegant-wildflower.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 7,
+    "sourceBounds": [
+      9,
+      953,
+      449,
+      1124
+    ],
+    "width": 472,
+    "height": 203,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T17",
+    "text": "dear heart",
+    "meaning": "亲爱的心",
+    "style": "burgundy-elegant",
+    "png": "png/T17-burgundy-elegant-dear-heart.png",
+    "square512": "square-512/T17-burgundy-elegant-dear-heart.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 8,
+    "sourceBounds": [
+      456,
+      958,
+      859,
+      1140
+    ],
+    "width": 435,
+    "height": 214,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T18",
+    "text": "forever young",
+    "meaning": "永远年轻",
+    "style": "burgundy-elegant",
+    "png": "png/T18-burgundy-elegant-forever-young.png",
+    "square512": "square-512/T18-burgundy-elegant-forever-young.png",
+    "sourceSheet": "sheets/burgundy-elegant.png",
+    "sourceCell": 9,
+    "sourceBounds": [
+      881,
+      919,
+      1249,
+      1157
+    ],
+    "width": 400,
+    "height": 270,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T19",
+    "text": "easy living",
+    "meaning": "自在生活",
+    "style": "cocoa-retro",
+    "png": "png/T19-cocoa-retro-easy-living.png",
+    "square512": "square-512/T19-cocoa-retro-easy-living.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 1,
+    "sourceBounds": [
+      51,
+      136,
+      447,
+      414
+    ],
+    "width": 428,
+    "height": 310,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T20",
+    "text": "happy days",
+    "meaning": "快乐时光",
+    "style": "cocoa-retro",
+    "png": "png/T20-cocoa-retro-happy-days.png",
+    "square512": "square-512/T20-cocoa-retro-happy-days.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 2,
+    "sourceBounds": [
+      464,
+      88,
+      828,
+      421
+    ],
+    "width": 396,
+    "height": 365,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T21",
+    "text": "take it easy",
+    "meaning": "放轻松",
+    "style": "cocoa-retro",
+    "png": "png/T21-cocoa-retro-take-it-easy.png",
+    "square512": "square-512/T21-cocoa-retro-take-it-easy.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 3,
+    "sourceBounds": [
+      867,
+      116,
+      1238,
+      421
+    ],
+    "width": 403,
+    "height": 337,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T22",
+    "text": "good mood",
+    "meaning": "好心情",
+    "style": "cocoa-retro",
+    "png": "png/T22-cocoa-retro-good-mood.png",
+    "square512": "square-512/T22-cocoa-retro-good-mood.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 4,
+    "sourceBounds": [
+      62,
+      483,
+      421,
+      775
+    ],
+    "width": 391,
+    "height": 324,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T23",
+    "text": "sweet life",
+    "meaning": "甜蜜生活",
+    "style": "cocoa-retro",
+    "png": "png/T23-cocoa-retro-sweet-life.png",
+    "square512": "square-512/T23-cocoa-retro-sweet-life.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 5,
+    "sourceBounds": [
+      459,
+      492,
+      836,
+      791
+    ],
+    "width": 409,
+    "height": 331,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T24",
+    "text": "hello weekend",
+    "meaning": "周末你好",
+    "style": "cocoa-retro",
+    "png": "png/T24-cocoa-retro-hello-weekend.png",
+    "square512": "square-512/T24-cocoa-retro-hello-weekend.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 6,
+    "sourceBounds": [
+      865,
+      502,
+      1238,
+      792
+    ],
+    "width": 405,
+    "height": 322,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T25",
+    "text": "coffee first",
+    "meaning": "咖啡优先",
+    "style": "cocoa-retro",
+    "png": "png/T25-cocoa-retro-coffee-first.png",
+    "square512": "square-512/T25-cocoa-retro-coffee-first.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 7,
+    "sourceBounds": [
+      28,
+      870,
+      432,
+      1193
+    ],
+    "width": 436,
+    "height": 355,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T26",
+    "text": "dream big",
+    "meaning": "大胆梦想",
+    "style": "cocoa-retro",
+    "png": "png/T26-cocoa-retro-dream-big.png",
+    "square512": "square-512/T26-cocoa-retro-dream-big.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 8,
+    "sourceBounds": [
+      464,
+      865,
+      849,
+      1200
+    ],
+    "width": 417,
+    "height": 367,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T27",
+    "text": "stay golden",
+    "meaning": "保持闪耀",
+    "style": "cocoa-retro",
+    "png": "png/T27-cocoa-retro-stay-golden.png",
+    "square512": "square-512/T27-cocoa-retro-stay-golden.png",
+    "sourceSheet": "sheets/cocoa-retro.png",
+    "sourceCell": 9,
+    "sourceBounds": [
+      885,
+      892,
+      1238,
+      1196
+    ],
+    "width": 385,
+    "height": 336,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T28",
+    "text": "free spirit",
+    "meaning": "自由灵魂",
+    "style": "navy-casual",
+    "png": "png/T28-navy-casual-free-spirit.png",
+    "square512": "square-512/T28-navy-casual-free-spirit.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 1,
+    "sourceBounds": [
+      39,
+      120,
+      409,
+      421
+    ],
+    "width": 402,
+    "height": 333,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T29",
+    "text": "ocean air",
+    "meaning": "海洋气息",
+    "style": "navy-casual",
+    "png": "png/T29-navy-casual-ocean-air.png",
+    "square512": "square-512/T29-navy-casual-ocean-air.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 2,
+    "sourceBounds": [
+      477,
+      175,
+      807,
+      408
+    ],
+    "width": 362,
+    "height": 265,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T30",
+    "text": "sun seeker",
+    "meaning": "追逐阳光的人",
+    "style": "navy-casual",
+    "png": "png/T30-navy-casual-sun-seeker.png",
+    "square512": "square-512/T30-navy-casual-sun-seeker.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 3,
+    "sourceBounds": [
+      879,
+      158,
+      1231,
+      412
+    ],
+    "width": 384,
+    "height": 286,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T31",
+    "text": "little wonder",
+    "meaning": "小小奇迹",
+    "style": "navy-casual",
+    "png": "png/T31-navy-casual-little-wonder.png",
+    "square512": "square-512/T31-navy-casual-little-wonder.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 4,
+    "sourceBounds": [
+      35,
+      516,
+      419,
+      799
+    ],
+    "width": 416,
+    "height": 315,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T32",
+    "text": "feel good",
+    "meaning": "感觉美好",
+    "style": "navy-casual",
+    "png": "png/T32-navy-casual-feel-good.png",
+    "square512": "square-512/T32-navy-casual-feel-good.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 5,
+    "sourceBounds": [
+      480,
+      518,
+      810,
+      811
+    ],
+    "width": 362,
+    "height": 325,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T33",
+    "text": "make memories",
+    "meaning": "创造回忆",
+    "style": "navy-casual",
+    "png": "png/T33-navy-casual-make-memories.png",
+    "square512": "square-512/T33-navy-casual-make-memories.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 6,
+    "sourceBounds": [
+      852,
+      534,
+      1237,
+      797
+    ],
+    "width": 417,
+    "height": 295,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T34",
+    "text": "keep growing",
+    "meaning": "不断成长",
+    "style": "navy-casual",
+    "png": "png/T34-navy-casual-keep-growing.png",
+    "square512": "square-512/T34-navy-casual-keep-growing.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 7,
+    "sourceBounds": [
+      25,
+      895,
+      452,
+      1204
+    ],
+    "width": 459,
+    "height": 341,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T35",
+    "text": "chase dreams",
+    "meaning": "追逐梦想",
+    "style": "navy-casual",
+    "png": "png/T35-navy-casual-chase-dreams.png",
+    "square512": "square-512/T35-navy-casual-chase-dreams.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 8,
+    "sourceBounds": [
+      459,
+      901,
+      853,
+      1191
+    ],
+    "width": 426,
+    "height": 322,
+    "spelling": "visually reviewed",
+    "alpha": true
+  },
+  {
+    "id": "T36",
+    "text": "enjoy today",
+    "meaning": "享受今天",
+    "style": "navy-casual",
+    "png": "png/T36-navy-casual-enjoy-today.png",
+    "square512": "square-512/T36-navy-casual-enjoy-today.png",
+    "sourceSheet": "sheets/navy-casual.png",
+    "sourceCell": 9,
+    "sourceBounds": [
+      893,
+      926,
+      1237,
+      1200
+    ],
+    "width": 376,
+    "height": 306,
+    "spelling": "visually reviewed",
+    "alpha": true
+  }
+]

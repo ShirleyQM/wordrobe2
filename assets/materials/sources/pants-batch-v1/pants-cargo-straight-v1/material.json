@@ -1,0 +1,16 @@
+{
+  "id": "pants-cargo-straight-v1",
+  "defaultColor": "#7d826a",
+  "presets": "../material-presets.json",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "sourceSeparation": "Derived from painted source luminance, local detail and alpha; lineart.png is a derived seam-detail layer, not original hand-drawn lineart.",
+  "layers": [
+    "base-mask.png",
+    "trim-mask.png",
+    "shadow.png",
+    "highlight.png",
+    "lineart.png",
+    "texture.png"
+  ]
+}

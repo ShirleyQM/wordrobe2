@@ -1,0 +1,53 @@
+{
+  "id": "cotton-tee-cropped-v1",
+  "integrationStatus": "待接入",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "defaultColor": "#dcd8cf",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill",
+      "blend": "source-over",
+      "opacity": 1
+    },
+    {
+      "path": "trim-mask.png",
+      "operation": "color-fill",
+      "blend": "source-over",
+      "opacity": 1,
+      "empty": true
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply",
+      "opacity": 1
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen",
+      "opacity": 1
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation",
+      "opacity": 0.14
+    },
+    {
+      "path": "../texture-{preset}.png",
+      "blend": "neutral-gray-modulation",
+      "clip": "base-mask.png",
+      "opacity": "preset strength"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over",
+      "opacity": 0.48
+    }
+  ],
+  "alpha": "base-mask alpha; trim empty, included in base",
+  "formula": "v=color*(1-shadowAlpha); v=255-(255-v)*(1-highlightAlpha); v*=1+(texture-128)/128*0.14+(preset-128)/128*strength; source-over lineart at 0.48; clamp RGB; alpha=mask",
+  "sourceSeparation": "original generated lineart independently retained; painted low-frequency luminance separated into neutral shadow/highlight, high-pass into texture",
+  "presets": "/assets/materials/sources/cotton-tee-batch-v1/material-presets.json",
+  "geometryBakedFrom": 804
+}

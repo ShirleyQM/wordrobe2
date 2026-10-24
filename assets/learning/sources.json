@@ -1,0 +1,23 @@
+{
+  "importedAt": "2026-10-23T17:10:18.145462+00:00",
+  "counts": {
+    "gre": 7504,
+    "toefl": 6970
+  },
+  "sources": [
+    {
+      "name": "ECDICT",
+      "url": "https://github.com/skywind3000/ECDICT",
+      "license": "MIT",
+      "sha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf"
+    },
+    {
+      "name": "TOEFL Essential Vocabulary (AI-enriched)",
+      "url": "https://github.com/gungorkaya-eng/toefl-essential-vocabulary-dataset",
+      "credit": "https://wordlevel.net",
+      "license": "MIT",
+      "count": 1000
+    }
+  ],
+  "questionType": "Locally generated vocabulary exercises; not official ETS questions"
+}

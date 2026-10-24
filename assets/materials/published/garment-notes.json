@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "items": {
+    "campus-top": {
+      "itemId": "campus-top",
+      "revision": 1,
+      "tags": [],
+      "text": "",
+      "updatedAt": "2026-10-21T17:47:49.069Z"
+    },
+    "dress-rose-offshoulder": {
+      "itemId": "dress-rose-offshoulder",
+      "revision": 2,
+      "tags": [
+        "内片露出"
+      ],
+      "text": "吊带，袖子",
+      "updatedAt": "2026-10-21T17:49:43.937Z"
+    },
+    "tops-hoodie-pullover": {
+      "itemId": "tops-hoodie-pullover",
+      "revision": 1,
+      "tags": [
+        "袖子不贴"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-21T17:55:55.000Z"
+    },
+    "tops-sweatshirt-crop": {
+      "itemId": "tops-sweatshirt-crop",
+      "revision": 1,
+      "tags": [
+        "内片露出"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-21T17:56:01.717Z"
+    },
+    "top-v1-green-rib": {
+      "itemId": "top-v1-green-rib",
+      "revision": 2,
+      "tags": [
+        "内片露出",
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:02.205Z"
+    },
+    "top-v1-peach-peplum": {
+      "itemId": "top-v1-peach-peplum",
+      "revision": 1,
+      "tags": [],
+      "text": "领子开口不对",
+      "updatedAt": "2026-10-21T18:17:58.751Z"
+    },
+    "top-v1-blue-ruffle": {
+      "itemId": "top-v1-blue-ruffle",
+      "revision": 1,
+      "tags": [
+        "袖子不贴"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-21T18:18:20.577Z"
+    },
+    "top-v1-olive-scarf": {
+      "itemId": "top-v1-olive-scarf",
+      "revision": 3,
+      "tags": [
+        "袖子不贴"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:05.779Z"
+    },
+    "top-v1-red-henley": {
+      "itemId": "top-v1-red-henley",
+      "revision": 2,
+      "tags": [
+        "袖子不贴",
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:10.216Z"
+    },
+    "top-v1-ivory-jabot": {
+      "itemId": "top-v1-ivory-jabot",
+      "revision": 1,
+      "tags": [
+        "袖子不贴"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-21T18:20:42.629Z"
+    },
+    "dress-cream-bow": {
+      "itemId": "dress-cream-bow",
+      "revision": 2,
+      "tags": [
+        "内片露出"
+      ],
+      "text": "做一个更有质感的",
+      "updatedAt": "2026-10-22T16:58:18.372Z"
+    },
+    "separate-v1-black-zip": {
+      "itemId": "separate-v1-black-zip",
+      "revision": 1,
+      "tags": [
+        "内片露出"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-22T12:06:35.161Z"
+    },
+    "dress-garnet-wrap": {
+      "itemId": "dress-garnet-wrap",
+      "revision": 1,
+      "tags": [
+        "内片露出"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-22T12:14:55.268Z"
+    },
+    "separate-v1-ivory-polo-original": {
+      "itemId": "separate-v1-ivory-polo-original",
+      "revision": 1,
+      "tags": [],
+      "text": "原来的衣服是小短款泡泡袖",
+      "updatedAt": "2026-10-22T14:10:52.910Z"
+    },
+    "separate-v1-mustard-polo-original": {
+      "itemId": "separate-v1-mustard-polo-original",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-22T14:11:14.759Z"
+    },
+    "separate-v1-black-check-polo": {
+      "itemId": "separate-v1-black-check-polo",
+      "revision": 1,
+      "tags": [],
+      "text": "没处理干净",
+      "updatedAt": "2026-10-22T14:11:35.074Z"
+    },
+    "separate-v1-mustard-polo": {
+      "itemId": "separate-v1-mustard-polo",
+      "revision": 2,
+      "tags": [
+        "基础款"
+      ],
+      "text": "变成长袖，其他无改动。胸旁边袖子藏到背后，不要裹着",
+      "updatedAt": "2026-10-23T18:00:56.363Z"
+    },
+    "runway-black-rib-shell": {
+      "itemId": "runway-black-rib-shell",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T15:19:40.729Z"
+    },
+    "runway-red-plaid-overshirt": {
+      "itemId": "runway-red-plaid-overshirt",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:14.035Z"
+    },
+    "runway-ivory-black-fringe-coat-v2": {
+      "itemId": "runway-ivory-black-fringe-coat-v2",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:14.942Z"
+    },
+    "runway-brown-stripe-tee": {
+      "itemId": "runway-brown-stripe-tee",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:20.118Z"
+    },
+    "street-v1-green-blazer": {
+      "itemId": "street-v1-green-blazer",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:27.603Z"
+    },
+    "runway-white-crop-shirt": {
+      "itemId": "runway-white-crop-shirt",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:45.178Z"
+    },
+    "runway-ivory-fringe-jacket": {
+      "itemId": "runway-ivory-fringe-jacket",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:43:52.994Z"
+    },
+    "street-v1-taupe-crop": {
+      "itemId": "street-v1-taupe-crop",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:44:07.465Z"
+    },
+    "separate-v1-black-check-polo-original": {
+      "itemId": "separate-v1-black-check-polo-original",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:44:09.774Z"
+    },
+    "top-v1-butter-cutaway": {
+      "itemId": "top-v1-butter-cutaway",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T16:44:44.591Z"
+    },
+    "top-v1-lavender-wrap": {
+      "itemId": "top-v1-lavender-wrap",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:00:57.842Z"
+    },
+    "top-v1-ivory-tank": {
+      "itemId": "top-v1-ivory-tank",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:03.564Z"
+    },
+    "top-v1-yellow-polo": {
+      "itemId": "top-v1-yellow-polo",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:06.570Z"
+    },
+    "campus-04-navy-tailored-shirt-tie": {
+      "itemId": "campus-04-navy-tailored-shirt-tie",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:01:13.156Z"
+    },
+    "autumn-colorblock-knit-v1": {
+      "itemId": "autumn-colorblock-knit-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:48:23.107Z"
+    },
+    "autumn-layered-shirt-v1": {
+      "itemId": "autumn-layered-shirt-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T18:48:25.536Z"
+    },
+    "jewel-cute-pearl-stud-3-silver": {
+      "itemId": "jewel-cute-pearl-stud-3-silver",
+      "revision": 2,
+      "tags": [],
+      "text": "",
+      "updatedAt": "2026-10-23T20:11:00.008Z"
+    },
+    "layered-suede-bomber-v1": {
+      "itemId": "layered-suede-bomber-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T20:54:58.070Z"
+    },
+    "layered-zip-jacket-v1": {
+      "itemId": "layered-zip-jacket-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T20:55:00.131Z"
+    },
+    "layered-denim-jacket-v1": {
+      "itemId": "layered-denim-jacket-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T20:55:01.307Z"
+    },
+    "layered-hooded-knit-v1": {
+      "itemId": "layered-hooded-knit-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T20:55:02.575Z"
+    },
+    "layered-utility-blouson-v1": {
+      "itemId": "layered-utility-blouson-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T20:55:04.752Z"
+    },
+    "bookshop-basic-shirt-v1": {
+      "itemId": "bookshop-basic-shirt-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-23T22:07:13.459Z"
+    }
+  }
+}

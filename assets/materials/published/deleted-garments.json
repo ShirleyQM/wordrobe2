@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "items": {
+    "campus-03-cream-pinafore-pinafore": {
+      "id": "campus-03-cream-pinafore-pinafore",
+      "name": "藏蓝背带连衣裙",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:27:11.959Z",
+      "updatedAt": "2026-10-21T18:27:11.959Z"
+    },
+    "printed-e16d3849-4331-4f6f-b442-8f7820916bd8": {
+      "id": "printed-e16d3849-4331-4f6f-b442-8f7820916bd8",
+      "name": "花草 001印花＋标准圆领 T 恤＋001",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:21:12.223Z",
+      "updatedAt": "2026-10-21T18:21:12.223Z"
+    },
+    "campus-02-gray-knit-shirt-tie": {
+      "id": "campus-02-gray-knit-shirt-tie",
+      "name": "白衬衫·含藏蓝领带",
+      "deleted": false,
+      "deletedAt": "2026-10-21T18:21:15.622Z",
+      "updatedAt": "2026-10-22T14:54:07.124Z"
+    },
+    "tee-cropped": {
+      "id": "tee-cropped",
+      "name": "短款圆领 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:21:23.068Z",
+      "updatedAt": "2026-10-21T18:21:23.068Z"
+    },
+    "tee-regular": {
+      "id": "tee-regular",
+      "name": "标准圆领 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:21:25.108Z",
+      "updatedAt": "2026-10-21T18:21:25.108Z"
+    },
+    "tee-loose": {
+      "id": "tee-loose",
+      "name": "宽松落肩 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:23:49.308Z",
+      "updatedAt": "2026-10-21T18:23:49.308Z"
+    },
+    "dress-01": {
+      "id": "dress-01",
+      "name": "静蓝小高领无袖收腰裙",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:27:15.206Z",
+      "updatedAt": "2026-10-21T18:27:15.207Z"
+    },
+    "dress-05": {
+      "id": "dress-05",
+      "name": "雾绿方领长连衣裙",
+      "deleted": true,
+      "deletedAt": "2026-10-21T18:27:24.414Z",
+      "updatedAt": "2026-10-21T18:27:24.414Z"
+    },
+    "dress2-black-velvet": {
+      "id": "dress2-black-velvet",
+      "name": "黑丝绒蕾丝领短裙",
+      "deleted": false,
+      "deletedAt": "2026-10-22T12:14:08.228Z",
+      "updatedAt": "2026-10-22T14:54:07.588Z"
+    },
+    "dress-blue-puff": {
+      "id": "dress-blue-puff",
+      "name": "晴蓝方领泡泡袖裙",
+      "deleted": false,
+      "deletedAt": "2026-10-22T12:14:16.775Z",
+      "updatedAt": "2026-10-22T14:54:07.885Z"
+    },
+    "dress-black-halter": {
+      "id": "dress-black-halter",
+      "name": "挂脖短裙",
+      "deleted": false,
+      "deletedAt": "2026-10-22T12:14:26.819Z",
+      "updatedAt": "2026-10-22T14:54:08.428Z"
+    },
+    "dress-ivory-sleeve": {
+      "id": "dress-ivory-sleeve",
+      "name": "长袖修身裙",
+      "deleted": false,
+      "deletedAt": "2026-10-22T12:14:28.895Z",
+      "updatedAt": "2026-10-22T14:54:08.171Z"
+    },
+    "dress-03": {
+      "id": "dress-03",
+      "name": "月白小立领连衣裙",
+      "deleted": true,
+      "deletedAt": "2026-10-23T14:54:08.106Z",
+      "updatedAt": "2026-10-23T14:54:08.106Z"
+    },
+    "cotton-tee-asymmetric-v1": {
+      "id": "cotton-tee-asymmetric-v1",
+      "name": "斜肩 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:34:45.262Z",
+      "updatedAt": "2026-10-22T13:34:45.262Z"
+    },
+    "cotton-tee-asymmetric-v2": {
+      "id": "cotton-tee-asymmetric-v2",
+      "name": "斜肩 T 恤（袖型修正版）",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:34:49.573Z",
+      "updatedAt": "2026-10-22T13:34:49.573Z"
+    },
+    "cotton-tee-offshoulder-v2": {
+      "id": "cotton-tee-offshoulder-v2",
+      "name": "一字肩 T 恤（袖型修正版）",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:35:03.264Z",
+      "updatedAt": "2026-10-22T13:35:03.264Z"
+    },
+    "cotton-tee-regular-v2": {
+      "id": "cotton-tee-regular-v2",
+      "name": "经典圆领 T 恤（袖型修正版）",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:35:14.263Z",
+      "updatedAt": "2026-10-22T13:35:14.263Z"
+    },
+    "cotton-tee-cropped-v2": {
+      "id": "cotton-tee-cropped-v2",
+      "name": "短款 T 恤（袖型修正版）",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:35:16.936Z",
+      "updatedAt": "2026-10-22T13:35:16.936Z"
+    },
+    "cotton-tee-regular-v1": {
+      "id": "cotton-tee-regular-v1",
+      "name": "经典圆领 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:37:58.758Z",
+      "updatedAt": "2026-10-22T13:37:58.758Z"
+    },
+    "cotton-tee-offshoulder-v1": {
+      "id": "cotton-tee-offshoulder-v1",
+      "name": "一字肩 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:38:00.788Z",
+      "updatedAt": "2026-10-22T13:38:00.788Z"
+    },
+    "cotton-tee-fitted-v1": {
+      "id": "cotton-tee-fitted-v1",
+      "name": "合身 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:38:03.153Z",
+      "updatedAt": "2026-10-22T13:38:03.153Z"
+    },
+    "cotton-tee-cropped-v1": {
+      "id": "cotton-tee-cropped-v1",
+      "name": "短款 T 恤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T13:38:04.817Z",
+      "updatedAt": "2026-10-22T13:38:04.817Z"
+    },
+    "campus-top": {
+      "id": "campus-top",
+      "name": "月白衬衫 · 雾蓝开衫",
+      "deleted": true,
+      "deletedAt": "2026-10-22T16:51:19.018Z",
+      "updatedAt": "2026-10-22T16:51:19.018Z"
+    },
+    "separate-v1-caramel-cardigan": {
+      "id": "separate-v1-caramel-cardigan",
+      "name": "焦糖提花开衫",
+      "deleted": true,
+      "deletedAt": "2026-10-22T16:54:14.063Z",
+      "updatedAt": "2026-10-22T16:54:14.063Z"
+    },
+    "campus-04-navy-tailored-blazer": {
+      "id": "campus-04-navy-tailored-blazer",
+      "name": "藏蓝学院西装外套",
+      "deleted": true,
+      "deletedAt": "2026-10-22T16:54:24.364Z",
+      "updatedAt": "2026-10-22T16:54:24.364Z"
+    },
+    "campus-02-gray-knit-cardigan": {
+      "id": "campus-02-gray-knit-cardigan",
+      "name": "雾蓝麻花针织开衫",
+      "deleted": true,
+      "deletedAt": "2026-10-22T16:54:25.762Z",
+      "updatedAt": "2026-10-22T16:54:25.762Z"
+    },
+    "underlayer-straight": {
+      "id": "underlayer-straight",
+      "name": "低位平口内搭",
+      "deleted": true,
+      "deletedAt": "2026-10-22T18:01:42.362Z",
+      "updatedAt": "2026-10-22T18:01:42.362Z"
+    },
+    "campus-bra": {
+      "id": "campus-bra",
+      "name": "基础运动内衣",
+      "deleted": true,
+      "deletedAt": "2026-10-22T18:01:44.365Z",
+      "updatedAt": "2026-10-22T18:01:44.365Z"
+    },
+    "underlayer-plunge": {
+      "id": "underlayer-plunge",
+      "name": "低心位无肩带内搭",
+      "deleted": true,
+      "deletedAt": "2026-10-22T18:01:45.872Z",
+      "updatedAt": "2026-10-22T18:01:45.872Z"
+    },
+    "underlayer-seamless": {
+      "id": "underlayer-seamless",
+      "name": "窄边无肩带内搭",
+      "deleted": true,
+      "deletedAt": "2026-10-22T18:01:50.004Z",
+      "updatedAt": "2026-10-22T18:01:50.004Z"
+    },
+    "campus-briefs": {
+      "id": "campus-briefs",
+      "name": "基础棉质内裤",
+      "deleted": true,
+      "deletedAt": "2026-10-22T18:02:11.199Z",
+      "updatedAt": "2026-10-22T18:02:11.199Z"
+    },
+    "dress-02": {
+      "id": "dress-02",
+      "name": "雾蓝短袖衬衫裙",
+      "deleted": true,
+      "deletedAt": "2026-10-23T14:54:12.064Z",
+      "updatedAt": "2026-10-23T14:54:12.064Z"
+    },
+    "short-04": {
+      "id": "short-04",
+      "name": "雾绿工装短裙",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:50:06.152Z",
+      "updatedAt": "2026-10-23T17:50:06.152Z"
+    },
+    "street-v1-taupe-pumps": {
+      "id": "street-v1-taupe-pumps",
+      "name": "浅褐尖头鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:03.478Z",
+      "updatedAt": "2026-10-23T17:51:03.478Z"
+    },
+    "street-v1-dark-pumps": {
+      "id": "street-v1-dark-pumps",
+      "name": "深褐尖头鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:05.395Z",
+      "updatedAt": "2026-10-23T17:51:05.395Z"
+    },
+    "campus-02-gray-knit-shoes": {
+      "id": "campus-02-gray-knit-shoes",
+      "name": "黑色玛丽珍鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:07.130Z",
+      "updatedAt": "2026-10-23T17:51:07.130Z"
+    },
+    "campus-03-cream-pinafore-shoes": {
+      "id": "campus-03-cream-pinafore-shoes",
+      "name": "焦糖棕乐福鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:08.553Z",
+      "updatedAt": "2026-10-23T17:51:08.553Z"
+    },
+    "campus-01-blue-sailor-shoes": {
+      "id": "campus-01-blue-sailor-shoes",
+      "name": "海军蓝乐福鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:09.903Z",
+      "updatedAt": "2026-10-23T17:51:09.903Z"
+    },
+    "campus-04-navy-tailored-shoes": {
+      "id": "campus-04-navy-tailored-shoes",
+      "name": "深棕德比鞋",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:11.974Z",
+      "updatedAt": "2026-10-23T17:51:11.974Z"
+    },
+    "ankle-boots": {
+      "id": "ankle-boots",
+      "name": "复古短靴",
+      "deleted": true,
+      "deletedAt": "2026-10-23T17:51:13.752Z",
+      "updatedAt": "2026-10-23T17:51:13.752Z"
+    },
+    "campus-03-cream-pinafore-socks": {
+      "id": "campus-03-cream-pinafore-socks",
+      "name": "奶白中筒袜",
+      "deleted": true,
+      "deletedAt": "2026-10-23T19:51:00.822Z",
+      "updatedAt": "2026-10-23T19:51:00.822Z"
+    },
+    "campus-01-blue-sailor-socks": {
+      "id": "campus-01-blue-sailor-socks",
+      "name": "双杠中筒袜",
+      "deleted": true,
+      "deletedAt": "2026-10-23T19:51:02.865Z",
+      "updatedAt": "2026-10-23T19:51:02.865Z"
+    },
+    "campus-socks": {
+      "id": "campus-socks",
+      "name": "月白短袜",
+      "deleted": true,
+      "deletedAt": "2026-10-23T19:51:04.282Z",
+      "updatedAt": "2026-10-23T19:51:04.282Z"
+    },
+    "street-v1-green-socks": {
+      "id": "street-v1-green-socks",
+      "name": "墨绿短袜",
+      "deleted": true,
+      "deletedAt": "2026-10-23T19:51:06.523Z",
+      "updatedAt": "2026-10-23T19:51:06.523Z"
+    }
+  }
+}

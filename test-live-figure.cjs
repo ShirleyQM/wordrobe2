@@ -1,0 +1,11 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert/strict');
+const source=fs.readFileSync('app.js','utf8');const fn=source.slice(source.indexOf('function liveFigure()'),source.indexOf('function openWorkspace('));
+const occlusion=require('./assets/garment-body-occlusion.js');
+const shirt={id:'shirt',name:'上衣',slot:'top',image:'saved-front.png',back:'saved-back.png',bodyOcclusionRects:[[300,400,30,40]]};
+const shoes={id:'shoes',name:'鞋',slot:'shoes',image:'shoes.png',hideBodyFrom:1500};
+const under={id:'bra',name:'内搭',body:'open-arms-v2',image:'under.png'};const items=[shirt,shoes,under];
+const ctx=vm.createContext({innerPreview:false,state:{equipped:{top:'shirt',shoes:'shoes',bra:'bra'}},itemById:id=>items.find(i=>i.id===id),window:{GarmentBodyOcclusion:occlusion},localStorage:{getItem:()=>null}});
+vm.runInContext(fn,ctx);const result=ctx.liveFigure();
+assert.match(result,/saved-front\.png/);assert.match(result,/saved-back\.png/);assert.match(result,/open-arms\/body\.png/);assert.match(result,/under\.png/);assert.match(result,/clip-path:inset/);assert.match(result,/mask-image/);
+shirt.unavailable=true;assert.doesNotMatch(ctx.liveFigure(),/saved-front\.png/);shirt.unavailable=false;ctx.innerPreview=true;assert.doesNotThrow(()=>ctx.liveFigure());
+console.log('PASS: real game figure renders saved garments, base and underlayer with body occlusion, including unavailable items and inner preview.');

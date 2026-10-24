@@ -1,0 +1,273 @@
+{
+  "group": "imprints",
+  "key": "word-atelier-imprints-v1",
+  "revision": 126,
+  "updatedAt": "2026-10-22T20:59:31.377Z",
+  "draft": {
+    "version": 2,
+    "selected": "campus-top",
+    "items": {
+      "tee-regular": {
+        "pattern": "heart",
+        "box": {
+          "x": 398,
+          "y": 416.3206030150754,
+          "width": 144,
+          "height": 131.69849246231155
+        }
+      },
+      "navy-shirt": {
+        "pattern": null,
+        "box": null
+      },
+      "suede-skirt": {
+        "pattern": null,
+        "box": null
+      },
+      "tee-cropped": {
+        "pattern": null,
+        "box": null
+      },
+      "dress-01": {
+        "pattern": null,
+        "box": null
+      },
+      "dress-05": {
+        "pattern": null,
+        "box": null
+      },
+      "campus-04-navy-tailored-blazer": {
+        "pattern": "motif-M001",
+        "box": {
+          "x": 529.1538696289062,
+          "y": 338.4001550292969,
+          "width": 185,
+          "height": 258.59999999999997
+        }
+      },
+      "short-04": {
+        "pattern": null,
+        "box": null
+      },
+      "campus-04-navy-tailored-shirt-tie": {
+        "pattern": "motif-M010",
+        "box": {
+          "x": 369.5,
+          "y": 343.68,
+          "width": 185,
+          "height": 268.8
+        }
+      },
+      "tops-bandeau-ivory": {
+        "pattern": null,
+        "box": null
+      },
+      "tops-bandeau-navy": {
+        "pattern": null,
+        "box": null
+      },
+      "campus-top": {
+        "pattern": null,
+        "box": null
+      }
+    },
+    "sources": {
+      "tee-regular": "/assets/materials/published/prints-tee-regular-5-front.png",
+      "navy-shirt": "/assets/materials/published/fittings-navy-shirt-149-front.png",
+      "suede-skirt": "/assets/materials/published/preppy-suede-skirt-6-front.png",
+      "tee-cropped": "/assets/materials/published/fittings-tee-cropped-73-front.png",
+      "dress-01": "/assets/materials/published/fittings-dress-01-73-front.png",
+      "dress-05": "/assets/materials/published/fittings-dress-05-204-front.png",
+      "campus-04-navy-tailored-blazer": "/assets/materials/published/fittings-campus-04-navy-tailored-blazer-432-front.png",
+      "short-04": "/assets/materials/published/fittings-short-04-194-front.png",
+      "campus-04-navy-tailored-shirt-tie": "/assets/materials/published/fittings-campus-04-navy-tailored-shirt-tie-277-front.png",
+      "tops-bandeau-ivory": "/assets/materials/published/fittings-tops-bandeau-ivory-367-front.png",
+      "tops-bandeau-navy": "/assets/materials/published/fittings-tops-bandeau-navy-229-front.png",
+      "campus-top": "/assets/materials/published/fittings-campus-top-146-front.png"
+    },
+    "migrated": true,
+    "rendererVersion": 2
+  },
+  "items": [
+    {
+      "id": "tee-regular",
+      "name": "标准圆领 T 恤",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-tee-regular-123-front.png",
+      "back": "/assets/materials/published/imprints-tee-regular-123-back.png",
+      "image": "/assets/materials/published/imprints-tee-regular-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-tee-regular-123-front.png"
+    },
+    {
+      "id": "navy-shirt",
+      "name": "格纹衬衫",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-navy-shirt-123-front.png",
+      "back": "/assets/materials/published/imprints-navy-shirt-123-back.png",
+      "image": "/assets/materials/published/imprints-navy-shirt-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-navy-shirt-123-front.png"
+    },
+    {
+      "id": "suede-skirt",
+      "name": "腰带麂皮短裙",
+      "slot": "bottom",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-suede-skirt-123-front.png",
+      "back": "/assets/materials/published/imprints-suede-skirt-123-back.png",
+      "image": "/assets/materials/published/imprints-suede-skirt-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-suede-skirt-123-front.png"
+    },
+    {
+      "id": "tee-cropped",
+      "name": "短款圆领 T 恤",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-tee-cropped-123-front.png",
+      "back": "/assets/materials/published/imprints-tee-cropped-123-back.png",
+      "image": "/assets/materials/published/imprints-tee-cropped-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-tee-cropped-123-front.png"
+    },
+    {
+      "id": "dress-01",
+      "name": "小高领无袖收腰裙",
+      "slot": "dress",
+      "body": "campus",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-dress-01-123-front.png",
+      "back": "/assets/materials/published/imprints-dress-01-123-back.png",
+      "image": "/assets/materials/published/imprints-dress-01-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-dress-01-123-front.png"
+    },
+    {
+      "id": "dress-05",
+      "name": "方领长连衣裙",
+      "slot": "dress",
+      "body": "campus",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-dress-05-123-front.png",
+      "back": "/assets/materials/published/imprints-dress-05-123-back.png",
+      "image": "/assets/materials/published/imprints-dress-05-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-dress-05-123-front.png"
+    },
+    {
+      "id": "campus-04-navy-tailored-blazer",
+      "name": "学院西装外套",
+      "slot": "coat",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-campus-04-navy-tailored-blazer-123-front.png",
+      "back": "/assets/materials/published/imprints-campus-04-navy-tailored-blazer-123-back.png",
+      "image": "/assets/materials/published/imprints-campus-04-navy-tailored-blazer-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-campus-04-navy-tailored-blazer-123-front.png"
+    },
+    {
+      "id": "short-04",
+      "name": "工装短裙",
+      "slot": "bottom",
+      "body": "campus",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-short-04-123-front.png",
+      "back": "/assets/materials/published/imprints-short-04-123-back.png",
+      "image": "/assets/materials/published/imprints-short-04-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-short-04-123-front.png"
+    },
+    {
+      "id": "campus-04-navy-tailored-shirt-tie",
+      "name": "衬衫 · 含领带",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-campus-04-navy-tailored-shirt-tie-123-front.png",
+      "back": "/assets/materials/published/imprints-campus-04-navy-tailored-shirt-tie-123-back.png",
+      "image": "/assets/materials/published/imprints-campus-04-navy-tailored-shirt-tie-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-campus-04-navy-tailored-shirt-tie-123-front.png"
+    },
+    {
+      "id": "tops-bandeau-ivory",
+      "name": "拼片抹胸",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-tops-bandeau-ivory-123-front.png",
+      "back": "/assets/materials/published/imprints-tops-bandeau-ivory-123-back.png",
+      "image": "/assets/materials/published/imprints-tops-bandeau-ivory-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-tops-bandeau-ivory-123-front.png"
+    },
+    {
+      "id": "tops-bandeau-navy",
+      "name": "直筒抹胸",
+      "slot": "top",
+      "body": "open-arms-v2",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-tops-bandeau-navy-123-front.png",
+      "back": "/assets/materials/published/imprints-tops-bandeau-navy-123-back.png",
+      "image": "/assets/materials/published/imprints-tops-bandeau-navy-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-tops-bandeau-navy-123-front.png"
+    },
+    {
+      "id": "campus-top",
+      "name": "衬衫 · 开衫",
+      "slot": "top",
+      "body": "campus",
+      "price": 0,
+      "editor": "imprints",
+      "revision": 123,
+      "hideBodyFrom": 0,
+      "kind": "imprint",
+      "front": "/assets/materials/published/imprints-campus-top-123-front.png",
+      "back": "/assets/materials/published/imprints-campus-top-123-back.png",
+      "image": "/assets/materials/published/imprints-campus-top-123-front.png",
+      "thumbnail": "/assets/materials/published/imprints-campus-top-123-front.png"
+    }
+  ]
+}

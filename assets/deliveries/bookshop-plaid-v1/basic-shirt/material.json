@@ -1,0 +1,31 @@
+{
+  "id": "bookshop-basic-shirt-v1",
+  "defaultColor": "#f5f4f0",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "presets": "../material-presets.json",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over"
+    }
+  ],
+  "sourceSeparation": "Original pre-paint vector construction retained. AI cotton painting supplies neutral light/shadow and high-pass weave. Material ink includes only pre-paint placket and cuff seams; no body outline.",
+  "backLayers": false
+}

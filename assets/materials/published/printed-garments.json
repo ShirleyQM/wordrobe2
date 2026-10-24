@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "printed-e16d3849-4331-4f6f-b442-8f7820916bd8",
+      "name": "花草 001印花＋标准圆领 T 恤＋001",
+      "baseId": "tee-regular",
+      "patternId": "motif-M001",
+      "sequence": 1,
+      "requestId": "314a0c40-0f39-428d-871c-92f75b367ed2",
+      "createdAt": "2026-10-21T17:29:03.093Z"
+    },
+    {
+      "id": "printed-68f00422-7547-4603-9225-aa1cc56e3f7a",
+      "name": "花草 012印花＋短款 T 恤＋001",
+      "baseId": "cotton-tee-cropped-v1",
+      "patternId": "motif-M012",
+      "sequence": 1,
+      "requestId": "9fc1e37b-275b-4fa4-a923-9ce991487a9d",
+      "createdAt": "2026-10-22T12:40:38.459Z"
+    },
+    {
+      "id": "printed-fac7eab6-15ed-4c36-8f28-6eb2fc38a3d8",
+      "name": "改色＋直筒长裤＋001",
+      "baseId": "campus-04-navy-tailored-trousers",
+      "patternId": null,
+      "sequence": 1,
+      "requestId": "a0cd3d80-4e84-40a3-b0ad-aa56b7824d4f",
+      "createdAt": "2026-10-22T13:48:14.297Z"
+    },
+    {
+      "id": "printed-1a4c9fad-593b-4f85-b110-d87d4b2f9b6f",
+      "name": "甜点 107印花＋合身 T 恤（顺袖款）＋001",
+      "baseId": "cotton-tee-fitted-v3",
+      "patternId": "motif-M107",
+      "sequence": 1,
+      "requestId": "13dd2c4f-41bf-42f9-8a9c-e3ad7078b27b",
+      "createdAt": "2026-10-22T13:49:37.145Z"
+    },
+    {
+      "id": "printed-ba3df962-8fc0-4911-aa79-d3cc16c80f8e",
+      "name": "玫瑰 055印花＋经典圆领 T 恤（顺袖款）＋001",
+      "baseId": "cotton-tee-regular-v3",
+      "patternId": "motif-M055",
+      "sequence": 1,
+      "requestId": "65375bd3-6052-43f8-b5af-3c1c5d7d058a",
+      "createdAt": "2026-10-22T18:00:34.757Z"
+    },
+    {
+      "id": "printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f",
+      "name": "花叶提花＋复古金扣丝绒连衣裙＋001",
+      "baseId": "dress-burgundy-velvet",
+      "patternId": null,
+      "sequence": 1,
+      "requestId": "ace3e6ad-99f9-4ee1-8ff1-9b569dc957b0",
+      "createdAt": "2026-10-22T19:39:17.134Z"
+    },
+    {
+      "id": "printed-9098729b-54d7-4112-8c9c-215036dc0ce2",
+      "name": "改色＋竖纹针织中筒袜＋001",
+      "baseId": "socks-ribbed-crew",
+      "patternId": null,
+      "sequence": 1,
+      "requestId": "c59299ab-f829-4654-a657-e757f1b122b2",
+      "createdAt": "2026-10-23T17:53:21.349Z"
+    },
+    {
+      "id": "printed-7acee4eb-b5b8-4b85-98e7-f6b85cade2e5",
+      "name": "bloom印花＋合身 T 恤（袖型修正版）＋001",
+      "baseId": "cotton-tee-fitted-v2",
+      "patternId": "lettering-T10",
+      "sequence": 1,
+      "requestId": "b3d33021-97de-4fd7-95dc-8a3ce17feefd",
+      "createdAt": "2026-10-24T15:00:55.077Z"
+    },
+    {
+      "id": "printed-4ec992fe-3283-4cb0-b5eb-26023c116c96",
+      "name": "改色＋合身 T 恤（袖型修正版）＋001",
+      "baseId": "cotton-tee-fitted-v2",
+      "patternId": null,
+      "sequence": 1,
+      "requestId": "46914383-9039-4422-b677-ee2aafe039df",
+      "createdAt": "2026-10-24T15:01:01.873Z"
+    }
+  ]
+}

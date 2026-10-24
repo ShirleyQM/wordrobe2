@@ -1,0 +1,5 @@
+/* Selected user-supplied artwork. Transparent W mark in the atelier brand palette. */
+body header .brand-lockup{display:inline-flex;align-items:center;gap:8px;flex-shrink:0;text-decoration:none;letter-spacing:1px}
+body header .brand-lockup .brand-symbol{display:block;width:34px;height:34px;flex:0 0 34px;object-fit:contain;border-radius:0}
+body header .brand-lockup .brand-name{display:inline;margin:0;font:inherit;font-size:17px;letter-spacing:1px;line-height:1.2;color:inherit;white-space:nowrap}
+@media(max-width:380px){body header .brand-lockup{gap:5px}body header .brand-lockup .brand-symbol{width:28px;height:28px;flex-basis:28px}body header .brand-lockup .brand-name{font-size:14px;letter-spacing:0}}

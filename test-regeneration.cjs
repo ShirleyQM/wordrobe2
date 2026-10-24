@@ -1,0 +1,36 @@
+const fs=require('fs'),path=require('path'),os=require('os'),assert=require('assert/strict');
+const factory=require('./regeneration-store.cjs');
+const root=fs.mkdtempSync(path.join(os.tmpdir(),'wardrobe-regeneration-'));
+const write=(file,value)=>{const p=path.join(root,file);fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,JSON.stringify(value));};
+const catalog=JSON.parse(fs.readFileSync('assets/materials/garments/collection.json','utf8'));
+const item=catalog.items.find(i=>i.id==='navy-shirt');
+for(const url of [catalog.body,item.front,item.back]){const dest=path.join(root,url);fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync('.'+url,dest);}
+write('assets/materials/garments/collection.json',{...catalog,items:[item]});
+write('assets/materials/sources/imported/catalog.json',{items:[]});
+write('assets/materials/regeneration/config.json',{threadId:'test-thread'});
+const fitted={id:item.id,name:item.name,body:item.body,slot:item.slot,front:item.front,back:item.back,revision:8};
+const draft={mesh:'user-mesh',contours:'user-curves'};
+write('assets/materials/published/fittings.json',{revision:8,items:[fitted],draft:{[item.id]:draft,other:{manual:true}}});
+let sent=0;
+const store=factory(root,{dispatch:async message=>{sent++;assert.ok(message.includes('navy-shirt'));}});
+(async()=>{
+ const preview='data:image/png;base64,'+fs.readFileSync('.'+item.front).toString('base64');
+ const submitted=await store.submit({itemId:item.id,preview,draft});
+ assert.ok(store.unavailable().has(item.id));
+ assert.deepEqual(store.get(submitted.id).records.fittings.draft,draft);
+ assert.ok(fs.existsSync(path.join(store.jobsDir,submitted.id,'reference/currentFront.png')));
+ await new Promise(resolve=>setImmediate(resolve));assert.equal(store.get(submitted.id).status,'sent');assert.equal(sent,1);
+ assert.equal((await store.submit({itemId:item.id,preview,draft})).id,submitted.id);assert.equal(sent,1,'duplicate requests do not create duplicate chats');
+ store.cancel(submitted.id);assert.ok(!store.unavailable().has(item.id));
+ const failed=factory(root,{dispatch:async()=>{throw Error('offline');}});const second=await failed.submit({itemId:item.id,preview,draft});await new Promise(resolve=>setImmediate(resolve));assert.equal(failed.get(second.id).status,'dispatch_failed');assert.ok(failed.unavailable().has(item.id));
+ await store.dispatch(second.id);assert.equal(store.get(second.id).status,'sent');
+ const result=path.join(store.jobsDir,second.id,'result');fs.mkdirSync(result);for(const [name,url]of Object.entries({front:item.front,back:item.back,display:item.front,tryon:catalog.body}))fs.copyFileSync('.'+url,path.join(result,name+'.png'));
+ fs.writeFileSync(path.join(result,'qa.json'),JSON.stringify({visual_reviewed:true,wearable_validated:true,notes:'fixture verification'}));
+ fs.writeFileSync(path.join(result,'registration.json'),JSON.stringify({bounds:item.bounds,contours:item.contours}));
+ const original=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/published/fittings.json')));
+ const changed=structuredClone(original);changed.draft[item.id].userChangedAfterRequest=true;write('assets/materials/published/fittings.json',changed);
+ assert.throws(()=>store.complete(second.id),/新的手调版本/);assert.ok(store.unavailable().has(item.id));
+ write('assets/materials/published/fittings.json',original);assert.equal(store.complete(second.id).status,'completed');assert.ok(!store.unavailable().has(item.id));
+ const latest=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/published/fittings.json')));assert.deepEqual(latest.draft.other,{manual:true});assert.ok(fs.existsSync(path.join(store.jobsDir,second.id,'before-publish/fittings.json')));
+ console.log('PASS: disable, snapshot, deduplicate, dispatch/retry, restore, refuse to overwrite newer manual edits, publish and preserve unrelated drafts.');
+})().catch(e=>{console.error(e);process.exitCode=1;});

@@ -1,0 +1,18 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const M=require('./assets/atelier-preppy-v1/mesh.js'),C=require('./print-garment.js'),GarmentOpenings=require('./assets/atelier-preppy-v1/openings.js');
+const source=fs.readFileSync('assets/atelier-preppy-v1/studio.js','utf8');
+const context=vm.createContext({M,C,GarmentOpenings,copy:v=>JSON.parse(JSON.stringify(v))});
+vm.runInContext(source.slice(source.indexOf('function cleanState('),source.indexOf('function history()')),context);
+const item={id:'new-import',slot:'top',bounds:[300,300,350,400],contours:['M300 300 L650 300 L650 700 L300 700 Z'],defaultVisible:true};
+context.item=item;vm.runInContext('fresh=cleanState(item)',context);
+assert.equal(Object.hasOwn(context.fresh,'openings'),false,'opening-free imports retain original front/back until the user edits');
+const custom=[{points:[[410,310],[470,350],[530,310]],rise:30}];context.saved={...JSON.parse(JSON.stringify(context.fresh)),openings:custom};
+vm.runInContext('reloaded=cleanState(item,saved)',context);
+assert.deepEqual(JSON.parse(JSON.stringify(context.reloaded.openings)),custom,'user-added openings survive reload when the import has no opening metadata');
+assert.deepEqual(JSON.parse(JSON.stringify(context.reloaded.mesh)),JSON.parse(JSON.stringify(context.fresh.mesh)),'opening reload preserves mesh');
+context.saved.openings=[];vm.runInContext('empty=cleanState(item,saved)',context);assert.equal(context.empty.openings.length,0,'removing the last opening persists');
+context.saved.openings=[{points:[],rise:Infinity}];vm.runInContext('invalid=cleanState(item,saved)',context);assert.equal(Object.hasOwn(context.invalid,'openings'),false,'invalid data cannot replace clean source');
+const original=new Uint8ClampedArray([80,90,100,255,100,110,120,128]),mask=new Uint8ClampedArray([0,0,0,255,0,0,0,0]),split=GarmentOpenings.split(original,mask);
+assert.equal(split.back[3],255);assert.equal(split.front[3],0);assert.equal(split.front[7],128);assert.equal(split.back[7],0);
+assert.deepEqual(Array.from(original),[80,90,100,255,100,110,120,128],'partition does not mutate original pixels');
+console.log('PASS: new imports keep their source partition; added/removed openings survive reload without preset metadata, meshes and originals preserved.');

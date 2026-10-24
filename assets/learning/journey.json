@@ -1,0 +1,1864 @@
+{
+  "version": 1,
+  "description": "30 short, context-led levels; project-authored examples plus attributed user-supplied questions.",
+  "levels": [
+    {
+      "id": "journey-01",
+      "number": 1,
+      "title": "A wider world",
+      "mode": "context",
+      "word": "insular",
+      "meaning": "狭隘保守的",
+      "definition": "uninterested in ideas outside your own group",
+      "phrases": [
+        "an insular outlook",
+        "an insular community"
+      ],
+      "examples": [
+        {
+          "en": "His insular outlook left little room for unfamiliar ideas.",
+          "zh": "他的观念狭隘保守，几乎容不下陌生的想法。"
+        },
+        {
+          "en": "The club became less insular when it welcomed students from abroad.",
+          "zh": "接纳海外学生后，俱乐部不再那么封闭。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1287
+      },
+      "questions": [
+        {
+          "id": "insular-dialogue",
+          "type": "dialogue",
+          "prompt": "Our club only listens to people who grew up here.",
+          "options": [
+            "It sounds rather insular.",
+            "It sounds open to outside ideas.",
+            "It seems eager to explore other cultures."
+          ],
+          "answer": "It sounds rather insular.",
+          "explanation": "uninterested in ideas outside your own group",
+          "translation": "狭隘保守的"
+        },
+        {
+          "id": "insular-phrase",
+          "type": "phrase",
+          "prompt": "The club became less _____ when it welcomed students from abroad.",
+          "options": [
+            "insular",
+            "welcoming",
+            "cosmopolitan",
+            "outward-looking"
+          ],
+          "answer": "insular",
+          "explanation": "The club became less insular when it welcomed students from abroad.",
+          "translation": "接纳海外学生后，俱乐部不再那么封闭。"
+        },
+        {
+          "id": "insular-source",
+          "type": "source",
+          "prompt": "It is a paradox of the Victorians that they were both _____ and, through their empire, cosmopolitan.",
+          "options": [
+            "capricious",
+            "insular",
+            "mercenary",
+            "idealistic",
+            "intransigent"
+          ],
+          "answer": "insular",
+          "explanation": "paradox 表示反差；cosmopolitan 意为世界性的，因此空格应为狭隘保守的 insular。",
+          "source": {
+            "stem": "It is a paradox of the Victorians that they were both _____ and, through their empire, cosmopolitan.",
+            "options": [
+              "capricious",
+              "insular",
+              "mercenary",
+              "idealistic",
+              "intransigent"
+            ],
+            "source": "GRE填空机经1100题难度分级版（第二版）+(1).pdf",
+            "page": 7,
+            "question": "section 1 / 1",
+            "explanation": "paradox 表示反差；cosmopolitan 意为世界性的，因此空格应为狭隘保守的 insular。",
+            "answer": "insular",
+            "answerReview": "按句意人工核对；原文件此处未列显式答案"
+          }
+        }
+      ]
+    },
+    {
+      "id": "journey-02",
+      "number": 2,
+      "title": "A quiet chapel",
+      "mode": "reading",
+      "word": "numinous",
+      "meaning": "神秘的；超自然的",
+      "definition": "having a mysterious, spiritual quality",
+      "phrases": [
+        "a numinous atmosphere",
+        "a numinous presence"
+      ],
+      "examples": [
+        {
+          "en": "The ancient shrine had a numinous atmosphere.",
+          "zh": "这座古老的神殿有一种神秘的氛围。"
+        },
+        {
+          "en": "In the empty chapel, the candlelight gave the room a numinous quality.",
+          "zh": "空教堂里的烛光赋予房间一种神秘的灵性。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1597
+      },
+      "questions": [
+        {
+          "id": "numinous-dialogue",
+          "type": "reading",
+          "prompt": "The chapel felt mysterious and almost sacred.",
+          "options": [
+            "There was something numinous about it.",
+            "It felt completely ordinary.",
+            "It seemed like a busy market."
+          ],
+          "answer": "There was something numinous about it.",
+          "explanation": "having a mysterious, spiritual quality",
+          "translation": "神秘的；超自然的"
+        },
+        {
+          "id": "numinous-reading",
+          "type": "reading",
+          "prompt": "In the empty chapel, the candlelight gave the room a numinous quality.\n\nHow did the chapel feel?",
+          "options": [
+            "Mysterious and spiritual.",
+            "Crowded and commercial.",
+            "Ordinary and noisy."
+          ],
+          "answer": "Mysterious and spiritual.",
+          "explanation": "having a mysterious, spiritual quality",
+          "translation": "空教堂里的烛光赋予房间一种神秘的灵性。"
+        },
+        {
+          "id": "numinous-source",
+          "type": "source",
+          "prompt": "My grandma has a strong belief in all things _____: she insists, for example, that the house in which she lived as a child was haunted.",
+          "options": [
+            "clamorous",
+            "invidious",
+            "numinous",
+            "empirical",
+            "sonorous"
+          ],
+          "answer": "numinous",
+          "explanation": "冒号后用闹鬼举例，指向超自然的 numinous。",
+          "source": {
+            "stem": "My grandma has a strong belief in all things _____: she insists, for example, that the house in which she lived as a child was haunted.",
+            "options": [
+              "clamorous",
+              "invidious",
+              "numinous",
+              "empirical",
+              "sonorous"
+            ],
+            "source": "GRE填空机经1100题难度分级版（第二版）+(1).pdf",
+            "page": 7,
+            "question": "section 1 / 2",
+            "explanation": "冒号后用闹鬼举例，指向超自然的 numinous。",
+            "answer": "numinous",
+            "answerReview": "按句意人工核对；原文件此处未列显式答案"
+          }
+        }
+      ]
+    },
+    {
+      "id": "journey-03",
+      "number": 3,
+      "title": "A secret formula",
+      "mode": "context",
+      "word": "proprietary",
+      "meaning": "专有的；私有的",
+      "definition": "owned or controlled exclusively by a person or company",
+      "phrases": [
+        "proprietary software",
+        "a proprietary formula"
+      ],
+      "examples": [
+        {
+          "en": "The firm refused to reveal its proprietary formula.",
+          "zh": "这家公司拒绝透露其专有配方。"
+        },
+        {
+          "en": "The app uses proprietary software that other companies cannot copy.",
+          "zh": "这个应用使用其他公司不能复制的专有软件。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 2976
+      },
+      "questions": [
+        {
+          "id": "proprietary-dialogue",
+          "type": "dialogue",
+          "prompt": "Can we copy their secret formula into our product?",
+          "options": [
+            "No, it is proprietary.",
+            "Yes, it is freely shared.",
+            "Yes, nobody owns it."
+          ],
+          "answer": "No, it is proprietary.",
+          "explanation": "owned or controlled exclusively by a person or company",
+          "translation": "专有的；私有的"
+        },
+        {
+          "id": "proprietary-phrase",
+          "type": "phrase",
+          "prompt": "The app uses _____ software that other companies cannot copy.",
+          "options": [
+            "proprietary",
+            "open-source",
+            "public-domain",
+            "freely licensed"
+          ],
+          "answer": "proprietary",
+          "explanation": "The app uses proprietary software that other companies cannot copy.",
+          "translation": "这个应用使用其他公司不能复制的专有软件。"
+        },
+        {
+          "id": "proprietary-source",
+          "type": "source",
+          "prompt": "Among the Meakambut people of Papua New Guinea, legends are associated with specific caves in the Sepik region, and these legends are _____: only the cave owner can share its secrets.",
+          "options": [
+            "impenetrable",
+            "immutable",
+            "proprietary",
+            "didactic",
+            "self-perpetuating"
+          ],
+          "answer": "proprietary",
+          "explanation": "only the cave owner 表示只有洞穴主人有权分享，故为专有的 proprietary。",
+          "source": {
+            "stem": "Among the Meakambut people of Papua New Guinea, legends are associated with specific caves in the Sepik region, and these legends are _____: only the cave owner can share its secrets.",
+            "options": [
+              "impenetrable",
+              "immutable",
+              "proprietary",
+              "didactic",
+              "self-perpetuating"
+            ],
+            "source": "GRE填空机经1100题难度分级版（第二版）+(1).pdf",
+            "page": 9,
+            "question": "section 2 / 1",
+            "explanation": "only the cave owner 表示只有洞穴主人有权分享，故为专有的 proprietary。",
+            "answer": "proprietary",
+            "answerReview": "按句意人工核对；原文件此处未列显式答案"
+          }
+        }
+      ]
+    },
+    {
+      "id": "journey-04",
+      "number": 4,
+      "title": "Making room",
+      "mode": "context",
+      "word": "reconcile",
+      "meaning": "调和；使一致",
+      "definition": "make conflicting things compatible; restore friendly relations",
+      "phrases": [
+        "reconcile A with B",
+        "reconcile differences"
+      ],
+      "examples": [
+        {
+          "en": "The committee must reconcile competing demands.",
+          "zh": "委员会必须协调相互冲突的诉求。"
+        },
+        {
+          "en": "It is hard to reconcile a full-time job with evening classes.",
+          "zh": "全职工作和晚间课程很难兼顾。"
+        },
+        {
+          "en": "After years of silence, the sisters finally reconciled.",
+          "zh": "多年不相往来之后，姐妹俩终于和解了。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1989
+      },
+      "questions": [
+        {
+          "id": "reconcile-dialogue",
+          "type": "dialogue",
+          "prompt": "We disagreed last year, but now we are friends again.",
+          "options": [
+            "You managed to reconcile.",
+            "You decided to remain enemies.",
+            "You made the disagreement worse."
+          ],
+          "answer": "You managed to reconcile.",
+          "explanation": "make conflicting things compatible; restore friendly relations",
+          "translation": "调和；使一致"
+        },
+        {
+          "id": "reconcile-phrase",
+          "type": "phrase",
+          "prompt": "It is hard to _____ a full-time job with evening classes.",
+          "options": [
+            "reconcile",
+            "replace",
+            "confuse",
+            "compare"
+          ],
+          "answer": "reconcile",
+          "explanation": "It is hard to reconcile a full-time job with evening classes.",
+          "translation": "全职工作和晚间课程很难兼顾。"
+        },
+        {
+          "id": "reconcile-source",
+          "type": "source",
+          "prompt": "Mechanisms develop whereby every successful species can _____ its innate capacity for population growth with the constraints that arise through its interactions with the natural environment.",
+          "options": [
+            "enhance",
+            "replace",
+            "produce",
+            "surpass",
+            "reconcile"
+          ],
+          "answer": "reconcile",
+          "explanation": "reconcile A with B 表示协调 A 与 B，此处协调种群增长能力和环境限制。",
+          "source": {
+            "stem": "Mechanisms develop whereby every successful species can _____ its innate capacity for population growth with the constraints that arise through its interactions with the natural environment.",
+            "options": [
+              "enhance",
+              "replace",
+              "produce",
+              "surpass",
+              "reconcile"
+            ],
+            "source": "填空1000题.pdf",
+            "page": 4,
+            "question": "10102005",
+            "explanation": "reconcile A with B 表示协调 A 与 B，此处协调种群增长能力和环境限制。",
+            "answer": "reconcile",
+            "answerReview": "按句意人工核对；原文件此处未列显式答案"
+          }
+        }
+      ]
+    },
+    {
+      "id": "journey-05",
+      "number": 5,
+      "title": "After a setback",
+      "mode": "context",
+      "word": "sanguine",
+      "meaning": "乐观的",
+      "definition": "confident that things will turn out well",
+      "phrases": [
+        "sanguine about the future",
+        "remain sanguine"
+      ],
+      "examples": [
+        {
+          "en": "Despite the setback, she remained sanguine about the outcome.",
+          "zh": "尽管遭遇挫折，她仍对结果保持乐观。"
+        },
+        {
+          "en": "Even after the delay, Mia was sanguine about finishing on time.",
+          "zh": "即使耽搁了一阵，米娅仍对按时完成抱有信心。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 2140
+      },
+      "questions": [
+        {
+          "id": "sanguine-dialogue",
+          "type": "dialogue",
+          "prompt": "The first attempt failed. Are you still hopeful?",
+          "options": [
+            "Yes, I remain sanguine.",
+            "No, I have lost all hope.",
+            "No, success seems impossible."
+          ],
+          "answer": "Yes, I remain sanguine.",
+          "explanation": "confident that things will turn out well",
+          "translation": "乐观的"
+        },
+        {
+          "id": "sanguine-phrase",
+          "type": "phrase",
+          "prompt": "Even after the delay, Mia was _____ about finishing on time.",
+          "options": [
+            "sanguine",
+            "pessimistic",
+            "hopeless",
+            "despairing"
+          ],
+          "answer": "sanguine",
+          "explanation": "Even after the delay, Mia was sanguine about finishing on time.",
+          "translation": "即使耽搁了一阵，米娅仍对按时完成抱有信心。"
+        }
+      ]
+    },
+    {
+      "id": "journey-06",
+      "number": 6,
+      "title": "A sharp review",
+      "mode": "context",
+      "word": "acerbic",
+      "meaning": "尖酸刻薄的",
+      "definition": "sharp and unkind in speech or tone",
+      "phrases": [
+        "acerbic wit",
+        "an acerbic comment"
+      ],
+      "examples": [
+        {
+          "en": "His acerbic comments offended several colleagues.",
+          "zh": "他尖酸的评论冒犯了好几位同事。"
+        },
+        {
+          "en": "Her review was so acerbic that the young actor stopped reading it.",
+          "zh": "她的评论如此尖刻，那位年轻演员没再读下去。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 43
+      },
+      "questions": [
+        {
+          "id": "acerbic-dialogue",
+          "type": "dialogue",
+          "prompt": "The review mocked every mistake I made.",
+          "options": [
+            "The critic's tone was acerbic.",
+            "The critic was gentle and reassuring.",
+            "The review offered only warm praise."
+          ],
+          "answer": "The critic's tone was acerbic.",
+          "explanation": "sharp and unkind in speech or tone",
+          "translation": "尖酸刻薄的"
+        },
+        {
+          "id": "acerbic-phrase",
+          "type": "phrase",
+          "prompt": "Her review was so _____ that the young actor stopped reading it.",
+          "options": [
+            "acerbic",
+            "kind",
+            "encouraging",
+            "gentle"
+          ],
+          "answer": "acerbic",
+          "explanation": "Her review was so acerbic that the young actor stopped reading it.",
+          "translation": "她的评论如此尖刻，那位年轻演员没再读下去。"
+        }
+      ]
+    },
+    {
+      "id": "journey-07",
+      "number": 7,
+      "title": "Before it happened",
+      "mode": "context",
+      "word": "prophetic",
+      "meaning": "预言性的",
+      "definition": "correctly suggesting what will happen in the future",
+      "phrases": [
+        "a prophetic warning",
+        "prophetic words"
+      ],
+      "examples": [
+        {
+          "en": "Her prophetic warning proved accurate years later.",
+          "zh": "多年后，她当初带有预见性的警告被证明是准确的。"
+        },
+        {
+          "en": "Her warning about the old bridge turned out to be prophetic.",
+          "zh": "她对那座旧桥的警告后来应验了。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1878
+      },
+      "questions": [
+        {
+          "id": "prophetic-dialogue",
+          "type": "dialogue",
+          "prompt": "She predicted the crash a month before it happened.",
+          "options": [
+            "Her warning was prophetic.",
+            "Her warning came too late.",
+            "Her prediction was completely wrong."
+          ],
+          "answer": "Her warning was prophetic.",
+          "explanation": "correctly suggesting what will happen in the future",
+          "translation": "预言性的"
+        },
+        {
+          "id": "prophetic-phrase",
+          "type": "phrase",
+          "prompt": "Her warning about the old bridge turned out to be _____.",
+          "options": [
+            "prophetic",
+            "mistaken",
+            "irrelevant",
+            "belated"
+          ],
+          "answer": "prophetic",
+          "explanation": "Her warning about the old bridge turned out to be prophetic.",
+          "translation": "她对那座旧桥的警告后来应验了。"
+        },
+        {
+          "id": "prophetic-source",
+          "type": "source",
+          "prompt": "Kagan maintains that an infant’s reactions to its first stressful experiences are part of a natural process of development, not harbingers of childhood unhappiness or _____ signs of adolescent anxiety.",
+          "options": [
+            "prophetic",
+            "normal",
+            "monotonous",
+            "virtual",
+            "typical"
+          ],
+          "answer": "prophetic",
+          "explanation": "or 连接平行表达；harbingers 是预兆，与 prophetic signs 对应。",
+          "source": {
+            "stem": "Kagan maintains that an infant’s reactions to its first stressful experiences are part of a natural process of development, not harbingers of childhood unhappiness or _____ signs of adolescent anxiety.",
+            "options": [
+              "prophetic",
+              "normal",
+              "monotonous",
+              "virtual",
+              "typical"
+            ],
+            "source": "填空1000题.pdf",
+            "page": 5,
+            "question": "10102014",
+            "explanation": "or 连接平行表达；harbingers 是预兆，与 prophetic signs 对应。",
+            "answer": "prophetic",
+            "answerReview": "按句意人工核对；原文件此处未列显式答案"
+          }
+        }
+      ]
+    },
+    {
+      "id": "journey-08",
+      "number": 8,
+      "title": "At the negotiating table",
+      "mode": "context",
+      "word": "intransigent",
+      "meaning": "不妥协的；固执的",
+      "definition": "refusing to change your position or compromise",
+      "phrases": [
+        "an intransigent attitude",
+        "remain intransigent"
+      ],
+      "examples": [
+        {
+          "en": "The intransigent leader rejected every compromise.",
+          "zh": "这位固执的领导人拒绝了所有妥协方案。"
+        },
+        {
+          "en": "Both sides remained intransigent, so the talks ended without a deal.",
+          "zh": "双方都不肯让步，谈判因此无果而终。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1308
+      },
+      "questions": [
+        {
+          "id": "intransigent-dialogue",
+          "type": "dialogue",
+          "prompt": "They refuse to change even one part of the proposal.",
+          "options": [
+            "They are being intransigent.",
+            "They are willing to meet halfway.",
+            "They are ready to compromise."
+          ],
+          "answer": "They are being intransigent.",
+          "explanation": "refusing to change your position or compromise",
+          "translation": "不妥协的；固执的"
+        },
+        {
+          "id": "intransigent-phrase",
+          "type": "phrase",
+          "prompt": "Both sides remained _____, so the talks ended without a deal.",
+          "options": [
+            "intransigent",
+            "flexible",
+            "conciliatory",
+            "accommodating"
+          ],
+          "answer": "intransigent",
+          "explanation": "Both sides remained intransigent, so the talks ended without a deal.",
+          "translation": "双方都不肯让步，谈判因此无果而终。"
+        }
+      ]
+    },
+    {
+      "id": "journey-09",
+      "number": 9,
+      "title": "Put it to the test",
+      "mode": "context",
+      "word": "empirical",
+      "meaning": "基于观察或实验的",
+      "definition": "based on observation or experiments",
+      "phrases": [
+        "empirical evidence",
+        "empirical research"
+      ],
+      "examples": [
+        {
+          "en": "The hypothesis requires empirical evidence.",
+          "zh": "这个假设需要观察或实验得出的证据。"
+        },
+        {
+          "en": "We tested the idea with fifty users to collect empirical evidence.",
+          "zh": "我们让五十位用户测试了这个想法，以收集实证证据。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 819
+      },
+      "questions": [
+        {
+          "id": "empirical-dialogue",
+          "type": "dialogue",
+          "prompt": "Is that based on a guess or on actual tests?",
+          "options": [
+            "We have empirical evidence from tests.",
+            "It is only a personal hunch.",
+            "Nobody has observed it yet."
+          ],
+          "answer": "We have empirical evidence from tests.",
+          "explanation": "based on observation or experiments",
+          "translation": "基于观察或实验的"
+        },
+        {
+          "id": "empirical-phrase",
+          "type": "phrase",
+          "prompt": "We tested the idea with fifty users to collect _____ evidence.",
+          "options": [
+            "empirical",
+            "imaginary",
+            "speculative",
+            "unverified"
+          ],
+          "answer": "empirical",
+          "explanation": "We tested the idea with fifty users to collect empirical evidence.",
+          "translation": "我们让五十位用户测试了这个想法，以收集实证证据。"
+        }
+      ]
+    },
+    {
+      "id": "journey-10",
+      "number": 10,
+      "title": "Two minds",
+      "mode": "context",
+      "word": "ambivalent",
+      "meaning": "矛盾的；喜忧参半的",
+      "definition": "having mixed or conflicting feelings",
+      "phrases": [
+        "ambivalent about moving",
+        "feel ambivalent"
+      ],
+      "examples": [
+        {
+          "en": "She felt ambivalent about accepting the promotion.",
+          "zh": "对于是否接受这次晋升，她的心情很矛盾。"
+        },
+        {
+          "en": "I am ambivalent about moving: I love the city but will miss my friends.",
+          "zh": "我对搬家心情矛盾：喜欢那座城市，又会想念朋友。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 2718
+      },
+      "questions": [
+        {
+          "id": "ambivalent-dialogue",
+          "type": "dialogue",
+          "prompt": "I want the promotion, but I do not want the extra hours.",
+          "options": [
+            "You sound ambivalent.",
+            "You have no doubts at all.",
+            "You clearly dislike every part of it."
+          ],
+          "answer": "You sound ambivalent.",
+          "explanation": "having mixed or conflicting feelings",
+          "translation": "矛盾的；喜忧参半的"
+        },
+        {
+          "id": "ambivalent-phrase",
+          "type": "phrase",
+          "prompt": "I am _____ about moving: I love the city but will miss my friends.",
+          "options": [
+            "ambivalent",
+            "certain",
+            "untroubled",
+            "unreservedly enthusiastic"
+          ],
+          "answer": "ambivalent",
+          "explanation": "I am ambivalent about moving: I love the city but will miss my friends.",
+          "translation": "我对搬家心情矛盾：喜欢那座城市，又会想念朋友。"
+        }
+      ]
+    },
+    {
+      "id": "journey-11",
+      "number": 11,
+      "title": "After the storm",
+      "mode": "context",
+      "word": "abate",
+      "meaning": "减轻；减弱",
+      "definition": "become less strong or intense",
+      "phrases": [
+        "the storm abates",
+        "the pain abates"
+      ],
+      "examples": [
+        {
+          "en": "The storm began to abate after midnight.",
+          "zh": "午夜过后，暴风雨开始减弱。"
+        },
+        {
+          "en": "We waited indoors for the wind to abate.",
+          "zh": "我们在室内等风势减弱。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 4
+      },
+      "questions": [
+        {
+          "id": "abate-dialogue",
+          "type": "dialogue",
+          "prompt": "Is the storm getting weaker?",
+          "options": [
+            "Yes, it is starting to abate.",
+            "No, it is growing stronger.",
+            "No, the wind has doubled in strength."
+          ],
+          "answer": "Yes, it is starting to abate.",
+          "explanation": "become less strong or intense",
+          "translation": "减轻；减弱"
+        },
+        {
+          "id": "abate-phrase",
+          "type": "phrase",
+          "prompt": "We waited indoors for the wind to _____.",
+          "options": [
+            "abate",
+            "intensify",
+            "rise",
+            "strengthen"
+          ],
+          "answer": "abate",
+          "explanation": "We waited indoors for the wind to abate.",
+          "translation": "我们在室内等风势减弱。"
+        }
+      ]
+    },
+    {
+      "id": "journey-12",
+      "number": 12,
+      "title": "The odd result",
+      "mode": "reading",
+      "word": "aberrant",
+      "meaning": "异常的；偏离常规的",
+      "definition": "different from the normal or expected pattern",
+      "phrases": [
+        "aberrant behavior",
+        "an aberrant result"
+      ],
+      "examples": [
+        {
+          "en": "The scientist investigated the aberrant results.",
+          "zh": "科学家调查了那些异常的结果。"
+        },
+        {
+          "en": "One aberrant reading did not match any of the other measurements.",
+          "zh": "有一个异常读数与其他所有测量结果都不一致。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 7
+      },
+      "questions": [
+        {
+          "id": "aberrant-dialogue",
+          "type": "reading",
+          "prompt": "Every result is near ten, except this one at ninety.",
+          "options": [
+            "That reading is aberrant.",
+            "All the readings are consistent.",
+            "Nothing departs from the pattern."
+          ],
+          "answer": "That reading is aberrant.",
+          "explanation": "different from the normal or expected pattern",
+          "translation": "异常的；偏离常规的"
+        },
+        {
+          "id": "aberrant-reading",
+          "type": "reading",
+          "prompt": "One aberrant reading did not match any of the other measurements.\n\nWhy did the researcher check one reading again?",
+          "options": [
+            "It differed from all the others.",
+            "It exactly matched the others.",
+            "No measurements had been taken."
+          ],
+          "answer": "It differed from all the others.",
+          "explanation": "different from the normal or expected pattern",
+          "translation": "有一个异常读数与其他所有测量结果都不一致。"
+        }
+      ]
+    },
+    {
+      "id": "journey-13",
+      "number": 13,
+      "title": "On hold",
+      "mode": "reading",
+      "word": "abeyance",
+      "meaning": "暂时中止；搁置",
+      "definition": "a state of being temporarily suspended",
+      "phrases": [
+        "in abeyance",
+        "hold something in abeyance"
+      ],
+      "examples": [
+        {
+          "en": "The proposal remained in abeyance during the inquiry.",
+          "zh": "调查期间，这项提案一直被搁置。"
+        },
+        {
+          "en": "The project is in abeyance until the funding arrives.",
+          "zh": "资金到账之前，项目暂时搁置。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 9
+      },
+      "questions": [
+        {
+          "id": "abeyance-dialogue",
+          "type": "reading",
+          "prompt": "Have they cancelled the project forever?",
+          "options": [
+            "No, it is only in abeyance.",
+            "Yes, there is no chance it will return.",
+            "Yes, it has been completed."
+          ],
+          "answer": "No, it is only in abeyance.",
+          "explanation": "a state of being temporarily suspended",
+          "translation": "暂时中止；搁置"
+        },
+        {
+          "id": "abeyance-reading",
+          "type": "reading",
+          "prompt": "The project is in abeyance until the funding arrives.\n\nWhat is happening to the project?",
+          "options": [
+            "It is paused until money arrives.",
+            "It has been permanently cancelled.",
+            "It is already finished."
+          ],
+          "answer": "It is paused until money arrives.",
+          "explanation": "a state of being temporarily suspended",
+          "translation": "资金到账之前，项目暂时搁置。"
+        }
+      ]
+    },
+    {
+      "id": "journey-14",
+      "number": 14,
+      "title": "Choosing kindness",
+      "mode": "context",
+      "word": "abhor",
+      "meaning": "憎恶；深恶痛绝",
+      "definition": "strongly hate something, especially for moral reasons",
+      "phrases": [
+        "abhor cruelty",
+        "abhor violence"
+      ],
+      "examples": [
+        {
+          "en": "They abhor any form of cruelty.",
+          "zh": "他们憎恶任何形式的残忍行为。"
+        },
+        {
+          "en": "She abhors violence and always tries to settle arguments peacefully.",
+          "zh": "她憎恶暴力，总想用和平方式解决争端。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 10
+      },
+      "questions": [
+        {
+          "id": "abhor-dialogue",
+          "type": "dialogue",
+          "prompt": "Would he ever approve of cruelty to animals?",
+          "options": [
+            "No, he abhors cruelty.",
+            "Yes, he enjoys it.",
+            "Yes, he strongly supports it."
+          ],
+          "answer": "No, he abhors cruelty.",
+          "explanation": "strongly hate something, especially for moral reasons",
+          "translation": "憎恶；深恶痛绝"
+        },
+        {
+          "id": "abhor-phrase",
+          "type": "phrase",
+          "prompt": "She _____ violence and always tries to settle arguments peacefully.",
+          "options": [
+            "abhors",
+            "endorses",
+            "welcomes",
+            "celebrates"
+          ],
+          "answer": "abhors",
+          "explanation": "She abhors violence and always tries to settle arguments peacefully.",
+          "translation": "她憎恶暴力，总想用和平方式解决争端。"
+        }
+      ]
+    },
+    {
+      "id": "journey-15",
+      "number": 15,
+      "title": "A public promise",
+      "mode": "reading",
+      "word": "abjure",
+      "meaning": "发誓放弃",
+      "definition": "formally or solemnly give up a belief or practice",
+      "phrases": [
+        "abjure violence",
+        "abjure a belief"
+      ],
+      "examples": [
+        {
+          "en": "He chose to abjure his former beliefs.",
+          "zh": "他选择郑重宣布放弃以前的信仰。"
+        },
+        {
+          "en": "The leader publicly promised to abjure violence.",
+          "zh": "那位领袖公开郑重承诺放弃暴力。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 13
+      },
+      "questions": [
+        {
+          "id": "abjure-dialogue",
+          "type": "reading",
+          "prompt": "Did he merely pause the attacks?",
+          "options": [
+            "No, he vowed to abjure violence.",
+            "Yes, he promised more attacks.",
+            "Yes, he renewed his support for violence."
+          ],
+          "answer": "No, he vowed to abjure violence.",
+          "explanation": "formally or solemnly give up a belief or practice",
+          "translation": "发誓放弃"
+        },
+        {
+          "id": "abjure-reading",
+          "type": "reading",
+          "prompt": "The leader publicly promised to abjure violence.\n\nWhat did the leader promise?",
+          "options": [
+            "To give up violence.",
+            "To start another attack.",
+            "To keep the decision secret."
+          ],
+          "answer": "To give up violence.",
+          "explanation": "formally or solemnly give up a belief or practice",
+          "translation": "那位领袖公开郑重承诺放弃暴力。"
+        }
+      ]
+    },
+    {
+      "id": "journey-16",
+      "number": 16,
+      "title": "An old treaty",
+      "mode": "reading",
+      "word": "abrogate",
+      "meaning": "正式废除",
+      "definition": "officially end a law, agreement, or right",
+      "phrases": [
+        "abrogate a treaty",
+        "abrogate a law"
+      ],
+      "examples": [
+        {
+          "en": "The legislature voted to abrogate the obsolete law.",
+          "zh": "立法机构投票决定正式废除这项过时的法律。"
+        },
+        {
+          "en": "The new government decided to abrogate the outdated treaty.",
+          "zh": "新政府决定正式废除那项过时的条约。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 19
+      },
+      "questions": [
+        {
+          "id": "abrogate-dialogue",
+          "type": "reading",
+          "prompt": "Is the old law still in force?",
+          "options": [
+            "No, parliament voted to abrogate it.",
+            "Yes, parliament renewed it.",
+            "Yes, its rules were strengthened."
+          ],
+          "answer": "No, parliament voted to abrogate it.",
+          "explanation": "officially end a law, agreement, or right",
+          "translation": "正式废除"
+        },
+        {
+          "id": "abrogate-reading",
+          "type": "reading",
+          "prompt": "The new government decided to abrogate the outdated treaty.\n\nWhat will happen to the treaty?",
+          "options": [
+            "It will officially end.",
+            "It will be renewed unchanged.",
+            "It will be enforced more strictly."
+          ],
+          "answer": "It will officially end.",
+          "explanation": "officially end a law, agreement, or right",
+          "translation": "新政府决定正式废除那项过时的条约。"
+        }
+      ]
+    },
+    {
+      "id": "journey-17",
+      "number": 17,
+      "title": "Missing cash",
+      "mode": "reading",
+      "word": "abscond",
+      "meaning": "潜逃；偷偷离开",
+      "definition": "leave secretly to escape or take something away",
+      "phrases": [
+        "abscond with the money",
+        "abscond from custody"
+      ],
+      "examples": [
+        {
+          "en": "The suspect attempted to abscond with the funds.",
+          "zh": "嫌疑人企图携款潜逃。"
+        },
+        {
+          "en": "The cashier tried to abscond with the day's earnings.",
+          "zh": "收银员企图携当天的营业款潜逃。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 20
+      },
+      "questions": [
+        {
+          "id": "abscond-dialogue",
+          "type": "reading",
+          "prompt": "Where did the manager and the cash go?",
+          "options": [
+            "He may have absconded with it.",
+            "He carefully deposited it as agreed.",
+            "He is waiting openly at the desk."
+          ],
+          "answer": "He may have absconded with it.",
+          "explanation": "leave secretly to escape or take something away",
+          "translation": "潜逃；偷偷离开"
+        },
+        {
+          "id": "abscond-reading",
+          "type": "reading",
+          "prompt": "The cashier tried to abscond with the day's earnings.\n\nWhat did the cashier try to do?",
+          "options": [
+            "Leave secretly with the money.",
+            "Deposit the money as instructed.",
+            "Share the earnings openly."
+          ],
+          "answer": "Leave secretly with the money.",
+          "explanation": "leave secretly to escape or take something away",
+          "translation": "收银员企图携当天的营业款潜逃。"
+        }
+      ]
+    },
+    {
+      "id": "journey-18",
+      "number": 18,
+      "title": "Make it clearer",
+      "mode": "reading",
+      "word": "abstruse",
+      "meaning": "深奥难懂的",
+      "definition": "difficult to understand because it is complex",
+      "phrases": [
+        "an abstruse theory",
+        "an abstruse argument"
+      ],
+      "examples": [
+        {
+          "en": "The article explains an abstruse mathematical theory.",
+          "zh": "这篇文章解释了一个深奥难懂的数学理论。"
+        },
+        {
+          "en": "The teacher used a drawing to explain an abstruse concept.",
+          "zh": "老师用一幅图解释了一个深奥的概念。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 26
+      },
+      "questions": [
+        {
+          "id": "abstruse-dialogue",
+          "type": "reading",
+          "prompt": "Can you make this theory easier to follow?",
+          "options": [
+            "Yes, the explanation is rather abstruse.",
+            "No, it is already obvious to everyone.",
+            "No, it contains only everyday words."
+          ],
+          "answer": "Yes, the explanation is rather abstruse.",
+          "explanation": "difficult to understand because it is complex",
+          "translation": "深奥难懂的"
+        },
+        {
+          "id": "abstruse-reading",
+          "type": "reading",
+          "prompt": "The teacher used a drawing to explain an abstruse concept.\n\nWhy did the teacher use a drawing?",
+          "options": [
+            "The idea was difficult to understand.",
+            "The idea was already obvious.",
+            "There was no concept to explain."
+          ],
+          "answer": "The idea was difficult to understand.",
+          "explanation": "difficult to understand because it is complex",
+          "translation": "老师用一幅图解释了一个深奥的概念。"
+        }
+      ]
+    },
+    {
+      "id": "journey-19",
+      "number": 19,
+      "title": "At the dinner table",
+      "mode": "reading",
+      "word": "abstemious",
+      "meaning": "饮食有节制的",
+      "definition": "restrained in eating or drinking",
+      "phrases": [
+        "abstemious habits",
+        "an abstemious lifestyle"
+      ],
+      "examples": [
+        {
+          "en": "Her abstemious habits contrasted with their lavish feasts.",
+          "zh": "她饮食节制的习惯与他们奢华的宴饮形成了对比。"
+        },
+        {
+          "en": "He was abstemious at dinner, taking a little soup and no wine.",
+          "zh": "晚餐时他饮食有节制，只喝了点汤，没有喝酒。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 24
+      },
+      "questions": [
+        {
+          "id": "abstemious-dialogue",
+          "type": "reading",
+          "prompt": "Did he eat and drink a lot at the feast?",
+          "options": [
+            "No, he was quite abstemious.",
+            "Yes, he ate far beyond what he needed.",
+            "Yes, he drank all evening."
+          ],
+          "answer": "No, he was quite abstemious.",
+          "explanation": "restrained in eating or drinking",
+          "translation": "饮食有节制的"
+        },
+        {
+          "id": "abstemious-reading",
+          "type": "reading",
+          "prompt": "He was abstemious at dinner, taking a little soup and no wine.\n\nWhat did he have at dinner?",
+          "options": [
+            "A little soup and no wine.",
+            "A huge meal and several drinks.",
+            "Nothing except wine."
+          ],
+          "answer": "A little soup and no wine.",
+          "explanation": "restrained in eating or drinking",
+          "translation": "晚餐时他饮食有节制，只喝了点汤，没有喝酒。"
+        }
+      ]
+    },
+    {
+      "id": "journey-20",
+      "number": 20,
+      "title": "Who is responsible?",
+      "mode": "context",
+      "word": "absolve",
+      "meaning": "免除责任；宣告无罪",
+      "definition": "declare someone free from guilt or responsibility",
+      "phrases": [
+        "absolve someone of blame",
+        "absolve someone from responsibility"
+      ],
+      "examples": [
+        {
+          "en": "The evidence may absolve him of responsibility.",
+          "zh": "这份证据可能使他免于承担责任。"
+        },
+        {
+          "en": "The report did not absolve the company of responsibility.",
+          "zh": "这份报告并未免除公司的责任。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 22
+      },
+      "questions": [
+        {
+          "id": "absolve-dialogue",
+          "type": "dialogue",
+          "prompt": "Did the new evidence clear her of blame?",
+          "options": [
+            "Yes, it helped absolve her.",
+            "No, it proved she was guilty.",
+            "No, it added new accusations."
+          ],
+          "answer": "Yes, it helped absolve her.",
+          "explanation": "declare someone free from guilt or responsibility",
+          "translation": "免除责任；宣告无罪"
+        },
+        {
+          "id": "absolve-phrase",
+          "type": "phrase",
+          "prompt": "The report did not _____ the company of responsibility.",
+          "options": [
+            "absolve",
+            "accuse",
+            "convict",
+            "rob"
+          ],
+          "answer": "absolve",
+          "explanation": "The report did not absolve the company of responsibility.",
+          "translation": "这份报告并未免除公司的责任。"
+        }
+      ]
+    },
+    {
+      "id": "journey-21",
+      "number": 21,
+      "title": "A difficult manual",
+      "mode": "context",
+      "word": "impenetrable",
+      "meaning": "难以穿透的；难以理解的",
+      "definition": "impossible to pass through; very hard to understand",
+      "phrases": [
+        "an impenetrable barrier",
+        "impenetrable prose"
+      ],
+      "examples": [
+        {
+          "en": "The dense forest formed an impenetrable barrier.",
+          "zh": "茂密的森林形成了一道难以穿越的屏障。"
+        },
+        {
+          "en": "I gave up on the manual because its prose was impenetrable.",
+          "zh": "说明书的文字晦涩难懂，我读不下去了。"
+        },
+        {
+          "en": "The hedge was so thick that it formed an impenetrable wall.",
+          "zh": "树篱密得像一堵无法穿过的墙。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1179
+      },
+      "questions": [
+        {
+          "id": "impenetrable-dialogue",
+          "type": "dialogue",
+          "prompt": "Can you follow the instructions in this manual?",
+          "options": [
+            "No, the prose is impenetrable.",
+            "Yes, every step is crystal clear.",
+            "Yes, it is written for beginners."
+          ],
+          "answer": "No, the prose is impenetrable.",
+          "explanation": "impossible to pass through; very hard to understand",
+          "translation": "难以穿透的；难以理解的"
+        },
+        {
+          "id": "impenetrable-phrase",
+          "type": "phrase",
+          "prompt": "I gave up on the manual because its prose was _____.",
+          "options": [
+            "impenetrable",
+            "accessible",
+            "straightforward",
+            "lucid"
+          ],
+          "answer": "impenetrable",
+          "explanation": "I gave up on the manual because its prose was impenetrable.",
+          "translation": "说明书的文字晦涩难懂，我读不下去了。"
+        }
+      ]
+    },
+    {
+      "id": "journey-22",
+      "number": 22,
+      "title": "Between the lines",
+      "mode": "reading",
+      "word": "recondite",
+      "meaning": "深奥的；晦涩的",
+      "definition": "little known and difficult to understand",
+      "phrases": [
+        "recondite knowledge",
+        "a recondite subject"
+      ],
+      "examples": [
+        {
+          "en": "The lecture concerned a recondite branch of philosophy.",
+          "zh": "这场讲座讨论的是哲学中一个晦涩的分支。"
+        },
+        {
+          "en": "Only a few specialists understood the recondite references.",
+          "zh": "只有少数专家能理解那些冷僻的典故。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1990
+      },
+      "questions": [
+        {
+          "id": "recondite-dialogue",
+          "type": "reading",
+          "prompt": "Why did most readers miss those references?",
+          "options": [
+            "They were rather recondite.",
+            "They were familiar to every child.",
+            "They were explained in simple everyday language."
+          ],
+          "answer": "They were rather recondite.",
+          "explanation": "little known and difficult to understand",
+          "translation": "深奥的；晦涩的"
+        },
+        {
+          "id": "recondite-reading",
+          "type": "reading",
+          "prompt": "Only a few specialists understood the recondite references.\n\nWho understood the references?",
+          "options": [
+            "Only a few specialists.",
+            "Every casual reader.",
+            "Nobody, including the specialists."
+          ],
+          "answer": "Only a few specialists.",
+          "explanation": "little known and difficult to understand",
+          "translation": "只有少数专家能理解那些冷僻的典故。"
+        }
+      ]
+    },
+    {
+      "id": "journey-23",
+      "number": 23,
+      "title": "Changing a mind",
+      "mode": "reading",
+      "word": "obdurate",
+      "meaning": "顽固的；冷酷的",
+      "definition": "stubbornly refusing to change despite persuasion",
+      "phrases": [
+        "remain obdurate",
+        "an obdurate refusal"
+      ],
+      "examples": [
+        {
+          "en": "Even compelling evidence failed to persuade the obdurate official.",
+          "zh": "即使有令人信服的证据，也没能说服那位顽固的官员。"
+        },
+        {
+          "en": "Even after hearing the evidence, the official remained obdurate.",
+          "zh": "即使听过证据，那位官员仍顽固不化。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1606
+      },
+      "questions": [
+        {
+          "id": "obdurate-dialogue",
+          "type": "reading",
+          "prompt": "Did the evidence change his mind?",
+          "options": [
+            "No, he remained obdurate.",
+            "Yes, he immediately reconsidered.",
+            "Yes, he welcomed the correction."
+          ],
+          "answer": "No, he remained obdurate.",
+          "explanation": "stubbornly refusing to change despite persuasion",
+          "translation": "顽固的；冷酷的"
+        },
+        {
+          "id": "obdurate-reading",
+          "type": "reading",
+          "prompt": "Even after hearing the evidence, the official remained obdurate.\n\nDid the official change his mind?",
+          "options": [
+            "No, even the evidence did not persuade him.",
+            "Yes, he readily accepted the evidence.",
+            "He had not heard any evidence."
+          ],
+          "answer": "No, even the evidence did not persuade him.",
+          "explanation": "stubbornly refusing to change despite persuasion",
+          "translation": "即使听过证据，那位官员仍顽固不化。"
+        }
+      ]
+    },
+    {
+      "id": "journey-24",
+      "number": 24,
+      "title": "Clear communication",
+      "mode": "context",
+      "word": "obfuscate",
+      "meaning": "使模糊；使难以理解",
+      "definition": "make something harder to understand",
+      "phrases": [
+        "obfuscate the issue",
+        "obfuscate the truth"
+      ],
+      "examples": [
+        {
+          "en": "Technical jargon can obfuscate a simple argument.",
+          "zh": "专业术语可能让一个简单的论点变得难以理解。"
+        },
+        {
+          "en": "The long reply only served to obfuscate the issue.",
+          "zh": "那篇冗长的回复只是让问题更加模糊。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1609
+      },
+      "questions": [
+        {
+          "id": "obfuscate-dialogue",
+          "type": "dialogue",
+          "prompt": "Did all those technical terms make the answer clearer?",
+          "options": [
+            "No, they only obfuscate the issue.",
+            "Yes, they removed every ambiguity.",
+            "Yes, they made it simple for beginners."
+          ],
+          "answer": "No, they only obfuscate the issue.",
+          "explanation": "make something harder to understand",
+          "translation": "使模糊；使难以理解"
+        },
+        {
+          "id": "obfuscate-phrase",
+          "type": "phrase",
+          "prompt": "The long reply only served to _____ the issue.",
+          "options": [
+            "obfuscate",
+            "clarify",
+            "resolve",
+            "illuminate"
+          ],
+          "answer": "obfuscate",
+          "explanation": "The long reply only served to obfuscate the issue.",
+          "translation": "那篇冗长的回复只是让问题更加模糊。"
+        }
+      ]
+    },
+    {
+      "id": "journey-25",
+      "number": 25,
+      "title": "A passing trend",
+      "mode": "context",
+      "word": "ephemeral",
+      "meaning": "短暂的；转瞬即逝的",
+      "definition": "lasting for a very short time",
+      "phrases": [
+        "ephemeral fame",
+        "an ephemeral pleasure"
+      ],
+      "examples": [
+        {
+          "en": "Online fame can be ephemeral.",
+          "zh": "网络上的名气可能转瞬即逝。"
+        },
+        {
+          "en": "The beauty of the soap bubble was ephemeral.",
+          "zh": "肥皂泡的美丽转瞬即逝。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 808
+      },
+      "questions": [
+        {
+          "id": "ephemeral-dialogue",
+          "type": "dialogue",
+          "prompt": "The trend disappeared after a single weekend.",
+          "options": [
+            "Its popularity was ephemeral.",
+            "Its popularity lasted for generations.",
+            "It became a permanent tradition."
+          ],
+          "answer": "Its popularity was ephemeral.",
+          "explanation": "lasting for a very short time",
+          "translation": "短暂的；转瞬即逝的"
+        },
+        {
+          "id": "ephemeral-phrase",
+          "type": "phrase",
+          "prompt": "The beauty of the soap bubble was _____.",
+          "options": [
+            "ephemeral",
+            "enduring",
+            "permanent",
+            "everlasting"
+          ],
+          "answer": "ephemeral",
+          "explanation": "The beauty of the soap bubble was ephemeral.",
+          "translation": "肥皂泡的美丽转瞬即逝。"
+        }
+      ]
+    },
+    {
+      "id": "journey-26",
+      "number": 26,
+      "title": "What actually works",
+      "mode": "context",
+      "word": "pragmatic",
+      "meaning": "务实的；注重实效的",
+      "definition": "focused on what works in practice",
+      "phrases": [
+        "a pragmatic approach",
+        "a pragmatic solution"
+      ],
+      "examples": [
+        {
+          "en": "We need a pragmatic solution rather than an elegant theory.",
+          "zh": "我们需要一个务实的解决方案，而不是一套漂亮的理论。"
+        },
+        {
+          "en": "Fixing the old bike was a pragmatic choice when money was tight.",
+          "zh": "手头紧时，修好旧自行车是一个务实的选择。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 2970
+      },
+      "questions": [
+        {
+          "id": "pragmatic-dialogue",
+          "type": "dialogue",
+          "prompt": "Should we wait for a perfect plan or use the one that works?",
+          "options": [
+            "Let us take a pragmatic approach.",
+            "Let us ignore what works in practice.",
+            "Let us choose only the prettiest theory."
+          ],
+          "answer": "Let us take a pragmatic approach.",
+          "explanation": "focused on what works in practice",
+          "translation": "务实的；注重实效的"
+        },
+        {
+          "id": "pragmatic-phrase",
+          "type": "phrase",
+          "prompt": "Fixing the old bike was a _____ choice when money was tight.",
+          "options": [
+            "pragmatic",
+            "impractical",
+            "unworkable",
+            "unrealistic"
+          ],
+          "answer": "pragmatic",
+          "explanation": "Fixing the old bike was a pragmatic choice when money was tight.",
+          "translation": "手头紧时，修好旧自行车是一个务实的选择。"
+        }
+      ]
+    },
+    {
+      "id": "journey-27",
+      "number": 27,
+      "title": "A reluctant spender",
+      "mode": "context",
+      "word": "parsimonious",
+      "meaning": "吝啬的；过度节俭的",
+      "definition": "unwilling to spend money or resources",
+      "phrases": [
+        "a parsimonious owner",
+        "parsimonious spending"
+      ],
+      "examples": [
+        {
+          "en": "The parsimonious owner refused to replace the broken equipment.",
+          "zh": "这位吝啬的老板拒绝更换坏掉的设备。"
+        },
+        {
+          "en": "The parsimonious host would not even buy enough tea for the guests.",
+          "zh": "那位吝啬的主人连给客人喝的茶都不肯买够。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1692
+      },
+      "questions": [
+        {
+          "id": "parsimonious-dialogue",
+          "type": "dialogue",
+          "prompt": "He has plenty of money but refuses to replace broken chairs.",
+          "options": [
+            "He sounds parsimonious.",
+            "He sounds remarkably generous.",
+            "He seems eager to spend freely."
+          ],
+          "answer": "He sounds parsimonious.",
+          "explanation": "unwilling to spend money or resources",
+          "translation": "吝啬的；过度节俭的"
+        },
+        {
+          "id": "parsimonious-phrase",
+          "type": "phrase",
+          "prompt": "The _____ host would not even buy enough tea for the guests.",
+          "options": [
+            "parsimonious",
+            "generous",
+            "lavish",
+            "extravagant"
+          ],
+          "answer": "parsimonious",
+          "explanation": "The parsimonious host would not even buy enough tea for the guests.",
+          "translation": "那位吝啬的主人连给客人喝的茶都不肯买够。"
+        }
+      ]
+    },
+    {
+      "id": "journey-28",
+      "number": 28,
+      "title": "A private person",
+      "mode": "context",
+      "word": "reticent",
+      "meaning": "寡言的；不愿透露的",
+      "definition": "unwilling to talk about something",
+      "phrases": [
+        "reticent about the past",
+        "a reticent manner"
+      ],
+      "examples": [
+        {
+          "en": "He remained reticent about his private life.",
+          "zh": "他对自己的私生活始终不愿多谈。"
+        },
+        {
+          "en": "Usually reticent, she said little about her childhood.",
+          "zh": "她平时就不爱多说，对自己的童年也谈得很少。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 2075
+      },
+      "questions": [
+        {
+          "id": "reticent-dialogue",
+          "type": "dialogue",
+          "prompt": "Did she tell you much about her private life?",
+          "options": [
+            "No, she was reticent about it.",
+            "Yes, she shared every detail.",
+            "Yes, she spoke about it for hours."
+          ],
+          "answer": "No, she was reticent about it.",
+          "explanation": "unwilling to talk about something",
+          "translation": "寡言的；不愿透露的"
+        },
+        {
+          "id": "reticent-phrase",
+          "type": "phrase",
+          "prompt": "Usually _____, she said little about her childhood.",
+          "options": [
+            "reticent",
+            "forthcoming",
+            "talkative",
+            "open"
+          ],
+          "answer": "reticent",
+          "explanation": "Usually reticent, she said little about her childhood.",
+          "translation": "她平时就不爱多说，对自己的童年也谈得很少。"
+        }
+      ]
+    },
+    {
+      "id": "journey-29",
+      "number": 29,
+      "title": "Small details",
+      "mode": "context",
+      "word": "meticulous",
+      "meaning": "一丝不苟的",
+      "definition": "very careful and attentive to detail",
+      "phrases": [
+        "meticulous planning",
+        "meticulous records"
+      ],
+      "examples": [
+        {
+          "en": "The researcher kept meticulous records of every experiment.",
+          "zh": "这位研究人员一丝不苟地记录了每一次实验。"
+        },
+        {
+          "en": "He made meticulous notes so that no detail would be lost.",
+          "zh": "他做了细致的笔记，以免遗漏任何细节。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1492
+      },
+      "questions": [
+        {
+          "id": "meticulous-dialogue",
+          "type": "dialogue",
+          "prompt": "How did she catch such a tiny error?",
+          "options": [
+            "She is meticulous about details.",
+            "She never checks her work.",
+            "She usually ignores small differences."
+          ],
+          "answer": "She is meticulous about details.",
+          "explanation": "very careful and attentive to detail",
+          "translation": "一丝不苟的"
+        },
+        {
+          "id": "meticulous-phrase",
+          "type": "phrase",
+          "prompt": "He made _____ notes so that no detail would be lost.",
+          "options": [
+            "meticulous",
+            "careless",
+            "sloppy",
+            "hasty"
+          ],
+          "answer": "meticulous",
+          "explanation": "He made meticulous notes so that no detail would be lost.",
+          "translation": "他做了细致的笔记，以免遗漏任何细节。"
+        }
+      ]
+    },
+    {
+      "id": "journey-30",
+      "number": 30,
+      "title": "Reducing the harm",
+      "mode": "context",
+      "word": "mitigate",
+      "meaning": "减轻；缓和",
+      "definition": "make a problem or harm less severe",
+      "phrases": [
+        "mitigate the damage",
+        "mitigate the effects"
+      ],
+      "examples": [
+        {
+          "en": "The new measures could mitigate the damage.",
+          "zh": "这些新措施可以减轻损害。"
+        },
+        {
+          "en": "Trees can help mitigate the effects of extreme heat.",
+          "zh": "树木有助于缓解极端高温的影响。"
+        }
+      ],
+      "source": {
+        "file": "【词表】再要你命3000（第2版）大字版+v1.0.xlsx",
+        "sheet": "总表",
+        "row": 1522
+      },
+      "questions": [
+        {
+          "id": "mitigate-dialogue",
+          "type": "dialogue",
+          "prompt": "Will the new measures remove every risk?",
+          "options": [
+            "No, but they should mitigate the damage.",
+            "Yes, they will make the harm worse.",
+            "No, they will increase every risk."
+          ],
+          "answer": "No, but they should mitigate the damage.",
+          "explanation": "make a problem or harm less severe",
+          "translation": "减轻；缓和"
+        },
+        {
+          "id": "mitigate-phrase",
+          "type": "phrase",
+          "prompt": "Trees can help _____ the effects of extreme heat.",
+          "options": [
+            "mitigate",
+            "exacerbate",
+            "compound",
+            "intensify"
+          ],
+          "answer": "mitigate",
+          "explanation": "Trees can help mitigate the effects of extreme heat.",
+          "translation": "树木有助于缓解极端高温的影响。"
+        }
+      ]
+    }
+  ]
+}

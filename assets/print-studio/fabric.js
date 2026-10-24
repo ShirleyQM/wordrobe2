@@ -1,7 +1,7 @@
-/* Shared fold field: displacement and shading come from the same analytic ridges. */
+/* Legacy compatibility API. Garment folds are painted in the art layers. */
 (function(root,factory){const api=factory();if(typeof module==='object'&&module.exports)module.exports=api;else root.PrintFabric=api;})(typeof window!=='undefined'?window:globalThis,function(){
  'use strict';
- function field(x,y,hem){const folds=[[370,402,407,hem-12,12,1],[570,402,533,hem-12,12,-1],[393,hem-100,401,hem+10,9,.8],[550,hem-93,544,hem+10,11,-.8],[448,440,459,hem+5,23,.3],[508,420,495,hem+5,19,-.3]];let dx=0,dy=0,shade=0;for(const [x0,y0,x1,y1,width,amp] of folds){const t=(y-y0)/(y1-y0);if(t<0||t>1)continue;const envelope=Math.sin(Math.PI*t)**.7,center=x0+(x1-x0)*t,d=(x-center)/width,g=Math.exp(-d*d/2);dx+=amp*4*g*Math.sin(d)*envelope;dy+=amp*1.8*g*envelope;shade+=amp*.12*d*g*envelope;}return {dx,dy,shade};}
+ function field(){return {dx:0,dy:0,shade:0};}
  function raster(hem){const w=480,h=520,warp=document.createElement('canvas'),shade=document.createElement('canvas');warp.width=shade.width=w;warp.height=shade.height=h;const wc=warp.getContext('2d'),sc=shade.getContext('2d'),wp=wc.createImageData(w,h),sp=sc.createImageData(w,h);for(let y=0;y<h;y++)for(let x=0;x<w;x++){const f=field(x+230,y+280,hem),i=(y*w+x)*4;wp.data[i]=Math.round(127.5+f.dx/18*255);wp.data[i+1]=Math.round(127.5+f.dy/18*255);wp.data[i+2]=128;wp.data[i+3]=255;const light=f.shade>0?255:23;sp.data[i]=light;sp.data[i+1]=f.shade>0?255:47;sp.data[i+2]=f.shade>0?255:78;sp.data[i+3]=Math.min(110,Math.abs(f.shade)*1100);}wc.putImageData(wp,0,0);sc.putImageData(sp,0,0);return {warp:warp.toDataURL(),shade:shade.toDataURL()};}
  return {field,raster};
 });

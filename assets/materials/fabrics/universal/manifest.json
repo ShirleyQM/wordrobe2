@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "universal-linen",
+      "name": "亚麻平纹",
+      "texture": "/assets/materials/fabrics/universal/linen.png",
+      "strength": 0.42,
+      "tileSize": 256
+    },
+    {
+      "id": "universal-rib",
+      "name": "细罗纹针织",
+      "texture": "/assets/materials/fabrics/universal/rib.png",
+      "strength": 0.45,
+      "tileSize": 256
+    },
+    {
+      "id": "universal-herringbone",
+      "name": "人字斜纹",
+      "texture": "/assets/materials/fabrics/universal/herringbone.png",
+      "strength": 0.42,
+      "tileSize": 256
+    },
+    {
+      "id": "universal-jacquard",
+      "name": "花叶提花",
+      "texture": "/assets/materials/fabrics/universal/jacquard.png",
+      "strength": 0.65,
+      "tileSize": 256
+    }
+  ],
+  "mode": "neutral gray surface texture; original garment color, alpha and painted folds preserved"
+}

@@ -1,0 +1,7 @@
+const fs=require('fs'),assert=require('assert/strict'),crypto=require('crypto'),vm=require('vm');
+const C=require('./print-garment.js'),M=require('./assets/atelier-preppy-v1/mesh.js');
+const context=vm.createContext({});vm.runInContext(fs.readFileSync('assets/skirt-collection-v1/game-catalog.js','utf8')+';globalThis.ids=CAMPUS_CATALOG.map(i=>i.id);',context);
+const expected=[...context.ids,'tee-regular','tee-loose','tee-cropped','navy-shirt','suede-skirt','ankle-boots','coin-loafers',...JSON.parse(fs.readFileSync('assets/materials/sources/imported/catalog.json','utf8')).items.map(i=>i.id)].sort();
+const data=JSON.parse(fs.readFileSync('assets/materials/garments/collection.json','utf8'));assert.deepEqual(data.items.map(i=>i.id).sort(),expected);assert.equal(data.items.length,expected.length);
+for(const item of data.items){assert.ok(['campus','open-arms-v2'].includes(item.body));assert.ok(item.contours.length&&item.contours.every(path=>C.valid(C.parse(path))),item.id);assert.ok(M.valid(M.grid(item.bounds,4,item.slot==='shoes'?4:5)),item.id);for(const side of ['front','back']){const buffer=fs.readFileSync('.'+item[side]);assert.equal(buffer.readUInt32BE(16),939);assert.equal(buffer.readUInt32BE(20),1676);if(side==='front')assert.equal(crypto.createHash('sha256').update(buffer).digest('hex'),item.sourceSha256,'editing must not overwrite '+item.id+' source');}}
+console.log('PASS: all registered wardrobe IDs share registered fit sources, valid editable curves, correct body families, immutable transparent source canvases.');

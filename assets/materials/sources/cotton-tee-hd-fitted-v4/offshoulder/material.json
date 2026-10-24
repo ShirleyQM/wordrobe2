@@ -1,0 +1,64 @@
+{
+  "id": "cotton-tee-offshoulder-v3",
+  "version": 4,
+  "defaultColor": "#eeeae0",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "presets": "/assets/materials/sources/cotton-tee-batch-v3/material-presets.json",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation",
+      "opacity": 0.14
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over",
+      "opacity": 0.48
+    }
+  ],
+  "sourceSeparation": "Original pre-color silhouette line drawing retained; AI high-resolution repaint luminance separated into neutral light/shadow and high-pass weave. Painted seam details remain within light/shadow, not relabeled as original line art.",
+  "hdCanvas": [
+    1878,
+    3352
+  ],
+  "runtimeCanvas": [
+    939,
+    1676
+  ],
+  "registration": {
+    "sourceBounds": {
+      "left": 87,
+      "top": 224,
+      "width": 993,
+      "height": 949
+    },
+    "targetBounds": {
+      "left": 593,
+      "top": 732,
+      "width": 688,
+      "height": 654
+    },
+    "scale": 0.6928499496475328,
+    "translate": [
+      593,
+      730
+    ],
+    "uniform": true,
+    "edgeExtendedPixels": 13892
+  },
+  "handFitSource": "assets/materials/published/fittings-cotton-tee-offshoulder-v3-1282-front.png",
+  "handFitRevision": 1282
+}

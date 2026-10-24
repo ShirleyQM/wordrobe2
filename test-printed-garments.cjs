@@ -1,0 +1,33 @@
+const fs=require('fs'),path=require('path'),os=require('os'),assert=require('assert/strict'),crypto=require('crypto');
+const root=fs.mkdtempSync(path.join(os.tmpdir(),'printed-clothes-')),C=require('./print-garment.js'),M=require('./assets/atelier-preppy-v1/mesh.js');
+function write(name,data){const p=path.join(root,name);fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,JSON.stringify(data));}
+const data=JSON.parse(fs.readFileSync('assets/materials/garments/collection.json','utf8')),base=data.items.find(i=>i.id==='cotton-tee-fitted-v3');
+for(const url of [base.front,base.back,base.thumbnail]){const dest=path.join(root,url.replace(/^\//,''));fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync('.'+url,dest);}
+const materialDir=path.dirname(base.materialManifest).replace(/^\//,'');fs.mkdirSync(path.join(root,materialDir),{recursive:true});fs.cpSync(materialDir,path.join(root,materialDir),{recursive:true});
+write('assets/materials/published/visibility.json',{version:1,items:{[base.id]:false}});
+write('assets/materials/garments/collection.json',{...data,items:[base]});write('assets/materials/sources/imported/catalog.json',{items:[]});
+write('assets/materials/patterns/motifs/manifest.json',[]);
+fs.mkdirSync(path.join(root,'assets'),{recursive:true});fs.copyFileSync('assets/garment-names.js',path.join(root,'assets/garment-names.js'));
+const fitted={revision:9,draft:{[base.id]:{mesh:M.grid(base.bounds),contours:base.contours.map(C.parse)}},items:[{id:base.id,image:base.front,front:base.front,back:base.back}]};
+write('assets/materials/published/fittings.json',fitted);const before=fs.readFileSync(path.join(root,'assets/materials/published/fittings.json'));
+const payload={baseId:base.id,sourceImage:base.front,sourceBack:base.back,patternId:'rose',box:{x:350,y:350,width:120,height:120},bounds:base.bounds,front:'data:image/png;base64,'+fs.readFileSync('.'+base.front).toString('base64'),back:'data:image/png;base64,'+fs.readFileSync('.'+base.back).toString('base64'),thumbnail:'data:image/png;base64,'+fs.readFileSync('.'+base.thumbnail).toString('base64')};
+const api=require('./printed-garments.cjs')(root),request={...payload,requestId:crypto.randomUUID()},one=api.save(request),again=api.save(request),two=api.save({...payload,requestId:crypto.randomUUID()});
+assert.equal(one.id,again.id,'retry is idempotent');assert.notEqual(one.id,base.id);assert.notEqual(two.id,one.id);assert.match(one.name,/花枝印花＋.*＋001$/);assert.match(two.name,/＋002$/);
+const after=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/garments/collection.json')));assert.deepEqual(after.items.find(i=>i.id===base.id),base,'base registration must stay unchanged');assert.equal(after.items.length,3);
+assert.deepEqual(fs.readFileSync(path.join(root,'assets/materials/published/fittings.json')),before,'all manual fitting data must stay byte-identical');
+const printed=after.items.find(i=>i.id===one.id);assert.ok(printed.contours.every(c=>C.valid(C.parse(c))));assert.equal(printed.printedFrom,base.id);
+assert.throws(()=>api.save({...payload,requestId:crypto.randomUUID(),sourceImage:'/outdated.png'}),/有更新/);assert.throws(()=>api.save({...payload,requestId:crypto.randomUUID(),patternId:'unknown'}),/图案不存在/);
+write('assets/materials/patterns/lettering/manifest.json',[{id:'T01',text:'daydream',alpha:true}]);
+const letter=api.save({...payload,requestId:crypto.randomUUID(),patternId:'lettering-T01'});
+assert.match(letter.name,/^daydream印花＋.*＋001$/);
+assert.throws(()=>api.save({...payload,requestId:crypto.randomUUID(),patternId:'lettering-T99'}),/图案不存在/);
+assert.deepEqual(fs.readFileSync(path.join(root,'assets/materials/published/fittings.json')),before,'lettering preserves manual fitting data');
+const plain={...payload,requestId:crypto.randomUUID(),patternId:null,box:null,material:{color:'#4671a1',fabric:'slub',textureStrength:80}};
+const recolored=api.save(plain),saved=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/garments/collection.json'))).items.find(i=>i.id===recolored.id);
+assert.match(recolored.name,/^竹节棉＋/);assert.equal(saved.printPattern,null);assert.deepEqual(saved.materialAppearance,plain.material);
+assert.throws(()=>api.save({...plain,requestId:crypto.randomUUID(),material:{color:'invalid'}}),/颜色无效/);
+assert.throws(()=>api.save({...plain,requestId:crypto.randomUUID(),material:{fabric:'unknown'}}),/布料无效/);
+assert.throws(()=>api.save({...plain,requestId:crypto.randomUUID(),material:{fabric:'washed',textureStrength:300}}),/布纹强度无效/);
+assert.throws(()=>api.save({...plain,requestId:crypto.randomUUID(),material:{}}),/请选择/);
+assert.deepEqual(fs.readFileSync(path.join(root,'assets/materials/published/fittings.json')),before,'material-only save preserves manual fitting');
+console.log('PASS: explicit new garments, unique 001/002 names, idempotent retries, valid fitting registration, unchanged originals/manual fits, stale source rejection.');

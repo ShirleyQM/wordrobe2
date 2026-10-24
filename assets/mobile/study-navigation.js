@@ -1,0 +1,8 @@
+'use strict';
+window.StudyNavigation={open(){const snapshot={atelier:window.MobileAtelierState?.capture(),tab,category,hairSide,trial:typeof trialId!=='undefined'?trialId:null,view:typeof mobileView!=='undefined'?mobileView:'full',scroll:$('#items').scrollTop,panX:typeof panX!=='undefined'?panX:0,panY:typeof panY!=='undefined'?panY:0};sessionStorage.setItem('wordrobe-study-return-v1',JSON.stringify(snapshot));PlayerEconomy.clearWish();if(window.ToolRoute)ToolRoute.go('learn');else location.href='learn.html';}};
+document.addEventListener('click',e=>{if(e.target.closest('a[href^="learn.html"]')){e.preventDefault();e.stopImmediatePropagation();StudyNavigation.open();}},true);
+let restoredStudyPosition=false;
+const beforeStudyReturnRender=render;
+render=function(){let restore=null;if(!restoredStudyPosition&&catalog.length){restoredStudyPosition=true;try{restore=JSON.parse(sessionStorage.getItem('wordrobe-study-return-v1')||'null');}catch(e){}if(restore){tab=restore.tab||'clothes';category=restore.category||'top';hairSide=restore.hairSide||'front';if(typeof trialId!=='undefined')trialId=restore.trial;window.MobileAtelierState?.restore(restore.atelier);}}
+ beforeStudyReturnRender();if(restore){if(typeof mobileView!=='undefined'){mobileView=restore.view;focusRegion(restore.view||'full',true);}if(typeof panX!=='undefined'){panX=restore.panX||0;panY=restore.panY||0;applyPan();}requestAnimationFrame(()=>{$('#items').scrollTop=restore.scroll||0;});sessionStorage.removeItem('wordrobe-study-return-v1');}};
+window.addEventListener('pageshow',()=>{if(catalog.length&&!restoredStudyPosition)render();});
