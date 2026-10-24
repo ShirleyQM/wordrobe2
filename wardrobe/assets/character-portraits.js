@@ -19,8 +19,9 @@ window.CharacterPortraits=(()=>{
  function mount(){const host=document.querySelector('.studio-top');if(!host||document.getElementById('portrait-version'))return;const label=document.createElement('label');label.textContent='换脸 ';label.style.cssText='display:flex;align-items:center;gap:5px';const input=document.createElement('select');input.id='portrait-version';input.setAttribute('aria-label','换脸');input.style.cssText='max-width:130px;padding:6px 9px;border:1px solid #cad9ed;border-radius:5px;background:#fff;color:inherit;font:inherit';input.innerHTML=versions.map(v=>`<option value="${v.id}">${v.name}</option>`).join('');input.value=selected;input.addEventListener('change',()=>select(input.value));label.append(input);host.append(label);}
  window.addEventListener('storage',event=>{if(event.key!==key)return;selected=versions.some(v=>v.id===event.newValue)?event.newValue:'unified-face';refresh();});
  return {mount,select,selected:()=>current().id,versions,usesBuiltInUnder:()=>false,
-  baseBody:url=>{const file=url.split('?')[0].split('/').pop();return current().fullHead&&/^body-[01]-[01]\.png$/.test(file)?current().assets+file:url;},
+  head:()=>'assets/materials/characters/separated-body-v1/heads/'+current().id+'.png',
+  baseBody:url=>url,
   body:()=>current().body||'assets/materials/characters/low-coverage-v3/body-0-0.png',
   revealBody:()=>current().body||'assets/materials/characters/body-clean-v2/body-hairless.png',
-  layer:(style='')=>!current().fullHead&&current().image?`<img class="character-face" data-face="${selected}" src="${current().image}" alt="${current().name}" style="${style}" draggable="false">`:''};
+  layer:(style='')=>`<img class="character-face" data-face="${current().id}" src="assets/materials/characters/separated-body-v1/heads/${current().id}.png" alt="${current().name}" style="${style}" draggable="false">`};
 })();

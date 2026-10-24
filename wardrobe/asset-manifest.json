@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-10-24T16:48:02.289Z",
+  "createdAt": "2026-10-24T21:57:59.110Z",
   "canvas": {
     "width": 939,
     "height": 1676
@@ -1161,27 +1161,27 @@
     },
     {
       "path": "assets/materials/garments/campus-01-blue-sailor-top/saved/314-2986fef949d1/front.png",
-      "bytes": 215708,
+      "bytes": 160026,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "2986fef949d168ca4aea824c85e843d118e6acdba849755de8bcd28282508bb0",
-      "sha256": "2986fef949d168ca4aea824c85e843d118e6acdba849755de8bcd28282508bb0"
+      "sourceSha256": "4b7e6767f2a494f92790e9f408227a4baa156087970d1a63f911b93def603ac5",
+      "sha256": "4b7e6767f2a494f92790e9f408227a4baa156087970d1a63f911b93def603ac5"
     },
     {
       "path": "assets/materials/garments/campus-01-blue-sailor-top/saved/314-2986fef949d1/back.png",
-      "bytes": 60118,
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "98c3fd11a39d4421339d667248d928a0ef87365d8e817fdcad715c87dd813809",
-      "sha256": "98c3fd11a39d4421339d667248d928a0ef87365d8e817fdcad715c87dd813809"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/published/panel-previews/campus-01-blue-sailor-top-aa35d86318e7.png",
-      "bytes": 138972,
+      "path": "assets/materials/garments/campus-01-blue-sailor-top/saved/314-2986fef949d1/cuff-refinement-v2-thumb.png",
+      "bytes": 127710,
       "width": 340,
       "height": 340,
-      "sourceSha256": "61f384c12d949095ac7c98dafe633fb25dad83ab06943549560b67bb329249c3",
-      "sha256": "61f384c12d949095ac7c98dafe633fb25dad83ab06943549560b67bb329249c3"
+      "sourceSha256": "3dea65e119334f1f3fe045208b69722195d4147056a6a0bbdbabedd0d97d7568",
+      "sha256": "3dea65e119334f1f3fe045208b69722195d4147056a6a0bbdbabedd0d97d7568"
     },
     {
       "path": "assets/materials/garments/campus-01-blue-sailor-skirt/saved/229-0e6d79dc7624/front.png",
@@ -1449,27 +1449,27 @@
     },
     {
       "path": "assets/materials/garments/campus-04-navy-tailored-shirt-tie/saved/277-c517bd6a05e2/front.png",
-      "bytes": 309808,
+      "bytes": 224818,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "c517bd6a05e2bc19bc4a4f44e35d409df9bbe0ef7293fb6da9a6bea151e65e02",
-      "sha256": "c517bd6a05e2bc19bc4a4f44e35d409df9bbe0ef7293fb6da9a6bea151e65e02"
+      "sourceSha256": "4c3c2bd1536808823c0b205a5ddf3b4fa7a90c57780a3013ee98886dda761984",
+      "sha256": "4c3c2bd1536808823c0b205a5ddf3b4fa7a90c57780a3013ee98886dda761984"
     },
     {
       "path": "assets/materials/garments/campus-04-navy-tailored-shirt-tie/saved/277-c517bd6a05e2/back.png",
-      "bytes": 46485,
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "4bffc502407923cd428cf1439924b06f864750a866b9b0cac9e34645dba32014",
-      "sha256": "4bffc502407923cd428cf1439924b06f864750a866b9b0cac9e34645dba32014"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/published/panel-previews/campus-04-navy-tailored-shirt-tie-8a321c97b39a.png",
-      "bytes": 114425,
+      "path": "assets/materials/garments/campus-04-navy-tailored-shirt-tie/saved/277-c517bd6a05e2/cuff-refinement-v2-thumb.png",
+      "bytes": 112139,
       "width": 340,
       "height": 340,
-      "sourceSha256": "5b999112363fe7cc846f232655df7f5de6daf0748b15745bd3c8e1eede256fdd",
-      "sha256": "5b999112363fe7cc846f232655df7f5de6daf0748b15745bd3c8e1eede256fdd"
+      "sourceSha256": "a5a2f1ec69f489746eaf1bee543607a057bfcdc10b84193ad72583ad9819b928",
+      "sha256": "a5a2f1ec69f489746eaf1bee543607a057bfcdc10b84193ad72583ad9819b928"
     },
     {
       "path": "assets/materials/garments/campus-04-navy-tailored-blazer/saved/432-125e3aab17eb/front.png",
@@ -2505,27 +2505,27 @@
     },
     {
       "path": "assets/materials/garments/top-v1-blue-ruffle/saved/939-08888b53cc95/front.png",
-      "bytes": 213018,
+      "bytes": 162557,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "08888b53cc9549f9e577dbaaf10f9425feae3fc2e6a38f837067d5f3a938b8d8",
-      "sha256": "08888b53cc9549f9e577dbaaf10f9425feae3fc2e6a38f837067d5f3a938b8d8"
+      "sourceSha256": "26e4a06265f5ef772a7797865e73474122ada7b72fca4acbc9138ff6384ae5bf",
+      "sha256": "26e4a06265f5ef772a7797865e73474122ada7b72fca4acbc9138ff6384ae5bf"
     },
     {
       "path": "assets/materials/garments/top-v1-blue-ruffle/saved/939-08888b53cc95/back.png",
-      "bytes": 37316,
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
-      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/published/panel-previews/top-v1-blue-ruffle-85cde4ba3768.png",
-      "bytes": 115693,
+      "path": "assets/materials/garments/top-v1-blue-ruffle/saved/939-08888b53cc95/cuff-refinement-v2-thumb.png",
+      "bytes": 132553,
       "width": 340,
       "height": 340,
-      "sourceSha256": "c5ab99a5b62914f64087a06edc06103ef660647fc458d5119f0f7d827f4afa2d",
-      "sha256": "c5ab99a5b62914f64087a06edc06103ef660647fc458d5119f0f7d827f4afa2d"
+      "sourceSha256": "f85775835e975ccafd80133d090e33e9d781556a8665a6dbec221e8676edf663",
+      "sha256": "f85775835e975ccafd80133d090e33e9d781556a8665a6dbec221e8676edf663"
     },
     {
       "path": "assets/materials/garments/top-v1-peach-peplum/saved/866-5f5c16f4ab73/front.png",
@@ -2828,34 +2828,34 @@
       "sha256": "cca668124539c5d2ac83d92119cd08dd02d27cd8b28ce4785a9af12e20df01eb"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/front.png",
-      "bytes": 159899,
+      "path": "assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/front.png",
+      "bytes": 114548,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "befa462c3a13d53cbdb9c5093845b4092331cdbcbbef9f40a039ec0ebb8e7923",
-      "sha256": "befa462c3a13d53cbdb9c5093845b4092331cdbcbbef9f40a039ec0ebb8e7923"
+      "sourceSha256": "f7abdc3323f0d6a0e431488c2b112276c6bc22271e43ffb9ecf68eac05fc2ebe",
+      "sha256": "f7abdc3323f0d6a0e431488c2b112276c6bc22271e43ffb9ecf68eac05fc2ebe"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/back.png",
-      "bytes": 44918,
+      "path": "assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/back.png",
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "258579f7748aecb9ff0aaa97dc1635702d674bf93db2cf3d71bc341192e7a438",
-      "sha256": "258579f7748aecb9ff0aaa97dc1635702d674bf93db2cf3d71bc341192e7a438"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/thumb.png",
-      "bytes": 102815,
+      "path": "assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/thumb.png",
+      "bytes": 68538,
       "width": 340,
       "height": 340,
-      "sourceSha256": "3245b1e89e30c86f929da9da4c210704307cc35316baf201ced75a6e9c43f83b",
-      "sha256": "3245b1e89e30c86f929da9da4c210704307cc35316baf201ced75a6e9c43f83b"
+      "sourceSha256": "0e43018b0142e00369b3bbe42bc85b7ff77e827e94c2a1c958b931cd8d549c5a",
+      "sha256": "0e43018b0142e00369b3bbe42bc85b7ff77e827e94c2a1c958b931cd8d549c5a"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/material.json",
-      "bytes": 1489,
-      "sourceSha256": "2cb26d606bbcffca8c1122bd085d998786affb857a2b1706be953f26255fdd78",
-      "sha256": "21adb73efa9d3d77cd2e71073e1a27aeff1eaabc0a6da453a1987a6da8940c33"
+      "path": "assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/material.json",
+      "bytes": 1203,
+      "sourceSha256": "6d65cf6730dd873d639f2ca255ea53538da112be17fffc9b9e0b8dfca48e879e",
+      "sha256": "628f272b0396c0a687923f24a56777f721b1e00918ea39d2925fbf5d7922facf"
     },
     {
       "path": "assets/materials/sources/cotton-tee-batch-v3/material-presets.json",
@@ -2864,124 +2864,124 @@
       "sha256": "5d22fcd8b1e03b0eae7ad2912e28ea72410020efb3efa27ff951357dce8befd1"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/asymmetric/front.png",
-      "bytes": 122996,
+      "path": "assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/front.png",
+      "bytes": 83713,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "da3a0f0ef870fd23e3852e4f7615b99293bd61245de2a924a9c8b5076467ef5b",
-      "sha256": "da3a0f0ef870fd23e3852e4f7615b99293bd61245de2a924a9c8b5076467ef5b"
+      "sourceSha256": "da6ff101584c0b0770fd724508efc409dd0db691d5b28b772c5835a23e010322",
+      "sha256": "da6ff101584c0b0770fd724508efc409dd0db691d5b28b772c5835a23e010322"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/asymmetric/back.png",
-      "bytes": 37316,
+      "path": "assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/back.png",
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
-      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/asymmetric/thumb.png",
-      "bytes": 93527,
+      "path": "assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/thumb.png",
+      "bytes": 58285,
       "width": 340,
       "height": 340,
-      "sourceSha256": "aca237c40edfe1d8c16d07e6eb4807abea905eb848bddd6828815e24452cfb7d",
-      "sha256": "aca237c40edfe1d8c16d07e6eb4807abea905eb848bddd6828815e24452cfb7d"
+      "sourceSha256": "e20cdc8a922f98e2cc6a09970f92b74253a00b43a75dffc30f1d8e7efe1c8595",
+      "sha256": "e20cdc8a922f98e2cc6a09970f92b74253a00b43a75dffc30f1d8e7efe1c8595"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/asymmetric/material.json",
-      "bytes": 1486,
-      "sourceSha256": "51cff44b42650da7d56694b63d01b5e37f3cc12f43b86c6e1aadb168d5dd6822",
-      "sha256": "393b13fd73d7eaec88fb3ddacfecce85fea87bca0625206c06c53e12557d9bad"
+      "path": "assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/material.json",
+      "bytes": 1186,
+      "sourceSha256": "8b0c26881784ae47af9097f4f857dca42ee773aabb1c4230334f5f7200baadc8",
+      "sha256": "3580d8aed4b82167293fa9a434565ec2d666b4337786e6cd92b697352e0b4d42"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/front.png",
-      "bytes": 98597,
+      "path": "assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/front.png",
+      "bytes": 67017,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "090caf473f7519f8ad73f10fbe4090675ba90fd277755b9cb7e52a966a12a690",
-      "sha256": "090caf473f7519f8ad73f10fbe4090675ba90fd277755b9cb7e52a966a12a690"
+      "sourceSha256": "00b49d43cd32bda2d899b1119f14a0ecb9ee5474415a0718432ff2300eca6379",
+      "sha256": "00b49d43cd32bda2d899b1119f14a0ecb9ee5474415a0718432ff2300eca6379"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/back.png",
-      "bytes": 43139,
+      "path": "assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/back.png",
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "876c60f2a960561debb0711ad3d1adc3224202bb9bb42de3dffc84ba8fd96f8c",
-      "sha256": "876c60f2a960561debb0711ad3d1adc3224202bb9bb42de3dffc84ba8fd96f8c"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/thumb.png",
-      "bytes": 89874,
+      "path": "assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/thumb.png",
+      "bytes": 57267,
       "width": 340,
       "height": 340,
-      "sourceSha256": "73860ec40dc6899853b32fffb56d9935a456b63e59ab3463a7b4f918861ada98",
-      "sha256": "73860ec40dc6899853b32fffb56d9935a456b63e59ab3463a7b4f918861ada98"
+      "sourceSha256": "0dceb10d35ca7793fc21b9a3e696d8855e26e9be8262ae0310e614b481ae3364",
+      "sha256": "0dceb10d35ca7793fc21b9a3e696d8855e26e9be8262ae0310e614b481ae3364"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/material.json",
-      "bytes": 1489,
-      "sourceSha256": "7b623736162ba99aea91590487b691c56bb7ddaf4a507ee9cbdc4791ef4c0160",
-      "sha256": "ed31027436762455fb8974a2cc2f62047a9ae23bd08f04244147b98901337f27"
+      "path": "assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/material.json",
+      "bytes": 1203,
+      "sourceSha256": "9b36fd2489910450ef2c6113b1232ca3683c78f708e7dfc00fe144fc70a86f37",
+      "sha256": "ca51012a16f113844ae21d123ed6261dab01430eeca60a966d305e4186f963b5"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/front.png",
-      "bytes": 165564,
+      "path": "assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/front.png",
+      "bytes": 114208,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "b7dfec6f29f2c2ae22718fba2d73087ee8e96212ff11dff534d13a299e71d82d",
-      "sha256": "b7dfec6f29f2c2ae22718fba2d73087ee8e96212ff11dff534d13a299e71d82d"
+      "sourceSha256": "7c2f72e60ed46a2737a6ce293432d29dcfa36cc385a2ea6f39e45e95a3ca6a5c",
+      "sha256": "7c2f72e60ed46a2737a6ce293432d29dcfa36cc385a2ea6f39e45e95a3ca6a5c"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/back.png",
-      "bytes": 44198,
+      "path": "assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/back.png",
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "74767791e51c510d5942920afc41c19dc4a0c7ce1a9f1623e67fcf768f5b41be",
-      "sha256": "74767791e51c510d5942920afc41c19dc4a0c7ce1a9f1623e67fcf768f5b41be"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/thumb.png",
-      "bytes": 104399,
+      "path": "assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/thumb.png",
+      "bytes": 66746,
       "width": 340,
       "height": 340,
-      "sourceSha256": "fb81b5116fd865a14a48fe21feb7f0923bb8a36ae77109a9b43fc7a4e2c13583",
-      "sha256": "fb81b5116fd865a14a48fe21feb7f0923bb8a36ae77109a9b43fc7a4e2c13583"
+      "sourceSha256": "ab070c0ee491430ab800ab6921c391e422d97a5725fe6e2a6fe37b3cd6fe7c87",
+      "sha256": "ab070c0ee491430ab800ab6921c391e422d97a5725fe6e2a6fe37b3cd6fe7c87"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/material.json",
-      "bytes": 1480,
-      "sourceSha256": "effb11a316c7089f8f4bcd559aa4ab22b88e5316879d53bffc75b9327cabf588",
-      "sha256": "609008f2a1482af626e955f3e39ed2866ceb46888a457539c356b22b9b831acc"
+      "path": "assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/material.json",
+      "bytes": 1202,
+      "sourceSha256": "231a162da9cfff290beebe5a2031debd672c76d6ec0d81dbd94a3bd1c2db4ff9",
+      "sha256": "371118b725f9b203617f1b6afb17c689f584458a2c18b963b79d001d15b7bc90"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/front.png",
-      "bytes": 130384,
+      "path": "assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/front.png",
+      "bytes": 92207,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "5225a937d60717ec790cfe8c0d20b55f14b8b519526e212eab2e09df499fbb1e",
-      "sha256": "5225a937d60717ec790cfe8c0d20b55f14b8b519526e212eab2e09df499fbb1e"
+      "sourceSha256": "8395b2dda8970c92c421f6c9caa58932f64cdc371de1a69b8d803cf823e35345",
+      "sha256": "8395b2dda8970c92c421f6c9caa58932f64cdc371de1a69b8d803cf823e35345"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/back.png",
-      "bytes": 37316,
+      "path": "assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/back.png",
+      "bytes": 6181,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
-      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/thumb.png",
-      "bytes": 120990,
+      "path": "assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/thumb.png",
+      "bytes": 79730,
       "width": 340,
       "height": 340,
-      "sourceSha256": "5e38de8ba68096569216558e3737d31af7c0d3bae1e3f8cd80f75c3036efb712",
-      "sha256": "5e38de8ba68096569216558e3737d31af7c0d3bae1e3f8cd80f75c3036efb712"
+      "sourceSha256": "bb52d8ff6535e053fc6c622677d20f054883794a7587fadbe44ce7038e6fb1b2",
+      "sha256": "bb52d8ff6535e053fc6c622677d20f054883794a7587fadbe44ce7038e6fb1b2"
     },
     {
-      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/material.json",
-      "bytes": 1489,
-      "sourceSha256": "9e2788f06eedd9a734f694913ec96e14d4c90946776d081e5051b8c65db7aabb",
-      "sha256": "cac607b491e543549830026aef9f0e3e8ae94017170509530fcdb68f91429b60"
+      "path": "assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/material.json",
+      "bytes": 1207,
+      "sourceSha256": "d57c4e7bb404199706870cece9d3cb598abbdb678764222069707fe515eced02",
+      "sha256": "d61850afd75377920676b6d9617b6f40445654dd693c3593eab8538d5c023b2a"
     },
     {
       "path": "assets/materials/garments/separate-v1-olive-bandeau/saved/999-3d97bdbf1586/front.png",
@@ -11120,15 +11120,15 @@
       "sha256": "24085fc1fa3c8103fca9f17ff86ed5b5d18a945ee34fe8a98567d737e51a755d"
     },
     {
-      "path": "assets/materials/garments/everyday-sport-bra/front.png",
-      "bytes": 50095,
+      "path": "assets/materials/garments/everyday-sport-bra/shoulder-curve-20261025/front.png",
+      "bytes": 50968,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "90f31e9e7d9f39ece0b51b8b397cdc1b5b8bda6e8197ee0053fd2d5bfcfe36d3",
-      "sha256": "90f31e9e7d9f39ece0b51b8b397cdc1b5b8bda6e8197ee0053fd2d5bfcfe36d3"
+      "sourceSha256": "b67578a542b45cd9840d612c22e32540c580aeea1fd2ab2a29e7b60edf1d519f",
+      "sha256": "b67578a542b45cd9840d612c22e32540c580aeea1fd2ab2a29e7b60edf1d519f"
     },
     {
-      "path": "assets/materials/garments/everyday-sport-bra/back.png",
+      "path": "assets/materials/garments/everyday-sport-bra/shoulder-curve-20261025/back.png",
       "bytes": 6181,
       "width": 939,
       "height": 1676,
@@ -11136,18 +11136,18 @@
       "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/garments/everyday-sport-bra/thumb.png",
-      "bytes": 40646,
+      "path": "assets/materials/garments/everyday-sport-bra/shoulder-curve-20261025/thumb.png",
+      "bytes": 68224,
       "width": 340,
       "height": 340,
-      "sourceSha256": "c82abbfb4863592a7709e31da83c24d6443d6717a15b6150febb0a0932d36fb0",
-      "sha256": "c82abbfb4863592a7709e31da83c24d6443d6717a15b6150febb0a0932d36fb0"
+      "sourceSha256": "1afcfc7c96c53a5020a8c21051574b6c427379d0d342bf137eb6723d280df77d",
+      "sha256": "1afcfc7c96c53a5020a8c21051574b6c427379d0d342bf137eb6723d280df77d"
     },
     {
-      "path": "assets/materials/sources/everyday-underwear-20261024/everyday-sport-bra/result/material.json",
-      "bytes": 914,
-      "sourceSha256": "210da393dce33fec9c50096dafa74812c54477580f46c810b906c1bb68cb97e4",
-      "sha256": "210da393dce33fec9c50096dafa74812c54477580f46c810b906c1bb68cb97e4"
+      "path": "assets/materials/sources/underwear-shoulder-curve-20261025/everyday-sport-bra/result/material.json",
+      "bytes": 1059,
+      "sourceSha256": "b75e33be5c65c990e9c3cf62a2b112ea298e28c25fdb4995b32a69c837d66b02",
+      "sha256": "b75e33be5c65c990e9c3cf62a2b112ea298e28c25fdb4995b32a69c837d66b02"
     },
     {
       "path": "assets/materials/sources/everyday-underwear-20261024/material-presets.json",
@@ -11186,15 +11186,15 @@
       "sha256": "88c587281ea2c27f9686a97859e92fb29c08f3ed2f85e315b0ba9a78b5dc816b"
     },
     {
-      "path": "assets/materials/garments/everyday-rib-bra/front.png",
-      "bytes": 52817,
+      "path": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/front.png",
+      "bytes": 54255,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "6f6e41efe8ca4ff2a614de34e0c1c37feb0811113afc027adf8a72b1bf1c8078",
-      "sha256": "6f6e41efe8ca4ff2a614de34e0c1c37feb0811113afc027adf8a72b1bf1c8078"
+      "sourceSha256": "824db06442a37a7045e8f6dd5e261edafee81218f40bfd24ec34fe6fd1b6fa09",
+      "sha256": "824db06442a37a7045e8f6dd5e261edafee81218f40bfd24ec34fe6fd1b6fa09"
     },
     {
-      "path": "assets/materials/garments/everyday-rib-bra/back.png",
+      "path": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/back.png",
       "bytes": 6181,
       "width": 939,
       "height": 1676,
@@ -11202,18 +11202,18 @@
       "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/garments/everyday-rib-bra/thumb.png",
-      "bytes": 43224,
+      "path": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/thumb.png",
+      "bytes": 77782,
       "width": 340,
       "height": 340,
-      "sourceSha256": "758534075330c1d29be05b6821c598d8af148dd45c395c5ec8647ef0176ab808",
-      "sha256": "758534075330c1d29be05b6821c598d8af148dd45c395c5ec8647ef0176ab808"
+      "sourceSha256": "bcd3e317018f6d6a03e0ac4e2cbb594b703d7d840b8b32cc3a7e42ab99f23a45",
+      "sha256": "bcd3e317018f6d6a03e0ac4e2cbb594b703d7d840b8b32cc3a7e42ab99f23a45"
     },
     {
-      "path": "assets/materials/sources/everyday-underwear-20261024/everyday-rib-bra/result/material.json",
-      "bytes": 912,
-      "sourceSha256": "585c88fb374ce8b778c4b3412e68955637178a647d8b8227837c04b3a928c7b0",
-      "sha256": "585c88fb374ce8b778c4b3412e68955637178a647d8b8227837c04b3a928c7b0"
+      "path": "assets/materials/sources/underwear-shoulder-curve-20261025/everyday-rib-bra/result/material.json",
+      "bytes": 1057,
+      "sourceSha256": "9af301e98d2b993b62abe6db0ef1cdaa4c0fccee6fa520bb603d13a7805f6848",
+      "sha256": "9af301e98d2b993b62abe6db0ef1cdaa4c0fccee6fa520bb603d13a7805f6848"
     },
     {
       "path": "assets/materials/garments/everyday-rib-briefs/front.png",
@@ -11246,15 +11246,15 @@
       "sha256": "b2390ff3e43d0b9432d0d2268bfe763ea4336ee67c523338a486a550dd36a3d5"
     },
     {
-      "path": "assets/materials/garments/everyday-cotton-bra/front.png",
-      "bytes": 55193,
+      "path": "assets/materials/garments/everyday-cotton-bra/shoulder-curve-20261025/front.png",
+      "bytes": 55889,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "23ee275848243b255ecc499358c423f69a060ffd9551a18efd41ccf40866f806",
-      "sha256": "23ee275848243b255ecc499358c423f69a060ffd9551a18efd41ccf40866f806"
+      "sourceSha256": "0b3ae8a879e519d4d0873cb5883c30a0aaaa72fa5e87ac61ac0c3c69f77821ed",
+      "sha256": "0b3ae8a879e519d4d0873cb5883c30a0aaaa72fa5e87ac61ac0c3c69f77821ed"
     },
     {
-      "path": "assets/materials/garments/everyday-cotton-bra/back.png",
+      "path": "assets/materials/garments/everyday-cotton-bra/shoulder-curve-20261025/back.png",
       "bytes": 6181,
       "width": 939,
       "height": 1676,
@@ -11262,18 +11262,18 @@
       "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/garments/everyday-cotton-bra/thumb.png",
-      "bytes": 44477,
+      "path": "assets/materials/garments/everyday-cotton-bra/shoulder-curve-20261025/thumb.png",
+      "bytes": 75811,
       "width": 340,
       "height": 340,
-      "sourceSha256": "f831105c0c9dda89b7e9604952df2cf383f91d17de47f7d9f1d9ad5281945f03",
-      "sha256": "f831105c0c9dda89b7e9604952df2cf383f91d17de47f7d9f1d9ad5281945f03"
+      "sourceSha256": "e18ef9b75d6c3ea764a56f21e51d266b102d36c03ab93c4383ebd35e3aaf70a8",
+      "sha256": "e18ef9b75d6c3ea764a56f21e51d266b102d36c03ab93c4383ebd35e3aaf70a8"
     },
     {
-      "path": "assets/materials/sources/everyday-underwear-20261024/everyday-cotton-bra/result/material.json",
-      "bytes": 915,
-      "sourceSha256": "1847387f783e4d21cce63c852d7934edf6fad9367ed910859775d6b1803b383a",
-      "sha256": "1847387f783e4d21cce63c852d7934edf6fad9367ed910859775d6b1803b383a"
+      "path": "assets/materials/sources/underwear-shoulder-curve-20261025/everyday-cotton-bra/result/material.json",
+      "bytes": 1060,
+      "sourceSha256": "1bc5907140033626c91764e8df6bba179c5649246513797dfcdcf73dc49211d9",
+      "sha256": "1bc5907140033626c91764e8df6bba179c5649246513797dfcdcf73dc49211d9"
     },
     {
       "path": "assets/materials/garments/everyday-cotton-briefs/front.png",
@@ -11306,15 +11306,15 @@
       "sha256": "35844a9ba8c19c458fe092c06d9ad5ce8ace328e913e5bf895807b681c26f89f"
     },
     {
-      "path": "assets/materials/garments/everyday-lace-bra/front.png",
-      "bytes": 71371,
+      "path": "assets/materials/garments/everyday-lace-bra/shoulder-curve-20261025/front.png",
+      "bytes": 73012,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "f2d5827e5f0c6e2f13a9aac1f6101dccb18f3e621ade0aaf827f6b1c2a14a329",
-      "sha256": "f2d5827e5f0c6e2f13a9aac1f6101dccb18f3e621ade0aaf827f6b1c2a14a329"
+      "sourceSha256": "9e0f49bccd915a95b3d2a3c4535fbe6a87fea175d383641396597635519ae4d3",
+      "sha256": "9e0f49bccd915a95b3d2a3c4535fbe6a87fea175d383641396597635519ae4d3"
     },
     {
-      "path": "assets/materials/garments/everyday-lace-bra/back.png",
+      "path": "assets/materials/garments/everyday-lace-bra/shoulder-curve-20261025/back.png",
       "bytes": 6181,
       "width": 939,
       "height": 1676,
@@ -11322,18 +11322,18 @@
       "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/garments/everyday-lace-bra/thumb.png",
-      "bytes": 62019,
+      "path": "assets/materials/garments/everyday-lace-bra/shoulder-curve-20261025/thumb.png",
+      "bytes": 105769,
       "width": 340,
       "height": 340,
-      "sourceSha256": "fb852de7d38e8ab61988ce1cbc6ceca9b73c42b33e06abb2bae2ab7fb19565b8",
-      "sha256": "fb852de7d38e8ab61988ce1cbc6ceca9b73c42b33e06abb2bae2ab7fb19565b8"
+      "sourceSha256": "ec85a1cedf9ab176ab26a6c83d2989ef9d1a9066ba026e98a89652d653ddca5f",
+      "sha256": "ec85a1cedf9ab176ab26a6c83d2989ef9d1a9066ba026e98a89652d653ddca5f"
     },
     {
-      "path": "assets/materials/sources/everyday-underwear-20261024/everyday-lace-bra/result/material.json",
-      "bytes": 913,
-      "sourceSha256": "61e426406ff45ff4cb1b04d938e97cfe2540b9a9ae8dd477705d5ff36e9f786b",
-      "sha256": "61e426406ff45ff4cb1b04d938e97cfe2540b9a9ae8dd477705d5ff36e9f786b"
+      "path": "assets/materials/sources/underwear-shoulder-curve-20261025/everyday-lace-bra/result/material.json",
+      "bytes": 1058,
+      "sourceSha256": "47d3993e8a925bf3e9e82ee7230f3a4c22ade0dcf3447db81321ab96bf3b5cf1",
+      "sha256": "47d3993e8a925bf3e9e82ee7230f3a4c22ade0dcf3447db81321ab96bf3b5cf1"
     },
     {
       "path": "assets/materials/garments/everyday-lace-briefs/front.png",
@@ -11366,15 +11366,15 @@
       "sha256": "68317eb85d851efdbda40dcae615296ac6a0adb0f304493a2bfe5a4ab7e714bb"
     },
     {
-      "path": "assets/materials/garments/everyday-seamless-bra/front.png",
-      "bytes": 45299,
+      "path": "assets/materials/garments/everyday-seamless-bra/shoulder-curve-20261025/front.png",
+      "bytes": 46984,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "7c9bf80369982ce1e19f9f12f8faff134d91232d5193146b807e738ea907b8b5",
-      "sha256": "7c9bf80369982ce1e19f9f12f8faff134d91232d5193146b807e738ea907b8b5"
+      "sourceSha256": "fb4353807e40a7383619af4cd13697b8ff8cc4e3638e5644cd6aa15f8069e7ab",
+      "sha256": "fb4353807e40a7383619af4cd13697b8ff8cc4e3638e5644cd6aa15f8069e7ab"
     },
     {
-      "path": "assets/materials/garments/everyday-seamless-bra/back.png",
+      "path": "assets/materials/garments/everyday-seamless-bra/shoulder-curve-20261025/back.png",
       "bytes": 6181,
       "width": 939,
       "height": 1676,
@@ -11382,18 +11382,18 @@
       "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
     },
     {
-      "path": "assets/materials/garments/everyday-seamless-bra/thumb.png",
-      "bytes": 36998,
+      "path": "assets/materials/garments/everyday-seamless-bra/shoulder-curve-20261025/thumb.png",
+      "bytes": 63922,
       "width": 340,
       "height": 340,
-      "sourceSha256": "be8d183ba5db0c668b2df90c802867bbb04e6ad00085083ca05fc93ee72ab762",
-      "sha256": "be8d183ba5db0c668b2df90c802867bbb04e6ad00085083ca05fc93ee72ab762"
+      "sourceSha256": "379569ac67930e8f2d72d314f3a324f41a6cc8f38d4ed0586c09953ae06e0496",
+      "sha256": "379569ac67930e8f2d72d314f3a324f41a6cc8f38d4ed0586c09953ae06e0496"
     },
     {
-      "path": "assets/materials/sources/everyday-underwear-20261024/everyday-seamless-bra/result/material.json",
-      "bytes": 917,
-      "sourceSha256": "61235d03a1678cb8ef3f4a7d1e8d886c36502045d8fa126640eeab14cb0e1c77",
-      "sha256": "61235d03a1678cb8ef3f4a7d1e8d886c36502045d8fa126640eeab14cb0e1c77"
+      "path": "assets/materials/sources/underwear-shoulder-curve-20261025/everyday-seamless-bra/result/material.json",
+      "bytes": 1062,
+      "sourceSha256": "46031b09d096e096191de74584adc9d553aa7f676365ffc7c4719dfa98482a2c",
+      "sha256": "46031b09d096e096191de74584adc9d553aa7f676365ffc7c4719dfa98482a2c"
     },
     {
       "path": "assets/materials/garments/everyday-seamless-briefs/front.png",
@@ -11484,6 +11484,246 @@
       "bytes": 919,
       "sourceSha256": "b18e81a7a32f2c27a9fea3f17b608f31694f41dc13f6b08798469e54c0d5f491",
       "sha256": "b18e81a7a32f2c27a9fea3f17b608f31694f41dc13f6b08798469e54c0d5f491"
+    },
+    {
+      "path": "assets/materials/garments/botanical-watercolor-gown-v1/front.png",
+      "bytes": 2082900,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "bbf18ff5ac947e0bff7751a6a7efdf516630fe6012f54ab08d8a2ff6728e493e",
+      "sha256": "bbf18ff5ac947e0bff7751a6a7efdf516630fe6012f54ab08d8a2ff6728e493e"
+    },
+    {
+      "path": "assets/materials/garments/botanical-watercolor-gown-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/botanical-watercolor-gown-v1/thumb.png",
+      "bytes": 145219,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "992d34a3815d47d3523061dab780a1d6788938b1b87d50466aedadea94706bcd",
+      "sha256": "992d34a3815d47d3523061dab780a1d6788938b1b87d50466aedadea94706bcd"
+    },
+    {
+      "path": "assets/materials/garments/botanical-wine-lace-dress-v1/front.png",
+      "bytes": 686120,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "c5cecb754447feb84967ab6c1acbefdff112151f420224d87216ddfc4fb11690",
+      "sha256": "c5cecb754447feb84967ab6c1acbefdff112151f420224d87216ddfc4fb11690"
+    },
+    {
+      "path": "assets/materials/garments/botanical-wine-lace-dress-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/botanical-wine-lace-dress-v1/thumb.png",
+      "bytes": 97670,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "0f13393a7254c33824cec4a26b5afaadacd9d6da2adb0aa00e31892768bb2ccd",
+      "sha256": "0f13393a7254c33824cec4a26b5afaadacd9d6da2adb0aa00e31892768bb2ccd"
+    },
+    {
+      "path": "assets/materials/garments/botanical-petal-mini-v1/front.png",
+      "bytes": 495501,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "153b7552fe9b15b8a7372efd71daf998a0612e82961e4c3ca0b49fb6a8e8dd82",
+      "sha256": "153b7552fe9b15b8a7372efd71daf998a0612e82961e4c3ca0b49fb6a8e8dd82"
+    },
+    {
+      "path": "assets/materials/garments/botanical-petal-mini-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/botanical-petal-mini-v1/thumb.png",
+      "bytes": 155267,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "089a326d9901c6f24e4dfa6ae1352c3447b8a032badc00c88894affe28f9e2d7",
+      "sha256": "089a326d9901c6f24e4dfa6ae1352c3447b8a032badc00c88894affe28f9e2d7"
+    },
+    {
+      "path": "assets/materials/garments/botanical-leaf-gown-v1/front.png",
+      "bytes": 1397767,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "724efff7841652f8c402b9e44ae4695f9f88a590f5a1526d04e13086651075a5",
+      "sha256": "724efff7841652f8c402b9e44ae4695f9f88a590f5a1526d04e13086651075a5"
+    },
+    {
+      "path": "assets/materials/garments/botanical-leaf-gown-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/botanical-leaf-gown-v1/thumb.png",
+      "bytes": 109707,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "93dbc384bf1a26b6aebe75d12f5ddc862772b13d62f9c6b50d400b34329c2b65",
+      "sha256": "93dbc384bf1a26b6aebe75d12f5ddc862772b13d62f9c6b50d400b34329c2b65"
+    },
+    {
+      "path": "assets/materials/garments/printed-87396232-969e-4b4a-8e07-799a3d556445/front.png",
+      "bytes": 209648,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "37e9fdd9d11806beebdf42c8f36451d3a9b64d53872cae82400ac7b2ed092a62",
+      "sha256": "37e9fdd9d11806beebdf42c8f36451d3a9b64d53872cae82400ac7b2ed092a62"
+    },
+    {
+      "path": "assets/materials/garments/printed-87396232-969e-4b4a-8e07-799a3d556445/back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/garments/printed-87396232-969e-4b4a-8e07-799a3d556445/thumb.png",
+      "bytes": 141405,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "d300cb15a747a79dc62c866590b45538a355100a0b975b627a79d2abe9cd8a49",
+      "sha256": "d300cb15a747a79dc62c866590b45538a355100a0b975b627a79d2abe9cd8a49"
+    },
+    {
+      "path": "assets/materials/garments/printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7/front.png",
+      "bytes": 199945,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "a5dd2ccfd14169a2bc502082bd7a3f62078ad62b05e9cc3e26073919773937d0",
+      "sha256": "a5dd2ccfd14169a2bc502082bd7a3f62078ad62b05e9cc3e26073919773937d0"
+    },
+    {
+      "path": "assets/materials/garments/printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7/back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/garments/printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7/thumb.png",
+      "bytes": 127795,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "cb0cfb14fda3605a5ef020fc4a46bef4a01e652bb21e4270e819572846b509a0",
+      "sha256": "cb0cfb14fda3605a5ef020fc4a46bef4a01e652bb21e4270e819572846b509a0"
+    },
+    {
+      "path": "assets/materials/garments/fresh-gingham-roundcup-v1/front.png",
+      "bytes": 71807,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "8411f20d49a98e321fa35c658e12e5fc7e476a350d96139c397c9aafe6980227",
+      "sha256": "8411f20d49a98e321fa35c658e12e5fc7e476a350d96139c397c9aafe6980227"
+    },
+    {
+      "path": "assets/materials/garments/fresh-gingham-roundcup-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/fresh-gingham-roundcup-v1/thumb.png",
+      "bytes": 62561,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "26e91efa9d0d1aeeb3a3d7644d57cbbf17f6099c2b9860264e1578bc8f9c99d1",
+      "sha256": "26e91efa9d0d1aeeb3a3d7644d57cbbf17f6099c2b9860264e1578bc8f9c99d1"
+    },
+    {
+      "path": "assets/materials/garments/fresh-square-cami-v1/front.png",
+      "bytes": 103932,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "5f5227d42517ba733f1e504e9c425a71ae72d9767a04b2e34c7610f35994fcbf",
+      "sha256": "5f5227d42517ba733f1e504e9c425a71ae72d9767a04b2e34c7610f35994fcbf"
+    },
+    {
+      "path": "assets/materials/garments/fresh-square-cami-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/fresh-square-cami-v1/thumb.png",
+      "bytes": 89397,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "87a623ce629942c77da66be90e3ee731e637924e60e698c9307e83879165dcbe",
+      "sha256": "87a623ce629942c77da66be90e3ee731e637924e60e698c9307e83879165dcbe"
+    },
+    {
+      "path": "assets/materials/garments/fresh-botanical-bustier-v1/front.png",
+      "bytes": 113958,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "7f76c4cb8ae3be69571690c8caeef15b00f566f5cc442386e525f66b4e59e2a5",
+      "sha256": "7f76c4cb8ae3be69571690c8caeef15b00f566f5cc442386e525f66b4e59e2a5"
+    },
+    {
+      "path": "assets/materials/garments/fresh-botanical-bustier-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/fresh-botanical-bustier-v1/thumb.png",
+      "bytes": 101711,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "9041a7de1035074bc1afa2e954fa60d4bfe9669dcbf47b12deaef34a428b612e",
+      "sha256": "9041a7de1035074bc1afa2e954fa60d4bfe9669dcbf47b12deaef34a428b612e"
+    },
+    {
+      "path": "assets/materials/garments/fresh-ribbon-ruffle-v1/front.png",
+      "bytes": 63946,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "06bb5df4469f4e13efa5236ff70134ce85abec488c7d58c2e6f632c969725395",
+      "sha256": "06bb5df4469f4e13efa5236ff70134ce85abec488c7d58c2e6f632c969725395"
+    },
+    {
+      "path": "assets/materials/garments/fresh-ribbon-ruffle-v1/back.png",
+      "bytes": 6181,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382",
+      "sha256": "0df7ee164ef93d39ad38f149e3e322f94bd7c3b997c854b0197062496c563382"
+    },
+    {
+      "path": "assets/materials/garments/fresh-ribbon-ruffle-v1/thumb.png",
+      "bytes": 52611,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "74deab7d015edd12bb109113bd2f60d45c99a4f559c0900640d971eaac819850",
+      "sha256": "74deab7d015edd12bb109113bd2f60d45c99a4f559c0900640d971eaac819850"
     },
     {
       "path": "assets/materials/published/preppy-navy-shirt-6-front.png",
@@ -12910,30 +13150,6 @@
       "sha256": "e43b82742668308b87c1646af34654df04490b8ba41307625034ba91d6bbbfa1"
     },
     {
-      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-front.png",
-      "bytes": 73313,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "b703c35528b177e61d58c8fafcb255ef3c6d6e478266e6aaaa6b37059ddeed0c",
-      "sha256": "b703c35528b177e61d58c8fafcb255ef3c6d6e478266e6aaaa6b37059ddeed0c"
-    },
-    {
-      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-back.png",
-      "bytes": 37316,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
-      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
-    },
-    {
-      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-thumb.png",
-      "bytes": 69587,
-      "width": 340,
-      "height": 340,
-      "sourceSha256": "54c4494272ab61d74c258a5699f313ad0c9db8de3aef9dc38ef3db5bdb5c9934",
-      "sha256": "54c4494272ab61d74c258a5699f313ad0c9db8de3aef9dc38ef3db5bdb5c9934"
-    },
-    {
       "path": "assets/materials/published/fittings-street-v1-fuzzy-slides-1758-front.png",
       "bytes": 84469,
       "width": 939,
@@ -13052,30 +13268,6 @@
       "height": 340,
       "sourceSha256": "f3a0ee36d0e136c6954527978ce07d02bd2c6c1a7a5b4bee7e85077ce33580fc",
       "sha256": "f3a0ee36d0e136c6954527978ce07d02bd2c6c1a7a5b4bee7e85077ce33580fc"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-front.png",
-      "bytes": 190581,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "62711aca5f89577168c27458da6133bc03652f189d850ee723f72a13464c15b1",
-      "sha256": "62711aca5f89577168c27458da6133bc03652f189d850ee723f72a13464c15b1"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-back.png",
-      "bytes": 37316,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
-      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-thumb.png",
-      "bytes": 103782,
-      "width": 340,
-      "height": 340,
-      "sourceSha256": "a70906c45c5eb2508f64d35c8439a22167df93ce65e57264aa02eea16ea480c5",
-      "sha256": "a70906c45c5eb2508f64d35c8439a22167df93ce65e57264aa02eea16ea480c5"
     },
     {
       "path": "assets/materials/published/fittings-street-v1-gray-tee-1803-front.png",
@@ -13796,30 +13988,6 @@
       "height": 340,
       "sourceSha256": "cfa1447c7ac76ba6944c08edf41d849bc20e44dcdc7e7f636a89076372be140d",
       "sha256": "cfa1447c7ac76ba6944c08edf41d849bc20e44dcdc7e7f636a89076372be140d"
-    },
-    {
-      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-front.png",
-      "bytes": 800926,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "5983486691af09b32087826a3b85ecbb7aa0d8df3aee627deb3c6bfaedfdc12c",
-      "sha256": "5983486691af09b32087826a3b85ecbb7aa0d8df3aee627deb3c6bfaedfdc12c"
-    },
-    {
-      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-back.png",
-      "bytes": 44550,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "7a787d60dadb26330de70d701ae9a49aa81b0dbeab4e6a15336de04ca7b35867",
-      "sha256": "7a787d60dadb26330de70d701ae9a49aa81b0dbeab4e6a15336de04ca7b35867"
-    },
-    {
-      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-thumb.png",
-      "bytes": 94707,
-      "width": 340,
-      "height": 340,
-      "sourceSha256": "599a85f2d7d83e106432255a4dc48f47cf332f23fe854957aa82d6d929ef8229",
-      "sha256": "599a85f2d7d83e106432255a4dc48f47cf332f23fe854957aa82d6d929ef8229"
     },
     {
       "path": "assets/materials/published/fittings-autumn-crochet-beanie-v1-2038-front.png",
@@ -14710,7 +14878,47 @@
       "sha256": "989d7e33cbb979254b2cc7590557687b6e6e9339f1a531e314e82ef1d8542ab2"
     },
     {
-      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2231-front.png",
+      "path": "assets/materials/published/fittings-dress-garden-2234-front.png",
+      "bytes": 531597,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "61f02df33061c1cd25bc7755cb4e2edb0fa298c34afcfa87ee3aa135d93fd437",
+      "sha256": "61f02df33061c1cd25bc7755cb4e2edb0fa298c34afcfa87ee3aa135d93fd437"
+    },
+    {
+      "path": "assets/materials/published/fittings-dress-garden-2234-back.png",
+      "bytes": 91048,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "d9d292087460206c10695a237d95779a50a9df461862760365919f7dfdd4cca2",
+      "sha256": "d9d292087460206c10695a237d95779a50a9df461862760365919f7dfdd4cca2"
+    },
+    {
+      "path": "assets/materials/published/fittings-dress-garden-2234-thumb.png",
+      "bytes": 149443,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "387c7a55b03faa07fb055f04b2dcd6edc664e45b6ca5562169aea17bfe683ce4",
+      "sha256": "387c7a55b03faa07fb055f04b2dcd6edc664e45b6ca5562169aea17bfe683ce4"
+    },
+    {
+      "path": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/current-front.png",
+      "bytes": 51322,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "d44986510420e041bdf9aecd0a4e11ed3a2cceea5a91326f90209bcbb1f99985",
+      "sha256": "d44986510420e041bdf9aecd0a4e11ed3a2cceea5a91326f90209bcbb1f99985"
+    },
+    {
+      "path": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/current-thumb.png",
+      "bytes": 71709,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "679db213a4b9bb009e9d665dde922dfbfdd4a6880ea8e20fb613b408057a61e6",
+      "sha256": "679db213a4b9bb009e9d665dde922dfbfdd4a6880ea8e20fb613b408057a61e6"
+    },
+    {
+      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2245-front.png",
       "bytes": 330741,
       "width": 939,
       "height": 1676,
@@ -14718,7 +14926,7 @@
       "sha256": "dd1b305507b52463a553c31909ac2801c78a61ff19f76c554ac6c0639506ce58"
     },
     {
-      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2231-back.png",
+      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2245-back.png",
       "bytes": 39882,
       "width": 939,
       "height": 1676,
@@ -14726,12 +14934,252 @@
       "sha256": "80e1827c994d0fb212850e9749c043cf51651de703b9d822dc78e54c4b9fa823"
     },
     {
-      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2231-thumb.png",
+      "path": "assets/materials/published/fittings-kg-scoop-knit-v1-2245-thumb.png",
       "bytes": 104241,
       "width": 340,
       "height": 340,
       "sourceSha256": "bdd9be54d80bb48639e16d8c67af2786d216b22253df9e25489bc572dd529b0c",
       "sha256": "bdd9be54d80bb48639e16d8c67af2786d216b22253df9e25489bc572dd529b0c"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-seamless-bra-2250-front.png",
+      "bytes": 92410,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "1dc82d594988879239feee57384b5f802704cafc9ba4ceaa3a23304b0b2c6680",
+      "sha256": "1dc82d594988879239feee57384b5f802704cafc9ba4ceaa3a23304b0b2c6680"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-seamless-bra-2250-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-seamless-bra-2250-thumb.png",
+      "bytes": 90929,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "8dbadab5a21c27ac8c8ae4f4f4a27eaa0b3efbf1c89599ed33823ed0690b4ae7",
+      "sha256": "8dbadab5a21c27ac8c8ae4f4f4a27eaa0b3efbf1c89599ed33823ed0690b4ae7"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2266-front.png",
+      "bytes": 794018,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "9ba0a7d8fef7547bd8723e079da184258827650623f425c1a0f0e9f7ddcda504",
+      "sha256": "9ba0a7d8fef7547bd8723e079da184258827650623f425c1a0f0e9f7ddcda504"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2266-back.png",
+      "bytes": 45079,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "6127aab5d127a26ed55654aee648059ef419c731827710d744e3c9a4baced3c8",
+      "sha256": "6127aab5d127a26ed55654aee648059ef419c731827710d744e3c9a4baced3c8"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2266-thumb.png",
+      "bytes": 85474,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "d5fa7148d263be645b8ebca3e94e452c37dd0511bdc3b070c91845eab70870d5",
+      "sha256": "d5fa7148d263be645b8ebca3e94e452c37dd0511bdc3b070c91845eab70870d5"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-sweatshirt-halfzip-2268-front.png",
+      "bytes": 356000,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b7014848854e339d7a656d8e6779d46c00122687084c898725ea788abf02b9a3",
+      "sha256": "b7014848854e339d7a656d8e6779d46c00122687084c898725ea788abf02b9a3"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-sweatshirt-halfzip-2268-back.png",
+      "bytes": 44588,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "81cab1487df52270fee68d69bba837959bd2e3f8afe74300dbdc8a5000bd52e4",
+      "sha256": "81cab1487df52270fee68d69bba837959bd2e3f8afe74300dbdc8a5000bd52e4"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-sweatshirt-halfzip-2268-thumb.png",
+      "bytes": 146978,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "49284272dd76a144b1695ca5ce15dd62a2b1a1361d17190138a352052bac6b64",
+      "sha256": "49284272dd76a144b1695ca5ce15dd62a2b1a1361d17190138a352052bac6b64"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-hoodie-pullover-2270-front.png",
+      "bytes": 375269,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "65aca579ef761a5ff8122a2d5f97b702957aef84455388f4539f9db6347fb2ce",
+      "sha256": "65aca579ef761a5ff8122a2d5f97b702957aef84455388f4539f9db6347fb2ce"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-hoodie-pullover-2270-back.png",
+      "bytes": 70888,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e967c7f70320395bc1cfd65da31658a48016b65b5d9103cecfb0eb46352061f9",
+      "sha256": "e967c7f70320395bc1cfd65da31658a48016b65b5d9103cecfb0eb46352061f9"
+    },
+    {
+      "path": "assets/materials/published/fittings-tops-hoodie-pullover-2270-thumb.png",
+      "bytes": 128473,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "5e9161cf1dc3e8c9cebd2e846267d0e84b675942a107257153d4944ee60b54c6",
+      "sha256": "5e9161cf1dc3e8c9cebd2e846267d0e84b675942a107257153d4944ee60b54c6"
+    },
+    {
+      "path": "assets/materials/published/fittings-top-v1-blue-ruffle-2287-front.png",
+      "bytes": 226582,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "96946687f1eb3e2bbcf14e39dc9888caa4e1486b4189f080b737ba83d25ad46b",
+      "sha256": "96946687f1eb3e2bbcf14e39dc9888caa4e1486b4189f080b737ba83d25ad46b"
+    },
+    {
+      "path": "assets/materials/published/fittings-top-v1-blue-ruffle-2287-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-top-v1-blue-ruffle-2287-thumb.png",
+      "bytes": 137830,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "1b3cd6a4f558cb7c3c3e6dd1afad541a21a0669077d296682a0096190522e1bf",
+      "sha256": "1b3cd6a4f558cb7c3c3e6dd1afad541a21a0669077d296682a0096190522e1bf"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-bandeau-bra-2290-front.png",
+      "bytes": 81773,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "ffca249db2e9a7e9e23cca154a0929580037b04425e3743c32883132955bd0a7",
+      "sha256": "ffca249db2e9a7e9e23cca154a0929580037b04425e3743c32883132955bd0a7"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-bandeau-bra-2290-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-bandeau-bra-2290-thumb.png",
+      "bytes": 68466,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "66a565ddc037e6b1baeef67a333028f99be11090446ff17c9a0ad7f183f0655f",
+      "sha256": "66a565ddc037e6b1baeef67a333028f99be11090446ff17c9a0ad7f183f0655f"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-cotton-bra-2305-front.png",
+      "bytes": 95009,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "a83949bc036fc225962e4e3ee7ae896e79dc0f04791601b73bb58ef6a74e5191",
+      "sha256": "a83949bc036fc225962e4e3ee7ae896e79dc0f04791601b73bb58ef6a74e5191"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-cotton-bra-2305-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-cotton-bra-2305-thumb.png",
+      "bytes": 93870,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "9d66b47aa7c0849fe1e8cc8a57c9a95c515fa83a2f54014305404da9e1e6c91d",
+      "sha256": "9d66b47aa7c0849fe1e8cc8a57c9a95c515fa83a2f54014305404da9e1e6c91d"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-lace-bra-2307-front.png",
+      "bytes": 105521,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e261668059331f666a7ff3849df823b0268429ebd934d9870c27444f046c0159",
+      "sha256": "e261668059331f666a7ff3849df823b0268429ebd934d9870c27444f046c0159"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-lace-bra-2307-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-lace-bra-2307-thumb.png",
+      "bytes": 114452,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "9359d71c4bc34d6d3934994580decfe84434057dd8488e2199c894f8e537caea",
+      "sha256": "9359d71c4bc34d6d3934994580decfe84434057dd8488e2199c894f8e537caea"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-sport-bra-2327-front.png",
+      "bytes": 96945,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "ecc4fabe0b7e8235b4c0c624481a8463d61bcd8108b12d6b860404db8ab3e1de",
+      "sha256": "ecc4fabe0b7e8235b4c0c624481a8463d61bcd8108b12d6b860404db8ab3e1de"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-sport-bra-2327-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-everyday-sport-bra-2327-thumb.png",
+      "bytes": 96732,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "41bd47fa75400e90dfa5165e2fb7b5013efca140e9231b5c0aa8d9e5ce1b3e54",
+      "sha256": "41bd47fa75400e90dfa5165e2fb7b5013efca140e9231b5c0aa8d9e5ce1b3e54"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-2330-front.png",
+      "bytes": 72637,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "8137da908ccfae36985fcee199e360c22a9d2f117a7aba7aba678ae7997d1477",
+      "sha256": "8137da908ccfae36985fcee199e360c22a9d2f117a7aba7aba678ae7997d1477"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-2330-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-2330-thumb.png",
+      "bytes": 66200,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "a160c3eca1dbff31d92a54de962d32b5e9458761622b520457844216fe294099",
+      "sha256": "a160c3eca1dbff31d92a54de962d32b5e9458761622b520457844216fe294099"
     },
     {
       "path": "assets/materials/garments/tops-sweatshirt-crop/saved/1184-8518b7652a77/display.png",
@@ -15366,6 +15814,54 @@
       "sha256": "4a259574da2e3b034c8659d5389d04c54f4b9f051c89b53f654e83f2ca091677"
     },
     {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/swept-half/front-master-gray.png",
+      "bytes": 325358,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "b0d62663f13ef40f81eb75ac9462ed16773a4b6f3d037a936b08e58f7bc9644c",
+      "sha256": "b0d62663f13ef40f81eb75ac9462ed16773a4b6f3d037a936b08e58f7bc9644c"
+    },
+    {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/sleek-low/front-master-gray.png",
+      "bytes": 184200,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "44e3818bf8148bf706e0ae07e5b8aae3bfcb5875180ed8ac8166c874c4e29b45",
+      "sha256": "44e3818bf8148bf706e0ae07e5b8aae3bfcb5875180ed8ac8166c874c4e29b45"
+    },
+    {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/twin-low/front-master-gray.png",
+      "bytes": 210751,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "77b4bdd61eda2fc55ffec201ac0cb763b05337645242c9299e285e5b61ff2701",
+      "sha256": "77b4bdd61eda2fc55ffec201ac0cb763b05337645242c9299e285e5b61ff2701"
+    },
+    {
+      "path": "assets/materials/characters/hair-open-forehead-v11/items/center/front-master-gray.png",
+      "bytes": 625498,
+      "width": 1254,
+      "height": 1254,
+      "sourceSha256": "63d4122fa631da199123634b6e9f79778979090c7f40f77eae22be75cfa2f3e9",
+      "sha256": "63d4122fa631da199123634b6e9f79778979090c7f40f77eae22be75cfa2f3e9"
+    },
+    {
+      "path": "assets/materials/characters/hair-open-forehead-v11/items/swept-back/front-master-gray.png",
+      "bytes": 697955,
+      "width": 1254,
+      "height": 1254,
+      "sourceSha256": "f96b605fcc1c03e4b8aed5d06158b895645240d5ed07bffd1b3f3f5a9a5d4635",
+      "sha256": "f96b605fcc1c03e4b8aed5d06158b895645240d5ed07bffd1b3f3f5a9a5d4635"
+    },
+    {
+      "path": "assets/materials/characters/hair-open-forehead-v11/items/side-37/front-master-gray.png",
+      "bytes": 489984,
+      "width": 1254,
+      "height": 1254,
+      "sourceSha256": "d008893715d47b645bc2aa0ef62f05a826787125d4e2eb455d2203808a6c296c",
+      "sha256": "d008893715d47b645bc2aa0ef62f05a826787125d4e2eb455d2203808a6c296c"
+    },
+    {
       "path": "assets/materials/characters/hair-silk-pilot-v1/back-gray.png",
       "bytes": 569439,
       "width": 720,
@@ -15686,60 +16182,84 @@
       "sha256": "19264d5ec35dc793a12f68ad4a49239bb73070b7565fb028127a90341baa857c"
     },
     {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/swept-half/back-master-gray.png",
+      "bytes": 514291,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "3a8b1771155d41577d278d9b4b9822cb6f9b5826f667371fb3ca4b099fddd3da",
+      "sha256": "3a8b1771155d41577d278d9b4b9822cb6f9b5826f667371fb3ca4b099fddd3da"
+    },
+    {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/sleek-low/back-master-gray.png",
+      "bytes": 323825,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "a6e47c46ff1859e98773e8e750c65b6c04b6d7590a9a06c34bcaec79a676f6b6",
+      "sha256": "a6e47c46ff1859e98773e8e750c65b6c04b6d7590a9a06c34bcaec79a676f6b6"
+    },
+    {
+      "path": "assets/materials/characters/hair-no-bangs-v10/items/twin-low/back-master-gray.png",
+      "bytes": 133143,
+      "width": 768,
+      "height": 1024,
+      "sourceSha256": "433ccd2520502bdbf83ead94d8bc6c7b7903fe61671063c0b2ad87e2722af7eb",
+      "sha256": "433ccd2520502bdbf83ead94d8bc6c7b7903fe61671063c0b2ad87e2722af7eb"
+    },
+    {
       "path": "assets/materials/characters/face-variants-v1/original-head-neckless.png",
-      "bytes": 477869,
+      "bytes": 271987,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "ee4d98c15a3f3a1168192a20df6334c7f69ee907c3b9446c8a83868b86fbbcad",
-      "sha256": "ee4d98c15a3f3a1168192a20df6334c7f69ee907c3b9446c8a83868b86fbbcad"
+      "sourceSha256": "b4ab2e12a2a69bcff31c6f1f52ba97cf2924c4d97d130727e514fa176534fcfe",
+      "sha256": "b4ab2e12a2a69bcff31c6f1f52ba97cf2924c4d97d130727e514fa176534fcfe"
     },
     {
       "path": "assets/materials/characters/face-variants-v1/cool/head-hd.png",
-      "bytes": 576272,
+      "bytes": 377432,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "95467f8b5e1c98b0fe5ad2acdeac40d0b1f3fce5b080043bb8bfe2d3c0a74b3e",
-      "sha256": "95467f8b5e1c98b0fe5ad2acdeac40d0b1f3fce5b080043bb8bfe2d3c0a74b3e"
+      "sourceSha256": "4d4eb9727e71f35574d768d64d26aa8e1c700ec7c26c04244875eeb074dec15a",
+      "sha256": "4d4eb9727e71f35574d768d64d26aa8e1c700ec7c26c04244875eeb074dec15a"
     },
     {
       "path": "assets/materials/characters/face-variants-v1/gentle/head-hd.png",
-      "bytes": 577943,
+      "bytes": 379947,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "d3924524a757ab9fb755892fbc7af254ea19a31d499ab64061f958f37bd160e6",
-      "sha256": "d3924524a757ab9fb755892fbc7af254ea19a31d499ab64061f958f37bd160e6"
+      "sourceSha256": "55f4edb30fed440f997102d2e0fcf93b4423c9c79e21ac30d556bc79918dc738",
+      "sha256": "55f4edb30fed440f997102d2e0fcf93b4423c9c79e21ac30d556bc79918dc738"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/poised/head-hd.png",
-      "bytes": 572227,
+      "bytes": 374002,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "00d6e4bac4a3bd1c767765fe0af585e56a88c083901f944c99fde054d4b9a4ba",
-      "sha256": "00d6e4bac4a3bd1c767765fe0af585e56a88c083901f944c99fde054d4b9a4ba"
+      "sourceSha256": "f9b20c2b8a6990e272207cfa96d30524c0e8ddd0d2c830bb6b299322277f4cdd",
+      "sha256": "f9b20c2b8a6990e272207cfa96d30524c0e8ddd0d2c830bb6b299322277f4cdd"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/slender/head-hd.png",
-      "bytes": 581688,
+      "bytes": 379462,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "056b48b4724974922f817e83dd6e05da1858e721bae6b79b49e95b3e54673865",
-      "sha256": "056b48b4724974922f817e83dd6e05da1858e721bae6b79b49e95b3e54673865"
+      "sourceSha256": "b8bfb7bab2f1a66423f9ea0a5d12dfb15ed5149fef5072c38b7fe3114d5e132e",
+      "sha256": "b8bfb7bab2f1a66423f9ea0a5d12dfb15ed5149fef5072c38b7fe3114d5e132e"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/soft-small/head-hd.png",
-      "bytes": 621415,
+      "bytes": 415521,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "6405e92ca4857e9b2b2e7f6abb3ca40e0e06cb58c4221d185b469224b7ab4390",
-      "sha256": "6405e92ca4857e9b2b2e7f6abb3ca40e0e06cb58c4221d185b469224b7ab4390"
+      "sourceSha256": "3cd6b5604aff70981c3352825330dc08141617d42bdf79919932c3fbfc43501b",
+      "sha256": "3cd6b5604aff70981c3352825330dc08141617d42bdf79919932c3fbfc43501b"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/sharp-small/head-hd.png",
-      "bytes": 582761,
+      "bytes": 384641,
       "width": 1000,
       "height": 1100,
-      "sourceSha256": "2985da0f643d5d427a2701796609e96a7c456c0b718665cef9d73dd4b8794a1f",
-      "sha256": "2985da0f643d5d427a2701796609e96a7c456c0b718665cef9d73dd4b8794a1f"
+      "sourceSha256": "14f6c05389cf78153daf5569007b633db69fc32d733bffa00ac869de9c96fdd9",
+      "sha256": "14f6c05389cf78153daf5569007b633db69fc32d733bffa00ac869de9c96fdd9"
     },
     {
       "path": "assets/materials/characters/face-realistic-v3/real-natural/head-hd.png",
@@ -17878,6 +18398,190 @@
       "sha256": "4a62b53e3a9d17916f903a1d31f9e0d7b5b4e9aa9eada68e8fad1bbf61da8f85"
     },
     {
+      "path": "assets/materials/published/panel-previews/campus-01-blue-sailor-top-aa35d86318e7.png",
+      "bytes": 138972,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "61f384c12d949095ac7c98dafe633fb25dad83ab06943549560b67bb329249c3",
+      "sha256": "61f384c12d949095ac7c98dafe633fb25dad83ab06943549560b67bb329249c3"
+    },
+    {
+      "path": "assets/materials/published/panel-previews/campus-04-navy-tailored-shirt-tie-8a321c97b39a.png",
+      "bytes": 114425,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "5b999112363fe7cc846f232655df7f5de6daf0748b15745bd3c8e1eede256fdd",
+      "sha256": "5b999112363fe7cc846f232655df7f5de6daf0748b15745bd3c8e1eede256fdd"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/front.png",
+      "bytes": 159899,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "befa462c3a13d53cbdb9c5093845b4092331cdbcbbef9f40a039ec0ebb8e7923",
+      "sha256": "befa462c3a13d53cbdb9c5093845b4092331cdbcbbef9f40a039ec0ebb8e7923"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/back.png",
+      "bytes": 44918,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "258579f7748aecb9ff0aaa97dc1635702d674bf93db2cf3d71bc341192e7a438",
+      "sha256": "258579f7748aecb9ff0aaa97dc1635702d674bf93db2cf3d71bc341192e7a438"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/thumb.png",
+      "bytes": 102815,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "3245b1e89e30c86f929da9da4c210704307cc35316baf201ced75a6e9c43f83b",
+      "sha256": "3245b1e89e30c86f929da9da4c210704307cc35316baf201ced75a6e9c43f83b"
+    },
+    {
+      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-front.png",
+      "bytes": 190581,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "62711aca5f89577168c27458da6133bc03652f189d850ee723f72a13464c15b1",
+      "sha256": "62711aca5f89577168c27458da6133bc03652f189d850ee723f72a13464c15b1"
+    },
+    {
+      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-thumb.png",
+      "bytes": 103782,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "a70906c45c5eb2508f64d35c8439a22167df93ce65e57264aa02eea16ea480c5",
+      "sha256": "a70906c45c5eb2508f64d35c8439a22167df93ce65e57264aa02eea16ea480c5"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/front.png",
+      "bytes": 98597,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "090caf473f7519f8ad73f10fbe4090675ba90fd277755b9cb7e52a966a12a690",
+      "sha256": "090caf473f7519f8ad73f10fbe4090675ba90fd277755b9cb7e52a966a12a690"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/back.png",
+      "bytes": 43139,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "876c60f2a960561debb0711ad3d1adc3224202bb9bb42de3dffc84ba8fd96f8c",
+      "sha256": "876c60f2a960561debb0711ad3d1adc3224202bb9bb42de3dffc84ba8fd96f8c"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/thumb.png",
+      "bytes": 89874,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "73860ec40dc6899853b32fffb56d9935a456b63e59ab3463a7b4f918861ada98",
+      "sha256": "73860ec40dc6899853b32fffb56d9935a456b63e59ab3463a7b4f918861ada98"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/front.png",
+      "bytes": 165564,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b7dfec6f29f2c2ae22718fba2d73087ee8e96212ff11dff534d13a299e71d82d",
+      "sha256": "b7dfec6f29f2c2ae22718fba2d73087ee8e96212ff11dff534d13a299e71d82d"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/back.png",
+      "bytes": 44198,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "74767791e51c510d5942920afc41c19dc4a0c7ce1a9f1623e67fcf768f5b41be",
+      "sha256": "74767791e51c510d5942920afc41c19dc4a0c7ce1a9f1623e67fcf768f5b41be"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/thumb.png",
+      "bytes": 104399,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "fb81b5116fd865a14a48fe21feb7f0923bb8a36ae77109a9b43fc7a4e2c13583",
+      "sha256": "fb81b5116fd865a14a48fe21feb7f0923bb8a36ae77109a9b43fc7a4e2c13583"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/front.png",
+      "bytes": 130384,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "5225a937d60717ec790cfe8c0d20b55f14b8b519526e212eab2e09df499fbb1e",
+      "sha256": "5225a937d60717ec790cfe8c0d20b55f14b8b519526e212eab2e09df499fbb1e"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/thumb.png",
+      "bytes": 120990,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "5e38de8ba68096569216558e3737d31af7c0d3bae1e3f8cd80f75c3036efb712",
+      "sha256": "5e38de8ba68096569216558e3737d31af7c0d3bae1e3f8cd80f75c3036efb712"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-front.png",
+      "bytes": 73313,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b703c35528b177e61d58c8fafcb255ef3c6d6e478266e6aaaa6b37059ddeed0c",
+      "sha256": "b703c35528b177e61d58c8fafcb255ef3c6d6e478266e6aaaa6b37059ddeed0c"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-back.png",
+      "bytes": 37316,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b",
+      "sha256": "e669df4b5f138659a03e7acf23206ca2087cb02957d293b4994de643c107481b"
+    },
+    {
+      "path": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-thumb.png",
+      "bytes": 69587,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "54c4494272ab61d74c258a5699f313ad0c9db8de3aef9dc38ef3db5bdb5c9934",
+      "sha256": "54c4494272ab61d74c258a5699f313ad0c9db8de3aef9dc38ef3db5bdb5c9934"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-front.png",
+      "bytes": 800926,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "5983486691af09b32087826a3b85ecbb7aa0d8df3aee627deb3c6bfaedfdc12c",
+      "sha256": "5983486691af09b32087826a3b85ecbb7aa0d8df3aee627deb3c6bfaedfdc12c"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-back.png",
+      "bytes": 44550,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "7a787d60dadb26330de70d701ae9a49aa81b0dbeab4e6a15336de04ca7b35867",
+      "sha256": "7a787d60dadb26330de70d701ae9a49aa81b0dbeab4e6a15336de04ca7b35867"
+    },
+    {
+      "path": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-thumb.png",
+      "bytes": 94707,
+      "width": 340,
+      "height": 340,
+      "sourceSha256": "599a85f2d7d83e106432255a4dc48f47cf332f23fe854957aa82d6d929ef8229",
+      "sha256": "599a85f2d7d83e106432255a4dc48f47cf332f23fe854957aa82d6d929ef8229"
+    },
+    {
       "path": "assets/materials/published/fittings-sneaker-quilt-nylon-2186-front.png",
       "bytes": 98976,
       "width": 939,
@@ -18703,99 +19407,99 @@
     },
     {
       "path": "assets/materials/characters/face-variants-v1/cool/face-overlay.png",
-      "bytes": 49610,
+      "bytes": 39732,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "dfc25e133fca8a1008d4f65eb233879da1c3d4de8a8ad845676e76468c968c16",
-      "sha256": "dfc25e133fca8a1008d4f65eb233879da1c3d4de8a8ad845676e76468c968c16"
+      "sourceSha256": "7b7d88e8e9d6e94f7f131aee964071bcf80afdadf0ba9f50270156325004167e",
+      "sha256": "7b7d88e8e9d6e94f7f131aee964071bcf80afdadf0ba9f50270156325004167e"
     },
     {
       "path": "assets/materials/characters/face-variants-v1/cool/body-0-0.png",
-      "bytes": 783234,
+      "bytes": 560391,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "4d23431f318ed2ca26a0dba86c7eb6605693602bb6ff4e480f19a034a50fb494",
-      "sha256": "4d23431f318ed2ca26a0dba86c7eb6605693602bb6ff4e480f19a034a50fb494"
+      "sourceSha256": "00b34631a99f38e21b67e54e5876a0fc4524bdc86bc7572cb3229ed67035f553",
+      "sha256": "00b34631a99f38e21b67e54e5876a0fc4524bdc86bc7572cb3229ed67035f553"
     },
     {
       "path": "assets/materials/characters/face-variants-v1/gentle/face-overlay.png",
-      "bytes": 50085,
+      "bytes": 40142,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "d078efbf36d56eda7fbad5387ec05e31fe61f91dad3748c9dd2a69388ed2d8c9",
-      "sha256": "d078efbf36d56eda7fbad5387ec05e31fe61f91dad3748c9dd2a69388ed2d8c9"
+      "sourceSha256": "06980eaad34f7c802c85dffc74d72c05f05a44fd5ef6836acd659c6814d56886",
+      "sha256": "06980eaad34f7c802c85dffc74d72c05f05a44fd5ef6836acd659c6814d56886"
     },
     {
       "path": "assets/materials/characters/face-variants-v1/gentle/body-0-0.png",
-      "bytes": 783733,
+      "bytes": 560915,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "17610ae2e4d4883e26ae4a3a202bfaa4bbbadd14072949907c82ec661aeb6b7d",
-      "sha256": "17610ae2e4d4883e26ae4a3a202bfaa4bbbadd14072949907c82ec661aeb6b7d"
+      "sourceSha256": "58b30ede5772b7ffd376a0b618e6feb3e32530f46d697e4453c426689bd48492",
+      "sha256": "58b30ede5772b7ffd376a0b618e6feb3e32530f46d697e4453c426689bd48492"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/poised/face-overlay.png",
-      "bytes": 47644,
+      "bytes": 38154,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "cfc9ad90e0f08873b97da87a815dfc79c517151bd7e9835fec7b0db4d323d1bc",
-      "sha256": "cfc9ad90e0f08873b97da87a815dfc79c517151bd7e9835fec7b0db4d323d1bc"
+      "sourceSha256": "f9987bb028e162d3883ea00c290023503a1cc3c0b96ae8c2ae1ba9d0c3646c52",
+      "sha256": "f9987bb028e162d3883ea00c290023503a1cc3c0b96ae8c2ae1ba9d0c3646c52"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/poised/body-0-0.png",
-      "bytes": 762950,
+      "bytes": 539177,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "04fd559da5d10221a3e4640493ac667108299f7f56a142c64baa0f4887b1cbae",
-      "sha256": "04fd559da5d10221a3e4640493ac667108299f7f56a142c64baa0f4887b1cbae"
+      "sourceSha256": "c0ab0a2c1c1e914db97a4161c6614df7ec6b131427ef2bcdcfc424d807ab1178",
+      "sha256": "c0ab0a2c1c1e914db97a4161c6614df7ec6b131427ef2bcdcfc424d807ab1178"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/slender/face-overlay.png",
-      "bytes": 48121,
+      "bytes": 38391,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "b1850ba550bd92c4b9574a424c273f16d9a5041b1f367d4b509f39b7aa907749",
-      "sha256": "b1850ba550bd92c4b9574a424c273f16d9a5041b1f367d4b509f39b7aa907749"
+      "sourceSha256": "42a4829f15065d2614c18451b8b86651e49777f90261012efaada345e46b6ff6",
+      "sha256": "42a4829f15065d2614c18451b8b86651e49777f90261012efaada345e46b6ff6"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/slender/body-0-0.png",
-      "bytes": 763385,
+      "bytes": 539445,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "81921a895245303ab889fcfce9198962e2a49be673ca42affc3491d846ba4925",
-      "sha256": "81921a895245303ab889fcfce9198962e2a49be673ca42affc3491d846ba4925"
+      "sourceSha256": "7a69a0ef69d0ba327d05b92691b664ca8413329b078beb24444475035a009663",
+      "sha256": "7a69a0ef69d0ba327d05b92691b664ca8413329b078beb24444475035a009663"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/soft-small/face-overlay.png",
-      "bytes": 49388,
+      "bytes": 39465,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "36748c9bd8b1bbe9b600c7ad02909b666ad1fb4402d26427864ac8a8b713ca55",
-      "sha256": "36748c9bd8b1bbe9b600c7ad02909b666ad1fb4402d26427864ac8a8b713ca55"
+      "sourceSha256": "f5c60ab713ff2708965844204a842bb65232d8389a16842d678358ae668aab63",
+      "sha256": "f5c60ab713ff2708965844204a842bb65232d8389a16842d678358ae668aab63"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/soft-small/body-0-0.png",
-      "bytes": 764482,
+      "bytes": 540746,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "81d6178ee97591f67587023b311a80618b1d7e5b235340e088bb673b5903cae5",
-      "sha256": "81d6178ee97591f67587023b311a80618b1d7e5b235340e088bb673b5903cae5"
+      "sourceSha256": "5692247870f3dd1df22bbb82c604f15b9020692f4fa96d516bd529b3375872d8",
+      "sha256": "5692247870f3dd1df22bbb82c604f15b9020692f4fa96d516bd529b3375872d8"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/sharp-small/face-overlay.png",
-      "bytes": 47764,
+      "bytes": 38112,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "2dc7c6688d9b62edb6b0b6003f7f98859a66fe0892df12e7570dad10f73a04f9",
-      "sha256": "2dc7c6688d9b62edb6b0b6003f7f98859a66fe0892df12e7570dad10f73a04f9"
+      "sourceSha256": "084165e520220f8ad60664da9c7007e5950abca8eb807ae74a9c3402cefc4492",
+      "sha256": "084165e520220f8ad60664da9c7007e5950abca8eb807ae74a9c3402cefc4492"
     },
     {
       "path": "assets/materials/characters/face-variants-v2/sharp-small/body-0-0.png",
-      "bytes": 763008,
+      "bytes": 539068,
       "width": 939,
       "height": 1676,
-      "sourceSha256": "b4dde5d7dcb83403c5d2ae1fbbb831b9dcd73a0f11cc80f46ae161a8bdb3f5cb",
-      "sha256": "b4dde5d7dcb83403c5d2ae1fbbb831b9dcd73a0f11cc80f46ae161a8bdb3f5cb"
+      "sourceSha256": "fa44fafd52883c06e517b182b6622567f2da5d4251edeac32821bda946b6357b",
+      "sha256": "fa44fafd52883c06e517b182b6622567f2da5d4251edeac32821bda946b6357b"
     },
     {
       "path": "assets/materials/characters/face-cool-flat-v5/flat-cool-straight/body-0-0.png",
@@ -18926,10 +19630,186 @@
       "sha256": "c424995babd943fd4bca2977730d97ec6f2f60159bc145962ca107b9afb73a99"
     },
     {
+      "path": "assets/materials/characters/separated-body-v1/heads/unified-face.png",
+      "bytes": 501001,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "168102ce9579ac0ed3ad3e48966e411b59f0c48d93e037685b54b0f62a1033bf",
+      "sha256": "168102ce9579ac0ed3ad3e48966e411b59f0c48d93e037685b54b0f62a1033bf"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/cool.png",
+      "bytes": 537751,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "472829c4eee2f0b4bfcc5ed767e409c64cd2396fe611b45a2b64f42c96428ad1",
+      "sha256": "472829c4eee2f0b4bfcc5ed767e409c64cd2396fe611b45a2b64f42c96428ad1"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/gentle.png",
+      "bytes": 538257,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "da1986700ac78ec8101556813618db028a7169db1767afb0924e06f5d11f7ab5",
+      "sha256": "da1986700ac78ec8101556813618db028a7169db1767afb0924e06f5d11f7ab5"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/poised.png",
+      "bytes": 503601,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "c0ffc0a613d7acf2d30f18a43b0a8198962968ba4df632a210711bfcf1f01903",
+      "sha256": "c0ffc0a613d7acf2d30f18a43b0a8198962968ba4df632a210711bfcf1f01903"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/slender.png",
+      "bytes": 503832,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "746779ed317d44c20c6ab42cd0836576a8bf157063454e4559446a6172e8f850",
+      "sha256": "746779ed317d44c20c6ab42cd0836576a8bf157063454e4559446a6172e8f850"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/soft-small.png",
+      "bytes": 505135,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "03ed9cb2bc3a725d9e6a258138118a5a2e04f07522024900f88566bed9db9d1e",
+      "sha256": "03ed9cb2bc3a725d9e6a258138118a5a2e04f07522024900f88566bed9db9d1e"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/sharp-small.png",
+      "bytes": 503519,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "225eda30d1a58245cbdd7dbd854d149da4876cd38565d8b649cdd6c09d84324d",
+      "sha256": "225eda30d1a58245cbdd7dbd854d149da4876cd38565d8b649cdd6c09d84324d"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-natural.png",
+      "bytes": 709886,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "97d40aa131e157a6179c6586b9a49ef1462d2601fa9d91f5266f69ac0e6f90e1",
+      "sha256": "97d40aa131e157a6179c6586b9a49ef1462d2601fa9d91f5266f69ac0e6f90e1"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-warm.png",
+      "bytes": 714312,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "87fe5640788dc8d9d39e5f87b51f5117fc6fb66988c7852ef229a83566a0e0df",
+      "sha256": "87fe5640788dc8d9d39e5f87b51f5117fc6fb66988c7852ef229a83566a0e0df"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-defined.png",
+      "bytes": 712870,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "e431918b728f74c5b1d76a28d3b3c0fb63a49fee5b61a7fc52f97a94a642a61c",
+      "sha256": "e431918b728f74c5b1d76a28d3b3c0fb63a49fee5b61a7fc52f97a94a642a61c"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-cool-soft.png",
+      "bytes": 708578,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "d5e48939744f3e727dc3fc0622ae2a662fbe6cac364fd91f5d93743dffb608e9",
+      "sha256": "d5e48939744f3e727dc3fc0622ae2a662fbe6cac364fd91f5d93743dffb608e9"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-cool-sharp.png",
+      "bytes": 708251,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "0f3307a87806053f42d020680e8c2b4bd5c8a5aec2d58151bd8d65431773f33a",
+      "sha256": "0f3307a87806053f42d020680e8c2b4bd5c8a5aec2d58151bd8d65431773f33a"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-puppy-soft.png",
+      "bytes": 709130,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "27fdd2ef7031fea9d81678c905b17bce9c822611a284fbac618b4bac991466dd",
+      "sha256": "27fdd2ef7031fea9d81678c905b17bce9c822611a284fbac618b4bac991466dd"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/real-puppy-bright.png",
+      "bytes": 708744,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "19576cb34b6367ba4379d9df782d589c7611b899cd8bb1ff3e76c3fa5818276f",
+      "sha256": "19576cb34b6367ba4379d9df782d589c7611b899cd8bb1ff3e76c3fa5818276f"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/flat-cool-straight.png",
+      "bytes": 701634,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "4d6ee0eee09be9c47767b729b98cf5689a4e43390020c2198b8d0b89aec2bde4",
+      "sha256": "4d6ee0eee09be9c47767b729b98cf5689a4e43390020c2198b8d0b89aec2bde4"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/flat-cool-almond.png",
+      "bytes": 700973,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "907201fca31e0c433e3276580bed1bc086fc184376a189228f7cb20f068ae5ad",
+      "sha256": "907201fca31e0c433e3276580bed1bc086fc184376a189228f7cb20f068ae5ad"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/flat-cool-defined.png",
+      "bytes": 701438,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "2819709fe0713cd3e6b5dd449ebec63490318a3455f7d4f23b5426e4e1872e81",
+      "sha256": "2819709fe0713cd3e6b5dd449ebec63490318a3455f7d4f23b5426e4e1872e81"
+    },
+    {
+      "path": "assets/materials/characters/separated-body-v1/heads/flat-cool-quiet.png",
+      "bytes": 701275,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "d12829cee55abc8324c068e37a475522b325094f6071ac7a59c6c236e12ad44b",
+      "sha256": "d12829cee55abc8324c068e37a475522b325094f6071ac7a59c6c236e12ad44b"
+    },
+    {
+      "path": "assets/materials/characters/clean-body-v4/body-0-0.png",
+      "bytes": 1750632,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89",
+      "sha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89"
+    },
+    {
+      "path": "assets/materials/characters/clean-body-v4/body-0-1.png",
+      "bytes": 1750632,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89",
+      "sha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89"
+    },
+    {
+      "path": "assets/materials/characters/clean-body-v4/body-1-0.png",
+      "bytes": 1750632,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89",
+      "sha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89"
+    },
+    {
+      "path": "assets/materials/characters/clean-body-v4/body-1-1.png",
+      "bytes": 1750632,
+      "width": 939,
+      "height": 1676,
+      "sourceSha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89",
+      "sha256": "b653f1a131739112e2060466e2baa902f0822dcb94f11a1fead073f85bcdda89"
+    },
+    {
       "path": "assets/mobile/style.css",
-      "bytes": 13692,
-      "sourceSha256": "5698bba4f3e87c041a02fd99730ba0c6188e92f5cb3339f655f7d82f02c099c8",
-      "sha256": "5698bba4f3e87c041a02fd99730ba0c6188e92f5cb3339f655f7d82f02c099c8"
+      "bytes": 13985,
+      "sourceSha256": "e2234ca77133bfafda5cb51db7579929539aa75432ed2d9013f26349a90acb6f",
+      "sha256": "e2234ca77133bfafda5cb51db7579929539aa75432ed2d9013f26349a90acb6f"
     },
     {
       "path": "assets/onboarding.css",
@@ -18962,10 +19842,28 @@
       "sha256": "f75f2fe999aad732ac02d8b3646f88a286a729b5903ac8590c3fcd1b2ba228db"
     },
     {
+      "path": "assets/mobile/tailor-atelier.css",
+      "bytes": 7380,
+      "sourceSha256": "9a29db3aa5ab2157228a7de057d8bc519f895ce5a8fcf0ff1bde55e145a66837",
+      "sha256": "9a29db3aa5ab2157228a7de057d8bc519f895ce5a8fcf0ff1bde55e145a66837"
+    },
+    {
+      "path": "assets/mobile/edit-tools.css",
+      "bytes": 2264,
+      "sourceSha256": "64c09729c6f44f0522cbd3e52100ae3fccdd192ee67d610c191ac48775c49dd5",
+      "sha256": "64c09729c6f44f0522cbd3e52100ae3fccdd192ee67d610c191ac48775c49dd5"
+    },
+    {
+      "path": "assets/mobile/look-lab.css",
+      "bytes": 4466,
+      "sourceSha256": "d797ac35cc6bf7583b58538c6724f449f448eb5a29fc1774952e3958b89282f8",
+      "sha256": "d797ac35cc6bf7583b58538c6724f449f448eb5a29fc1774952e3958b89282f8"
+    },
+    {
       "path": "assets/mobile/features.js",
-      "bytes": 241,
-      "sourceSha256": "b539c8d3e096bc2967651a91078bf09fbdeffc0b533c331937c335956c947bb1",
-      "sha256": "b539c8d3e096bc2967651a91078bf09fbdeffc0b533c331937c335956c947bb1"
+      "bytes": 147,
+      "sourceSha256": "435fb3832c11250fb82e3dec9aa315cd972168c6cdd9dce5cbbcf2b918d63ffa",
+      "sha256": "435fb3832c11250fb82e3dec9aa315cd972168c6cdd9dce5cbbcf2b918d63ffa"
     },
     {
       "path": "assets/i18n.js",
@@ -19005,15 +19903,15 @@
     },
     {
       "path": "assets/mobile/hair-defaults.js",
-      "bytes": 3046,
-      "sourceSha256": "424276dba3ef7db46cfb68ed45d558db526e28ea0a3686b57f5e1f67753f8f1d",
-      "sha256": "424276dba3ef7db46cfb68ed45d558db526e28ea0a3686b57f5e1f67753f8f1d"
+      "bytes": 3223,
+      "sourceSha256": "a5d9366015f0408944b806bf6aa52e7130c0fbcfa4470a13af337208238da220",
+      "sha256": "a5d9366015f0408944b806bf6aa52e7130c0fbcfa4470a13af337208238da220"
     },
     {
       "path": "assets/underwear-wardrobe.js",
-      "bytes": 1439,
-      "sourceSha256": "bf31184f624f54d5d85cdb3bdb8e7e21513afd3da30579f51dc8151bdca0f9c7",
-      "sha256": "c207dc4e63821dc6be279be80cf5a2faf206affccee7c51f481c66b1f74498c6"
+      "bytes": 1555,
+      "sourceSha256": "b11558f111c0fac2de752cc8368e90e8cf54ed4f762d33a226d0b38b36d5c02f",
+      "sha256": "520c8b1ef66ff5078de17c0a458797f761aacfc1b70fe38b973a9bccd8d9ae87"
     },
     {
       "path": "assets/garment-names.js",
@@ -19040,16 +19938,22 @@
       "sha256": "d0636dad24cad02cfd3b574d78cb43c161c4c98fbee4379c8422d5df36dad219"
     },
     {
+      "path": "assets/figure-view.js",
+      "bytes": 162,
+      "sourceSha256": "384ff66f941e0b1068f24c99e6c6d833021e98cfbcfeca0d5e687c44bf26a37a",
+      "sha256": "384ff66f941e0b1068f24c99e6c6d833021e98cfbcfeca0d5e687c44bf26a37a"
+    },
+    {
       "path": "assets/hair-studio.js",
-      "bytes": 55717,
-      "sourceSha256": "e542e315209909e2a3fe1bb05df7fee4ed4897d322c92a61841e65a81b9a3119",
-      "sha256": "e542e315209909e2a3fe1bb05df7fee4ed4897d322c92a61841e65a81b9a3119"
+      "bytes": 62339,
+      "sourceSha256": "ab3f8010fb3aeaf2ba85a50ec2462ad897c221d7126caac430f03b687944429d",
+      "sha256": "ab3f8010fb3aeaf2ba85a50ec2462ad897c221d7126caac430f03b687944429d"
     },
     {
       "path": "assets/character-portraits.js",
-      "bytes": 4078,
-      "sourceSha256": "3bce9c3049c77d5f7917d21525c5050114135814ea51eac943c5230aeed6798b",
-      "sha256": "639d1b32b1617f93cff3513b8690fbe8927cb5b1929451ec6c622f925a689dad"
+      "bytes": 4049,
+      "sourceSha256": "4990e2e168964d50ec683c3a5bc7ff6f98b7b4eadc60fcd2621e59af1cf82da7",
+      "sha256": "c610b172429868b8d58fc99d4278fe4ce5ddbcc66561ed7a95833cf4cc24d5ff"
     },
     {
       "path": "assets/garment-prints/material.js",
@@ -19065,9 +19969,9 @@
     },
     {
       "path": "assets/mobile/tailor.js",
-      "bytes": 11918,
-      "sourceSha256": "32f8c31c2864c7b98ae5ffdfa48548392ff0894025687c9593a7dcd9fa1b4f08",
-      "sha256": "40afd72693e709d45bda1e10cf08e4838d9acec632cee1c2568818e3f32a1be7"
+      "bytes": 13878,
+      "sourceSha256": "f3da4e47217f76e41396973a14c2e6198d3914c9e2bf282d99d0ce9abecedf76",
+      "sha256": "8986b090071e4e62ce20446734bedbc4f6983a40a43c3f221a39e61d8c31772c"
     },
     {
       "path": "assets/mobile/equipment.js",
@@ -19076,28 +19980,40 @@
       "sha256": "dfe49a1d10863af3b0145448977887cdda72c7deb23ffb4f9f93b6344fb7c111"
     },
     {
+      "path": "assets/asset-version.js",
+      "bytes": 674,
+      "sourceSha256": "b1c07acbe2e2d6111e8e2069eafa6e8ffbdb69a29b5553b4420352b524910cb7",
+      "sha256": "ab5b7634a6a2bcb84a384ecf2dab918030e1ec4485cb0fda90d3aee16088f5bc"
+    },
+    {
       "path": "assets/mobile/app.js",
-      "bytes": 11663,
-      "sourceSha256": "634f8eab27b915412455bc2c71637b5722c7fe04e8890760c54e2619268ab9d0",
-      "sha256": "634f8eab27b915412455bc2c71637b5722c7fe04e8890760c54e2619268ab9d0"
+      "bytes": 12033,
+      "sourceSha256": "6a3ea03ce2c9f258377df239178f0df03010f164c03c31b0a5a8c5540f20b690",
+      "sha256": "6a3ea03ce2c9f258377df239178f0df03010f164c03c31b0a5a8c5540f20b690"
+    },
+    {
+      "path": "assets/mobile/edit-tools.js",
+      "bytes": 2708,
+      "sourceSha256": "8d3e8aa98565d93d0e88b415692b32fe5c99bab50c26af4a8dc65f5972161795",
+      "sha256": "8d3e8aa98565d93d0e88b415692b32fe5c99bab50c26af4a8dc65f5972161795"
     },
     {
       "path": "assets/mobile/controls.js",
-      "bytes": 22240,
-      "sourceSha256": "156b1c339a6a06121444fa1128c3e98550fef3490b573393dcd3bc01306ccec5",
-      "sha256": "156b1c339a6a06121444fa1128c3e98550fef3490b573393dcd3bc01306ccec5"
+      "bytes": 22501,
+      "sourceSha256": "b0067eaae2ffd8ab6e818f5b83d6d37d3da250cdbeb38ec098f0e7eeb17747ea",
+      "sha256": "b0067eaae2ffd8ab6e818f5b83d6d37d3da250cdbeb38ec098f0e7eeb17747ea"
     },
     {
       "path": "assets/mobile/player-flow.js",
-      "bytes": 13288,
-      "sourceSha256": "1f7b59c42f85ce2261db422ca7e7379008c964d0dd27560af0df54d818dd35e1",
-      "sha256": "1f7b59c42f85ce2261db422ca7e7379008c964d0dd27560af0df54d818dd35e1"
+      "bytes": 13346,
+      "sourceSha256": "91a868b5997347a80c8d9c2033827046b6eeb579c8aedd0bd58c8d360d64c63c",
+      "sha256": "91a868b5997347a80c8d9c2033827046b6eeb579c8aedd0bd58c8d360d64c63c"
     },
     {
       "path": "assets/mobile/accessories.js",
-      "bytes": 3851,
-      "sourceSha256": "2ee5f615a61831d6664831a9e75115a71c3302724e5dca7de8500a0926714f89",
-      "sha256": "2ee5f615a61831d6664831a9e75115a71c3302724e5dca7de8500a0926714f89"
+      "bytes": 3909,
+      "sourceSha256": "5d545c30802e7139007e5b4a7272f1c14e26d82ca7da4974413f628258c3d976",
+      "sha256": "5d545c30802e7139007e5b4a7272f1c14e26d82ca7da4974413f628258c3d976"
     },
     {
       "path": "assets/mobile/hair-economy.js",
@@ -19107,9 +20023,27 @@
     },
     {
       "path": "assets/mobile/atelier.js",
-      "bytes": 10195,
-      "sourceSha256": "1a4782c6521314a5b2d7fb16008eb1087ed17de246f216370791b4e935e7f40b",
-      "sha256": "1a4782c6521314a5b2d7fb16008eb1087ed17de246f216370791b4e935e7f40b"
+      "bytes": 10789,
+      "sourceSha256": "7589e3ef7a56245a1a51b8c8c60510bc6149c998c8356c274ce9548012e7c3b0",
+      "sha256": "7589e3ef7a56245a1a51b8c8c60510bc6149c998c8356c274ce9548012e7c3b0"
+    },
+    {
+      "path": "assets/mobile/edit-session.js",
+      "bytes": 5762,
+      "sourceSha256": "4ad9baee473b93157deea0ed719d255286ef8ea784676757d0e41273177eb580",
+      "sha256": "4ad9baee473b93157deea0ed719d255286ef8ea784676757d0e41273177eb580"
+    },
+    {
+      "path": "assets/mobile/look-lab-core.js",
+      "bytes": 1145,
+      "sourceSha256": "dde395f4f3aa1769553620c15092379c7c1c587033c86dbf461f434721b88d04",
+      "sha256": "dde395f4f3aa1769553620c15092379c7c1c587033c86dbf461f434721b88d04"
+    },
+    {
+      "path": "assets/mobile/look-lab.js",
+      "bytes": 15077,
+      "sourceSha256": "6923c9028b6384093823aa16fb083d7a4aae62c889611b016354f85ee335c919",
+      "sha256": "a9b1b0a83a948750ab554330457ed4065bc0d5f6cd78612994639d8e0f8368ed"
     },
     {
       "path": "assets/materials/characters/low-coverage-v3/garments.json",
@@ -19119,9 +20053,9 @@
     },
     {
       "path": "assets/materials/published/garment-labels.json",
-      "bytes": 86856,
-      "sourceSha256": "4cedc92f33f9456aac38e5cedf936573ddeac1d2f377ccb0e6043fb429794f98",
-      "sha256": "4cedc92f33f9456aac38e5cedf936573ddeac1d2f377ccb0e6043fb429794f98"
+      "bytes": 88924,
+      "sourceSha256": "74ca4f4111b179a17b78968432bc2e63e8707e8461d692183aca1beb1f5eca2e",
+      "sha256": "74ca4f4111b179a17b78968432bc2e63e8707e8461d692183aca1beb1f5eca2e"
     },
     {
       "path": "assets/materials/patterns/motifs/manifest.json",
@@ -19134,46 +20068,6 @@
       "bytes": 4350,
       "sourceSha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
       "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
-    },
-    {
-      "path": "assets/materials/garments/cotton-tee-regular-v3/saved/1021-b9a7a61baa9b/front.png",
-      "bytes": 239919,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "b9a7a61baa9b228e67e874293bde639124446978f8eb753f82646fc588bc062b",
-      "sha256": "b9a7a61baa9b228e67e874293bde639124446978f8eb753f82646fc588bc062b"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1377-front.png",
-      "bytes": 196492,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "5bfa3221bea7aafd4ea5f82af7668764e84cf7aed112803e7564a7369a6d31db",
-      "sha256": "5bfa3221bea7aafd4ea5f82af7668764e84cf7aed112803e7564a7369a6d31db"
-    },
-    {
-      "path": "assets/materials/garments/cotton-tee-cropped-v3/saved/1237-9dfd66f5f100/front.png",
-      "bytes": 163917,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "9dfd66f5f100bca75e0d89ff64a5ab33aad19fca3f1b0e4e8c03c398e0bcd855",
-      "sha256": "9dfd66f5f100bca75e0d89ff64a5ab33aad19fca3f1b0e4e8c03c398e0bcd855"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-fitted-v3-1369-front.png",
-      "bytes": 245003,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "07dbd50e64b120b01270a9d71ffb3d811e3ba7f735e376214a33de6b68a22b92",
-      "sha256": "07dbd50e64b120b01270a9d71ffb3d811e3ba7f735e376214a33de6b68a22b92"
-    },
-    {
-      "path": "assets/materials/published/fittings-cotton-tee-offshoulder-v3-1282-front.png",
-      "bytes": 204742,
-      "width": 939,
-      "height": 1676,
-      "sourceSha256": "ab9e85e22d32dc40d8af80448114f99375f6de93faefb0ae01f12ce7d850ebd9",
-      "sha256": "ab9e85e22d32dc40d8af80448114f99375f6de93faefb0ae01f12ce7d850ebd9"
     },
     {
       "path": "assets/fonts/WordrobeSerif.woff2",
@@ -19220,6 +20114,12 @@
       "height": 1676,
       "sourceSha256": "fab96170f710b1c3b40a3f0a15c6c0f3f429a44d888c78731c6d583d42ef430d",
       "sha256": "fab96170f710b1c3b40a3f0a15c6c0f3f429a44d888c78731c6d583d42ef430d"
+    },
+    {
+      "path": "assets/look-lab-learn.html",
+      "bytes": 1749,
+      "sourceSha256": "1aaac9382d9678bc762cc5e787567c8ba494010892ecfb87df3e884ce9f8c528",
+      "sha256": "1aaac9382d9678bc762cc5e787567c8ba494010892ecfb87df3e884ce9f8c528"
     }
   ]
 }
