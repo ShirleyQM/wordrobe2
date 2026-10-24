@@ -1,0 +1,2756 @@
+{
+  "campus-top": {
+    "zh": "秘密花园 · 衬衫 · 开衫",
+    "en": "Secret Garden · Shirt",
+    "originalName": "月白衬衫 · 雾蓝开衫",
+    "price": 45
+  },
+  "long-01": {
+    "zh": "月下散步 · 垂感 A 字长裙",
+    "en": "Moonlit Walk · Maxi Skirt",
+    "originalName": "雾蓝垂感 A 字长裙",
+    "price": 60
+  },
+  "long-02": {
+    "zh": "放学以后 · 细百褶长裙",
+    "en": "After School · Pleated Maxi Skirt",
+    "originalName": "深蓝细百褶长裙",
+    "price": 75
+  },
+  "long-03": {
+    "zh": "花园手记 · 裹式长裙",
+    "en": "Garden Notes · Maxi Skirt",
+    "originalName": "灰蓝裹式长裙",
+    "price": 70
+  },
+  "long-04": {
+    "zh": "慢拍日常 · 微鱼尾长裙",
+    "en": "Slow Days · Maxi Skirt",
+    "originalName": "燕麦微鱼尾长裙",
+    "price": 95
+  },
+  "long-05": {
+    "zh": "夜航来信 · 层次长裙",
+    "en": "Night Letters · Maxi Skirt",
+    "originalName": "月白层次长裙",
+    "price": 55
+  },
+  "short-01": {
+    "zh": "晨间序曲 · 学院百褶短裙",
+    "en": "Morning Prelude · Pleated Mini Skirt",
+    "originalName": "学院深蓝百褶短裙",
+    "price": 85
+  },
+  "short-02": {
+    "zh": "秘密花园 · 牛仔 A 字短裙",
+    "en": "Secret Garden · Denim Mini Skirt",
+    "originalName": "浅蓝牛仔 A 字短裙",
+    "price": 55
+  },
+  "short-03": {
+    "zh": "旅途一页 · 斜裹短裙",
+    "en": "Travel Journal · Mini Skirt",
+    "originalName": "蓝灰斜裹短裙",
+    "price": 60
+  },
+  "short-04": {
+    "zh": "雨后小巷 · 工装短裙",
+    "en": "After the Rain · Mini Skirt",
+    "originalName": "雾绿工装短裙",
+    "price": 65
+  },
+  "short-05": {
+    "zh": "轻舞 · 运动褶裙",
+    "en": "Soft Waltz · Skirt",
+    "originalName": "月白运动褶裙",
+    "price": 70
+  },
+  "dress-01": {
+    "zh": "午后留白 · 小高领无袖收腰裙",
+    "en": "Afternoon Pause · Dress",
+    "originalName": "静蓝小高领无袖收腰裙",
+    "price": 90
+  },
+  "dress-02": {
+    "zh": "街角咖啡 · 短袖衬衫裙",
+    "en": "Corner Café · Shirt Dress",
+    "originalName": "雾蓝短袖衬衫裙",
+    "price": 95
+  },
+  "dress-03": {
+    "zh": "风的序曲 · 小立领连衣裙",
+    "en": "Wind Prelude · Dress",
+    "originalName": "月白小立领连衣裙",
+    "price": 75
+  },
+  "dress-04": {
+    "zh": "月下散步 · 学院背带裙套装",
+    "en": "Moonlit Walk · Pinafore Dress",
+    "originalName": "蓝灰学院背带裙套装",
+    "price": 80
+  },
+  "dress-05": {
+    "zh": "放学以后 · 方领长连衣裙",
+    "en": "After School · Dress",
+    "originalName": "雾绿方领长连衣裙",
+    "price": 85
+  },
+  "campus-socks": {
+    "zh": "电影散场 · 短袜",
+    "en": "After the Film · Socks",
+    "originalName": "月白短袜",
+    "price": 45
+  },
+  "campus-shoes": {
+    "zh": "周末漫游 · 乐福鞋",
+    "en": "Weekend Wander · Loafers",
+    "originalName": "深蓝乐福鞋",
+    "price": 65
+  },
+  "campus-earrings": {
+    "zh": "星光序曲 · 小银耳钉",
+    "en": "Starlit Prelude · Stud Earrings",
+    "originalName": "小银耳钉",
+    "price": 60
+  },
+  "campus-necklace": {
+    "zh": "花园手记 · 银链吊坠",
+    "en": "Garden Notes · Necklace",
+    "originalName": "银链蓝吊坠",
+    "price": 55
+  },
+  "campus-bag": {
+    "zh": "晨间序曲 · 肩包",
+    "en": "Morning Prelude · Bag",
+    "originalName": "蓝灰肩包",
+    "price": 75
+  },
+  "campus-bra": {
+    "zh": "秘密花园 · 基础运动内衣",
+    "en": "Secret Garden · Bra",
+    "originalName": "基础运动内衣",
+    "price": 40
+  },
+  "campus-briefs": {
+    "zh": "初晴 · 基础棉质内裤",
+    "en": "First Light · Briefs",
+    "originalName": "基础棉质内裤",
+    "price": 40
+  },
+  "navy-shirt": {
+    "zh": "放学以后 · 格纹衬衫",
+    "en": "After School · Plaid Shirt",
+    "originalName": "格纹衬衫",
+    "price": 55
+  },
+  "suede-skirt": {
+    "zh": "夜航来信 · 腰带麂皮短裙",
+    "en": "Night Letters · Suede Belted Mini Skirt",
+    "originalName": "腰带麂皮短裙",
+    "price": 60
+  },
+  "ankle-boots": {
+    "zh": "星光序曲 · 复古短靴",
+    "en": "Starlit Prelude · Boots",
+    "originalName": "复古短靴",
+    "price": 75
+  },
+  "coin-loafers": {
+    "zh": "晨间序曲 · 金币乐福鞋",
+    "en": "Morning Prelude · Loafers",
+    "originalName": "金币乐福鞋",
+    "price": 75
+  },
+  "tee-regular": {
+    "zh": "初晴 · 标准圆领 T 恤",
+    "en": "First Light · T-Shirt",
+    "originalName": "标准圆领 T 恤",
+    "price": 40
+  },
+  "tee-loose": {
+    "zh": "旧书店 · 宽松落肩 T 恤",
+    "en": "Old Bookshop · T-Shirt",
+    "originalName": "宽松落肩 T 恤",
+    "price": 40
+  },
+  "tee-cropped": {
+    "zh": "晨间序曲 · 短款圆领 T 恤",
+    "en": "Morning Prelude · T-Shirt",
+    "originalName": "短款圆领 T 恤",
+    "price": 50
+  },
+  "tops-bandeau-navy": {
+    "zh": "晨间序曲 · 直筒抹胸",
+    "en": "Morning Prelude · Bandeau",
+    "originalName": "藏蓝直筒抹胸",
+    "price": 65
+  },
+  "tops-bandeau-knit": {
+    "zh": "月下散步 · 翻领针织抹胸",
+    "en": "Moonlit Walk · Knit Bandeau",
+    "originalName": "雾蓝翻领针织抹胸",
+    "price": 50
+  },
+  "tops-bandeau-ivory": {
+    "zh": "慢拍日常 · 拼片抹胸",
+    "en": "Slow Days · Bandeau",
+    "originalName": "奶白拼片抹胸",
+    "price": 70
+  },
+  "tops-bandeau-denim": {
+    "zh": "风的序曲 · 牛仔纽扣抹胸",
+    "en": "Wind Prelude · Denim Bandeau",
+    "originalName": "牛仔纽扣抹胸",
+    "price": 45
+  },
+  "tops-bandeau-drape": {
+    "zh": "街角咖啡 · 抽褶抹胸",
+    "en": "Corner Café · Bandeau",
+    "originalName": "烟粉抽褶抹胸",
+    "price": 75
+  },
+  "tops-bandeau-bow": {
+    "zh": "轻舞 · 蝴蝶结抹胸",
+    "en": "Soft Waltz · Bow Bandeau",
+    "originalName": "蓝灰蝴蝶结抹胸",
+    "price": 65
+  },
+  "tops-hoodie-pullover": {
+    "zh": "初晴 · 套头连帽卫衣",
+    "en": "First Light · Sweatshirt",
+    "originalName": "雾蓝套头连帽卫衣",
+    "price": 50
+  },
+  "tops-hoodie-zip": {
+    "zh": "午后留白 · 拉链连帽卫衣",
+    "en": "Afternoon Pause · Sweatshirt",
+    "originalName": "藏蓝拉链连帽卫衣",
+    "price": 90
+  },
+  "tops-sweatshirt-crop": {
+    "zh": "旅途一页 · 短款圆领卫衣",
+    "en": "Travel Journal · Sweatshirt",
+    "originalName": "奶油短款圆领卫衣",
+    "price": 50
+  },
+  "tops-sweatshirt-halfzip": {
+    "zh": "周末漫游 · 半拉链卫衣",
+    "en": "Weekend Wander · Sweatshirt",
+    "originalName": "蓝灰半拉链卫衣",
+    "price": 55
+  },
+  "tops-sweatshirt-raglan": {
+    "zh": "风的序曲 · 撞色插肩卫衣",
+    "en": "Wind Prelude · Sweatshirt",
+    "originalName": "炭灰撞色插肩卫衣",
+    "price": 50
+  },
+  "tops-hoodie-cropzip": {
+    "zh": "放学以后 · 短款拉链卫衣",
+    "en": "After School · Sweatshirt",
+    "originalName": "雾蓝短款拉链卫衣",
+    "price": 85
+  },
+  "capsule-pencil-navy": {
+    "zh": "晨间序曲 · 开衩包臀裙",
+    "en": "Morning Prelude · Skirt",
+    "originalName": "藏蓝开衩包臀裙",
+    "price": 75
+  },
+  "capsule-pencil-wrap": {
+    "zh": "夜航来信 · 裹身包臀裙",
+    "en": "Night Letters · Skirt",
+    "originalName": "灰蓝裹身包臀裙",
+    "price": 55
+  },
+  "capsule-pencil-denim": {
+    "zh": "风的序曲 · 牛仔包臀裙",
+    "en": "Wind Prelude · Denim Skirt",
+    "originalName": "雾蓝牛仔包臀裙",
+    "price": 55
+  },
+  "capsule-mermaid-satin": {
+    "zh": "午后留白 · 斜裁垂坠鱼尾裙",
+    "en": "Afternoon Pause · Skirt",
+    "originalName": "斜裁垂坠鱼尾裙",
+    "price": 90
+  },
+  "capsule-mermaid-pearl": {
+    "zh": "周末漫游 · 拼片弧摆鱼尾裙",
+    "en": "Weekend Wander · Skirt",
+    "originalName": "拼片弧摆鱼尾裙",
+    "price": 90
+  },
+  "capsule-mermaid-violet": {
+    "zh": "秘密花园 · 斜裥荷叶鱼尾裙",
+    "en": "Secret Garden · Skirt",
+    "originalName": "斜裥荷叶鱼尾裙",
+    "price": 85
+  },
+  "campus-01-blue-sailor-top": {
+    "zh": "风的序曲 · 水手领上衣 · 含领结",
+    "en": "Wind Prelude · Top",
+    "originalName": "水手领上衣·含领结",
+    "price": 45
+  },
+  "campus-01-blue-sailor-skirt": {
+    "zh": "星光序曲 · 百褶裙",
+    "en": "Starlit Prelude · Pleated Skirt",
+    "originalName": "海军蓝百褶裙",
+    "price": 85
+  },
+  "campus-01-blue-sailor-socks": {
+    "zh": "星光序曲 · 双杠中筒袜",
+    "en": "Starlit Prelude · Socks",
+    "originalName": "双杠中筒袜",
+    "price": 50
+  },
+  "campus-01-blue-sailor-shoes": {
+    "zh": "花园手记 · 乐福鞋",
+    "en": "Garden Notes · Loafers",
+    "originalName": "海军蓝乐福鞋",
+    "price": 70
+  },
+  "campus-02-gray-knit-shirt-tie": {
+    "zh": "午后留白 · 衬衫 · 含领带",
+    "en": "Afternoon Pause · Shirt",
+    "originalName": "白衬衫·含藏蓝领带",
+    "price": 60
+  },
+  "campus-02-gray-knit-cardigan": {
+    "zh": "电影散场 · 麻花针织开衫",
+    "en": "After the Film · Knit Cardigan",
+    "originalName": "雾蓝麻花针织开衫",
+    "price": 90
+  },
+  "campus-02-gray-knit-skirt": {
+    "zh": "风的序曲 · 格纹裙",
+    "en": "Wind Prelude · Plaid Skirt",
+    "originalName": "灰蓝格纹裙",
+    "price": 55
+  },
+  "campus-02-gray-knit-shoes": {
+    "zh": "晨间序曲 · 玛丽珍鞋",
+    "en": "Morning Prelude · Shoes",
+    "originalName": "黑色玛丽珍鞋",
+    "price": 75
+  },
+  "campus-03-cream-pinafore-polo": {
+    "zh": "旅途一页 · 针织 Polo 衫",
+    "en": "Travel Journal · Knit Polo Shirt",
+    "originalName": "奶油色针织 Polo 衫",
+    "price": 50
+  },
+  "campus-03-cream-pinafore-pinafore": {
+    "zh": "周末漫游 · 背带连衣裙",
+    "en": "Weekend Wander · Pinafore Dress",
+    "originalName": "藏蓝背带连衣裙",
+    "price": 85
+  },
+  "campus-03-cream-pinafore-socks": {
+    "zh": "晨间序曲 · 中筒袜",
+    "en": "Morning Prelude · Socks",
+    "originalName": "奶白中筒袜",
+    "price": 45
+  },
+  "campus-03-cream-pinafore-shoes": {
+    "zh": "午后留白 · 乐福鞋",
+    "en": "Afternoon Pause · Loafers",
+    "originalName": "焦糖棕乐福鞋",
+    "price": 65
+  },
+  "campus-04-navy-tailored-shirt-tie": {
+    "zh": "轻舞 · 衬衫 · 含领带",
+    "en": "Soft Waltz · Shirt",
+    "originalName": "白衬衫·含酒红领带",
+    "price": 60
+  },
+  "campus-04-navy-tailored-blazer": {
+    "zh": "放学以后 · 学院西装外套",
+    "en": "After School · Jacket",
+    "originalName": "藏蓝学院西装外套",
+    "price": 85
+  },
+  "campus-04-navy-tailored-trousers": {
+    "zh": "周末漫游 · 直筒长裤",
+    "en": "Weekend Wander · Trousers",
+    "originalName": "灰蓝直筒长裤",
+    "price": 65
+  },
+  "campus-04-navy-tailored-shoes": {
+    "zh": "电影散场 · 德比鞋",
+    "en": "After the Film · Shoes",
+    "originalName": "深棕德比鞋",
+    "price": 70
+  },
+  "underlayer-straight": {
+    "zh": "轻舞 · 低位平口内搭",
+    "en": "Soft Waltz · Bandeau",
+    "originalName": "低位平口内搭",
+    "price": 45
+  },
+  "underlayer-plunge": {
+    "zh": "午后留白 · 低心位无肩带内搭",
+    "en": "Afternoon Pause · Bandeau",
+    "originalName": "低心位无肩带内搭",
+    "price": 45
+  },
+  "underlayer-seamless": {
+    "zh": "放学以后 · 窄边无肩带内搭",
+    "en": "After School · Bandeau",
+    "originalName": "窄边无肩带内搭",
+    "price": 40
+  },
+  "printed-e16d3849-4331-4f6f-b442-8f7820916bd8": {
+    "zh": "午后留白 · 花草印花 · 标准圆领 T 恤",
+    "en": "Afternoon Pause · T-Shirt",
+    "originalName": "花草 001印花＋标准圆领 T 恤＋001",
+    "price": 45
+  },
+  "dress-rose-offshoulder": {
+    "zh": "放学以后 · 露肩衬衫裙",
+    "en": "After School · Off-Shoulder Shirt Dress",
+    "originalName": "露肩衬衫裙",
+    "price": 85
+  },
+  "dress-navy-tailored": {
+    "zh": "初晴 · 扣带翻领裙",
+    "en": "First Light · Dress",
+    "originalName": "扣带翻领裙",
+    "price": 80
+  },
+  "dress-garnet-wrap": {
+    "zh": "晚风小调 · 斜摆吊带裙",
+    "en": "Evening Breeze · Cami Dress",
+    "originalName": "斜摆吊带裙",
+    "price": 85
+  },
+  "dress-black-halter": {
+    "zh": "夜航来信 · 挂脖短裙",
+    "en": "Night Letters · Dress",
+    "originalName": "挂脖短裙",
+    "price": 75
+  },
+  "dress-ivory-sleeve": {
+    "zh": "周末漫游 · 长袖修身裙",
+    "en": "Weekend Wander · Dress",
+    "originalName": "长袖修身裙",
+    "price": 85
+  },
+  "dress-sand-tie": {
+    "zh": "雨后小巷 · 系带中长裙",
+    "en": "After the Rain · Gown",
+    "originalName": "系带中长裙",
+    "price": 90
+  },
+  "dress-cream-bow": {
+    "zh": "雨后小巷 · 蝴蝶结叠层裙",
+    "en": "After the Rain · Bow Dress",
+    "originalName": "蝴蝶结叠层裙",
+    "price": 90
+  },
+  "dress-blue-puff": {
+    "zh": "夜航来信 · 方领泡泡袖裙",
+    "en": "Night Letters · Puff-Sleeve Dress",
+    "originalName": "晴蓝方领泡泡袖裙",
+    "price": 75
+  },
+  "dress2-ruby-satin": {
+    "zh": "晨间序曲 · 心领缎面长裙",
+    "en": "Morning Prelude · Satin Gown",
+    "originalName": "绯红心领缎面长裙",
+    "price": 100
+  },
+  "dress2-ivory-chiffon": {
+    "zh": "慢拍日常 · 雪纺泡泡袖裙",
+    "en": "Slow Days · Puff-Sleeve Dress",
+    "originalName": "黑白雪纺泡泡袖裙",
+    "price": 95
+  },
+  "dress2-black-velvet": {
+    "zh": "晚风小调 · 丝绒蕾丝领短裙",
+    "en": "Evening Breeze · Lace Velvet Dress",
+    "originalName": "黑丝绒蕾丝领短裙",
+    "price": 120
+  },
+  "dress2-champagne-halter": {
+    "zh": "月下散步 · 挂脖垂褶裙",
+    "en": "Moonlit Walk · Dress",
+    "originalName": "挂脖垂褶裙",
+    "price": 75
+  },
+  "dress2-caramel-crochet": {
+    "zh": "旅途一页 · 钩织流苏裙",
+    "en": "Travel Journal · Fringe Dress",
+    "originalName": "钩织流苏裙",
+    "price": 90
+  },
+  "dress2-petal-tulle": {
+    "zh": "初晴 · 花瓣薄纱裙",
+    "en": "First Light · Tulle Dress",
+    "originalName": "粉雾花瓣薄纱裙",
+    "price": 80
+  },
+  "dress2-blue-denim": {
+    "zh": "课间来信 · 牛仔衬衫裙",
+    "en": "Between Classes · Denim Shirt Dress",
+    "originalName": "牛仔衬衫裙",
+    "price": 75
+  },
+  "dress2-pink-tweed": {
+    "zh": "花园手记 · 粗花呢吊带裙",
+    "en": "Garden Notes · Cami Dress",
+    "originalName": "粗花呢吊带裙",
+    "price": 90
+  },
+  "bottom-v1-lace-tail": {
+    "zh": "夜航来信 · 蕾丝拖尾短裙",
+    "en": "Night Letters · Lace Mini Skirt",
+    "originalName": "蕾丝拖尾短裙",
+    "price": 70
+  },
+  "bottom-v1-denim-bubble": {
+    "zh": "晚风小调 · 抽绳牛仔短裙",
+    "en": "Evening Breeze · Denim Mini Skirt",
+    "originalName": "抽绳牛仔短裙",
+    "price": 65
+  },
+  "bottom-v1-crystal-wide": {
+    "zh": "周末漫游 · 缀钻阔腿牛仔裤",
+    "en": "Weekend Wander · Denim Embellished Trousers",
+    "originalName": "缀钻阔腿牛仔裤",
+    "price": 85
+  },
+  "bottom-v1-stitch-barrel": {
+    "zh": "月下散步 · 弧线牛仔裤",
+    "en": "Moonlit Walk · Denim Trousers",
+    "originalName": "灰蓝弧线牛仔裤",
+    "price": 60
+  },
+  "bottom-v1-ice-flare": {
+    "zh": "街角咖啡 · 微喇牛仔裤",
+    "en": "Corner Café · Denim Trousers",
+    "originalName": "浅蓝微喇牛仔裤",
+    "price": 75
+  },
+  "bottom-v1-blue-palazzo": {
+    "zh": "月下散步 · 荷叶阔腿裤",
+    "en": "Moonlit Walk · Trousers",
+    "originalName": "浅蓝荷叶阔腿裤",
+    "price": 70
+  },
+  "bottom-v1-ivory-flounce": {
+    "zh": "花园手记 · 层叠蕾丝裙",
+    "en": "Garden Notes · Lace Skirt",
+    "originalName": "米白层叠蕾丝裙",
+    "price": 120
+  },
+  "bottom-v1-indigo-pleat": {
+    "zh": "电影散场 · 褶线阔腿裤",
+    "en": "After the Film · Trousers",
+    "originalName": "深蓝褶线阔腿裤",
+    "price": 70
+  },
+  "cotton-tee-regular-v1": {
+    "zh": "街角咖啡 · 经典圆领 T 恤",
+    "en": "Corner Café · T-Shirt",
+    "originalName": "经典圆领 T 恤",
+    "price": 45
+  },
+  "cotton-tee-asymmetric-v1": {
+    "zh": "星光序曲 · 斜肩 T 恤",
+    "en": "Starlit Prelude · T-Shirt",
+    "originalName": "斜肩 T 恤",
+    "price": 50
+  },
+  "cotton-tee-cropped-v1": {
+    "zh": "课间来信 · 短款 T 恤",
+    "en": "Between Classes · T-Shirt",
+    "originalName": "短款 T 恤",
+    "price": 40
+  },
+  "cotton-tee-fitted-v1": {
+    "zh": "秘密花园 · 合身 T 恤",
+    "en": "Secret Garden · T-Shirt",
+    "originalName": "合身 T 恤",
+    "price": 40
+  },
+  "cotton-tee-offshoulder-v1": {
+    "zh": "旅途一页 · 一字肩 T 恤",
+    "en": "Travel Journal · Off-Shoulder T-Shirt",
+    "originalName": "一字肩 T 恤",
+    "price": 40
+  },
+  "top-v1-ivory-jabot": {
+    "zh": "星光序曲 · 荷叶衬衫",
+    "en": "Starlit Prelude · Shirt",
+    "originalName": "米白荷叶衬衫",
+    "price": 70
+  },
+  "top-v1-red-henley": {
+    "zh": "旧书店 · 短款亨利衫",
+    "en": "Old Bookshop · Top",
+    "originalName": "酒红短款亨利衫",
+    "price": 50
+  },
+  "top-v1-olive-scarf": {
+    "zh": "电影散场 · 飘带衬衫",
+    "en": "After the Film · Shirt",
+    "originalName": "橄榄绿飘带衬衫",
+    "price": 60
+  },
+  "top-v1-yellow-polo": {
+    "zh": "风的序曲 · 条纹Polo衫",
+    "en": "Wind Prelude · Striped Polo Shirt",
+    "originalName": "奶黄条纹Polo衫",
+    "price": 45
+  },
+  "top-v1-white-bardot": {
+    "zh": "街角咖啡 · 露肩泡泡袖上衣",
+    "en": "Corner Café · Puff-Sleeve Off-Shoulder Top",
+    "originalName": "白色露肩泡泡袖上衣",
+    "price": 65
+  },
+  "top-v1-blue-ruffle": {
+    "zh": "晨间序曲 · 荷叶短袖衬衫",
+    "en": "Morning Prelude · Shirt",
+    "originalName": "浅蓝荷叶短袖衬衫",
+    "price": 70
+  },
+  "top-v1-peach-peplum": {
+    "zh": "放学以后 · 飞袖上衣",
+    "en": "After School · Top",
+    "originalName": "蜜桃色飞袖上衣",
+    "price": 55
+  },
+  "top-v1-ivory-tank": {
+    "zh": "花园手记 · 撞色针织背心",
+    "en": "Garden Notes · Knit Tank Top",
+    "originalName": "米白撞色针织背心",
+    "price": 65
+  },
+  "top-v1-green-rib": {
+    "zh": "星光序曲 · 条纹针织背心",
+    "en": "Starlit Prelude · Knit Striped Tank Top",
+    "originalName": "墨绿条纹针织背心",
+    "price": 65
+  },
+  "top-v1-gray-halter": {
+    "zh": "夜航来信 · 珠绣挂脖上衣",
+    "en": "Night Letters · Embellished Top",
+    "originalName": "灰色珠绣挂脖上衣",
+    "price": 65
+  },
+  "top-v1-butter-cutaway": {
+    "zh": "雨后小巷 · 削肩上衣",
+    "en": "After the Rain · Top",
+    "originalName": "奶黄削肩上衣",
+    "price": 55
+  },
+  "top-v1-lavender-wrap": {
+    "zh": "夜航来信 · 裹身短袖上衣",
+    "en": "Night Letters · Top",
+    "originalName": "雾紫裹身短袖上衣",
+    "price": 45
+  },
+  "cotton-tee-regular-v2": {
+    "zh": "风的序曲 · 经典圆领 T 恤",
+    "en": "Wind Prelude · T-Shirt",
+    "originalName": "经典圆领 T 恤（袖型修正版）",
+    "price": 50
+  },
+  "cotton-tee-asymmetric-v2": {
+    "zh": "周末漫游 · 斜肩 T 恤",
+    "en": "Weekend Wander · T-Shirt",
+    "originalName": "斜肩 T 恤（袖型修正版）",
+    "price": 40
+  },
+  "cotton-tee-cropped-v2": {
+    "zh": "月下散步 · 短款 T 恤",
+    "en": "Moonlit Walk · T-Shirt",
+    "originalName": "短款 T 恤（袖型修正版）",
+    "price": 40
+  },
+  "cotton-tee-fitted-v2": {
+    "zh": "旅途一页 · 合身 T 恤",
+    "en": "Travel Journal · T-Shirt",
+    "originalName": "合身 T 恤（袖型修正版）",
+    "price": 40
+  },
+  "cotton-tee-offshoulder-v2": {
+    "zh": "雨后小巷 · 一字肩 T 恤",
+    "en": "After the Rain · Off-Shoulder T-Shirt",
+    "originalName": "一字肩 T 恤（袖型修正版）",
+    "price": 40
+  },
+  "cotton-tee-regular-v3": {
+    "zh": "放学以后 · 经典圆领 T 恤",
+    "en": "After School · T-Shirt",
+    "originalName": "经典圆领 T 恤（顺袖款）",
+    "price": 40
+  },
+  "cotton-tee-asymmetric-v3": {
+    "zh": "花园手记 · 斜肩 T 恤",
+    "en": "Garden Notes · T-Shirt",
+    "originalName": "斜肩 T 恤（顺袖款）",
+    "price": 40
+  },
+  "cotton-tee-cropped-v3": {
+    "zh": "慢拍日常 · 短款 T 恤",
+    "en": "Slow Days · T-Shirt",
+    "originalName": "短款 T 恤（顺袖款）",
+    "price": 40
+  },
+  "cotton-tee-fitted-v3": {
+    "zh": "雨后小巷 · 合身 T 恤",
+    "en": "After the Rain · T-Shirt",
+    "originalName": "合身 T 恤（顺袖款）",
+    "price": 40
+  },
+  "cotton-tee-offshoulder-v3": {
+    "zh": "轻舞 · 一字肩 T 恤",
+    "en": "Soft Waltz · Off-Shoulder T-Shirt",
+    "originalName": "一字肩 T 恤（顺袖款）",
+    "price": 45
+  },
+  "separate-v1-olive-bandeau": {
+    "zh": "周末漫游 · 珠绣抹胸",
+    "en": "Weekend Wander · Embellished Bandeau",
+    "originalName": "卡其珠绣抹胸",
+    "price": 75
+  },
+  "separate-v1-olive-mini": {
+    "zh": "雨后小巷 · 珠绣短裙",
+    "en": "After the Rain · Embellished Mini Skirt",
+    "originalName": "卡其珠绣短裙",
+    "price": 85
+  },
+  "separate-v1-caramel-cardigan": {
+    "zh": "雨后小巷 · 提花开衫",
+    "en": "After the Rain · Cardigan",
+    "originalName": "焦糖提花开衫",
+    "price": 85
+  },
+  "separate-v1-mustard-polo": {
+    "zh": "慢拍日常 · 条纹长袖Polo衫",
+    "en": "Slow Days · Striped Polo Shirt",
+    "originalName": "姜黄条纹长袖Polo衫",
+    "price": 65
+  },
+  "separate-v1-ivory-polo": {
+    "zh": "轻舞 · 罗纹Polo衫",
+    "en": "Soft Waltz · Knit Polo Shirt",
+    "originalName": "米白罗纹Polo衫",
+    "price": 60
+  },
+  "separate-v1-ivory-pleated": {
+    "zh": "放学以后 · 百褶短裙",
+    "en": "After School · Pleated Mini Skirt",
+    "originalName": "米白百褶短裙",
+    "price": 75
+  },
+  "separate-v1-navy-collar": {
+    "zh": "晚风小调 · 圆领边Polo衫",
+    "en": "Evening Breeze · Polo Shirt",
+    "originalName": "藏蓝圆领边Polo衫",
+    "price": 55
+  },
+  "separate-v1-gingham-peplum": {
+    "zh": "雨后小巷 · 格纹吊带上衣",
+    "en": "After the Rain · Plaid Top",
+    "originalName": "藏蓝格纹吊带上衣",
+    "price": 55
+  },
+  "separate-v1-gingham-tiered": {
+    "zh": "月下散步 · 格纹层叠裙",
+    "en": "Moonlit Walk · Plaid Skirt",
+    "originalName": "藏蓝格纹层叠裙",
+    "price": 75
+  },
+  "separate-v1-ivory-triangle": {
+    "zh": "街角咖啡 · 边三角内衣",
+    "en": "Corner Café · Bra",
+    "originalName": "米白黑边三角内衣",
+    "price": 50
+  },
+  "separate-v1-olive-ruffle": {
+    "zh": "旅途一页 · 荷叶衬衫",
+    "en": "Travel Journal · Shirt",
+    "originalName": "橄榄绿荷叶衬衫",
+    "price": 75
+  },
+  "separate-v1-black-zip": {
+    "zh": "星光序曲 · 拉链短背心",
+    "en": "Starlit Prelude · Tank Top",
+    "originalName": "黑色拉链短背心",
+    "price": 65
+  },
+  "separate-v1-gray-knot": {
+    "zh": "轻舞 · 系结吊带上衣",
+    "en": "Soft Waltz · Top",
+    "originalName": "灰色系结吊带上衣",
+    "price": 60
+  },
+  "separate-v1-mono-mini": {
+    "zh": "慢拍日常 · 格纹短裙",
+    "en": "Slow Days · Plaid Mini Skirt",
+    "originalName": "黑白格纹短裙",
+    "price": 75
+  },
+  "separate-v1-black-check-polo": {
+    "zh": "慢拍日常 · 格领Polo衫",
+    "en": "Slow Days · Polo Shirt",
+    "originalName": "黑色格领Polo衫",
+    "price": 65
+  },
+  "separate-v1-ivory-briefs": {
+    "zh": "电影散场 · 边内裤",
+    "en": "After the Film · Briefs",
+    "originalName": "米白黑边内裤",
+    "price": 45
+  },
+  "separate-v1-olive-ruffle-original": {
+    "zh": "晚风小调 · 荷叶衬衫",
+    "en": "Evening Breeze · Shirt",
+    "originalName": "橄榄绿荷叶衬衫",
+    "price": 65
+  },
+  "printed-68f00422-7547-4603-9225-aa1cc56e3f7a": {
+    "zh": "夜航来信 · 花草印花 · 短款 T 恤",
+    "en": "Night Letters · T-Shirt",
+    "originalName": "花草 012印花＋短款 T 恤＋001",
+    "price": 40
+  },
+  "separate-v1-caramel-cardigan-original": {
+    "zh": "旧书店 · 提花开衫",
+    "en": "Old Bookshop · Cardigan",
+    "originalName": "焦糖提花开衫",
+    "price": 80
+  },
+  "separate-v1-mustard-polo-original": {
+    "zh": "月下散步 · 条纹长袖Polo衫",
+    "en": "Moonlit Walk · Striped Polo Shirt",
+    "originalName": "姜黄条纹长袖Polo衫",
+    "price": 45
+  },
+  "separate-v1-ivory-polo-original": {
+    "zh": "街角咖啡 · 罗纹Polo衫",
+    "en": "Corner Café · Knit Polo Shirt",
+    "originalName": "米白罗纹Polo衫",
+    "price": 65
+  },
+  "separate-v1-navy-collar-original": {
+    "zh": "夜航来信 · 圆领边Polo衫",
+    "en": "Night Letters · Polo Shirt",
+    "originalName": "圆领边Polo衫",
+    "price": 45
+  },
+  "separate-v1-black-check-polo-original": {
+    "zh": "旧书店 · 格领Polo衫",
+    "en": "Old Bookshop · Polo Shirt",
+    "originalName": "黑色格领Polo衫",
+    "price": 50
+  },
+  "printed-fac7eab6-15ed-4c36-8f28-6eb2fc38a3d8": {
+    "zh": "午后留白 · 直筒长裤",
+    "en": "Afternoon Pause · Trousers",
+    "originalName": "改色＋直筒长裤＋001",
+    "price": 65
+  },
+  "printed-1a4c9fad-593b-4f85-b110-d87d4b2f9b6f": {
+    "zh": "晚风小调 · 甜点印花 · 合身 T 恤",
+    "en": "Evening Breeze · T-Shirt",
+    "originalName": "甜点 107印花＋合身 T 恤（顺袖款）＋001",
+    "price": 40
+  },
+  "street-v1-green-blazer": {
+    "zh": "轻舞 · 格纹西装",
+    "en": "Soft Waltz · Plaid Jacket",
+    "originalName": "绿格纹西装",
+    "price": 90
+  },
+  "street-v1-taupe-crop": {
+    "zh": "课间来信 · 短款背心",
+    "en": "Between Classes · Tank Top",
+    "originalName": "暖灰短款背心",
+    "price": 45
+  },
+  "street-v1-leather-pleat": {
+    "zh": "课间来信 · 百褶皮裙",
+    "en": "Between Classes · Pleated Skirt",
+    "originalName": "巧克力百褶皮裙",
+    "price": 65
+  },
+  "street-v1-green-cap": {
+    "zh": "旅途一页 · 棒球帽",
+    "en": "Travel Journal · Cap",
+    "originalName": "墨绿棒球帽",
+    "price": 45
+  },
+  "street-v1-emerald-bag": {
+    "zh": "午后留白 · 手提包",
+    "en": "Afternoon Pause · Bag",
+    "originalName": "翡翠绿手提包",
+    "price": 70
+  },
+  "street-v1-green-socks": {
+    "zh": "秘密花园 · 短袜",
+    "en": "Secret Garden · Socks",
+    "originalName": "墨绿短袜",
+    "price": 45
+  },
+  "street-v1-fuzzy-slides": {
+    "zh": "慢拍日常 · 绒毛凉拖",
+    "en": "Slow Days · Shoes",
+    "originalName": "翡翠绿绒毛凉拖",
+    "price": 75
+  },
+  "street-v1-cat-eye": {
+    "zh": "轻舞 · 猫眼墨镜",
+    "en": "Soft Waltz · Sunglasses",
+    "originalName": "黑色猫眼墨镜",
+    "price": 55
+  },
+  "street-v1-stone-trench": {
+    "zh": "花园手记 · 米色系带短风衣",
+    "en": "Garden Notes · Trench Coat",
+    "originalName": "米色系带短风衣",
+    "price": 95
+  },
+  "street-v1-ivory-wide": {
+    "zh": "街角咖啡 · 阔腿裤",
+    "en": "Corner Café · Trousers",
+    "originalName": "奶油白阔腿裤",
+    "price": 70
+  },
+  "street-v1-tan-baguette": {
+    "zh": "风的序曲 · 法棍包",
+    "en": "Wind Prelude · Bag",
+    "originalName": "浅棕法棍包",
+    "price": 55
+  },
+  "street-v1-taupe-pumps": {
+    "zh": "秘密花园 · 尖头鞋",
+    "en": "Secret Garden · Pointed Flats",
+    "originalName": "浅褐尖头鞋",
+    "price": 55
+  },
+  "street-v1-cognac-dress": {
+    "zh": "午后留白 · 无袖衬衫裙",
+    "en": "Afternoon Pause · Shirt Dress",
+    "originalName": "焦糖无袖衬衫裙",
+    "price": 90
+  },
+  "street-v1-cream-ruffle": {
+    "zh": "放学以后 · 边针织裙",
+    "en": "After School · Knit Dress",
+    "originalName": "奶油黑边针织裙",
+    "price": 85
+  },
+  "street-v1-navy-jacket": {
+    "zh": "雨后小巷 · 短袖短外套",
+    "en": "After the Rain · Jacket",
+    "originalName": "藏蓝短袖短外套",
+    "price": 85
+  },
+  "street-v1-gray-tee": {
+    "zh": "电影散场 · 短袖T恤",
+    "en": "After the Film · T-Shirt",
+    "originalName": "暖灰短袖T恤",
+    "price": 40
+  },
+  "street-v1-navy-trousers": {
+    "zh": "夜航来信 · 直筒长裤",
+    "en": "Night Letters · Trousers",
+    "originalName": "藏蓝直筒长裤",
+    "price": 55
+  },
+  "street-v1-navy-cap": {
+    "zh": "秘密花园 · 棒球帽",
+    "en": "Secret Garden · Cap",
+    "originalName": "藏蓝棒球帽",
+    "price": 40
+  },
+  "street-v1-cognac-hobo": {
+    "zh": "花园手记 · 手提包",
+    "en": "Garden Notes · Bag",
+    "originalName": "干邑棕手提包",
+    "price": 70
+  },
+  "street-v1-brown-loafers": {
+    "zh": "星光序曲 · 厚底乐福鞋",
+    "en": "Starlit Prelude · Loafers",
+    "originalName": "棕色厚底乐福鞋",
+    "price": 75
+  },
+  "street-v1-brown-satchel": {
+    "zh": "秘密花园 · 翻盖手提包",
+    "en": "Secret Garden · Bag",
+    "originalName": "栗棕翻盖手提包",
+    "price": 55
+  },
+  "street-v1-gold-pendant": {
+    "zh": "秘密花园 · 细金圆坠项链",
+    "en": "Secret Garden · Necklace",
+    "originalName": "细金圆坠项链",
+    "price": 40
+  },
+  "street-v1-silver-chains": {
+    "zh": "周末漫游 · 双层银链项链",
+    "en": "Weekend Wander · Necklace",
+    "originalName": "双层银链项链",
+    "price": 50
+  },
+  "street-v1-dark-pumps": {
+    "zh": "课间来信 · 深褐尖头鞋",
+    "en": "Between Classes · Pointed Flats",
+    "originalName": "深褐尖头鞋",
+    "price": 55
+  },
+  "pants-jogger-cuffed-v1": {
+    "zh": "晨间序曲 · 脚踝束口运动裤",
+    "en": "Morning Prelude · Trousers",
+    "originalName": "脚踝束口运动裤",
+    "price": 70
+  },
+  "pants-corduroy-straight-v1": {
+    "zh": "初晴 · 灯芯绒直筒裤",
+    "en": "First Light · Skirt",
+    "originalName": "灯芯绒直筒裤",
+    "price": 60
+  },
+  "pants-cargo-straight-v1": {
+    "zh": "旅途一页 · 直筒工装裤",
+    "en": "Travel Journal · Skirt",
+    "originalName": "直筒工装裤",
+    "price": 60
+  },
+  "pants-yoga-drape-v1": {
+    "zh": "晚风小调 · 垂感瑜伽运动裤",
+    "en": "Evening Breeze · Trousers",
+    "originalName": "垂感瑜伽运动裤",
+    "price": 65
+  },
+  "af-v1-black-slim": {
+    "zh": "慢拍日常 · 窄框墨镜",
+    "en": "Slow Days · Sunglasses",
+    "originalName": "窄框黑色墨镜",
+    "price": 60
+  },
+  "af-v1-tortoise-cat": {
+    "zh": "花园手记 · 玳瑁猫眼墨镜",
+    "en": "Garden Notes · Sunglasses",
+    "originalName": "玳瑁猫眼墨镜",
+    "price": 55
+  },
+  "af-v1-gold-aviator": {
+    "zh": "初晴 · 金丝飞行员墨镜",
+    "en": "First Light · Sunglasses",
+    "originalName": "金丝飞行员墨镜",
+    "price": 45
+  },
+  "af-v1-silver-rimless": {
+    "zh": "旧书店 · 无框墨镜",
+    "en": "Old Bookshop · Sunglasses",
+    "originalName": "银色无框墨镜",
+    "price": 45
+  },
+  "af-v1-butterfly": {
+    "zh": "电影散场 · 蝴蝶框墨镜",
+    "en": "After the Film · Sunglasses",
+    "originalName": "蝴蝶框墨镜",
+    "price": 55
+  },
+  "af-v1-wine-oval": {
+    "zh": "晚风小调 · 椭圆墨镜",
+    "en": "Evening Breeze · Sunglasses",
+    "originalName": "酒红椭圆墨镜",
+    "price": 50
+  },
+  "af-v1-sport-wrap": {
+    "zh": "风的序曲 · 运动流线墨镜",
+    "en": "Wind Prelude · Sunglasses",
+    "originalName": "运动流线墨镜",
+    "price": 40
+  },
+  "af-v1-ivory-square": {
+    "zh": "放学以后 · 方框墨镜",
+    "en": "After School · Sunglasses",
+    "originalName": "象牙方框墨镜",
+    "price": 50
+  },
+  "af-v1-shell-ivory": {
+    "zh": "周末漫游 · 贝壳头鞋",
+    "en": "Weekend Wander · Sneakers",
+    "originalName": "奶白贝壳头鞋",
+    "price": 65
+  },
+  "af-v1-shell-blackline": {
+    "zh": "晚风小调 · 线贝壳头鞋",
+    "en": "Evening Breeze · Sneakers",
+    "originalName": "黑线贝壳头鞋",
+    "price": 65
+  },
+  "af-v1-ballet-sport-cream": {
+    "zh": "花园手记 · 缎带芭蕾运动鞋",
+    "en": "Garden Notes · Satin Ballet Sneakers",
+    "originalName": "缎带芭蕾运动鞋",
+    "price": 70
+  },
+  "af-v1-ballet-sport-blush": {
+    "zh": "夜航来信 · 芭蕾运动鞋",
+    "en": "Night Letters · Ballet Sneakers",
+    "originalName": "藕粉芭蕾运动鞋",
+    "price": 55
+  },
+  "af-v1-ballet-black": {
+    "zh": "月下散步 · 蝴蝶结芭蕾平底鞋",
+    "en": "Moonlit Walk · Bow Ballet Flats",
+    "originalName": "蝴蝶结芭蕾平底鞋",
+    "price": 65
+  },
+  "af-v1-ballet-wine": {
+    "zh": "月下散步 · 芭蕾平底鞋",
+    "en": "Moonlit Walk · Ballet Flats",
+    "originalName": "酒红芭蕾平底鞋",
+    "price": 60
+  },
+  "af-v1-point-black": {
+    "zh": "花园手记 · V口尖头鞋",
+    "en": "Garden Notes · Pointed Flats",
+    "originalName": "黑色V口尖头鞋",
+    "price": 70
+  },
+  "af-v1-point-champagne": {
+    "zh": "慢拍日常 · 缎面尖头鞋",
+    "en": "Slow Days · Satin Pointed Flats",
+    "originalName": "香槟缎面尖头鞋",
+    "price": 80
+  },
+  "lowcut-bandeau-v1": {
+    "zh": "风的序曲 · 低胸抹胸",
+    "en": "Wind Prelude · Bandeau",
+    "originalName": "低胸抹胸",
+    "price": 45
+  },
+  "lowcut-bikini-top-v1": {
+    "zh": "旧书店 · 低胸比基尼上装",
+    "en": "Old Bookshop · Bikini Top",
+    "originalName": "低胸比基尼上装",
+    "price": 40
+  },
+  "lowcut-bikini-bottom-v1": {
+    "zh": "秘密花园 · 比基尼下装",
+    "en": "Secret Garden · Bikini Briefs",
+    "originalName": "比基尼下装",
+    "price": 40
+  },
+  "matte-cotton-bra-v1": {
+    "zh": "风的序曲 · 棉质基础内衣",
+    "en": "Wind Prelude · Bra",
+    "originalName": "棉质基础内衣",
+    "price": 40
+  },
+  "matte-cotton-briefs-v1": {
+    "zh": "雨后小巷 · 棉质基础内裤",
+    "en": "After the Rain · Briefs",
+    "originalName": "棉质基础内裤",
+    "price": 40
+  },
+  "printed-ba3df962-8fc0-4911-aa79-d3cc16c80f8e": {
+    "zh": "轻舞 · 玫瑰印花 · 经典圆领 T 恤",
+    "en": "Soft Waltz · T-Shirt",
+    "originalName": "玫瑰 055印花＋经典圆领 T 恤（顺袖款）＋001",
+    "price": 40
+  },
+  "cool-bottom-bubble-mini": {
+    "zh": "夜航来信 · 抽绳蓬摆超短裙",
+    "en": "Night Letters · Mini Skirt",
+    "originalName": "抽绳蓬摆超短裙",
+    "price": 55
+  },
+  "cool-bottom-sport-zip": {
+    "zh": "轻舞 · 双拉链运动短裙",
+    "en": "Soft Waltz · Mini Skirt",
+    "originalName": "双拉链运动短裙",
+    "price": 70
+  },
+  "cool-sweat-halfzip": {
+    "zh": "雨后小巷 · 水洗半拉链休闲卫衣",
+    "en": "After the Rain · Sweatshirt",
+    "originalName": "水洗半拉链休闲卫衣",
+    "price": 55
+  },
+  "cool-sweat-dropshoulder": {
+    "zh": "课间来信 · 宽领落肩水洗卫衣",
+    "en": "Between Classes · Sweatshirt",
+    "originalName": "宽领落肩水洗卫衣",
+    "price": 45
+  },
+  "cool-sweat-cutout": {
+    "zh": "电影散场 · 铆钉挖肩破洞卫衣",
+    "en": "After the Film · Sweatshirt",
+    "originalName": "铆钉挖肩破洞卫衣",
+    "price": 70
+  },
+  "cool-sweat-cropzip": {
+    "zh": "花园手记 · 翻领拉链超短卫衣",
+    "en": "Garden Notes · Sweatshirt",
+    "originalName": "翻领拉链超短卫衣",
+    "price": 60
+  },
+  "cool-sweat-asymmetric": {
+    "zh": "晚风小调 · 斜摆拼接不规则卫衣",
+    "en": "Evening Breeze · Sweatshirt",
+    "originalName": "斜摆拼接不规则卫衣",
+    "price": 55
+  },
+  "mermaid-cowl-cami": {
+    "zh": "星光序曲 · 堆领细吊带上衣",
+    "en": "Starlit Prelude · Top",
+    "originalName": "堆领细吊带上衣",
+    "price": 60
+  },
+  "mermaid-fold-bandeau": {
+    "zh": "月下散步 · 折纸礼服抹胸",
+    "en": "Moonlit Walk · Bandeau",
+    "originalName": "折纸礼服抹胸",
+    "price": 85
+  },
+  "mermaid-deepv-halter": {
+    "zh": "周末漫游 · 深V挂脖上衣",
+    "en": "Weekend Wander · Top",
+    "originalName": "深V挂脖上衣",
+    "price": 50
+  },
+  "dress-nautical": {
+    "zh": "慢拍日常 · 海风双排扣吊带裙",
+    "en": "Slow Days · Cami Dress",
+    "originalName": "海风双排扣吊带裙",
+    "price": 95
+  },
+  "dress-garden": {
+    "zh": "初晴 · 花园刺绣吊带裙",
+    "en": "First Light · Embellished Cami Dress",
+    "originalName": "花园刺绣吊带裙",
+    "price": 80
+  },
+  "dress-noir-lace": {
+    "zh": "花园手记 · 夜幕蕾丝吊带长裙",
+    "en": "Garden Notes · Lace Cami Dress",
+    "originalName": "夜幕蕾丝吊带长裙",
+    "price": 120
+  },
+  "dress-emerald": {
+    "zh": "周末漫游 · 金叶裹褶吊带长裙",
+    "en": "Weekend Wander · Cami Dress",
+    "originalName": "金叶裹褶吊带长裙",
+    "price": 85
+  },
+  "dress-blue-check": {
+    "zh": "放学以后 · 蓝格茶会泡泡袖裙",
+    "en": "After School · Puff-Sleeve Dress",
+    "originalName": "蓝格茶会泡泡袖裙",
+    "price": 85
+  },
+  "dress-burgundy-velvet": {
+    "zh": "雨后小巷 · 复古金扣丝绒连衣裙",
+    "en": "After the Rain · Velvet Dress",
+    "originalName": "复古金扣丝绒连衣裙",
+    "price": 100
+  },
+  "printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f": {
+    "zh": "旅途一页 · 花叶提花 · 复古金扣丝绒连衣裙",
+    "en": "Travel Journal · Velvet Dress",
+    "originalName": "花叶提花＋复古金扣丝绒连衣裙＋001",
+    "price": 95
+  },
+  "runway-blue-pinstripe-shirt": {
+    "zh": "旧书店 · 条纹长袖衬衫",
+    "en": "Old Bookshop · Striped Shirt",
+    "originalName": "蓝白条纹长袖衬衫",
+    "price": 50
+  },
+  "runway-brown-stripe-tee": {
+    "zh": "晚风小调 · 彩条叠穿T恤",
+    "en": "Evening Breeze · Striped T-Shirt",
+    "originalName": "棕色彩条叠穿T恤",
+    "price": 40
+  },
+  "runway-white-ribbon-cap": {
+    "zh": "雨后小巷 · 系带盖袖衬衫",
+    "en": "After the Rain · Shirt",
+    "originalName": "白色黑系带盖袖衬衫",
+    "price": 60
+  },
+  "runway-white-crop-shirt": {
+    "zh": "夜航来信 · 露腰长袖衬衫",
+    "en": "Night Letters · Shirt",
+    "originalName": "白色露腰长袖衬衫",
+    "price": 45
+  },
+  "runway-khaki-micro-pleat": {
+    "zh": "初晴 · 边超短百褶裙",
+    "en": "First Light · Pleated Skirt",
+    "originalName": "卡其白边超短百褶裙",
+    "price": 70
+  },
+  "runway-red-plaid-overshirt": {
+    "zh": "街角咖啡 · 红格纹宽松开衫外套",
+    "en": "Corner Café · Plaid Cardigan",
+    "originalName": "红白格纹宽松开衫外套",
+    "price": 95
+  },
+  "runway-black-rib-shell": {
+    "zh": "初晴 · 细罗纹高领内搭",
+    "en": "First Light · Knit Top",
+    "originalName": "黑色细罗纹高领内搭",
+    "price": 50
+  },
+  "runway-indigo-button-slit": {
+    "zh": "月下散步 · 排扣开衩牛仔裙",
+    "en": "Moonlit Walk · Denim Skirt",
+    "originalName": "深靛蓝排扣开衩牛仔裙",
+    "price": 55
+  },
+  "runway-oatmeal-halfzip": {
+    "zh": "晨间序曲 · 翻领半拉链卫衣",
+    "en": "Morning Prelude · Sweatshirt",
+    "originalName": "燕麦米色翻领半拉链卫衣",
+    "price": 60
+  },
+  "runway-washed-straight-jeans": {
+    "zh": "放学以后 · 水洗直筒牛仔裤",
+    "en": "After School · Denim Trousers",
+    "originalName": "浅蓝水洗直筒牛仔裤",
+    "price": 60
+  },
+  "runway-ivory-camp-blouse": {
+    "zh": "旧书店 · 缎面大翻领短袖衬衫",
+    "en": "Old Bookshop · Satin Shirt",
+    "originalName": "奶油缎面大翻领短袖衬衫",
+    "price": 55
+  },
+  "runway-ivory-pleated-wide": {
+    "zh": "周末漫游 · 细腰带垂褶阔腿裤",
+    "en": "Weekend Wander · Belted Trousers",
+    "originalName": "奶油色细腰带垂褶阔腿裤",
+    "price": 65
+  },
+  "runway-rose-ribbon-bubble": {
+    "zh": "轻舞 · 缎带抹胸泡泡短裙",
+    "en": "Soft Waltz · Satin Dress",
+    "originalName": "玫瑰黑缎带抹胸泡泡短裙",
+    "price": 90
+  },
+  "runway-ivory-fringe-jacket": {
+    "zh": "初晴 · 金扣流苏短上衣",
+    "en": "First Light · Fringe Top",
+    "originalName": "奶油金扣黑流苏短上衣",
+    "price": 60
+  },
+  "runway-ivory-raw-fringe-skirt": {
+    "zh": "星光序曲 · 腰边毛边流苏中裙",
+    "en": "Starlit Prelude · Fringe Skirt",
+    "originalName": "奶油黑腰边毛边流苏中裙",
+    "price": 85
+  },
+  "runway-ivory-black-fringe-coat-v2": {
+    "zh": "秘密花园 · 流苏滚边长外套",
+    "en": "Secret Garden · Fringe Jacket",
+    "originalName": "奶油黑流苏滚边长外套",
+    "price": 85
+  },
+  "romantic-ditsy-puff": {
+    "zh": "电影散场 · 碎花泡泡袖束腰上衣",
+    "en": "After the Film · Puff-Sleeve Top",
+    "originalName": "碎花泡泡袖束腰上衣",
+    "price": 60
+  },
+  "romantic-ditsy-skirt": {
+    "zh": "星光序曲 · 微褶轻纱中裙",
+    "en": "Starlit Prelude · Tulle Skirt",
+    "originalName": "微褶轻纱中裙",
+    "price": 75
+  },
+  "romantic-bardot-drape": {
+    "zh": "旧书店 · 一字肩褶裥上衣",
+    "en": "Old Bookshop · Pleated Off-Shoulder Top",
+    "originalName": "一字肩褶裥上衣",
+    "price": 60
+  },
+  "romantic-wrap-skirt": {
+    "zh": "课间来信 · 斜叠轻纱中裙",
+    "en": "Between Classes · Tulle Skirt",
+    "originalName": "斜叠轻纱中裙",
+    "price": 55
+  },
+  "romantic-cup-bustier": {
+    "zh": "星光序曲 · 弧杯系带胸衣",
+    "en": "Starlit Prelude · Corset Top",
+    "originalName": "弧杯系带胸衣",
+    "price": 70
+  },
+  "romantic-bias-skirt": {
+    "zh": "星光序曲 · 斜裁飘摆中裙",
+    "en": "Starlit Prelude · Skirt",
+    "originalName": "斜裁飘摆中裙",
+    "price": 75
+  },
+  "romantic-boned-corset": {
+    "zh": "电影散场 · 鱼骨束腰胸衣",
+    "en": "After the Film · Corset Top",
+    "originalName": "鱼骨束腰胸衣",
+    "price": 60
+  },
+  "romantic-float-mini": {
+    "zh": "街角咖啡 · 弧摆轻盈短裙",
+    "en": "Corner Café · Mini Skirt",
+    "originalName": "弧摆轻盈短裙",
+    "price": 75
+  },
+  "editorial-shell-v1": {
+    "zh": "月下散步 · 削肩背心",
+    "en": "Moonlit Walk · Tank Top",
+    "originalName": "削肩背心",
+    "price": 50
+  },
+  "editorial-tiered-skirt-v1": {
+    "zh": "晚风小调 · 波点层叠半裙",
+    "en": "Evening Breeze · Skirt",
+    "originalName": "波点层叠半裙",
+    "price": 80
+  },
+  "editorial-wide-belt-v1": {
+    "zh": "风的序曲 · 宽版弧扣皮带",
+    "en": "Wind Prelude · Belt",
+    "originalName": "宽版弧扣皮带",
+    "price": 40
+  },
+  "editorial-argyle-v1": {
+    "zh": "晨间序曲 · 菱格叠穿毛衣",
+    "en": "Morning Prelude · Top",
+    "originalName": "菱格叠穿毛衣",
+    "price": 65
+  },
+  "editorial-flare-trousers-v1": {
+    "zh": "秘密花园 · 微喇西装裤",
+    "en": "Secret Garden · Trousers",
+    "originalName": "微喇西装裤",
+    "price": 65
+  },
+  "editorial-square-belt-v1": {
+    "zh": "午后留白 · 方扣皮带",
+    "en": "Afternoon Pause · Belt",
+    "originalName": "方扣皮带",
+    "price": 55
+  },
+  "editorial-denim-shirt-v1": {
+    "zh": "花园手记 · 双袋牛仔衬衫",
+    "en": "Garden Notes · Denim Shirt",
+    "originalName": "双袋牛仔衬衫",
+    "price": 60
+  },
+  "editorial-wide-jeans-v1": {
+    "zh": "雨后小巷 · 高腰阔腿牛仔裤",
+    "en": "After the Rain · Denim Trousers",
+    "originalName": "高腰阔腿牛仔裤",
+    "price": 65
+  },
+  "editorial-brown-belt-v1": {
+    "zh": "花园手记 · 圆角扣皮带",
+    "en": "Garden Notes · Belt",
+    "originalName": "圆角扣皮带",
+    "price": 55
+  },
+  "editorial-wool-coat-v1": {
+    "zh": "秘密花园 · 贴袋羊毛大衣",
+    "en": "Secret Garden · Coat",
+    "originalName": "贴袋羊毛大衣",
+    "price": 75
+  },
+  "editorial-straight-trousers-v1": {
+    "zh": "课间来信 · 窄直筒长裤",
+    "en": "Between Classes · Trousers",
+    "originalName": "窄直筒长裤",
+    "price": 55
+  },
+  "footwear-combat-leather": {
+    "zh": "晚风小调 · 八孔系带皮质马丁靴",
+    "en": "Evening Breeze · Boots",
+    "originalName": "八孔系带皮质马丁靴",
+    "price": 70
+  },
+  "footwear-ttoe-open": {
+    "zh": "慢拍日常 · 透明鞋口T头运动鞋",
+    "en": "Slow Days · Sneakers",
+    "originalName": "透明鞋口T头运动鞋",
+    "price": 75
+  },
+  "socks-ribbed-crew": {
+    "zh": "周末漫游 · 竖纹针织中筒袜",
+    "en": "Weekend Wander · Knit Socks",
+    "originalName": "竖纹针织中筒袜",
+    "price": 40
+  },
+  "socks-plain-ankle": {
+    "zh": "周末漫游 · 平纹棉质短袜",
+    "en": "Weekend Wander · Socks",
+    "originalName": "平纹棉质短袜",
+    "price": 40
+  },
+  "socks-sheer-thigh": {
+    "zh": "街角咖啡 · 细织半透长丝袜",
+    "en": "Corner Café · Socks",
+    "originalName": "细织半透长丝袜",
+    "price": 50
+  },
+  "printed-9098729b-54d7-4112-8c9c-215036dc0ce2": {
+    "zh": "月下散步 · 竖纹针织中筒袜",
+    "en": "Moonlit Walk · Knit Socks",
+    "originalName": "改色＋竖纹针织中筒袜＋001",
+    "price": 40
+  },
+  "oval-penny-loafers": {
+    "zh": "秘密花园 · 乐福鞋 · 鞋口蒙版",
+    "en": "Secret Garden · Loafers",
+    "originalName": "棕色乐福鞋 · 鞋口蒙版",
+    "price": 75
+  },
+  "oval-captoe-ballet": {
+    "zh": "花园手记 · 拼色芭蕾鞋 · 鞋口蒙版",
+    "en": "Garden Notes · Ballet Flats",
+    "originalName": "拼色芭蕾鞋 · 鞋口蒙版",
+    "price": 70
+  },
+  "oval-captoe-espadrilles": {
+    "zh": "晚风小调 · 拼色草编鞋 · 平口蒙版",
+    "en": "Evening Breeze · Shoes",
+    "originalName": "拼色草编鞋 · 平口蒙版",
+    "price": 65
+  },
+  "socks-clean-ankle": {
+    "zh": "旧书店 · 轻纹平口短袜",
+    "en": "Old Bookshop · Socks",
+    "originalName": "轻纹平口短袜",
+    "price": 40
+  },
+  "socks-clean-ankle-stripe": {
+    "zh": "风的序曲 · 横条边短袜",
+    "en": "Wind Prelude · Socks",
+    "originalName": "横条边短袜",
+    "price": 40
+  },
+  "socks-clean-crew": {
+    "zh": "课间来信 · 轻纹贴腿中筒袜",
+    "en": "Between Classes · Socks",
+    "originalName": "轻纹贴腿中筒袜",
+    "price": 50
+  },
+  "socks-clean-crew-stripe": {
+    "zh": "初晴 · 双横条边中筒袜",
+    "en": "First Light · Socks",
+    "originalName": "双横条边中筒袜",
+    "price": 40
+  },
+  "socks-clean-knee": {
+    "zh": "月下散步 · 横条边及膝袜",
+    "en": "Moonlit Walk · Socks",
+    "originalName": "横条边及膝袜",
+    "price": 40
+  },
+  "socks-clean-knee-sheer": {
+    "zh": "午后留白 · 细织半透明及膝袜",
+    "en": "Afternoon Pause · Socks",
+    "originalName": "细织半透明及膝袜",
+    "price": 40
+  },
+  "socks-clean-thigh": {
+    "zh": "放学以后 · 平口贴腿大腿袜",
+    "en": "After School · Socks",
+    "originalName": "平口贴腿大腿袜",
+    "price": 40
+  },
+  "socks-clean-thigh-sheer": {
+    "zh": "花园手记 · 横条边半透明大腿袜",
+    "en": "Garden Notes · Socks",
+    "originalName": "横条边半透明大腿袜",
+    "price": 40
+  },
+  "autumn-leather-overshirt-v1": {
+    "zh": "慢拍日常 · 贴袋皮衬衫外套",
+    "en": "Slow Days · Shirt",
+    "originalName": "贴袋皮衬衫外套",
+    "price": 95
+  },
+  "autumn-layered-shirt-v1": {
+    "zh": "月下散步 · 衬衫叠搭背心",
+    "en": "Moonlit Walk · Shirt",
+    "originalName": "衬衫叠搭背心",
+    "price": 50
+  },
+  "autumn-leather-wrap-skirt-v1": {
+    "zh": "风的序曲 · 斜叠皮半裙",
+    "en": "Wind Prelude · Skirt",
+    "originalName": "斜叠皮半裙",
+    "price": 55
+  },
+  "autumn-suede-jacket-v1": {
+    "zh": "月下散步 · 抽绳麂皮外套",
+    "en": "Moonlit Walk · Suede Jacket",
+    "originalName": "抽绳麂皮外套",
+    "price": 85
+  },
+  "autumn-suede-mini-v1": {
+    "zh": "电影散场 · 简裁麂皮半裙",
+    "en": "After the Film · Suede Skirt",
+    "originalName": "简裁麂皮半裙",
+    "price": 75
+  },
+  "autumn-colorblock-knit-v1": {
+    "zh": "月下散步 · 拼色露肩毛衣",
+    "en": "Moonlit Walk · Off-Shoulder Top",
+    "originalName": "拼色露肩毛衣",
+    "price": 50
+  },
+  "autumn-laceup-skirt-v1": {
+    "zh": "风的序曲 · 系带蕾丝边半裙",
+    "en": "Wind Prelude · Lace Skirt",
+    "originalName": "系带蕾丝边半裙",
+    "price": 75
+  },
+  "autumn-pile-jacket-v1": {
+    "zh": "周末漫游 · 大翻领绒毛短外套",
+    "en": "Weekend Wander · Jacket",
+    "originalName": "大翻领绒毛短外套",
+    "price": 85
+  },
+  "autumn-trimmed-jeans-v1": {
+    "zh": "星光序曲 · 饰边微喇牛仔裤",
+    "en": "Starlit Prelude · Denim Trousers",
+    "originalName": "饰边微喇牛仔裤",
+    "price": 75
+  },
+  "autumn-crochet-beanie-v1": {
+    "zh": "街角咖啡 · 镂空针织帽",
+    "en": "Corner Café · Knit Cap",
+    "originalName": "镂空针织帽",
+    "price": 60
+  },
+  "slides-pearl-quilt": {
+    "zh": "初晴 · 珍珠扣绗缝皮拖鞋",
+    "en": "First Light · Shoes",
+    "originalName": "珍珠扣绗缝皮拖鞋",
+    "price": 60
+  },
+  "slides-gold-patent": {
+    "zh": "秘密花园 · 金扣亮皮底拖鞋",
+    "en": "Secret Garden · Shoes",
+    "originalName": "金扣亮皮黑底拖鞋",
+    "price": 85
+  },
+  "espadrille-ankle-cap": {
+    "zh": "花园手记 · 拼色草编系带鞋",
+    "en": "Garden Notes · Shoes",
+    "originalName": "黑白拼色草编系带鞋",
+    "price": 75
+  },
+  "jewel-pearl-prong-pearl-gold": {
+    "zh": "秘密花园 · 四爪珍珠耳钉",
+    "en": "Secret Garden · Stud Earrings",
+    "originalName": "四爪珍珠耳钉·金色",
+    "price": 40
+  },
+  "jewel-pearl-prong-pearl-silver": {
+    "zh": "花园手记 · 四爪珍珠耳钉",
+    "en": "Garden Notes · Stud Earrings",
+    "originalName": "四爪珍珠耳钉·银色",
+    "price": 55
+  },
+  "jewel-pearl-wrapped-pearl-gold": {
+    "zh": "课间来信 · 缠绕珍珠耳钉",
+    "en": "Between Classes · Stud Earrings",
+    "originalName": "缠绕珍珠耳钉·金色",
+    "price": 40
+  },
+  "jewel-pearl-wrapped-pearl-silver": {
+    "zh": "电影散场 · 缠绕珍珠耳钉",
+    "en": "After the Film · Stud Earrings",
+    "originalName": "缠绕珍珠耳钉·银色",
+    "price": 55
+  },
+  "jewel-pearl-baroque-pearl-gold": {
+    "zh": "晚风小调 · 巴洛克珍珠耳坠",
+    "en": "Evening Breeze · Accessory",
+    "originalName": "巴洛克珍珠耳坠·金色",
+    "price": 50
+  },
+  "jewel-pearl-baroque-pearl-silver": {
+    "zh": "电影散场 · 巴洛克珍珠耳坠",
+    "en": "After the Film · Accessory",
+    "originalName": "巴洛克珍珠耳坠·银色",
+    "price": 55
+  },
+  "jewel-pearl-bow-pearl-gold": {
+    "zh": "星光序曲 · 蝴蝶结珍珠耳坠",
+    "en": "Starlit Prelude · Bow Accessory",
+    "originalName": "蝴蝶结珍珠耳坠·金色",
+    "price": 65
+  },
+  "jewel-pearl-bow-pearl-silver": {
+    "zh": "课间来信 · 蝴蝶结珍珠耳坠",
+    "en": "Between Classes · Bow Accessory",
+    "originalName": "蝴蝶结珍珠耳坠·银色",
+    "price": 45
+  },
+  "jewel-pearl-pink-heart-pearl-gold": {
+    "zh": "街角咖啡 · 粉心珍珠耳钉",
+    "en": "Corner Café · Stud Earrings",
+    "originalName": "粉心珍珠耳钉·金色",
+    "price": 60
+  },
+  "jewel-pearl-pink-heart-pearl-silver": {
+    "zh": "雨后小巷 · 粉心珍珠耳钉",
+    "en": "After the Rain · Stud Earrings",
+    "originalName": "粉心珍珠耳钉·银色",
+    "price": 50
+  },
+  "jewel-pearl-puffed-heart-gold": {
+    "zh": "午后留白 · 爱心钻坠耳饰",
+    "en": "Afternoon Pause · Accessory",
+    "originalName": "爱心钻坠耳饰·金色",
+    "price": 55
+  },
+  "jewel-pearl-puffed-heart-silver": {
+    "zh": "花园手记 · 爱心钻坠耳饰",
+    "en": "Garden Notes · Accessory",
+    "originalName": "爱心钻坠耳饰·银色",
+    "price": 55
+  },
+  "jewel-pearl-open-heart-gold": {
+    "zh": "雨后小巷 · 镂空爱心耳饰",
+    "en": "After the Rain · Accessory",
+    "originalName": "镂空爱心耳饰·金色",
+    "price": 50
+  },
+  "jewel-pearl-open-heart-silver": {
+    "zh": "轻舞 · 镂空爱心耳饰",
+    "en": "Soft Waltz · Accessory",
+    "originalName": "镂空爱心耳饰·银色",
+    "price": 55
+  },
+  "jewel-pearl-smooth-hoop-gold": {
+    "zh": "秘密花园 · 光面水滴大圈耳环",
+    "en": "Secret Garden · Accessory",
+    "originalName": "光面水滴大圈耳环·金色",
+    "price": 40
+  },
+  "jewel-pearl-smooth-hoop-silver": {
+    "zh": "晨间序曲 · 光面水滴大圈耳环",
+    "en": "Morning Prelude · Accessory",
+    "originalName": "光面水滴大圈耳环·银色",
+    "price": 50
+  },
+  "jewel-pearl-braided-hoop-gold": {
+    "zh": "旅途一页 · 麻花大圈耳环",
+    "en": "Travel Journal · Accessory",
+    "originalName": "麻花大圈耳环·金色",
+    "price": 60
+  },
+  "jewel-pearl-braided-hoop-silver": {
+    "zh": "星光序曲 · 麻花大圈耳环",
+    "en": "Starlit Prelude · Accessory",
+    "originalName": "麻花大圈耳环·银色",
+    "price": 60
+  },
+  "jewel-pearl-star-double-hoop-gold": {
+    "zh": "课间来信 · 星芒双圈耳环",
+    "en": "Between Classes · Accessory",
+    "originalName": "星芒双圈耳环·金色",
+    "price": 40
+  },
+  "jewel-pearl-star-double-hoop-silver": {
+    "zh": "旧书店 · 星芒双圈耳环",
+    "en": "Old Bookshop · Accessory",
+    "originalName": "星芒双圈耳环·银色",
+    "price": 40
+  },
+  "jewel-pearl-diamond-huggie-gold": {
+    "zh": "夜航来信 · 排钻小圈耳扣",
+    "en": "Night Letters · Accessory",
+    "originalName": "排钻小圈耳扣·金色",
+    "price": 40
+  },
+  "jewel-pearl-diamond-huggie-silver": {
+    "zh": "街角咖啡 · 排钻小圈耳扣",
+    "en": "Corner Café · Accessory",
+    "originalName": "排钻小圈耳扣·银色",
+    "price": 55
+  },
+  "jewel-pearl-twist-huggie-gold": {
+    "zh": "周末漫游 · 扭纹小圈耳扣",
+    "en": "Weekend Wander · Accessory",
+    "originalName": "扭纹小圈耳扣·金色",
+    "price": 45
+  },
+  "jewel-pearl-twist-huggie-silver": {
+    "zh": "风的序曲 · 扭纹小圈耳扣",
+    "en": "Wind Prelude · Accessory",
+    "originalName": "扭纹小圈耳扣·银色",
+    "price": 60
+  },
+  "jewel-pearl-beaded-huggie-gold": {
+    "zh": "月下散步 · 圆珠小圈耳扣",
+    "en": "Moonlit Walk · Accessory",
+    "originalName": "圆珠小圈耳扣·金色",
+    "price": 50
+  },
+  "jewel-pearl-beaded-huggie-silver": {
+    "zh": "放学以后 · 圆珠小圈耳扣",
+    "en": "After School · Accessory",
+    "originalName": "圆珠小圈耳扣·银色",
+    "price": 50
+  },
+  "jewel-pearl-bold-huggie-gold": {
+    "zh": "慢拍日常 · 宽面小圈耳扣",
+    "en": "Slow Days · Accessory",
+    "originalName": "宽面小圈耳扣·金色",
+    "price": 45
+  },
+  "jewel-pearl-bold-huggie-silver": {
+    "zh": "初晴 · 宽面小圈耳扣",
+    "en": "First Light · Accessory",
+    "originalName": "宽面小圈耳扣·银色",
+    "price": 60
+  },
+  "root-cargo-skort": {
+    "zh": "慢拍日常 · 工装短裙",
+    "en": "Slow Days · Mini Skirt",
+    "originalName": "工装短裙",
+    "price": 75
+  },
+  "root-button-mini": {
+    "zh": "午后留白 · 金扣短裙",
+    "en": "Afternoon Pause · Mini Skirt",
+    "originalName": "金扣短裙",
+    "price": 80
+  },
+  "root-cargo-jacket": {
+    "zh": "午后留白 · 精修工装外套",
+    "en": "Afternoon Pause · Jacket",
+    "originalName": "精修工装外套",
+    "price": 85
+  },
+  "root-cargo-midi": {
+    "zh": "慢拍日常 · 半裙",
+    "en": "Slow Days · Skirt",
+    "originalName": "卡其半裙",
+    "price": 75
+  },
+  "root-sport-shorts": {
+    "zh": "秘密花园 · 运动短裤",
+    "en": "Secret Garden · Shorts",
+    "originalName": "浅蓝运动短裤",
+    "price": 55
+  },
+  "root-zip-cargo-mini": {
+    "zh": "星光序曲 · miu工装短裙",
+    "en": "Starlit Prelude · Mini Skirt",
+    "originalName": "miu黑工装短裙",
+    "price": 75
+  },
+  "root-tie-denim-mini": {
+    "zh": "旅途一页 · miu牛仔短裙系带",
+    "en": "Travel Journal · Denim Mini Skirt",
+    "originalName": "miu牛仔短裙白色系带",
+    "price": 60
+  },
+  "jewel-cute-large-hoop-1-gold": {
+    "zh": "星光序曲 · 大圆圈耳环_款式1_ · 典藏款",
+    "en": "Starlit Prelude · Accessory Edition",
+    "originalName": "大圆圈耳环_款式1_金色",
+    "price": 60
+  },
+  "jewel-cute-large-hoop-1-silver": {
+    "zh": "晚风小调 · 大圆圈耳环_款式1_ · 典藏款",
+    "en": "Evening Breeze · Accessory Edition",
+    "originalName": "大圆圈耳环_款式1_银色",
+    "price": 50
+  },
+  "jewel-cute-large-hoop-2-gold": {
+    "zh": "夜航来信 · 大圆圈耳环_款式2_ · 典藏款",
+    "en": "Night Letters · Accessory Edition",
+    "originalName": "大圆圈耳环_款式2_金色",
+    "price": 40
+  },
+  "jewel-cute-large-hoop-2-silver": {
+    "zh": "初晴 · 大圆圈耳环_款式2_ · 典藏款",
+    "en": "First Light · Accessory Edition",
+    "originalName": "大圆圈耳环_款式2_银色",
+    "price": 45
+  },
+  "jewel-cute-large-hoop-3-gold": {
+    "zh": "旧书店 · 大圆圈耳环_款式3_ · 典藏款",
+    "en": "Old Bookshop · Accessory Edition",
+    "originalName": "大圆圈耳环_款式3_金色",
+    "price": 45
+  },
+  "jewel-cute-large-hoop-3-silver": {
+    "zh": "月下散步 · 大圆圈耳环_款式3_ · 典藏款",
+    "en": "Moonlit Walk · Accessory Edition",
+    "originalName": "大圆圈耳环_款式3_银色",
+    "price": 45
+  },
+  "jewel-cute-large-hoop-4-gold": {
+    "zh": "晚风小调 · 大圆圈耳环_款式4_ · 典藏款",
+    "en": "Evening Breeze · Accessory Edition",
+    "originalName": "大圆圈耳环_款式4_金色",
+    "price": 50
+  },
+  "jewel-cute-large-hoop-4-silver": {
+    "zh": "风的序曲 · 大圆圈耳环_款式4_ · 典藏款",
+    "en": "Wind Prelude · Accessory Edition",
+    "originalName": "大圆圈耳环_款式4_银色",
+    "price": 40
+  },
+  "jewel-cute-small-hoop-1-gold": {
+    "zh": "午后留白 · 小圆圈耳环_款式1_ · 典藏款",
+    "en": "Afternoon Pause · Accessory Edition",
+    "originalName": "小圆圈耳环_款式1_金色",
+    "price": 55
+  },
+  "jewel-cute-small-hoop-1-silver": {
+    "zh": "课间来信 · 小圆圈耳环_款式1_ · 典藏款",
+    "en": "Between Classes · Accessory Edition",
+    "originalName": "小圆圈耳环_款式1_银色",
+    "price": 40
+  },
+  "jewel-cute-small-hoop-2-gold": {
+    "zh": "晨间序曲 · 小圆圈耳环_款式2_ · 典藏款",
+    "en": "Morning Prelude · Accessory Edition",
+    "originalName": "小圆圈耳环_款式2_金色",
+    "price": 60
+  },
+  "jewel-cute-small-hoop-2-silver": {
+    "zh": "秘密花园 · 小圆圈耳环_款式2_ · 典藏款",
+    "en": "Secret Garden · Accessory Edition",
+    "originalName": "小圆圈耳环_款式2_银色",
+    "price": 40
+  },
+  "jewel-cute-small-hoop-3-gold": {
+    "zh": "风的序曲 · 小圆圈耳环_款式3_ · 典藏款",
+    "en": "Wind Prelude · Accessory Edition",
+    "originalName": "小圆圈耳环_款式3_金色",
+    "price": 40
+  },
+  "jewel-cute-small-hoop-3-silver": {
+    "zh": "晨间序曲 · 小圆圈耳环_款式3_ · 典藏款",
+    "en": "Morning Prelude · Accessory Edition",
+    "originalName": "小圆圈耳环_款式3_银色",
+    "price": 60
+  },
+  "jewel-cute-small-hoop-4-gold": {
+    "zh": "旅途一页 · 小圆圈耳环_款式4_ · 典藏款",
+    "en": "Travel Journal · Accessory Edition",
+    "originalName": "小圆圈耳环_款式4_金色",
+    "price": 45
+  },
+  "jewel-cute-small-hoop-4-silver": {
+    "zh": "慢拍日常 · 小圆圈耳环_款式4_ · 典藏款",
+    "en": "Slow Days · Accessory Edition",
+    "originalName": "小圆圈耳环_款式4_银色",
+    "price": 60
+  },
+  "jewel-cute-baroque-pearl-1-gold": {
+    "zh": "初晴 · 巴洛克珍珠耳坠_款式1_ · 典藏款",
+    "en": "First Light · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式1_金色",
+    "price": 45
+  },
+  "jewel-cute-baroque-pearl-1-silver": {
+    "zh": "花园手记 · 巴洛克珍珠耳坠_款式1_ · 典藏款",
+    "en": "Garden Notes · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式1_银色",
+    "price": 55
+  },
+  "jewel-cute-baroque-pearl-2-gold": {
+    "zh": "周末漫游 · 巴洛克珍珠耳坠_款式2_ · 典藏款",
+    "en": "Weekend Wander · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式2_金色",
+    "price": 50
+  },
+  "jewel-cute-baroque-pearl-2-silver": {
+    "zh": "午后留白 · 巴洛克珍珠耳坠_款式2_ · 典藏款",
+    "en": "Afternoon Pause · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式2_银色",
+    "price": 55
+  },
+  "jewel-cute-baroque-pearl-3-gold": {
+    "zh": "电影散场 · 巴洛克珍珠耳坠_款式3_ · 典藏款",
+    "en": "After the Film · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式3_金色",
+    "price": 55
+  },
+  "jewel-cute-baroque-pearl-3-silver": {
+    "zh": "周末漫游 · 巴洛克珍珠耳坠_款式3_ · 典藏款",
+    "en": "Weekend Wander · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式3_银色",
+    "price": 50
+  },
+  "jewel-cute-baroque-pearl-4-gold": {
+    "zh": "街角咖啡 · 巴洛克珍珠耳坠_款式4_ · 典藏款",
+    "en": "Corner Café · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式4_金色",
+    "price": 60
+  },
+  "jewel-cute-baroque-pearl-4-silver": {
+    "zh": "雨后小巷 · 巴洛克珍珠耳坠_款式4_ · 典藏款",
+    "en": "After the Rain · Accessory Edition",
+    "originalName": "巴洛克珍珠耳坠_款式4_银色",
+    "price": 50
+  },
+  "jewel-cute-heart-1-gold": {
+    "zh": "秘密花园 · 爱心耳环_款式1_ · 典藏款",
+    "en": "Secret Garden · Accessory Edition",
+    "originalName": "爱心耳环_款式1_金色",
+    "price": 40
+  },
+  "jewel-cute-heart-1-silver": {
+    "zh": "街角咖啡 · 爱心耳环_款式1_ · 典藏款",
+    "en": "Corner Café · Accessory Edition",
+    "originalName": "爱心耳环_款式1_银色",
+    "price": 60
+  },
+  "jewel-cute-heart-2-gold": {
+    "zh": "月下散步 · 爱心耳环_款式2_ · 典藏款",
+    "en": "Moonlit Walk · Accessory Edition",
+    "originalName": "爱心耳环_款式2_金色",
+    "price": 45
+  },
+  "jewel-cute-heart-2-silver": {
+    "zh": "星光序曲 · 爱心耳环_款式2_ · 典藏款",
+    "en": "Starlit Prelude · Accessory Edition",
+    "originalName": "爱心耳环_款式2_银色",
+    "price": 60
+  },
+  "jewel-cute-heart-3-gold": {
+    "zh": "雨后小巷 · 爱心耳环_款式3_ · 典藏款",
+    "en": "After the Rain · Accessory Edition",
+    "originalName": "爱心耳环_款式3_金色",
+    "price": 50
+  },
+  "jewel-cute-heart-3-silver": {
+    "zh": "轻舞 · 爱心耳环_款式3_ · 典藏款",
+    "en": "Soft Waltz · Accessory Edition",
+    "originalName": "爱心耳环_款式3_银色",
+    "price": 55
+  },
+  "jewel-cute-heart-4-gold": {
+    "zh": "花园手记 · 爱心耳环_款式4_ · 典藏款",
+    "en": "Garden Notes · Accessory Edition",
+    "originalName": "爱心耳环_款式4_金色",
+    "price": 55
+  },
+  "jewel-cute-heart-4-silver": {
+    "zh": "电影散场 · 爱心耳环_款式4_ · 典藏款",
+    "en": "After the Film · Accessory Edition",
+    "originalName": "爱心耳环_款式4_银色",
+    "price": 55
+  },
+  "jewel-cute-pearl-stud-1-gold": {
+    "zh": "晨间序曲 · 珍珠耳钉_款式1_",
+    "en": "Morning Prelude · Stud Earrings",
+    "originalName": "珍珠耳钉_款式1_金色",
+    "price": 60
+  },
+  "jewel-cute-pearl-stud-1-silver": {
+    "zh": "旅途一页 · 珍珠耳钉_款式1_",
+    "en": "Travel Journal · Stud Earrings",
+    "originalName": "珍珠耳钉_款式1_银色",
+    "price": 40
+  },
+  "jewel-cute-pearl-stud-2-gold": {
+    "zh": "风的序曲 · 珍珠耳钉_款式2_",
+    "en": "Wind Prelude · Stud Earrings",
+    "originalName": "珍珠耳钉_款式2_金色",
+    "price": 40
+  },
+  "jewel-cute-pearl-stud-2-silver": {
+    "zh": "夜航来信 · 珍珠耳钉_款式2_",
+    "en": "Night Letters · Stud Earrings",
+    "originalName": "珍珠耳钉_款式2_银色",
+    "price": 40
+  },
+  "jewel-cute-pearl-stud-3-gold": {
+    "zh": "轻舞 · 珍珠耳钉_款式3_",
+    "en": "Soft Waltz · Stud Earrings",
+    "originalName": "珍珠耳钉_款式3_金色",
+    "price": 45
+  },
+  "jewel-cute-pearl-stud-3-silver": {
+    "zh": "慢拍日常 · 珍珠耳钉_款式3_",
+    "en": "Slow Days · Stud Earrings",
+    "originalName": "珍珠耳钉_款式3_银色",
+    "price": 60
+  },
+  "jewel-cute-pearl-stud-4-gold": {
+    "zh": "放学以后 · 珍珠耳钉_款式4_",
+    "en": "After School · Stud Earrings",
+    "originalName": "珍珠耳钉_款式4_金色",
+    "price": 50
+  },
+  "jewel-cute-pearl-stud-4-silver": {
+    "zh": "月下散步 · 珍珠耳钉_款式4_",
+    "en": "Moonlit Walk · Stud Earrings",
+    "originalName": "珍珠耳钉_款式4_银色",
+    "price": 60
+  },
+  "shoe-v3-pointed-suede": {
+    "zh": "晚风小调 · 尖头麂皮踝带鞋",
+    "en": "Evening Breeze · Suede Pointed Flats",
+    "originalName": "尖头麂皮踝带鞋",
+    "price": 70
+  },
+  "shoe-v3-round-denim": {
+    "zh": "课间来信 · 圆头牛仔草编鞋",
+    "en": "Between Classes · Denim Shoes",
+    "originalName": "圆头牛仔草编鞋",
+    "price": 55
+  },
+  "shoe-v3-square-woven": {
+    "zh": "风的序曲 · 方头编织皮踝带鞋",
+    "en": "Wind Prelude · Shoes",
+    "originalName": "方头编织皮踝带鞋",
+    "price": 55
+  },
+  "shoe-v3-round-lace": {
+    "zh": "街角咖啡 · 圆头花蕾丝蝴蝶结鞋",
+    "en": "Corner Café · Lace Bow Shoes",
+    "originalName": "圆头花蕾丝蝴蝶结鞋",
+    "price": 95
+  },
+  "shoe-v3-square-patent": {
+    "zh": "夜航来信 · 方头亮皮薄厚底鞋",
+    "en": "Night Letters · Shoes",
+    "originalName": "方头亮皮薄厚底鞋",
+    "price": 55
+  },
+  "shoe-v3-lace-sport": {
+    "zh": "花园手记 · 蕾丝拼麂皮运动鞋",
+    "en": "Garden Notes · Suede Lace Sneakers",
+    "originalName": "蕾丝拼麂皮运动鞋",
+    "price": 90
+  },
+  "layered-utility-blouson-v1": {
+    "zh": "花园手记 · 灯笼袖工装短夹克",
+    "en": "Garden Notes · Jacket",
+    "originalName": "灯笼袖工装短夹克",
+    "price": 90
+  },
+  "layered-blush-tunic-v1": {
+    "zh": "放学以后 · 蕾丝叠搭褶摆上衣",
+    "en": "After School · Lace Top",
+    "originalName": "蕾丝叠搭褶摆上衣",
+    "price": 70
+  },
+  "layered-hooded-knit-v1": {
+    "zh": "电影散场 · 连帽提花拉链开衫",
+    "en": "After the Film · Cardigan",
+    "originalName": "连帽提花拉链开衫",
+    "price": 90
+  },
+  "layered-suede-bomber-v1": {
+    "zh": "午后留白 · 立领麂皮短夹克",
+    "en": "Afternoon Pause · Suede Jacket",
+    "originalName": "立领麂皮短夹克",
+    "price": 95
+  },
+  "layered-lace-wrap-v1": {
+    "zh": "电影散场 · 长开衩蕾丝围裙",
+    "en": "After the Film · Lace Accessory",
+    "originalName": "长开衩蕾丝围裙",
+    "price": 70
+  },
+  "layered-ruffle-wrap-v1": {
+    "zh": "晨间序曲 · 蕾丝波点腰间裙片",
+    "en": "Morning Prelude · Lace Accessory",
+    "originalName": "蕾丝波点腰间裙片",
+    "price": 75
+  },
+  "layered-zip-jacket-v1": {
+    "zh": "轻舞 · 立领拉链短外套",
+    "en": "Soft Waltz · Jacket",
+    "originalName": "立领拉链短外套",
+    "price": 85
+  },
+  "layered-lace-tunic-v1": {
+    "zh": "夜航来信 · 蕾丝边叠穿长上衣",
+    "en": "Night Letters · Lace Top",
+    "originalName": "蕾丝边叠穿长上衣",
+    "price": 60
+  },
+  "layered-denim-jacket-v1": {
+    "zh": "电影散场 · 多袋短款牛仔夹克",
+    "en": "After the Film · Denim Jacket",
+    "originalName": "多袋短款牛仔夹克",
+    "price": 90
+  },
+  "layered-raglan-rib-v1": {
+    "zh": "街角咖啡 · 撞色袖罗纹上衣",
+    "en": "Corner Café · Knit Top",
+    "originalName": "撞色袖罗纹上衣",
+    "price": 70
+  },
+  "layered-rainbow-knit-v1": {
+    "zh": "周末漫游 · 彩条短款针织衫",
+    "en": "Weekend Wander · Knit Striped Top",
+    "originalName": "彩条短款针织衫",
+    "price": 55
+  },
+  "layered-ruched-top-v1": {
+    "zh": "花园手记 · 小高领抽褶长袖衫",
+    "en": "Garden Notes · Top",
+    "originalName": "小高领抽褶长袖衫",
+    "price": 70
+  },
+  "layered-utility-wrap-v1": {
+    "zh": "街角咖啡 · 工装百褶腰间裙片",
+    "en": "Corner Café · Pleated Accessory",
+    "originalName": "工装百褶腰间裙片",
+    "price": 70
+  },
+  "layered-tied-cardigan-v1": {
+    "zh": "慢拍日常 · 系腰提花毛衣 · 典藏款",
+    "en": "Slow Days · Accessory Edition",
+    "originalName": "系腰提花毛衣",
+    "price": 60
+  },
+  "jewel-modern-flow-01": {
+    "zh": "花园手记 · 流线耳饰01 · 典藏款",
+    "en": "Garden Notes · Accessory Edition",
+    "originalName": "流线耳饰01·金色",
+    "price": 55
+  },
+  "jewel-modern-flow-02": {
+    "zh": "慢拍日常 · 流线耳饰02 · 典藏款",
+    "en": "Slow Days · Accessory Edition",
+    "originalName": "流线耳饰02·银色",
+    "price": 60
+  },
+  "jewel-modern-flow-03": {
+    "zh": "夜航来信 · 流线耳饰03 · 典藏款",
+    "en": "Night Letters · Accessory Edition",
+    "originalName": "流线耳饰03·金色",
+    "price": 40
+  },
+  "jewel-modern-flow-04": {
+    "zh": "初晴 · 流线耳饰04 · 典藏款",
+    "en": "First Light · Accessory Edition",
+    "originalName": "流线耳饰04·银色",
+    "price": 45
+  },
+  "jewel-modern-flow-05": {
+    "zh": "晚风小调 · 流线耳饰05 · 典藏款",
+    "en": "Evening Breeze · Accessory Edition",
+    "originalName": "流线耳饰05·金色",
+    "price": 50
+  },
+  "jewel-modern-flow-06": {
+    "zh": "电影散场 · 流线耳饰06 · 典藏款",
+    "en": "After the Film · Accessory Edition",
+    "originalName": "流线耳饰06·银色",
+    "price": 55
+  },
+  "jewel-modern-flow-07": {
+    "zh": "晨间序曲 · 流线耳饰07 · 典藏款",
+    "en": "Morning Prelude · Accessory Edition",
+    "originalName": "流线耳饰07·金色",
+    "price": 60
+  },
+  "jewel-modern-flow-08": {
+    "zh": "秘密花园 · 流线耳饰08 · 典藏款",
+    "en": "Secret Garden · Accessory Edition",
+    "originalName": "流线耳饰08·银色",
+    "price": 40
+  },
+  "jewel-modern-tassel-01": {
+    "zh": "周末漫游 · 流苏耳饰01",
+    "en": "Weekend Wander · Fringe Accessory",
+    "originalName": "流苏耳饰01·金色",
+    "price": 60
+  },
+  "jewel-modern-tassel-02": {
+    "zh": "午后留白 · 流苏耳饰02",
+    "en": "Afternoon Pause · Fringe Accessory",
+    "originalName": "流苏耳饰02·银色",
+    "price": 65
+  },
+  "jewel-modern-tassel-03": {
+    "zh": "街角咖啡 · 流苏耳饰03",
+    "en": "Corner Café · Fringe Accessory",
+    "originalName": "流苏耳饰03·金色",
+    "price": 70
+  },
+  "jewel-modern-tassel-04": {
+    "zh": "风的序曲 · 流苏耳饰04",
+    "en": "Wind Prelude · Fringe Accessory",
+    "originalName": "流苏耳饰04·银色",
+    "price": 50
+  },
+  "jewel-modern-tassel-05": {
+    "zh": "月下散步 · 流苏耳饰05",
+    "en": "Moonlit Walk · Fringe Accessory",
+    "originalName": "流苏耳饰05·金色",
+    "price": 55
+  },
+  "jewel-modern-tassel-06": {
+    "zh": "放学以后 · 流苏耳饰06",
+    "en": "After School · Fringe Accessory",
+    "originalName": "流苏耳饰06·银色",
+    "price": 60
+  },
+  "jewel-modern-tassel-07": {
+    "zh": "花园手记 · 流苏耳饰07",
+    "en": "Garden Notes · Fringe Accessory",
+    "originalName": "流苏耳饰07·金色",
+    "price": 65
+  },
+  "jewel-modern-tassel-08": {
+    "zh": "慢拍日常 · 流苏耳饰08",
+    "en": "Slow Days · Fringe Accessory",
+    "originalName": "流苏耳饰08·银色",
+    "price": 70
+  },
+  "jewel-modern-wood-01": {
+    "zh": "旧书店 · 木制耳饰01 · 典藏款",
+    "en": "Old Bookshop · Accessory Edition",
+    "originalName": "木制耳饰01·金色",
+    "price": 45
+  },
+  "jewel-modern-wood-02": {
+    "zh": "周末漫游 · 木制耳饰02 · 典藏款",
+    "en": "Weekend Wander · Accessory Edition",
+    "originalName": "木制耳饰02·银色",
+    "price": 50
+  },
+  "jewel-modern-wood-03": {
+    "zh": "午后留白 · 木制耳饰03 · 典藏款",
+    "en": "Afternoon Pause · Accessory Edition",
+    "originalName": "木制耳饰03·金色",
+    "price": 55
+  },
+  "jewel-modern-wood-04": {
+    "zh": "街角咖啡 · 木制耳饰04 · 典藏款",
+    "en": "Corner Café · Accessory Edition",
+    "originalName": "木制耳饰04·银色",
+    "price": 60
+  },
+  "jewel-modern-wood-05": {
+    "zh": "风的序曲 · 木制耳饰05 · 典藏款",
+    "en": "Wind Prelude · Accessory Edition",
+    "originalName": "木制耳饰05·金色",
+    "price": 40
+  },
+  "jewel-modern-wood-06": {
+    "zh": "月下散步 · 木制耳饰06 · 典藏款",
+    "en": "Moonlit Walk · Accessory Edition",
+    "originalName": "木制耳饰06·银色",
+    "price": 45
+  },
+  "jewel-modern-wood-07": {
+    "zh": "放学以后 · 木制耳饰07 · 典藏款",
+    "en": "After School · Accessory Edition",
+    "originalName": "木制耳饰07·金色",
+    "price": 50
+  },
+  "jewel-modern-wood-08": {
+    "zh": "花园手记 · 木制耳饰08 · 典藏款",
+    "en": "Garden Notes · Accessory Edition",
+    "originalName": "木制耳饰08·银色",
+    "price": 55
+  },
+  "jewel-modern-malachite-01": {
+    "zh": "夜航来信 · 孔雀石耳饰01 · 典藏款",
+    "en": "Night Letters · Accessory Edition",
+    "originalName": "孔雀石耳饰01·金色",
+    "price": 40
+  },
+  "jewel-modern-malachite-02": {
+    "zh": "初晴 · 孔雀石耳饰02 · 典藏款",
+    "en": "First Light · Accessory Edition",
+    "originalName": "孔雀石耳饰02·银色",
+    "price": 45
+  },
+  "jewel-modern-malachite-03": {
+    "zh": "晚风小调 · 孔雀石耳饰03 · 典藏款",
+    "en": "Evening Breeze · Accessory Edition",
+    "originalName": "孔雀石耳饰03·金色",
+    "price": 50
+  },
+  "jewel-modern-malachite-04": {
+    "zh": "电影散场 · 孔雀石耳饰04 · 典藏款",
+    "en": "After the Film · Accessory Edition",
+    "originalName": "孔雀石耳饰04·银色",
+    "price": 55
+  },
+  "jewel-modern-malachite-05": {
+    "zh": "晨间序曲 · 孔雀石耳饰05 · 典藏款",
+    "en": "Morning Prelude · Accessory Edition",
+    "originalName": "孔雀石耳饰05·金色",
+    "price": 60
+  },
+  "jewel-modern-malachite-06": {
+    "zh": "秘密花园 · 孔雀石耳饰06 · 典藏款",
+    "en": "Secret Garden · Accessory Edition",
+    "originalName": "孔雀石耳饰06·银色",
+    "price": 40
+  },
+  "jewel-modern-malachite-07": {
+    "zh": "旅途一页 · 孔雀石耳饰07 · 典藏款",
+    "en": "Travel Journal · Accessory Edition",
+    "originalName": "孔雀石耳饰07·金色",
+    "price": 45
+  },
+  "jewel-modern-malachite-08": {
+    "zh": "雨后小巷 · 孔雀石耳饰08 · 典藏款",
+    "en": "After the Rain · Accessory Edition",
+    "originalName": "孔雀石耳饰08·银色",
+    "price": 50
+  },
+  "jewel-modern-geometric-01": {
+    "zh": "旧书店 · 几何不规则耳饰01 · 典藏款",
+    "en": "Old Bookshop · Accessory Edition",
+    "originalName": "几何不规则耳饰01·金色",
+    "price": 45
+  },
+  "jewel-modern-geometric-02": {
+    "zh": "周末漫游 · 几何不规则耳饰02 · 典藏款",
+    "en": "Weekend Wander · Accessory Edition",
+    "originalName": "几何不规则耳饰02·银色",
+    "price": 50
+  },
+  "jewel-modern-geometric-03": {
+    "zh": "午后留白 · 几何不规则耳饰03 · 典藏款",
+    "en": "Afternoon Pause · Accessory Edition",
+    "originalName": "几何不规则耳饰03·金色",
+    "price": 55
+  },
+  "jewel-modern-geometric-04": {
+    "zh": "街角咖啡 · 几何不规则耳饰04 · 典藏款",
+    "en": "Corner Café · Accessory Edition",
+    "originalName": "几何不规则耳饰04·银色",
+    "price": 60
+  },
+  "jewel-modern-geometric-05": {
+    "zh": "风的序曲 · 几何不规则耳饰05 · 典藏款",
+    "en": "Wind Prelude · Accessory Edition",
+    "originalName": "几何不规则耳饰05·金色",
+    "price": 40
+  },
+  "jewel-modern-geometric-06": {
+    "zh": "月下散步 · 几何不规则耳饰06 · 典藏款",
+    "en": "Moonlit Walk · Accessory Edition",
+    "originalName": "几何不规则耳饰06·银色",
+    "price": 45
+  },
+  "jewel-modern-geometric-07": {
+    "zh": "放学以后 · 几何不规则耳饰07 · 典藏款",
+    "en": "After School · Accessory Edition",
+    "originalName": "几何不规则耳饰07·金色",
+    "price": 50
+  },
+  "jewel-modern-geometric-08": {
+    "zh": "花园手记 · 几何不规则耳饰08 · 典藏款",
+    "en": "Garden Notes · Accessory Edition",
+    "originalName": "几何不规则耳饰08·银色",
+    "price": 55
+  },
+  "sneaker-mcq-clean": {
+    "zh": "午后留白 · 麦昆风厚底净面运动鞋",
+    "en": "Afternoon Pause · Sneakers",
+    "originalName": "麦昆风厚底净面运动鞋",
+    "price": 70
+  },
+  "sneaker-mcq-suede": {
+    "zh": "周末漫游 · 麦昆风麂皮拼接厚底鞋",
+    "en": "Weekend Wander · Suede Shoes",
+    "originalName": "麦昆风麂皮拼接厚底鞋",
+    "price": 75
+  },
+  "sneaker-y3-cross": {
+    "zh": "雨后小巷 · Y-3风交叉织带机能鞋",
+    "en": "After the Rain · Shoes",
+    "originalName": "Y-3风交叉织带机能鞋",
+    "price": 65
+  },
+  "sneaker-y3-cage": {
+    "zh": "星光序曲 · Y-3风绳带镂架跑鞋",
+    "en": "Starlit Prelude · Shoes",
+    "originalName": "Y-3风绳带镂架跑鞋",
+    "price": 75
+  },
+  "sneaker-quilt-leather": {
+    "zh": "旅途一页 · 菱格绗缝皮质板鞋",
+    "en": "Travel Journal · Shoes",
+    "originalName": "菱格绗缝皮质板鞋",
+    "price": 70
+  },
+  "sneaker-quilt-nylon": {
+    "zh": "课间来信 · 菱格尼龙拼麂皮跑鞋",
+    "en": "Between Classes · Suede Shoes",
+    "originalName": "菱格尼龙拼麂皮跑鞋",
+    "price": 60
+  },
+  "sneaker-miunb-suede": {
+    "zh": "晚风小调 · Miu×NB风麂皮网布复古鞋",
+    "en": "Evening Breeze · Suede Shoes",
+    "originalName": "Miu×NB风麂皮网布复古鞋",
+    "price": 70
+  },
+  "sneaker-miunb-ribbon": {
+    "zh": "夜航来信 · Miu×NB风缎带薄底复古鞋",
+    "en": "Night Letters · Satin Shoes",
+    "originalName": "Miu×NB风缎带薄底复古鞋",
+    "price": 55
+  },
+  "sneaker-shell-classic": {
+    "zh": "旧书店 · 阿迪风经典皮质贝壳头",
+    "en": "Old Bookshop · Sneakers",
+    "originalName": "阿迪风经典皮质贝壳头",
+    "price": 60
+  },
+  "sneaker-shell-suede": {
+    "zh": "秘密花园 · 阿迪风麂皮生胶贝壳头",
+    "en": "Secret Garden · Suede Sneakers",
+    "originalName": "阿迪风麂皮生胶贝壳头",
+    "price": 60
+  },
+  "sneaker-nike-waffle": {
+    "zh": "秘密花园 · 耐克风麂皮尼龙华夫跑鞋",
+    "en": "Secret Garden · Suede Shoes",
+    "originalName": "耐克风麂皮尼龙华夫跑鞋",
+    "price": 60
+  },
+  "sneaker-nike-mesh": {
+    "zh": "轻舞 · 耐克风网布缓震跑鞋",
+    "en": "Soft Waltz · Shoes",
+    "originalName": "耐克风网布缓震跑鞋",
+    "price": 70
+  },
+  "bookshop-basic-shirt-v1": {
+    "zh": "放学以后 · 基础翻领衬衫",
+    "en": "After School · Shirt",
+    "originalName": "基础翻领衬衫",
+    "price": 40
+  },
+  "bookshop-cocoon-coat-v1": {
+    "zh": "旧书店 · 茧型格纹外套",
+    "en": "Old Bookshop · Plaid Jacket",
+    "originalName": "茧型格纹外套",
+    "price": 80
+  },
+  "bookshop-plaid-beret-v1": {
+    "zh": "旧书店 · 格纹贝雷帽",
+    "en": "Old Bookshop · Plaid Cap",
+    "originalName": "格纹贝雷帽",
+    "price": 45
+  },
+  "kg-scoop-knit-v1": {
+    "zh": "风的序曲 · 侧扣圆领针织衫",
+    "en": "Wind Prelude · Knit Top",
+    "originalName": "侧扣圆领针织衫",
+    "price": 65
+  },
+  "kg-gingham-waist-tie-v1": {
+    "zh": "夜航来信 · 格纹系腰衬衣",
+    "en": "Night Letters · Plaid Accessory",
+    "originalName": "格纹系腰衬衣",
+    "price": 40
+  },
+  "kg-ribbon-knit-v1": {
+    "zh": "课间来信 · 缎带绒感毛衣",
+    "en": "Between Classes · Satin Top",
+    "originalName": "缎带绒感毛衣",
+    "price": 45
+  },
+  "kg-denim-bustier-v1": {
+    "zh": "放学以后 · 弧领牛仔束身上衣",
+    "en": "After School · Denim Top",
+    "originalName": "弧领牛仔束身上衣",
+    "price": 55
+  },
+  "kg-embroidered-tulle-v1": {
+    "zh": "花园手记 · 绣花薄纱长裙",
+    "en": "Garden Notes · Tulle Embellished Maxi Skirt",
+    "originalName": "绣花薄纱长裙",
+    "price": 70
+  },
+  "kg-western-hat-v1": {
+    "zh": "旧书店 · 编绳宽檐牛仔帽",
+    "en": "Old Bookshop · Denim Cap",
+    "originalName": "编绳宽檐牛仔帽",
+    "price": 45
+  },
+  "kg-lace-bolero-v1": {
+    "zh": "课间来信 · 花网短开衫",
+    "en": "Between Classes · Cardigan",
+    "originalName": "花网短开衫",
+    "price": 75
+  },
+  "kg-draped-gown-v1": {
+    "zh": "电影散场 · 斜叠荷叶长裙",
+    "en": "After the Film · Gown",
+    "originalName": "斜叠荷叶长裙",
+    "price": 100
+  },
+  "kg-handkerchief-tunic-v1": {
+    "zh": "电影散场 · 方巾叠角吊带上衣",
+    "en": "After the Film · Top",
+    "originalName": "方巾叠角吊带上衣",
+    "price": 60
+  },
+  "kg-balloon-dress-v1": {
+    "zh": "花园手记 · 灯笼袖轻纱短裙",
+    "en": "Garden Notes · Tulle Dress",
+    "originalName": "灯笼袖轻纱短裙",
+    "price": 90
+  },
+  "kg-fur-knit-jacket-v1": {
+    "zh": "晨间序曲 · 绒面拼罗纹外套",
+    "en": "Morning Prelude · Knit Jacket",
+    "originalName": "绒面拼罗纹外套",
+    "price": 95
+  },
+  "kg-suede-box-skirt-v1": {
+    "zh": "慢拍日常 · 箱褶麂皮中裙",
+    "en": "Slow Days · Suede Skirt",
+    "originalName": "箱褶麂皮中裙",
+    "price": 80
+  },
+  "kg-pointelle-cardigan-v1": {
+    "zh": "星光序曲 · 贝壳边镂空开衫",
+    "en": "Starlit Prelude · Cardigan",
+    "originalName": "贝壳边镂空开衫",
+    "price": 95
+  },
+  "kg-floral-flounce-skirt-v1": {
+    "zh": "雨后小巷 · 花影斜边纱裙",
+    "en": "After the Rain · Skirt",
+    "originalName": "花影斜边纱裙",
+    "price": 75
+  },
+  "kg-fairisle-knit-v1": {
+    "zh": "秘密花园 · 雪花提花毛衣",
+    "en": "Secret Garden · Top",
+    "originalName": "雪花提花毛衣",
+    "price": 60
+  },
+  "kg-mockneck-knit-v1": {
+    "zh": "午后留白 · 翻领短袖针织衫",
+    "en": "Afternoon Pause · Knit Top",
+    "originalName": "翻领短袖针织衫",
+    "price": 60
+  },
+  "kg-knit-armwarmers-v1": {
+    "zh": "雨后小巷 · 排扣针织袖套",
+    "en": "After the Rain · Knit Accessory",
+    "originalName": "排扣针织袖套",
+    "price": 50
+  },
+  "kg-denim-shorts-v1": {
+    "zh": "晚风小调 · 毛边牛仔短裤",
+    "en": "Evening Breeze · Denim Shorts",
+    "originalName": "毛边牛仔短裤",
+    "price": 65
+  },
+  "kg-gauze-tie-blouse-v1": {
+    "zh": "旧书店 · 飘带褶纱衬衫",
+    "en": "Old Bookshop · Shirt",
+    "originalName": "飘带褶纱衬衫",
+    "price": 50
+  },
+  "printed-7acee4eb-b5b8-4b85-98e7-f6b85cade2e5": {
+    "zh": "周末漫游 · bloom印花 · 合身 T 恤 · 典藏款",
+    "en": "Weekend Wander · T-Shirt Edition",
+    "originalName": "bloom印花＋合身 T 恤（袖型修正版）＋001",
+    "price": 40
+  },
+  "printed-4ec992fe-3283-4cb0-b5eb-26023c116c96": {
+    "zh": "午后留白 · 合身 T 恤 · 典藏款",
+    "en": "Afternoon Pause · T-Shirt Edition",
+    "originalName": "改色＋合身 T 恤（袖型修正版）＋001",
+    "price": 45
+  },
+  "everyday-sport-bra": {
+    "zh": "课间来信 · 运动宽肩带内衣",
+    "en": "Between Classes · Bra",
+    "originalName": "运动宽肩带内衣",
+    "price": 40
+  },
+  "everyday-sport-briefs": {
+    "zh": "夜航来信 · 运动宽肩带内裤",
+    "en": "Night Letters · Briefs",
+    "originalName": "运动宽肩带内裤",
+    "price": 40
+  },
+  "everyday-rib-bra": {
+    "zh": "初晴 · 罗纹棉布内衣",
+    "en": "First Light · Knit Bra",
+    "originalName": "罗纹棉布内衣",
+    "price": 40
+  },
+  "everyday-rib-briefs": {
+    "zh": "午后留白 · 罗纹棉布内裤",
+    "en": "Afternoon Pause · Knit Briefs",
+    "originalName": "罗纹棉布内裤",
+    "price": 45
+  },
+  "everyday-cotton-bra": {
+    "zh": "初晴 · 平纹棉布内衣",
+    "en": "First Light · Bra",
+    "originalName": "平纹棉布内衣",
+    "price": 40
+  },
+  "everyday-cotton-briefs": {
+    "zh": "放学以后 · 平纹棉布内裤",
+    "en": "After School · Briefs",
+    "originalName": "平纹棉布内裤",
+    "price": 40
+  },
+  "everyday-lace-bra": {
+    "zh": "放学以后 · 花叶蕾丝内衣",
+    "en": "After School · Lace Bra",
+    "originalName": "花叶蕾丝内衣",
+    "price": 55
+  },
+  "everyday-lace-briefs": {
+    "zh": "午后留白 · 花叶蕾丝内裤",
+    "en": "Afternoon Pause · Lace Briefs",
+    "originalName": "花叶蕾丝内裤",
+    "price": 60
+  },
+  "everyday-seamless-bra": {
+    "zh": "午后留白 · 无痕薄杯内衣",
+    "en": "Afternoon Pause · Bra",
+    "originalName": "无痕薄杯内衣",
+    "price": 45
+  },
+  "everyday-seamless-briefs": {
+    "zh": "花园手记 · 无痕薄杯内裤",
+    "en": "Garden Notes · Briefs",
+    "originalName": "无痕薄杯内裤",
+    "price": 40
+  },
+  "everyday-bandeau-bra": {
+    "zh": "花园手记 · 无肩带内衣",
+    "en": "Garden Notes · Bandeau",
+    "originalName": "无肩带内衣",
+    "price": 45
+  },
+  "everyday-bandeau-briefs": {
+    "zh": "夜航来信 · 无肩带内裤",
+    "en": "Night Letters · Bandeau",
+    "originalName": "无肩带内裤",
+    "price": 40
+  }
+}

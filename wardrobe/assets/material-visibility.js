@@ -1,0 +1,1 @@
+'use strict';window.MaterialVisibility=(()=>{let items={};const visible=id=>items[id]===true;async function refresh(){const r=await fetch('/api/materials',{cache:'no-store'});if(!r.ok)throw Error('素材展示设置读取失败');items=Object.fromEntries((await r.json()).items.map(i=>[i.id,i.visible]));return items;}return {visible,refresh};})();

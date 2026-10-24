@@ -1,0 +1,2 @@
+'use strict';
+(function(root){const kit=Object.freeze({ids:Object.freeze(['separate-v1-ivory-polo-original','layered-suede-bomber-v1','editorial-wide-jeans-v1','street-v1-brown-loafers']),hair:Object.freeze({front:Object.freeze(['18']),back:Object.freeze(['17']),color:'#a58a64'}),points:100});if(typeof module!=='undefined'&&module.exports)module.exports=kit;else root.WordrobeStarter=kit;})(typeof window!=='undefined'?window:null);

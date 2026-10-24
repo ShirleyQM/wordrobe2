@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "geometryDisplacement": false,
+  "presets": [
+    {
+      "id": "combed",
+      "name": "精梳棉",
+      "texture": "texture-combed.png",
+      "strength": 0.12
+    },
+    {
+      "id": "slub",
+      "name": "竹节棉",
+      "texture": "texture-slub.png",
+      "strength": 0.22
+    },
+    {
+      "id": "washed",
+      "name": "水洗棉",
+      "texture": "texture-washed.png",
+      "strength": 0.25
+    }
+  ],
+  "textureOrigin": "deterministic microtexture maps, no displacement or fold generation; combines independent painted high-pass cloth texture",
+  "validation": {
+    "image": "recolor-material-validation.png",
+    "rows": [
+      "精梳棉",
+      "竹节棉",
+      "水洗棉"
+    ],
+    "columns": [
+      "浅色",
+      "蓝色",
+      "深色"
+    ]
+  }
+}

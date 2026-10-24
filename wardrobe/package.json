@@ -1,0 +1,9 @@
+{
+  "name": "wordrobe-wardrobe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs",
+    "verify": "node verify.cjs"
+  }
+}
