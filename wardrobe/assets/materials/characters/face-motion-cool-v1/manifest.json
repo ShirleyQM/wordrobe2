@@ -1,0 +1,103 @@
+{
+  "faceId": "cool",
+  "source": "assets/materials/characters/face-regenerated-v7/cool/head-hd.png",
+  "source_sha256": "fbfded4fced2f1b47e4facbd0d8f523eca6a8c8ff55bd638c77d81f18cb5b183",
+  "model": "standard_float",
+  "headRect": [
+    350,
+    30,
+    250,
+    275
+  ],
+  "attribution": "THA3: Pramook Khungurn; code MIT; weights CC BY 4.0",
+  "groups": {
+    "eyes": {
+      "file": "eyes.png",
+      "tile": [
+        560,
+        185
+      ],
+      "columns": 8,
+      "box": [
+        210,
+        530,
+        770,
+        715
+      ],
+      "states": [
+        "neutral",
+        "blink-1",
+        "blink-2",
+        "blink-3",
+        "blink-4",
+        "blink-5",
+        "blink-6",
+        "blink-7",
+        "gaze--4",
+        "gaze--3",
+        "gaze--2",
+        "gaze--1",
+        "gaze-1",
+        "gaze-2",
+        "gaze-3",
+        "gaze-4"
+      ]
+    },
+    "brows": {
+      "file": "brows.png",
+      "tile": [
+        560,
+        85
+      ],
+      "columns": 8,
+      "box": [
+        210,
+        465,
+        770,
+        550
+      ],
+      "states": [
+        "neutral",
+        "raise-1",
+        "raise-2",
+        "raise-3",
+        "raise-4"
+      ]
+    },
+    "mouth": {
+      "file": "mouth.png",
+      "tile": [
+        270,
+        190
+      ],
+      "columns": 8,
+      "box": [
+        350,
+        735,
+        620,
+        925
+      ],
+      "states": [
+        "neutral",
+        "aaa-1",
+        "aaa-2",
+        "aaa-3",
+        "iii-1",
+        "iii-2",
+        "iii-3",
+        "uuu-1",
+        "uuu-2",
+        "uuu-3",
+        "eee-1",
+        "eee-2",
+        "eee-3",
+        "ooo-1",
+        "ooo-2",
+        "ooo-3",
+        "smile-1",
+        "smile-2",
+        "smile-3"
+      ]
+    }
+  }
+}
