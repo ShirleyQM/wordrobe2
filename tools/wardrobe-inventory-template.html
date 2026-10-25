@@ -4,6 +4,7 @@
 <script>
 const inventory=__INVENTORY_DATA__,rows=inventory.items,$=s=>document.querySelector(s),live=/^https?:$/.test(location.protocol),url=p=>p.split('/').map(encodeURIComponent).join('/');
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const basicHub=document.createElement('a');basicHub.className='link';basicHub.href='../wardrobe-basics/index.html';basicHub.textContent='基础款体系 ↗';$('#export').before(basicHub);$('#deleted').closest('label').style.display='none';
 $('#summary').textContent=`${inventory.summary.total} 个单品 · ${inventory.summary.garments} 件服装 · 独立原始线稿 ${inventory.summary.lineart['独立原始线稿']||0} 款 · 待核对线稿 ${inventory.summary.lineart['线稿文件（来源待核对）']||0} 款 · 仅材质线条层 ${inventory.summary.lineart['仅材质线条层']||0} 款 · 未找到线稿 ${inventory.summary.lineart['未找到线稿']||0} 款`;
 for(const cat of Object.keys(inventory.summary.categories).sort()){const o=document.createElement('option');o.value=cat;o.textContent=cat.replace(/^\d+-/,'')+' · '+inventory.summary.categories[cat];$('#category').append(o);}
 if(live)$('#wardrobe').href='/';else $('#notice').textContent+=' 当前为文件快照；请在主衣橱标记基础款，或通过本地服务打开此目录。';

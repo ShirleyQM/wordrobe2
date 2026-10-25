@@ -81,6 +81,24 @@
       "sequence": 1,
       "requestId": "46914383-9039-4422-b677-ee2aafe039df",
       "createdAt": "2026-10-24T15:01:01.873Z"
+    },
+    {
+      "id": "printed-87396232-969e-4b4a-8e07-799a3d556445",
+      "name": "花枝印花＋经典圆领 T 恤（顺袖款）＋001",
+      "baseId": "cotton-tee-regular-v3",
+      "patternId": "rose",
+      "sequence": 1,
+      "requestId": "14ecf5e9-24b7-423a-8ddb-c8568c6c38dc",
+      "createdAt": "2026-10-24T20:08:16.760Z"
+    },
+    {
+      "id": "printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7",
+      "name": "花枝印花＋经典圆领 T 恤（顺袖款）＋002",
+      "baseId": "cotton-tee-regular-v3",
+      "patternId": "rose",
+      "sequence": 2,
+      "requestId": "fd04bc29-42c3-4c77-b34f-c7279d8963bf",
+      "createdAt": "2026-10-24T20:14:19.777Z"
     }
   ]
 }

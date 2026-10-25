@@ -18,9 +18,9 @@
     "campus-02-gray-knit-shirt-tie": {
       "id": "campus-02-gray-knit-shirt-tie",
       "name": "白衬衫·含藏蓝领带",
-      "deleted": false,
-      "deletedAt": "2026-10-21T18:21:15.622Z",
-      "updatedAt": "2026-10-22T14:54:07.124Z"
+      "deleted": true,
+      "deletedAt": "2026-10-24T19:44:24.565Z",
+      "updatedAt": "2026-10-24T19:44:24.565Z"
     },
     "tee-cropped": {
       "id": "tee-cropped",
@@ -308,6 +308,48 @@
       "deleted": true,
       "deletedAt": "2026-10-23T19:51:06.523Z",
       "updatedAt": "2026-10-23T19:51:06.523Z"
+    },
+    "printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f": {
+      "id": "printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f",
+      "name": "花叶提花＋复古金扣丝绒连衣裙＋001",
+      "deleted": true,
+      "deletedAt": "2026-10-24T18:12:00.588Z",
+      "updatedAt": "2026-10-24T18:12:00.588Z"
+    },
+    "mermaid-deepv-halter": {
+      "id": "mermaid-deepv-halter",
+      "name": "深V挂脖上衣",
+      "deleted": true,
+      "deletedAt": "2026-10-24T19:40:48.012Z",
+      "updatedAt": "2026-10-24T19:40:48.012Z"
+    },
+    "romantic-float-mini": {
+      "id": "romantic-float-mini",
+      "name": "弧摆轻盈短裙",
+      "deleted": true,
+      "deletedAt": "2026-10-24T19:40:41.634Z",
+      "updatedAt": "2026-10-24T19:40:41.634Z"
+    },
+    "campus-03-cream-pinafore-polo": {
+      "id": "campus-03-cream-pinafore-polo",
+      "name": "奶油色针织 Polo 衫",
+      "deleted": true,
+      "deletedAt": "2026-10-24T19:43:32.814Z",
+      "updatedAt": "2026-10-24T19:43:32.815Z"
+    },
+    "printed-87396232-969e-4b4a-8e07-799a3d556445": {
+      "id": "printed-87396232-969e-4b4a-8e07-799a3d556445",
+      "name": "花枝印花＋经典圆领 T 恤（顺袖款）＋001",
+      "deleted": true,
+      "deletedAt": "2026-10-24T20:12:01.793Z",
+      "updatedAt": "2026-10-24T20:12:01.793Z"
+    },
+    "printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7": {
+      "id": "printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7",
+      "name": "花枝印花＋经典圆领 T 恤（顺袖款）＋002",
+      "deleted": true,
+      "deletedAt": "2026-10-25T07:28:01.033Z",
+      "updatedAt": "2026-10-25T07:28:01.033Z"
     }
   }
 }

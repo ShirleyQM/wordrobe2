@@ -48,3 +48,4 @@
 
 .hair-category-tabs{display:flex;flex-wrap:wrap;gap:6px;padding:10px 0}.hair-category-tabs button{font:inherit;padding:7px 12px;background:white;color:inherit;border:1px solid #cad9ed;border-radius:5px}.hair-category-tabs button[aria-pressed="true"]{color:white;background:#4479b2}.hair-category-tabs .hair-category-clear{margin-left:auto;font-size:11px;padding:6px 8px}#hair-categories [data-hair-category-section][hidden]{display:none!important}
 #language-toggle{border:1px solid #bdcfe5;border-radius:16px;background:#fff9;color:#416a9b;font:11px 'Microsoft YaHei',sans-serif;padding:7px 9px;cursor:pointer}
+.hair-recommended-colors small{display:block;font-size:9px;line-height:12px;opacity:.75}

@@ -64,6 +64,18 @@ def build():
     notes=read(ROOT/'assets/materials/published/garment-notes.json',{}).get('items',{})
     visibility=read(ROOT/'assets/materials/published/visibility.json',{}).get('items',{})
     deleted=read(ROOT/'assets/materials/published/deleted-garments.json',{}).get('items',{})
+    excluded_ids={id for id,state in deleted.items() if state.get('deleted') is True}
+    # Remove deleted items from every online snapshot and export, including old
+    # generated folders. Original wardrobe assets and user data remain in place.
+    archive=ROOT/'art-archive'/'deleted-catalog-copies'/datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S%f')
+    for marker in list(OUT.rglob('来源与线稿.json')):
+        if read(marker,{}).get('id') not in excluded_ids:continue
+        source=marker.parent.resolve();target=(archive/source.relative_to(OUT.resolve())).resolve()
+        assert source.is_relative_to(OUT.resolve()) and source!=OUT.resolve()
+        assert target.is_relative_to((ROOT/'art-archive').resolve())
+        target.parent.mkdir(parents=True,exist_ok=True);shutil.move(str(source),str(target))
+    items=[i for i in items if i['id'] not in excluded_ids]
+    wardrobe_ids-=excluded_ids;ids={i['id'] for i in items}
     # Same precedence as the main wardrobe: library, materials, then current fittings.
     effective={i['id']:dict(i) for i in items}
     for file in ['assets/materials/sources/imported/catalog.json','assets/materials/published/preppy.json','assets/materials/published/fittings.json']:
@@ -71,7 +83,7 @@ def build():
             if i['id'] in effective:effective[i['id']].update(i)
     candidates=collections.defaultdict(set);all_lines=set();assigned=set();metadata=[]
     for p in (ROOT/'assets').rglob('*.png'):
-        if OUT in p.parents or 'characters' in p.parts or any(k in p.parts for k in ['patterns','extracted-motifs-v1','script-lettering-v1']):continue
+        if OUT in p.parents or 'wardrobe-basics' in p.parts or 'characters' in p.parts or any(k in p.parts for k in ['patterns','extracted-motifs-v1','script-lettering-v1']):continue
         if not re.search(r'lineart|line-art|(?<![a-z])ink(?![a-z])',p.name,re.I):continue
         if re.search(r'tryon|proof|detail|fitting-reference|contact|preview|recolor',p.name,re.I):continue
         p=p.resolve();all_lines.add(p)
@@ -104,7 +116,7 @@ def build():
         elif isinstance(value,list):
             for v in value:records(v,base)
     for p in (ROOT/'assets').rglob('*.json'):
-        if OUT in p.parents or 'characters' in p.parts or 'published' in p.parts:continue
+        if OUT in p.parents or 'wardrobe-basics' in p.parts or 'characters' in p.parts or 'published' in p.parts:continue
         if p.stat().st_size>5_000_000:continue
         if p.name in ['catalog.json','collection.json','manifest.json','item.json','batch.json','generation.json','material.json'] or p.name.endswith('-items.json'):
             records(read(p,{}),p.parent)
@@ -158,6 +170,8 @@ def build():
     (OUT/'index.html').write_text(page,encoding='utf-8')
     (OUT/'打开衣服目录.html').write_text(page,encoding='utf-8')
     (OUT/'说明.txt').write_text('打开 index.html 可按类别、线稿情况、基础款及套装筛选。\n分类子文件夹保留当前彩图、前后片、线稿和来源记录；原素材没有移动。\n基础款复用衣橱备注中的同名标记。通过本地服务打开目录时可实时勾选；直接双击 HTML 时可浏览导出快照。\n基础款-diversity清单.json 是导出时的快照；目录页可导出当前实时标记。\n线稿可能是历史轮廓，未宣称已适配当前手调彩图；仅材质线条层不算原始独立线稿。\n重新整理：运行 tools/build_wardrobe_inventory.py。\n',encoding='utf-8-sig')
+    from build_basic_wardrobe import build_basics
+    build_basics(rows)
     print(json.dumps(summary,ensure_ascii=False))
     if missing:raise SystemExit(1)
 

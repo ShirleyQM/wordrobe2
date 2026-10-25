@@ -1,5 +1,4 @@
 ﻿稳定ID,名称,类别,线稿情况,线稿文件数,基础款,已展示,已删除,文件夹,当前前片来源
-campus-top,月白衬衫 · 雾蓝开衫,01-上装,未找到线稿,0,False,False,True,01-上装/campus-top__月白衬衫 · 雾蓝开衫,assets/materials/garments/campus-top/saved/146-a04f7f642233/front.png
 long-01,雾蓝垂感 A 字长裙,03-下装/长裙,独立原始线稿,1,False,False,False,03-下装/长裙/long-01__雾蓝垂感 A 字长裙,assets/materials/garments/long-01/saved/1100-00621335de29/front.png
 long-02,深蓝细百褶长裙,03-下装/长裙,独立原始线稿,1,False,False,False,03-下装/长裙/long-02__深蓝细百褶长裙,assets/materials/garments/long-02/saved/1085-909efb9a0243/front.png
 long-03,灰蓝裹式长裙,03-下装/长裙,独立原始线稿,1,False,True,False,03-下装/长裙/long-03__灰蓝裹式长裙,assets/materials/garments/long-03/saved/1087-31373537d618/front.png
@@ -8,38 +7,26 @@ long-05,月白层次长裙,03-下装/长裙,独立原始线稿,1,False,False,Fal
 short-01,学院深蓝百褶短裙,03-下装/短裙,独立原始线稿,1,False,True,False,03-下装/短裙/short-01__学院深蓝百褶短裙,assets/materials/published/fittings-short-01-1918-front.png
 short-02,浅蓝牛仔 A 字短裙,03-下装/短裙,独立原始线稿,1,False,False,False,03-下装/短裙/short-02__浅蓝牛仔 A 字短裙,assets/materials/garments/short-02/saved/1199-f9bd2364b7d6/front.png
 short-03,蓝灰斜裹短裙,03-下装/短裙,独立原始线稿,1,False,True,False,03-下装/短裙/short-03__蓝灰斜裹短裙,assets/materials/published/fittings-short-03-1918-front.png
-short-04,雾绿工装短裙,03-下装/短裙,独立原始线稿,1,False,False,True,03-下装/短裙/short-04__雾绿工装短裙,assets/materials/published/fittings-short-04-1863-front.png
 short-05,月白运动褶裙,03-下装/短裙,独立原始线稿,1,False,True,False,03-下装/短裙/short-05__月白运动褶裙,assets/materials/garments/short-05/saved/196-f242cbeb7463/front.png
-dress-01,静蓝小高领无袖收腰裙,04-连衣裙,独立原始线稿,1,False,False,True,04-连衣裙/dress-01__静蓝小高领无袖收腰裙,assets/materials/garments/dress-01/saved/73-bc402a60322a/front.png
-dress-02,雾蓝短袖衬衫裙,04-连衣裙,独立原始线稿,4,False,False,True,04-连衣裙/dress-02__雾蓝短袖衬衫裙,assets/materials/garments/dress-02/saved/1121-d056174bb7c3/front.png
-dress-03,月白小立领连衣裙,04-连衣裙,独立原始线稿,4,False,False,True,04-连衣裙/dress-03__月白小立领连衣裙,assets/materials/garments/dress-03/saved/944-4e282a18520d/front.png
 dress-04,蓝灰学院背带裙套装,04-连衣裙,独立原始线稿,1,False,False,False,04-连衣裙/dress-04__蓝灰学院背带裙套装,assets/materials/garments/dress-04/saved/226-22ae4131ae13/front.png
-dress-05,雾绿方领长连衣裙,04-连衣裙,独立原始线稿,1,False,False,True,04-连衣裙/dress-05__雾绿方领长连衣裙,assets/materials/garments/dress-05/saved/686-30f3ff747e45/front.png
-campus-socks,月白短袜,07-袜子,未找到线稿,0,False,False,True,07-袜子/campus-socks__月白短袜,assets/materials/garments/campus-socks/front.png
 campus-shoes,深蓝乐福鞋,08-鞋履,未找到线稿,0,False,True,False,08-鞋履/campus-shoes__深蓝乐福鞋,assets/materials/published/fittings-campus-shoes-1772-front.png
 campus-earrings,小银耳钉,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/campus-earrings__小银耳钉,assets/materials/garments/campus-earrings/front.png
 campus-necklace,银链蓝吊坠,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/campus-necklace__银链蓝吊坠,assets/materials/garments/campus-necklace/front.png
 campus-bag,蓝灰肩包,10-包袋,未找到线稿,0,False,False,False,10-包袋/campus-bag__蓝灰肩包,assets/materials/garments/campus-bag/front.png
-campus-bra,基础运动内衣,05-内衣,未找到线稿,0,False,False,True,05-内衣/campus-bra__基础运动内衣,assets/materials/garments/campus-bra/saved/1069-2a18c796915d/front.png
-campus-briefs,基础棉质内裤,06-内裤,未找到线稿,0,False,False,True,06-内裤/campus-briefs__基础棉质内裤,assets/materials/garments/campus-briefs/front.png
-navy-shirt,格纹衬衫,01-上装,独立原始线稿,4,False,True,False,01-上装/navy-shirt__格纹衬衫,assets/materials/published/preppy-navy-shirt-6-front.png
+navy-shirt,格纹衬衫,01-上装,独立原始线稿,4,True,True,False,01-上装/navy-shirt__格纹衬衫,assets/materials/published/preppy-navy-shirt-6-front.png
 suede-skirt,腰带麂皮短裙,03-下装/短裙,独立原始线稿,4,False,True,False,03-下装/短裙/suede-skirt__腰带麂皮短裙,assets/materials/published/preppy-suede-skirt-6-front.png
-ankle-boots,复古短靴,08-鞋履,独立原始线稿,4,False,False,True,08-鞋履/ankle-boots__复古短靴,assets/materials/published/preppy-ankle-boots-6-front.png
 coin-loafers,金币乐福鞋,08-鞋履,独立原始线稿,4,False,False,False,08-鞋履/coin-loafers__金币乐福鞋,assets/materials/published/preppy-coin-loafers-6-front.png
-tee-regular,标准圆领 T 恤,01-上装,独立原始线稿,1,False,False,True,01-上装/tee-regular__标准圆领 T 恤,assets/materials/garments/tee-regular/front.png
-tee-loose,宽松落肩 T 恤,01-上装,独立原始线稿,1,False,False,True,01-上装/tee-loose__宽松落肩 T 恤,assets/materials/garments/tee-loose/front.png
-tee-cropped,短款圆领 T 恤,01-上装,未找到线稿,0,False,False,True,01-上装/tee-cropped__短款圆领 T 恤,assets/materials/garments/tee-cropped/saved/73-3128be187660/front.png
-tops-bandeau-navy,藏蓝直筒抹胸,01-上装,未找到线稿,0,False,True,False,01-上装/tops-bandeau-navy__藏蓝直筒抹胸,assets/materials/garments/tops-bandeau-navy/saved/1193-c9960339eeea/front.png
+tops-bandeau-navy,藏蓝直筒抹胸,01-上装,未找到线稿,0,True,True,False,01-上装/tops-bandeau-navy__藏蓝直筒抹胸,assets/materials/garments/tops-bandeau-navy/saved/1193-c9960339eeea/front.png
 tops-bandeau-knit,雾蓝翻领针织抹胸,01-上装,未找到线稿,0,False,True,False,01-上装/tops-bandeau-knit__雾蓝翻领针织抹胸,assets/materials/garments/tops-bandeau-knit/saved/1191-08f04709a101/front.png
 tops-bandeau-ivory,奶白拼片抹胸,01-上装,独立原始线稿,4,False,True,False,01-上装/tops-bandeau-ivory__奶白拼片抹胸,assets/materials/published/fittings-tops-bandeau-ivory-1917-front.png
-tops-bandeau-denim,牛仔纽扣抹胸,01-上装,独立原始线稿,3,False,True,False,01-上装/tops-bandeau-denim__牛仔纽扣抹胸,assets/materials/garments/tops-bandeau-denim/saved/1189-e309e8e39b00/front.png
+tops-bandeau-denim,牛仔纽扣抹胸,01-上装,独立原始线稿,3,True,True,False,01-上装/tops-bandeau-denim__牛仔纽扣抹胸,assets/materials/garments/tops-bandeau-denim/saved/1189-e309e8e39b00/front.png
 tops-bandeau-drape,烟粉抽褶抹胸,01-上装,未找到线稿,0,False,True,False,01-上装/tops-bandeau-drape__烟粉抽褶抹胸,assets/materials/garments/tops-bandeau-drape/saved/1186-90d8c7a31288/front.png
-tops-bandeau-bow,蓝灰蝴蝶结抹胸,01-上装,未找到线稿,0,False,True,False,01-上装/tops-bandeau-bow__蓝灰蝴蝶结抹胸,assets/materials/garments/tops-bandeau-bow/saved/362-a6bb17168f13/front.png
-tops-hoodie-pullover,雾蓝套头连帽卫衣,01-上装,独立原始线稿,3,False,True,False,01-上装/tops-hoodie-pullover__雾蓝套头连帽卫衣,assets/materials/garments/tops-hoodie-pullover/regenerated/0e78d871-5708-45fa-bc22-63e6f5684667/front.png
+tops-bandeau-bow,蓝灰蝴蝶结抹胸,01-上装,未找到线稿,0,True,True,False,01-上装/tops-bandeau-bow__蓝灰蝴蝶结抹胸,assets/materials/garments/tops-bandeau-bow/saved/362-a6bb17168f13/front.png
+tops-hoodie-pullover,雾蓝套头连帽卫衣,01-上装,独立原始线稿,3,True,True,False,01-上装/tops-hoodie-pullover__雾蓝套头连帽卫衣,assets/materials/published/fittings-tops-hoodie-pullover-2270-front.png
 tops-hoodie-zip,藏蓝拉链连帽卫衣,02-外套,未找到线稿,0,False,True,False,02-外套/tops-hoodie-zip__藏蓝拉链连帽卫衣,assets/materials/garments/tops-hoodie-zip/saved/444-b0d9691f336f/front.png
-tops-sweatshirt-crop,奶油短款圆领卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/tops-sweatshirt-crop__奶油短款圆领卫衣,assets/materials/sources/manual-package-20261022/tops-sweatshirt-crop/front.png
-tops-sweatshirt-halfzip,蓝灰半拉链卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/tops-sweatshirt-halfzip__蓝灰半拉链卫衣,assets/materials/garments/tops-sweatshirt-halfzip/saved/359-ded23192f3c1/front.png
-tops-sweatshirt-raglan,炭灰撞色插肩卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/tops-sweatshirt-raglan__炭灰撞色插肩卫衣,assets/materials/garments/tops-sweatshirt-raglan/saved/694-43e315e19d45/front.png
+tops-sweatshirt-crop,奶油短款圆领卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/tops-sweatshirt-crop__奶油短款圆领卫衣,assets/materials/sources/manual-package-20261022/tops-sweatshirt-crop/front.png
+tops-sweatshirt-halfzip,蓝灰半拉链卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/tops-sweatshirt-halfzip__蓝灰半拉链卫衣,assets/materials/published/fittings-tops-sweatshirt-halfzip-2268-front.png
+tops-sweatshirt-raglan,炭灰撞色插肩卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/tops-sweatshirt-raglan__炭灰撞色插肩卫衣,assets/materials/garments/tops-sweatshirt-raglan/saved/694-43e315e19d45/front.png
 tops-hoodie-cropzip,雾蓝短款拉链卫衣,02-外套,未找到线稿,0,False,True,False,02-外套/tops-hoodie-cropzip__雾蓝短款拉链卫衣,assets/materials/garments/tops-hoodie-cropzip/saved/441-16ed1b1b657a/front.png
 capsule-pencil-navy,藏蓝开衩包臀裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/capsule-pencil-navy__藏蓝开衩包臀裙,assets/materials/garments/capsule-pencil-navy/saved/229-c56ba8479238/front.png
 capsule-pencil-wrap,灰蓝裹身包臀裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/capsule-pencil-wrap__灰蓝裹身包臀裙,assets/materials/garments/capsule-pencil-wrap/saved/229-d7976661bc60/front.png
@@ -49,24 +36,9 @@ capsule-mermaid-pearl,拼片弧摆鱼尾裙,03-下装/长裙,线稿文件（来�
 capsule-mermaid-violet,斜裥荷叶鱼尾裙,03-下装/长裙,线稿文件（来源待核对）,1,False,True,False,03-下装/长裙/capsule-mermaid-violet__斜裥荷叶鱼尾裙,assets/materials/garments/capsule-mermaid-violet/mermaid-modern-v2/front.png
 campus-01-blue-sailor-top,水手领上衣·含领结,01-上装,未找到线稿,0,False,True,False,01-上装/campus-01-blue-sailor-top__水手领上衣·含领结,assets/materials/garments/campus-01-blue-sailor-top/saved/314-2986fef949d1/front.png
 campus-01-blue-sailor-skirt,海军蓝百褶裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/campus-01-blue-sailor-skirt__海军蓝百褶裙,assets/materials/garments/campus-01-blue-sailor-skirt/saved/229-0e6d79dc7624/front.png
-campus-01-blue-sailor-socks,双杠中筒袜,07-袜子,未找到线稿,0,False,False,True,07-袜子/campus-01-blue-sailor-socks__双杠中筒袜,assets/materials/garments/campus-01-blue-sailor-socks/front.png
-campus-01-blue-sailor-shoes,海军蓝乐福鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/campus-01-blue-sailor-shoes__海军蓝乐福鞋,assets/materials/garments/campus-01-blue-sailor-shoes/front.png
-campus-02-gray-knit-shirt-tie,白衬衫·含藏蓝领带,01-上装,独立原始线稿,4,False,False,False,01-上装/campus-02-gray-knit-shirt-tie__白衬衫·含藏蓝领带,assets/materials/garments/campus-02-gray-knit-shirt-tie/saved/665-a48fee0ee8c0/front.png
-campus-02-gray-knit-cardigan,雾蓝麻花针织开衫,02-外套,未找到线稿,0,False,False,True,02-外套/campus-02-gray-knit-cardigan__雾蓝麻花针织开衫,assets/materials/garments/campus-02-gray-knit-cardigan/saved/429-8210309d9568/front.png
 campus-02-gray-knit-skirt,灰蓝格纹裙,03-下装/长裙,未找到线稿,0,False,False,False,03-下装/长裙/campus-02-gray-knit-skirt__灰蓝格纹裙,assets/materials/garments/campus-02-gray-knit-skirt/saved/795-8c9f56aa0c21/front.png
-campus-02-gray-knit-shoes,黑色玛丽珍鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/campus-02-gray-knit-shoes__黑色玛丽珍鞋,assets/materials/garments/campus-02-gray-knit-shoes/front.png
-campus-03-cream-pinafore-polo,奶油色针织 Polo 衫,01-上装,独立原始线稿,2,False,False,False,01-上装/campus-03-cream-pinafore-polo__奶油色针织 Polo 衫,assets/materials/garments/campus-03-cream-pinafore-polo/regenerated/2a2b3567-601b-4a47-ba83-f4372b684c59/front.png
-campus-03-cream-pinafore-pinafore,藏蓝背带连衣裙,04-连衣裙,未找到线稿,0,False,False,True,04-连衣裙/campus-03-cream-pinafore-pinafore__藏蓝背带连衣裙,assets/materials/garments/campus-03-cream-pinafore-pinafore/saved/229-a87cff7a3f0c/front.png
-campus-03-cream-pinafore-socks,奶白中筒袜,07-袜子,未找到线稿,0,False,False,True,07-袜子/campus-03-cream-pinafore-socks__奶白中筒袜,assets/materials/garments/campus-03-cream-pinafore-socks/front.png
-campus-03-cream-pinafore-shoes,焦糖棕乐福鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/campus-03-cream-pinafore-shoes__焦糖棕乐福鞋,assets/materials/garments/campus-03-cream-pinafore-shoes/front.png
 campus-04-navy-tailored-shirt-tie,白衬衫·含酒红领带,01-上装,未找到线稿,0,True,True,False,01-上装/campus-04-navy-tailored-shirt-tie__白衬衫·含酒红领带,assets/materials/garments/campus-04-navy-tailored-shirt-tie/saved/277-c517bd6a05e2/front.png
-campus-04-navy-tailored-blazer,藏蓝学院西装外套,02-外套,未找到线稿,0,False,False,True,02-外套/campus-04-navy-tailored-blazer__藏蓝学院西装外套,assets/materials/garments/campus-04-navy-tailored-blazer/saved/432-125e3aab17eb/front.png
 campus-04-navy-tailored-trousers,灰蓝直筒长裤,03-下装/长裤,仅材质线条层,1,False,True,False,03-下装/长裤/campus-04-navy-tailored-trousers__灰蓝直筒长裤,assets/materials/garments/campus-04-navy-tailored-trousers/saved/434-50192404e39c/front.png
-campus-04-navy-tailored-shoes,深棕德比鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/campus-04-navy-tailored-shoes__深棕德比鞋,assets/materials/garments/campus-04-navy-tailored-shoes/front.png
-underlayer-straight,低位平口内搭,05-内衣,未找到线稿,0,False,False,True,05-内衣/underlayer-straight__低位平口内搭,assets/materials/garments/underlayer-straight/front.png
-underlayer-plunge,低心位无肩带内搭,05-内衣,未找到线稿,0,False,False,True,05-内衣/underlayer-plunge__低心位无肩带内搭,assets/materials/garments/underlayer-plunge/front.png
-underlayer-seamless,窄边无肩带内搭,05-内衣,未找到线稿,0,False,False,True,05-内衣/underlayer-seamless__窄边无肩带内搭,assets/materials/garments/underlayer-seamless/front.png
-printed-e16d3849-4331-4f6f-b442-8f7820916bd8,花草 001印花＋标准圆领 T 恤＋001,01-上装,未找到线稿,0,False,False,True,01-上装/printed-e16d3849-4331-4f6f-b442-8f7820916bd8__花草 001印花＋标准圆领 T 恤＋001,assets/materials/garments/printed-e16d3849-4331-4f6f-b442-8f7820916bd8/saved/497-1da607d12ace/front.png
 dress-rose-offshoulder,露肩衬衫裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-rose-offshoulder__露肩衬衫裙,assets/materials/sources/manual-package-20261022/dress-rose-offshoulder/front.png
 dress-navy-tailored,扣带翻领裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-navy-tailored__扣带翻领裙,assets/materials/garments/dress-navy-tailored/saved/1120-9949124a1230/front.png
 dress-garnet-wrap,斜摆吊带裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-garnet-wrap__斜摆吊带裙,assets/materials/garments/dress-garnet-wrap/strap-front-v2/front.png
@@ -91,54 +63,44 @@ bottom-v1-ice-flare,浅蓝微喇牛仔裤,03-下装/长裤,未找到线稿,0,Fal
 bottom-v1-blue-palazzo,浅蓝荷叶阔腿裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/bottom-v1-blue-palazzo__浅蓝荷叶阔腿裤,assets/materials/published/fittings-bottom-v1-blue-palazzo-1595-front.png
 bottom-v1-ivory-flounce,米白层叠蕾丝裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/bottom-v1-ivory-flounce__米白层叠蕾丝裙,assets/materials/garments/bottom-v1-ivory-flounce/saved/720-73baa667f858/front.png
 bottom-v1-indigo-pleat,深蓝褶线阔腿裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/bottom-v1-indigo-pleat__深蓝褶线阔腿裤,assets/materials/published/fittings-bottom-v1-indigo-pleat-1656-front.png
-cotton-tee-regular-v1,经典圆领 T 恤,01-上装,线稿文件（来源待核对）,3,False,False,True,01-上装/cotton-tee-regular-v1__经典圆领 T 恤,assets/materials/garments/cotton-tee-regular-v1/front.png
-cotton-tee-asymmetric-v1,斜肩 T 恤,01-上装,线稿文件（来源待核对）,4,False,False,True,01-上装/cotton-tee-asymmetric-v1__斜肩 T 恤,assets/materials/garments/cotton-tee-asymmetric-v1/saved/807-9669324e6e6d/front.png
-cotton-tee-cropped-v1,短款 T 恤,01-上装,线稿文件（来源待核对）,4,False,False,True,01-上装/cotton-tee-cropped-v1__短款 T 恤,assets/materials/garments/cotton-tee-cropped-v1/saved/804-8d2b48e6e973/front.png
-cotton-tee-fitted-v1,合身 T 恤,01-上装,线稿文件（来源待核对）,4,False,False,True,01-上装/cotton-tee-fitted-v1__合身 T 恤,assets/materials/garments/cotton-tee-fitted-v1/saved/1033-e88da4830a84/front.png
-cotton-tee-offshoulder-v1,一字肩 T 恤,01-上装,线稿文件（来源待核对）,3,False,False,True,01-上装/cotton-tee-offshoulder-v1__一字肩 T 恤,assets/materials/garments/cotton-tee-offshoulder-v1/front.png
 top-v1-ivory-jabot,米白荷叶衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/top-v1-ivory-jabot__米白荷叶衬衫,assets/materials/garments/top-v1-ivory-jabot/saved/1032-e7f3d0b6f2b2/front.png
 top-v1-red-henley,酒红短款亨利衫,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-red-henley__酒红短款亨利衫,assets/materials/sources/manual-package-20261022/top-v1-red-henley/front.png
 top-v1-olive-scarf,橄榄绿飘带衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/top-v1-olive-scarf__橄榄绿飘带衬衫,assets/materials/sources/manual-package-20261022/top-v1-olive-scarf/front.png
 top-v1-yellow-polo,奶黄条纹Polo衫,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-yellow-polo__奶黄条纹Polo衫,assets/materials/sources/manual-package-20261022/top-v1-yellow-polo/front.png
-top-v1-white-bardot,白色露肩泡泡袖上衣,01-上装,未找到线稿,0,False,True,False,01-上装/top-v1-white-bardot__白色露肩泡泡袖上衣,assets/materials/garments/top-v1-white-bardot/saved/888-ca06fd56e5e8/front.png
-top-v1-blue-ruffle,浅蓝荷叶短袖衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/top-v1-blue-ruffle__浅蓝荷叶短袖衬衫,assets/materials/garments/top-v1-blue-ruffle/saved/939-08888b53cc95/front.png
+top-v1-white-bardot,白色露肩泡泡袖上衣,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-white-bardot__白色露肩泡泡袖上衣,assets/materials/garments/top-v1-white-bardot/saved/888-ca06fd56e5e8/front.png
+top-v1-blue-ruffle,浅蓝荷叶短袖衬衫,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-blue-ruffle__浅蓝荷叶短袖衬衫,assets/materials/published/fittings-top-v1-blue-ruffle-2287-front.png
 top-v1-peach-peplum,蜜桃色飞袖上衣,01-上装,未找到线稿,0,False,True,False,01-上装/top-v1-peach-peplum__蜜桃色飞袖上衣,assets/materials/garments/top-v1-peach-peplum/saved/866-5f5c16f4ab73/front.png
 top-v1-ivory-tank,米白撞色针织背心,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-ivory-tank__米白撞色针织背心,assets/materials/garments/top-v1-ivory-tank/saved/857-a1844a23b769/front.png
 top-v1-green-rib,墨绿条纹针织背心,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-green-rib__墨绿条纹针织背心,assets/materials/garments/top-v1-green-rib/saved/840-56892bd64ff5/front.png
-top-v1-gray-halter,灰色珠绣挂脖上衣,01-上装,未找到线稿,0,False,True,False,01-上装/top-v1-gray-halter__灰色珠绣挂脖上衣,assets/materials/garments/top-v1-gray-halter/saved/835-7dd3d9b6f833/front.png
+top-v1-gray-halter,灰色珠绣挂脖上衣,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-gray-halter__灰色珠绣挂脖上衣,assets/materials/garments/top-v1-gray-halter/saved/835-7dd3d9b6f833/front.png
 top-v1-butter-cutaway,奶黄削肩上衣,01-上装,未找到线稿,0,True,True,False,01-上装/top-v1-butter-cutaway__奶黄削肩上衣,assets/materials/garments/top-v1-butter-cutaway/saved/824-016ac7a8200a/front.png
-top-v1-lavender-wrap,雾紫裹身短袖上衣,01-上装,独立原始线稿,3,True,True,False,01-上装/top-v1-lavender-wrap__雾紫裹身短袖上衣,assets/materials/published/fittings-top-v1-lavender-wrap-1595-front.png
-cotton-tee-regular-v2,经典圆领 T 恤（袖型修正版）,01-上装,仅材质线条层,2,False,False,True,01-上装/cotton-tee-regular-v2__经典圆领 T 恤（袖型修正版）,assets/materials/garments/cotton-tee-regular-v2/saved/924-e2cecab48e75/front.png
-cotton-tee-asymmetric-v2,斜肩 T 恤（袖型修正版）,01-上装,仅材质线条层,1,False,False,True,01-上装/cotton-tee-asymmetric-v2__斜肩 T 恤（袖型修正版）,assets/materials/garments/cotton-tee-asymmetric-v2/front.png
-cotton-tee-cropped-v2,短款 T 恤（袖型修正版）,01-上装,仅材质线条层,1,False,False,True,01-上装/cotton-tee-cropped-v2__短款 T 恤（袖型修正版）,assets/materials/garments/cotton-tee-cropped-v2/front.png
+top-v1-lavender-wrap,雾紫裹身短袖上衣,01-上装,独立原始线稿,3,False,True,False,01-上装/top-v1-lavender-wrap__雾紫裹身短袖上衣,assets/materials/published/fittings-top-v1-lavender-wrap-1595-front.png
 cotton-tee-fitted-v2,合身 T 恤（袖型修正版）,01-上装,仅材质线条层,2,False,False,False,01-上装/cotton-tee-fitted-v2__合身 T 恤（袖型修正版）,assets/materials/garments/cotton-tee-fitted-v2/saved/1172-b5c86c3618bd/front.png
-cotton-tee-offshoulder-v2,一字肩 T 恤（袖型修正版）,01-上装,仅材质线条层,1,False,False,True,01-上装/cotton-tee-offshoulder-v2__一字肩 T 恤（袖型修正版）,assets/materials/garments/cotton-tee-offshoulder-v2/front.png
-cotton-tee-regular-v3,经典圆领 T 恤（顺袖款）,01-上装,仅材质线条层,3,False,True,False,01-上装/cotton-tee-regular-v3__经典圆领 T 恤（顺袖款）,assets/materials/sources/cotton-tee-hd-fitted-v4/regular/front.png
-cotton-tee-asymmetric-v3,斜肩 T 恤（顺袖款）,01-上装,仅材质线条层,3,False,True,False,01-上装/cotton-tee-asymmetric-v3__斜肩 T 恤（顺袖款）,assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-front.png
-cotton-tee-cropped-v3,短款 T 恤（顺袖款）,01-上装,仅材质线条层,3,False,True,False,01-上装/cotton-tee-cropped-v3__短款 T 恤（顺袖款）,assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/front.png
-cotton-tee-fitted-v3,合身 T 恤（顺袖款）,01-上装,仅材质线条层,2,False,True,False,01-上装/cotton-tee-fitted-v3__合身 T 恤（顺袖款）,assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/front.png
-cotton-tee-offshoulder-v3,一字肩 T 恤（顺袖款）,01-上装,仅材质线条层,2,False,True,False,01-上装/cotton-tee-offshoulder-v3__一字肩 T 恤（顺袖款）,assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/front.png
+cotton-tee-regular-v3,经典圆领 T 恤（顺袖款）,01-上装,仅材质线条层,4,False,True,False,01-上装/cotton-tee-regular-v3__经典圆领 T 恤（顺袖款）,assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/front.png
+cotton-tee-asymmetric-v3,斜肩 T 恤（顺袖款）,01-上装,仅材质线条层,4,False,True,False,01-上装/cotton-tee-asymmetric-v3__斜肩 T 恤（顺袖款）,assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/front.png
+cotton-tee-cropped-v3,短款 T 恤（顺袖款）,01-上装,仅材质线条层,4,False,True,False,01-上装/cotton-tee-cropped-v3__短款 T 恤（顺袖款）,assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/front.png
+cotton-tee-fitted-v3,合身 T 恤（顺袖款）,01-上装,仅材质线条层,3,False,True,False,01-上装/cotton-tee-fitted-v3__合身 T 恤（顺袖款）,assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/front.png
+cotton-tee-offshoulder-v3,一字肩 T 恤（顺袖款）,01-上装,仅材质线条层,3,False,True,False,01-上装/cotton-tee-offshoulder-v3__一字肩 T 恤（顺袖款）,assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/front.png
 separate-v1-olive-bandeau,卡其珠绣抹胸,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-olive-bandeau__卡其珠绣抹胸,assets/materials/garments/separate-v1-olive-bandeau/saved/999-3d97bdbf1586/front.png
 separate-v1-olive-mini,卡其珠绣短裙,03-下装/短裙,未找到线稿,0,False,True,False,03-下装/短裙/separate-v1-olive-mini__卡其珠绣短裙,assets/materials/garments/separate-v1-olive-mini/saved/1054-192ff7085625/front.png
-separate-v1-caramel-cardigan,焦糖提花开衫,02-外套,未找到线稿,0,False,False,True,02-外套/separate-v1-caramel-cardigan__焦糖提花开衫,assets/materials/garments/separate-v1-caramel-cardigan/front.png
 separate-v1-mustard-polo,姜黄条纹长袖Polo衫,01-上装,未找到线稿,0,True,True,False,01-上装/separate-v1-mustard-polo__姜黄条纹长袖Polo衫,assets/materials/garments/separate-v1-mustard-polo/saved/1227-2a7a1eed1c86/front.png
 separate-v1-ivory-polo,米白罗纹Polo衫,01-上装,未找到线稿,0,False,False,False,01-上装/separate-v1-ivory-polo__米白罗纹Polo衫,assets/materials/garments/separate-v1-ivory-polo/saved/1224-bf1bf57a4aa7/front.png
 separate-v1-ivory-pleated,米白百褶短裙,03-下装/短裙,未找到线稿,0,False,True,False,03-下装/短裙/separate-v1-ivory-pleated__米白百褶短裙,assets/materials/garments/separate-v1-ivory-pleated/saved/1051-1dd950fdf99c/front.png
 separate-v1-navy-collar,藏蓝圆领边Polo衫,01-上装,未找到线稿,0,False,False,False,01-上装/separate-v1-navy-collar__藏蓝圆领边Polo衫,assets/materials/garments/separate-v1-navy-collar/regenerated/8b1e6871-a247-462b-83c9-0c9cbeb2404c/front.png
 separate-v1-gingham-peplum,藏蓝格纹吊带上衣,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-gingham-peplum__藏蓝格纹吊带上衣,assets/materials/published/fittings-separate-v1-gingham-peplum-1595-front.png
 separate-v1-gingham-tiered,藏蓝格纹层叠裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/separate-v1-gingham-tiered__藏蓝格纹层叠裙,assets/materials/garments/separate-v1-gingham-tiered/saved/1046-aaf713f0733f/front.png
-separate-v1-ivory-triangle,米白黑边三角内衣,05-内衣,未找到线稿,0,False,False,False,05-内衣/separate-v1-ivory-triangle__米白黑边三角内衣,assets/materials/garments/separate-v1-ivory-triangle/front.png
+separate-v1-ivory-triangle,米白黑边三角内衣,05-内衣,未找到线稿,0,False,True,False,05-内衣/separate-v1-ivory-triangle__米白黑边三角内衣,assets/materials/published/fittings-separate-v1-ivory-triangle-2154-front.png
 separate-v1-olive-ruffle,橄榄绿荷叶衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/separate-v1-olive-ruffle__橄榄绿荷叶衬衫,assets/materials/garments/separate-v1-olive-ruffle/saved/975-6148c89e263c/front.png
 separate-v1-black-zip,黑色拉链短背心,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-black-zip__黑色拉链短背心,assets/materials/sources/manual-package-20261022/separate-v1-black-zip/front.png
 separate-v1-gray-knot,灰色系结吊带上衣,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-gray-knot__灰色系结吊带上衣,assets/materials/garments/separate-v1-gray-knot/strap-front-v2/front.png
 separate-v1-mono-mini,黑白格纹短裙,03-下装/短裙,未找到线稿,0,False,True,False,03-下装/短裙/separate-v1-mono-mini__黑白格纹短裙,assets/materials/garments/separate-v1-mono-mini/saved/1063-ba29706a963b/front.png
 separate-v1-black-check-polo,黑色格领Polo衫,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-black-check-polo__黑色格领Polo衫,assets/materials/garments/separate-v1-black-check-polo/regenerated/3299b548-0150-45ef-8d3a-1b933140af55/front.png
-separate-v1-ivory-briefs,米白黑边内裤,06-内裤,未找到线稿,0,False,False,False,06-内裤/separate-v1-ivory-briefs__米白黑边内裤,assets/materials/garments/separate-v1-ivory-briefs/front.png
+separate-v1-ivory-briefs,米白黑边内裤,06-内裤,未找到线稿,0,False,True,False,06-内裤/separate-v1-ivory-briefs__米白黑边内裤,assets/materials/published/fittings-separate-v1-ivory-briefs-2148-front.png
 separate-v1-olive-ruffle-original,橄榄绿荷叶衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/separate-v1-olive-ruffle-original__橄榄绿荷叶衬衫,assets/materials/garments/separate-v1-olive-ruffle-original/front.png
 printed-68f00422-7547-4603-9225-aa1cc56e3f7a,花草 012印花＋短款 T 恤＋001,01-上装,未找到线稿,0,False,False,False,01-上装/printed-68f00422-7547-4603-9225-aa1cc56e3f7a__花草 012印花＋短款 T 恤＋001,assets/materials/garments/printed-68f00422-7547-4603-9225-aa1cc56e3f7a/front.png
 separate-v1-caramel-cardigan-original,焦糖提花开衫,02-外套,未找到线稿,0,False,False,False,02-外套/separate-v1-caramel-cardigan-original__焦糖提花开衫,assets/materials/published/fittings-separate-v1-caramel-cardigan-original-1595-front.png
 separate-v1-mustard-polo-original,姜黄条纹长袖Polo衫,01-上装,未找到线稿,0,True,True,False,01-上装/separate-v1-mustard-polo-original__姜黄条纹长袖Polo衫,assets/materials/sources/manual-package-20261022/separate-v1-mustard-polo-original/front.png
-separate-v1-ivory-polo-original,米白罗纹Polo衫,01-上装,未找到线稿,0,False,True,False,01-上装/separate-v1-ivory-polo-original__米白罗纹Polo衫,assets/materials/sources/manual-package-20261022/separate-v1-ivory-polo-original/front.png
+separate-v1-ivory-polo-original,米白罗纹Polo衫,01-上装,未找到线稿,0,True,True,False,01-上装/separate-v1-ivory-polo-original__米白罗纹Polo衫,assets/materials/sources/manual-package-20261022/separate-v1-ivory-polo-original/front.png
 separate-v1-navy-collar-original,圆领边Polo衫,01-上装,未找到线稿,0,False,False,False,01-上装/separate-v1-navy-collar-original__圆领边Polo衫,assets/materials/garments/separate-v1-navy-collar-original/romantic-atelier-v1/front.png
 separate-v1-black-check-polo-original,黑色格领Polo衫,01-上装,未找到线稿,0,True,False,False,01-上装/separate-v1-black-check-polo-original__黑色格领Polo衫,assets/materials/garments/separate-v1-black-check-polo-original/regenerated/29d797fa-6266-43c8-bcb4-b3b09a948977/front.png
 printed-fac7eab6-15ed-4c36-8f28-6eb2fc38a3d8,改色＋直筒长裤＋001,03-下装/长裤,未找到线稿,0,False,False,False,03-下装/长裤/printed-fac7eab6-15ed-4c36-8f28-6eb2fc38a3d8__改色＋直筒长裤＋001,assets/materials/garments/printed-fac7eab6-15ed-4c36-8f28-6eb2fc38a3d8/front.png
@@ -148,17 +110,15 @@ street-v1-taupe-crop,暖灰短款背心,01-上装,未找到线稿,0,True,True,Fa
 street-v1-leather-pleat,巧克力百褶皮裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/street-v1-leather-pleat__巧克力百褶皮裙,assets/materials/published/fittings-street-v1-leather-pleat-1918-front.png
 street-v1-green-cap,墨绿棒球帽,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/street-v1-green-cap__墨绿棒球帽,assets/materials/published/fittings-street-v1-green-cap-2060-front.png
 street-v1-emerald-bag,翡翠绿手提包,10-包袋,未找到线稿,0,False,False,False,10-包袋/street-v1-emerald-bag__翡翠绿手提包,assets/materials/garments/street-v1-emerald-bag/front.png
-street-v1-green-socks,墨绿短袜,07-袜子,未找到线稿,0,False,False,True,07-袜子/street-v1-green-socks__墨绿短袜,assets/materials/garments/street-v1-green-socks/front.png
 street-v1-fuzzy-slides,翡翠绿绒毛凉拖,08-鞋履,未找到线稿,0,False,True,False,08-鞋履/street-v1-fuzzy-slides__翡翠绿绒毛凉拖,assets/materials/published/fittings-street-v1-fuzzy-slides-1758-front.png
 street-v1-cat-eye,黑色猫眼墨镜,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/street-v1-cat-eye__黑色猫眼墨镜,assets/materials/garments/street-v1-cat-eye/front.png
 street-v1-stone-trench,米色系带短风衣,02-外套,未找到线稿,0,False,True,False,02-外套/street-v1-stone-trench__米色系带短风衣,assets/materials/published/fittings-street-v1-stone-trench-1678-front.png
 street-v1-ivory-wide,奶油白阔腿裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/street-v1-ivory-wide__奶油白阔腿裤,assets/materials/published/fittings-street-v1-ivory-wide-1759-front.png
 street-v1-tan-baguette,浅棕法棍包,10-包袋,未找到线稿,0,False,False,False,10-包袋/street-v1-tan-baguette__浅棕法棍包,assets/materials/garments/street-v1-tan-baguette/front.png
-street-v1-taupe-pumps,浅褐尖头鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/street-v1-taupe-pumps__浅褐尖头鞋,assets/materials/garments/street-v1-taupe-pumps/front.png
 street-v1-cognac-dress,焦糖无袖衬衫裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/street-v1-cognac-dress__焦糖无袖衬衫裙,assets/materials/published/fittings-street-v1-cognac-dress-1595-front.png
 street-v1-cream-ruffle,奶油黑边针织裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/street-v1-cream-ruffle__奶油黑边针织裙,assets/materials/published/fittings-street-v1-cream-ruffle-1347-front.png
 street-v1-navy-jacket,藏蓝短袖短外套,02-外套,未找到线稿,0,False,False,False,02-外套/street-v1-navy-jacket__藏蓝短袖短外套,assets/materials/published/fittings-street-v1-navy-jacket-1665-front.png
-street-v1-gray-tee,暖灰短袖T恤,01-上装,未找到线稿,0,False,True,False,01-上装/street-v1-gray-tee__暖灰短袖T恤,assets/materials/published/fittings-street-v1-gray-tee-1803-front.png
+street-v1-gray-tee,暖灰短袖T恤,01-上装,未找到线稿,0,True,True,False,01-上装/street-v1-gray-tee__暖灰短袖T恤,assets/materials/published/fittings-street-v1-gray-tee-1803-front.png
 street-v1-navy-trousers,藏蓝直筒长裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/street-v1-navy-trousers__藏蓝直筒长裤,assets/materials/published/fittings-street-v1-navy-trousers-1759-front.png
 street-v1-navy-cap,藏蓝棒球帽,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/street-v1-navy-cap__藏蓝棒球帽,assets/materials/published/fittings-street-v1-navy-cap-2063-front.png
 street-v1-cognac-hobo,干邑棕手提包,10-包袋,未找到线稿,0,False,False,False,10-包袋/street-v1-cognac-hobo__干邑棕手提包,assets/materials/garments/street-v1-cognac-hobo/front.png
@@ -166,7 +126,6 @@ street-v1-brown-loafers,棕色厚底乐福鞋,08-鞋履,未找到线稿,0,False,
 street-v1-brown-satchel,栗棕翻盖手提包,10-包袋,未找到线稿,0,False,False,False,10-包袋/street-v1-brown-satchel__栗棕翻盖手提包,assets/materials/garments/street-v1-brown-satchel/front.png
 street-v1-gold-pendant,细金圆坠项链,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/street-v1-gold-pendant__细金圆坠项链,assets/materials/garments/street-v1-gold-pendant/front.png
 street-v1-silver-chains,双层银链项链,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/street-v1-silver-chains__双层银链项链,assets/materials/garments/street-v1-silver-chains/front.png
-street-v1-dark-pumps,深褐尖头鞋,08-鞋履,未找到线稿,0,False,False,True,08-鞋履/street-v1-dark-pumps__深褐尖头鞋,assets/materials/garments/street-v1-dark-pumps/front.png
 pants-jogger-cuffed-v1,脚踝束口运动裤,03-下装/长裤,仅材质线条层,1,False,True,False,03-下装/长裤/pants-jogger-cuffed-v1__脚踝束口运动裤,assets/materials/garments/pants-jogger-cuffed-v1/front.png
 pants-corduroy-straight-v1,灯芯绒直筒裤,03-下装/长裤,仅材质线条层,1,False,True,False,03-下装/长裤/pants-corduroy-straight-v1__灯芯绒直筒裤,assets/materials/garments/pants-corduroy-straight-v1/front.png
 pants-cargo-straight-v1,直筒工装裤,03-下装/长裤,仅材质线条层,1,False,True,False,03-下装/长裤/pants-cargo-straight-v1__直筒工装裤,assets/materials/garments/pants-cargo-straight-v1/front.png
@@ -188,39 +147,37 @@ af-v1-ballet-wine,酒红芭蕾平底鞋,08-鞋履,未找到线稿,0,False,True,F
 af-v1-point-black,黑色V口尖头鞋,08-鞋履,未找到线稿,0,False,True,False,08-鞋履/af-v1-point-black__黑色V口尖头鞋,assets/materials/published/fittings-af-v1-point-black-1595-front.png
 af-v1-point-champagne,香槟缎面尖头鞋,08-鞋履,未找到线稿,0,False,True,False,08-鞋履/af-v1-point-champagne__香槟缎面尖头鞋,assets/materials/published/fittings-af-v1-point-champagne-1773-front.png
 lowcut-bandeau-v1,低胸抹胸,05-内衣,线稿文件（来源待核对）,1,False,True,False,05-内衣/lowcut-bandeau-v1__低胸抹胸,assets/materials/garments/lowcut-bandeau-v1/front.png
-lowcut-bikini-top-v1,低胸比基尼上装,05-内衣,线稿文件（来源待核对）,1,False,True,False,05-内衣/lowcut-bikini-top-v1__低胸比基尼上装,assets/materials/published/fittings-lowcut-bikini-top-v1-1754-front.png
+lowcut-bikini-top-v1,低胸比基尼上装,05-内衣,线稿文件（来源待核对）,1,False,True,False,05-内衣/lowcut-bikini-top-v1__低胸比基尼上装,assets/materials/published/fittings-lowcut-bikini-top-v1-2330-front.png
 lowcut-bikini-bottom-v1,比基尼下装,06-内裤,线稿文件（来源待核对）,1,False,True,False,06-内裤/lowcut-bikini-bottom-v1__比基尼下装,assets/materials/garments/lowcut-bikini-bottom-v1/front.png
 matte-cotton-bra-v1,棉质基础内衣,05-内衣,线稿文件（来源待核对）,1,False,True,False,05-内衣/matte-cotton-bra-v1__棉质基础内衣,assets/materials/garments/matte-cotton-bra-v1/front.png
 matte-cotton-briefs-v1,棉质基础内裤,06-内裤,线稿文件（来源待核对）,1,False,True,False,06-内裤/matte-cotton-briefs-v1__棉质基础内裤,assets/materials/garments/matte-cotton-briefs-v1/front.png
 printed-ba3df962-8fc0-4911-aa79-d3cc16c80f8e,玫瑰 055印花＋经典圆领 T 恤（顺袖款）＋001,01-上装,未找到线稿,0,False,False,False,01-上装/printed-ba3df962-8fc0-4911-aa79-d3cc16c80f8e__玫瑰 055印花＋经典圆领 T 恤（顺袖款）＋001,assets/materials/garments/printed-ba3df962-8fc0-4911-aa79-d3cc16c80f8e/front.png
 cool-bottom-bubble-mini,抽绳蓬摆超短裙,03-下装/短裙,未找到线稿,0,False,True,False,03-下装/短裙/cool-bottom-bubble-mini__抽绳蓬摆超短裙,assets/materials/garments/cool-bottom-bubble-mini/front.png
 cool-bottom-sport-zip,双拉链运动短裙,03-下装/短裙,未找到线稿,0,False,True,False,03-下装/短裙/cool-bottom-sport-zip__双拉链运动短裙,assets/materials/garments/cool-bottom-sport-zip/front.png
-cool-sweat-halfzip,水洗半拉链休闲卫衣,01-上装,未找到线稿,0,False,False,False,01-上装/cool-sweat-halfzip__水洗半拉链休闲卫衣,assets/materials/garments/cool-sweat-halfzip/front.png
-cool-sweat-dropshoulder,宽领落肩水洗卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/cool-sweat-dropshoulder__宽领落肩水洗卫衣,assets/materials/published/fittings-cool-sweat-dropshoulder-1864-front.png
+cool-sweat-halfzip,水洗半拉链休闲卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/cool-sweat-halfzip__水洗半拉链休闲卫衣,assets/materials/garments/cool-sweat-halfzip/front.png
+cool-sweat-dropshoulder,宽领落肩水洗卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/cool-sweat-dropshoulder__宽领落肩水洗卫衣,assets/materials/published/fittings-cool-sweat-dropshoulder-1864-front.png
 cool-sweat-cutout,铆钉挖肩破洞卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/cool-sweat-cutout__铆钉挖肩破洞卫衣,assets/materials/garments/cool-sweat-cutout/front.png
-cool-sweat-cropzip,翻领拉链超短卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/cool-sweat-cropzip__翻领拉链超短卫衣,assets/materials/published/fittings-cool-sweat-cropzip-1824-front.png
-cool-sweat-asymmetric,斜摆拼接不规则卫衣,01-上装,未找到线稿,0,False,False,False,01-上装/cool-sweat-asymmetric__斜摆拼接不规则卫衣,assets/materials/garments/cool-sweat-asymmetric/front.png
+cool-sweat-cropzip,翻领拉链超短卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/cool-sweat-cropzip__翻领拉链超短卫衣,assets/materials/published/fittings-cool-sweat-cropzip-1824-front.png
+cool-sweat-asymmetric,斜摆拼接不规则卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/cool-sweat-asymmetric__斜摆拼接不规则卫衣,assets/materials/published/fittings-cool-sweat-asymmetric-2356-front.png
 mermaid-cowl-cami,堆领细吊带上衣,01-上装,线稿文件（来源待核对）,1,False,False,False,01-上装/mermaid-cowl-cami__堆领细吊带上衣,assets/materials/garments/mermaid-cowl-cami/strap-front-v2/front.png
 mermaid-fold-bandeau,折纸礼服抹胸,01-上装,线稿文件（来源待核对）,1,False,True,False,01-上装/mermaid-fold-bandeau__折纸礼服抹胸,assets/materials/published/fittings-mermaid-fold-bandeau-1595-front.png
-mermaid-deepv-halter,深V挂脖上衣,01-上装,线稿文件（来源待核对）,1,False,False,False,01-上装/mermaid-deepv-halter__深V挂脖上衣,assets/materials/garments/mermaid-deepv-halter/strap-front-v2/front.png
 dress-nautical,海风双排扣吊带裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-nautical__海风双排扣吊带裙,assets/materials/garments/dress-nautical/regenerated/9f82b933-0a20-4695-960f-f5eed1e139cd/front.png
-dress-garden,花园刺绣吊带裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-garden__花园刺绣吊带裙,assets/materials/garments/dress-garden/regenerated/57dc7609-24bb-4116-a8f4-482c54be8206/front.png
+dress-garden,花园刺绣吊带裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-garden__花园刺绣吊带裙,assets/materials/published/fittings-dress-garden-2234-front.png
 dress-noir-lace,夜幕蕾丝吊带长裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/dress-noir-lace__夜幕蕾丝吊带长裙,assets/materials/garments/dress-noir-lace/front.png
 dress-emerald,金叶裹褶吊带长裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/dress-emerald__金叶裹褶吊带长裙,assets/materials/garments/dress-emerald/front.png
 dress-blue-check,蓝格茶会泡泡袖裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-blue-check__蓝格茶会泡泡袖裙,assets/materials/published/fittings-dress-blue-check-1595-front.png
 dress-burgundy-velvet,复古金扣丝绒连衣裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/dress-burgundy-velvet__复古金扣丝绒连衣裙,assets/materials/garments/dress-burgundy-velvet/front.png
-printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f,花叶提花＋复古金扣丝绒连衣裙＋001,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f__花叶提花＋复古金扣丝绒连衣裙＋001,assets/materials/garments/printed-464e5f12-96cc-4b38-91e0-6e4a440e1f1f/front.png
 runway-blue-pinstripe-shirt,蓝白条纹长袖衬衫,01-上装,未找到线稿,0,False,True,False,01-上装/runway-blue-pinstripe-shirt__蓝白条纹长袖衬衫,assets/materials/published/fittings-runway-blue-pinstripe-shirt-1595-front.png
 runway-brown-stripe-tee,棕色彩条叠穿T恤,02-外套,未找到线稿,0,True,True,False,02-外套/runway-brown-stripe-tee__棕色彩条叠穿T恤,assets/materials/garments/runway-brown-stripe-tee/regenerated/7ceac95e-2d50-494f-9158-eb091360d713/front.png
-runway-white-ribbon-cap,白色黑系带盖袖衬衫,01-上装,未找到线稿,0,False,False,False,01-上装/runway-white-ribbon-cap__白色黑系带盖袖衬衫,assets/materials/garments/runway-white-ribbon-cap/regenerated/6ab86fd4-dc95-46e5-9a0b-2dcf29234dcc/front.png
+runway-white-ribbon-cap,白色黑系带盖袖衬衫,01-上装,未找到线稿,0,False,True,False,01-上装/runway-white-ribbon-cap__白色黑系带盖袖衬衫,assets/materials/published/fittings-runway-white-ribbon-cap-2348-front.png
 runway-white-crop-shirt,白色露腰长袖衬衫,01-上装,未找到线稿,0,True,True,False,01-上装/runway-white-crop-shirt__白色露腰长袖衬衫,assets/materials/published/fittings-runway-white-crop-shirt-1638-front.png
 runway-khaki-micro-pleat,卡其白边超短百褶裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/runway-khaki-micro-pleat__卡其白边超短百褶裙,assets/materials/garments/runway-khaki-micro-pleat/front.png
 runway-red-plaid-overshirt,红白格纹宽松开衫外套,02-外套,未找到线稿,0,True,True,False,02-外套/runway-red-plaid-overshirt__红白格纹宽松开衫外套,assets/materials/published/fittings-runway-red-plaid-overshirt-1595-front.png
 runway-black-rib-shell,黑色细罗纹高领内搭,01-上装,未找到线稿,0,True,True,False,01-上装/runway-black-rib-shell__黑色细罗纹高领内搭,assets/materials/published/fittings-runway-black-rib-shell-1606-front.png
 runway-indigo-button-slit,深靛蓝排扣开衩牛仔裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/runway-indigo-button-slit__深靛蓝排扣开衩牛仔裙,assets/materials/published/fittings-runway-indigo-button-slit-1595-front.png
-runway-oatmeal-halfzip,燕麦米色翻领半拉链卫衣,01-上装,未找到线稿,0,False,True,False,01-上装/runway-oatmeal-halfzip__燕麦米色翻领半拉链卫衣,assets/materials/published/fittings-runway-oatmeal-halfzip-1595-front.png
+runway-oatmeal-halfzip,燕麦米色翻领半拉链卫衣,01-上装,未找到线稿,0,True,True,False,01-上装/runway-oatmeal-halfzip__燕麦米色翻领半拉链卫衣,assets/materials/published/fittings-runway-oatmeal-halfzip-1595-front.png
 runway-washed-straight-jeans,浅蓝水洗直筒牛仔裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/runway-washed-straight-jeans__浅蓝水洗直筒牛仔裤,assets/materials/garments/runway-washed-straight-jeans/front.png
-runway-ivory-camp-blouse,奶油缎面大翻领短袖衬衫,01-上装,未找到线稿,0,False,True,False,01-上装/runway-ivory-camp-blouse__奶油缎面大翻领短袖衬衫,assets/materials/published/fittings-runway-ivory-camp-blouse-1612-front.png
+runway-ivory-camp-blouse,奶油缎面大翻领短袖衬衫,01-上装,未找到线稿,0,True,True,False,01-上装/runway-ivory-camp-blouse__奶油缎面大翻领短袖衬衫,assets/materials/published/fittings-runway-ivory-camp-blouse-1612-front.png
 runway-ivory-pleated-wide,奶油色细腰带垂褶阔腿裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/runway-ivory-pleated-wide__奶油色细腰带垂褶阔腿裤,assets/materials/garments/runway-ivory-pleated-wide/front.png
 runway-rose-ribbon-bubble,玫瑰黑缎带抹胸泡泡短裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/runway-rose-ribbon-bubble__玫瑰黑缎带抹胸泡泡短裙,assets/materials/published/fittings-runway-rose-ribbon-bubble-1595-front.png
 runway-ivory-fringe-jacket,奶油金扣黑流苏短上衣,01-上装,未找到线稿,0,True,True,False,01-上装/runway-ivory-fringe-jacket__奶油金扣黑流苏短上衣,assets/materials/published/fittings-runway-ivory-fringe-jacket-1626-front.png
@@ -230,11 +187,10 @@ romantic-ditsy-puff,碎花泡泡袖束腰上衣,01-上装,未找到线稿,0,Fals
 romantic-ditsy-skirt,微褶轻纱中裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/romantic-ditsy-skirt__微褶轻纱中裙,assets/materials/published/fittings-romantic-ditsy-skirt-1957-front.png
 romantic-bardot-drape,一字肩褶裥上衣,01-上装,未找到线稿,0,False,True,False,01-上装/romantic-bardot-drape__一字肩褶裥上衣,assets/materials/published/fittings-romantic-bardot-drape-1595-front.png
 romantic-wrap-skirt,斜叠轻纱中裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/romantic-wrap-skirt__斜叠轻纱中裙,assets/materials/published/fittings-romantic-wrap-skirt-1595-front.png
-romantic-cup-bustier,弧杯系带胸衣,01-上装,未找到线稿,0,False,True,False,01-上装/romantic-cup-bustier__弧杯系带胸衣,assets/materials/published/fittings-romantic-cup-bustier-1595-front.png
+romantic-cup-bustier,弧杯系带胸衣,01-上装,未找到线稿,0,True,True,False,01-上装/romantic-cup-bustier__弧杯系带胸衣,assets/materials/published/fittings-romantic-cup-bustier-1595-front.png
 romantic-bias-skirt,斜裁飘摆中裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/romantic-bias-skirt__斜裁飘摆中裙,assets/materials/published/fittings-romantic-bias-skirt-1595-front.png
 romantic-boned-corset,鱼骨束腰胸衣,01-上装,未找到线稿,0,False,True,False,01-上装/romantic-boned-corset__鱼骨束腰胸衣,assets/materials/published/fittings-romantic-boned-corset-1914-front.png
-romantic-float-mini,弧摆轻盈短裙,03-下装/短裙,未找到线稿,0,False,False,False,03-下装/短裙/romantic-float-mini__弧摆轻盈短裙,assets/materials/garments/romantic-float-mini/romantic-atelier-v1/front.png
-editorial-shell-v1,削肩背心,01-上装,未找到线稿,0,False,True,False,01-上装/editorial-shell-v1__削肩背心,assets/materials/published/fittings-editorial-shell-v1-1935-front.png
+editorial-shell-v1,削肩背心,01-上装,未找到线稿,0,True,True,False,01-上装/editorial-shell-v1__削肩背心,assets/materials/published/fittings-editorial-shell-v1-1935-front.png
 editorial-tiered-skirt-v1,波点层叠半裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/editorial-tiered-skirt-v1__波点层叠半裙,assets/materials/published/fittings-editorial-tiered-skirt-v1-1954-front.png
 editorial-wide-belt-v1,宽版弧扣皮带,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/editorial-wide-belt-v1__宽版弧扣皮带,assets/materials/published/fittings-editorial-wide-belt-v1-2049-front.png
 editorial-argyle-v1,菱格叠穿毛衣,01-上装,未找到线稿,0,False,True,False,01-上装/editorial-argyle-v1__菱格叠穿毛衣,assets/materials/published/fittings-editorial-argyle-v1-1884-front.png
@@ -261,7 +217,7 @@ socks-clean-crew-stripe,双横条边中筒袜,07-袜子,独立原始线稿,4,Fal
 socks-clean-knee,横条边及膝袜,07-袜子,独立原始线稿,4,False,False,False,07-袜子/socks-clean-knee__横条边及膝袜,assets/materials/garments/socks-clean-knee/front.png
 socks-clean-knee-sheer,细织半透明及膝袜,07-袜子,独立原始线稿,4,False,True,False,07-袜子/socks-clean-knee-sheer__细织半透明及膝袜,assets/materials/garments/socks-clean-knee-sheer/front.png
 socks-clean-thigh,平口贴腿大腿袜,07-袜子,独立原始线稿,4,False,False,False,07-袜子/socks-clean-thigh__平口贴腿大腿袜,assets/materials/garments/socks-clean-thigh/front.png
-socks-clean-thigh-sheer,横条边半透明大腿袜,07-袜子,独立原始线稿,4,False,True,False,07-袜子/socks-clean-thigh-sheer__横条边半透明大腿袜,assets/materials/garments/socks-clean-thigh-sheer/front.png
+socks-clean-thigh-sheer,横条边半透明大腿袜,07-袜子,独立原始线稿,4,False,True,False,07-袜子/socks-clean-thigh-sheer__横条边半透明大腿袜,assets/materials/published/fittings-socks-clean-thigh-sheer-2206-front.png
 autumn-leather-overshirt-v1,贴袋皮衬衫外套,02-外套,未找到线稿,0,False,True,False,02-外套/autumn-leather-overshirt-v1__贴袋皮衬衫外套,assets/materials/published/fittings-autumn-leather-overshirt-v1-1992-front.png
 autumn-layered-shirt-v1,衬衫叠搭背心,01-上装,未找到线稿,0,True,True,False,01-上装/autumn-layered-shirt-v1__衬衫叠搭背心,assets/materials/published/fittings-autumn-layered-shirt-v1-1972-front.png
 autumn-leather-wrap-skirt-v1,斜叠皮半裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/autumn-leather-wrap-skirt-v1__斜叠皮半裙,assets/materials/published/fittings-autumn-leather-wrap-skirt-v1-2003-front.png
@@ -270,7 +226,7 @@ autumn-suede-mini-v1,简裁麂皮半裙,03-下装/短裙,未找到线稿,0,False
 autumn-colorblock-knit-v1,拼色露肩毛衣,01-上装,未找到线稿,0,True,True,False,01-上装/autumn-colorblock-knit-v1__拼色露肩毛衣,assets/materials/garments/autumn-colorblock-knit-v1/front.png
 autumn-laceup-skirt-v1,系带蕾丝边半裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/autumn-laceup-skirt-v1__系带蕾丝边半裙,assets/materials/published/fittings-autumn-laceup-skirt-v1-2007-front.png
 autumn-pile-jacket-v1,大翻领绒毛短外套,02-外套,未找到线稿,0,False,True,False,02-外套/autumn-pile-jacket-v1__大翻领绒毛短外套,assets/materials/garments/autumn-pile-jacket-v1/front.png
-autumn-trimmed-jeans-v1,饰边微喇牛仔裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/autumn-trimmed-jeans-v1__饰边微喇牛仔裤,assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-front.png
+autumn-trimmed-jeans-v1,饰边微喇牛仔裤,03-下装/长裤,未找到线稿,0,False,True,False,03-下装/长裤/autumn-trimmed-jeans-v1__饰边微喇牛仔裤,assets/materials/published/fittings-autumn-trimmed-jeans-v1-2266-front.png
 autumn-crochet-beanie-v1,镂空针织帽,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/autumn-crochet-beanie-v1__镂空针织帽,assets/materials/published/fittings-autumn-crochet-beanie-v1-2038-front.png
 slides-pearl-quilt,珍珠扣绗缝皮拖鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/slides-pearl-quilt__珍珠扣绗缝皮拖鞋,assets/materials/published/fittings-slides-pearl-quilt-2052-front.png
 slides-gold-patent,金扣亮皮黑底拖鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/slides-gold-patent__金扣亮皮黑底拖鞋,assets/materials/published/fittings-slides-gold-patent-2055-front.png
@@ -357,17 +313,17 @@ shoe-v3-round-lace,圆头花蕾丝蝴蝶结鞋,08-鞋履,仅材质线条层,1,Fa
 shoe-v3-square-patent,方头亮皮薄厚底鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/shoe-v3-square-patent__方头亮皮薄厚底鞋,assets/materials/garments/shoe-v3-square-patent/outward-fit-20261024/front.png
 shoe-v3-lace-sport,蕾丝拼麂皮运动鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/shoe-v3-lace-sport__蕾丝拼麂皮运动鞋,assets/materials/garments/shoe-v3-lace-sport/outward-fit-20261024/front.png
 layered-utility-blouson-v1,灯笼袖工装短夹克,02-外套,未找到线稿,0,True,True,False,02-外套/layered-utility-blouson-v1__灯笼袖工装短夹克,assets/materials/garments/layered-utility-blouson-v1/front.png
-layered-blush-tunic-v1,蕾丝叠搭褶摆上衣,01-上装,未找到线稿,0,False,False,False,01-上装/layered-blush-tunic-v1__蕾丝叠搭褶摆上衣,assets/materials/garments/layered-blush-tunic-v1/front.png
+layered-blush-tunic-v1,蕾丝叠搭褶摆上衣,01-上装,未找到线稿,0,False,True,False,01-上装/layered-blush-tunic-v1__蕾丝叠搭褶摆上衣,assets/materials/garments/layered-blush-tunic-v1/front.png
 layered-hooded-knit-v1,连帽提花拉链开衫,02-外套,未找到线稿,0,True,True,False,02-外套/layered-hooded-knit-v1__连帽提花拉链开衫,assets/materials/published/fittings-layered-hooded-knit-v1-2090-front.png
-layered-suede-bomber-v1,立领麂皮短夹克,02-外套,未找到线稿,0,True,True,False,02-外套/layered-suede-bomber-v1__立领麂皮短夹克,assets/materials/published/fittings-layered-suede-bomber-v1-2104-front.png
+layered-suede-bomber-v1,立领麂皮短夹克,02-外套,未找到线稿,0,True,True,False,02-外套/layered-suede-bomber-v1__立领麂皮短夹克,assets/materials/published/fittings-layered-suede-bomber-v1-2107-front.png
 layered-lace-wrap-v1,长开衩蕾丝围裙,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/layered-lace-wrap-v1__长开衩蕾丝围裙,assets/materials/garments/layered-lace-wrap-v1/front.png
 layered-ruffle-wrap-v1,蕾丝波点腰间裙片,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/layered-ruffle-wrap-v1__蕾丝波点腰间裙片,assets/materials/garments/layered-ruffle-wrap-v1/front.png
 layered-zip-jacket-v1,立领拉链短外套,02-外套,未找到线稿,0,True,False,False,02-外套/layered-zip-jacket-v1__立领拉链短外套,assets/materials/garments/layered-zip-jacket-v1/front.png
-layered-lace-tunic-v1,蕾丝边叠穿长上衣,01-上装,未找到线稿,0,False,False,False,01-上装/layered-lace-tunic-v1__蕾丝边叠穿长上衣,assets/materials/garments/layered-lace-tunic-v1/front.png
+layered-lace-tunic-v1,蕾丝边叠穿长上衣,01-上装,未找到线稿,0,False,True,False,01-上装/layered-lace-tunic-v1__蕾丝边叠穿长上衣,assets/materials/garments/layered-lace-tunic-v1/front.png
 layered-denim-jacket-v1,多袋短款牛仔夹克,02-外套,未找到线稿,0,True,True,False,02-外套/layered-denim-jacket-v1__多袋短款牛仔夹克,assets/materials/published/fittings-layered-denim-jacket-v1-2106-front.png
-layered-raglan-rib-v1,撞色袖罗纹上衣,01-上装,未找到线稿,0,False,True,False,01-上装/layered-raglan-rib-v1__撞色袖罗纹上衣,assets/materials/garments/layered-raglan-rib-v1/front.png
-layered-rainbow-knit-v1,彩条短款针织衫,01-上装,未找到线稿,0,False,False,False,01-上装/layered-rainbow-knit-v1__彩条短款针织衫,assets/materials/garments/layered-rainbow-knit-v1/front.png
-layered-ruched-top-v1,小高领抽褶长袖衫,01-上装,未找到线稿,0,False,False,False,01-上装/layered-ruched-top-v1__小高领抽褶长袖衫,assets/materials/published/fittings-layered-ruched-top-v1-2086-front.png
+layered-raglan-rib-v1,撞色袖罗纹上衣,01-上装,未找到线稿,0,False,False,False,01-上装/layered-raglan-rib-v1__撞色袖罗纹上衣,assets/materials/published/fittings-layered-raglan-rib-v1-2117-front.png
+layered-rainbow-knit-v1,彩条短款针织衫,01-上装,未找到线稿,0,True,True,False,01-上装/layered-rainbow-knit-v1__彩条短款针织衫,assets/materials/garments/layered-rainbow-knit-v1/front.png
+layered-ruched-top-v1,小高领抽褶长袖衫,01-上装,未找到线稿,0,True,True,False,01-上装/layered-ruched-top-v1__小高领抽褶长袖衫,assets/materials/published/fittings-layered-ruched-top-v1-2086-front.png
 layered-utility-wrap-v1,工装百褶腰间裙片,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/layered-utility-wrap-v1__工装百褶腰间裙片,assets/materials/garments/layered-utility-wrap-v1/front.png
 layered-tied-cardigan-v1,系腰提花毛衣,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/layered-tied-cardigan-v1__系腰提花毛衣,assets/materials/garments/layered-tied-cardigan-v1/front.png
 jewel-modern-flow-01,流线耳饰01·金色,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/jewel-modern-flow-01__流线耳饰01·金色,assets/materials/garments/jewel-modern-flow-01/front.png
@@ -410,6 +366,62 @@ jewel-modern-geometric-05,几何不规则耳饰05·金色,09-首饰与发饰,未
 jewel-modern-geometric-06,几何不规则耳饰06·银色,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/jewel-modern-geometric-06__几何不规则耳饰06·银色,assets/materials/garments/jewel-modern-geometric-06/front.png
 jewel-modern-geometric-07,几何不规则耳饰07·金色,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/jewel-modern-geometric-07__几何不规则耳饰07·金色,assets/materials/garments/jewel-modern-geometric-07/front.png
 jewel-modern-geometric-08,几何不规则耳饰08·银色,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/jewel-modern-geometric-08__几何不规则耳饰08·银色,assets/materials/garments/jewel-modern-geometric-08/front.png
+sneaker-mcq-clean,麦昆风厚底净面运动鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-mcq-clean__麦昆风厚底净面运动鞋,assets/materials/published/fittings-sneaker-mcq-clean-2204-front.png
+sneaker-mcq-suede,麦昆风麂皮拼接厚底鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-mcq-suede__麦昆风麂皮拼接厚底鞋,assets/materials/garments/sneaker-mcq-suede/front.png
+sneaker-y3-cross,Y-3风交叉织带机能鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-y3-cross__Y-3风交叉织带机能鞋,assets/materials/published/fittings-sneaker-y3-cross-2201-front.png
+sneaker-y3-cage,Y-3风绳带镂架跑鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-y3-cage__Y-3风绳带镂架跑鞋,assets/materials/published/fittings-sneaker-y3-cage-2196-front.png
+sneaker-quilt-leather,菱格绗缝皮质板鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-quilt-leather__菱格绗缝皮质板鞋,assets/materials/published/fittings-sneaker-quilt-leather-2190-front.png
+sneaker-quilt-nylon,菱格尼龙拼麂皮跑鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-quilt-nylon__菱格尼龙拼麂皮跑鞋,assets/materials/published/fittings-sneaker-quilt-nylon-2187-front.png
+sneaker-miunb-suede,Miu×NB风麂皮网布复古鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-miunb-suede__Miu×NB风麂皮网布复古鞋,assets/materials/garments/sneaker-miunb-suede/front.png
+sneaker-miunb-ribbon,Miu×NB风缎带薄底复古鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-miunb-ribbon__Miu×NB风缎带薄底复古鞋,assets/materials/published/fittings-sneaker-miunb-ribbon-2184-front.png
+sneaker-shell-classic,阿迪风经典皮质贝壳头,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-shell-classic__阿迪风经典皮质贝壳头,assets/materials/published/fittings-sneaker-shell-classic-2181-front.png
+sneaker-shell-suede,阿迪风麂皮生胶贝壳头,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-shell-suede__阿迪风麂皮生胶贝壳头,assets/materials/garments/sneaker-shell-suede/front.png
+sneaker-nike-waffle,耐克风麂皮尼龙华夫跑鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-nike-waffle__耐克风麂皮尼龙华夫跑鞋,assets/materials/published/fittings-sneaker-nike-waffle-2179-front.png
+sneaker-nike-mesh,耐克风网布缓震跑鞋,08-鞋履,仅材质线条层,1,False,True,False,08-鞋履/sneaker-nike-mesh__耐克风网布缓震跑鞋,assets/materials/published/fittings-sneaker-nike-mesh-2176-front.png
+bookshop-basic-shirt-v1,基础翻领衬衫,01-上装,仅材质线条层,1,True,True,False,01-上装/bookshop-basic-shirt-v1__基础翻领衬衫,assets/materials/published/fittings-bookshop-basic-shirt-v1-2115-front.png
+bookshop-cocoon-coat-v1,茧型格纹外套,02-外套,未找到线稿,0,False,True,False,02-外套/bookshop-cocoon-coat-v1__茧型格纹外套,assets/materials/garments/bookshop-cocoon-coat-v1/front.png
+bookshop-plaid-beret-v1,格纹贝雷帽,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/bookshop-plaid-beret-v1__格纹贝雷帽,assets/materials/published/fittings-bookshop-plaid-beret-v1-2123-front.png
+kg-scoop-knit-v1,侧扣圆领针织衫,01-上装,未找到线稿,0,True,True,False,01-上装/kg-scoop-knit-v1__侧扣圆领针织衫,assets/materials/published/fittings-kg-scoop-knit-v1-2245-front.png
+kg-gingham-waist-tie-v1,格纹系腰衬衣,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/kg-gingham-waist-tie-v1__格纹系腰衬衣,assets/materials/garments/kg-gingham-waist-tie-v1/front.png
+kg-ribbon-knit-v1,缎带绒感毛衣,01-上装,未找到线稿,0,False,True,False,01-上装/kg-ribbon-knit-v1__缎带绒感毛衣,assets/materials/garments/kg-ribbon-knit-v1/front.png
+kg-denim-bustier-v1,弧领牛仔束身上衣,01-上装,未找到线稿,0,False,True,False,01-上装/kg-denim-bustier-v1__弧领牛仔束身上衣,assets/materials/published/fittings-kg-denim-bustier-v1-2137-front.png
+kg-embroidered-tulle-v1,绣花薄纱长裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/kg-embroidered-tulle-v1__绣花薄纱长裙,assets/materials/published/fittings-kg-embroidered-tulle-v1-2161-front.png
+kg-western-hat-v1,编绳宽檐牛仔帽,09-首饰与发饰,未找到线稿,0,False,True,False,09-首饰与发饰/kg-western-hat-v1__编绳宽檐牛仔帽,assets/materials/published/fittings-kg-western-hat-v1-2173-front.png
+kg-lace-bolero-v1,花网短开衫,02-外套,未找到线稿,0,False,True,False,02-外套/kg-lace-bolero-v1__花网短开衫,assets/materials/garments/kg-lace-bolero-v1/front.png
+kg-draped-gown-v1,斜叠荷叶长裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/kg-draped-gown-v1__斜叠荷叶长裙,assets/materials/published/fittings-kg-draped-gown-v1-2208-front.png
+kg-handkerchief-tunic-v1,方巾叠角吊带上衣,01-上装,未找到线稿,0,False,True,False,01-上装/kg-handkerchief-tunic-v1__方巾叠角吊带上衣,assets/materials/published/fittings-kg-handkerchief-tunic-v1-2131-front.png
+kg-balloon-dress-v1,灯笼袖轻纱短裙,04-连衣裙,未找到线稿,0,False,True,False,04-连衣裙/kg-balloon-dress-v1__灯笼袖轻纱短裙,assets/materials/published/fittings-kg-balloon-dress-v1-2214-front.png
+kg-fur-knit-jacket-v1,绒面拼罗纹外套,02-外套,未找到线稿,0,False,True,False,02-外套/kg-fur-knit-jacket-v1__绒面拼罗纹外套,assets/materials/garments/kg-fur-knit-jacket-v1/front.png
+kg-suede-box-skirt-v1,箱褶麂皮中裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/kg-suede-box-skirt-v1__箱褶麂皮中裙,assets/materials/published/fittings-kg-suede-box-skirt-v1-2158-front.png
+kg-pointelle-cardigan-v1,贝壳边镂空开衫,02-外套,未找到线稿,0,False,True,False,02-外套/kg-pointelle-cardigan-v1__贝壳边镂空开衫,assets/materials/garments/kg-pointelle-cardigan-v1/front.png
+kg-floral-flounce-skirt-v1,花影斜边纱裙,03-下装/长裙,未找到线稿,0,False,True,False,03-下装/长裙/kg-floral-flounce-skirt-v1__花影斜边纱裙,assets/materials/published/fittings-kg-floral-flounce-skirt-v1-2165-front.png
+kg-fairisle-knit-v1,雪花提花毛衣,01-上装,未找到线稿,0,False,True,False,01-上装/kg-fairisle-knit-v1__雪花提花毛衣,assets/materials/garments/kg-fairisle-knit-v1/front.png
+kg-mockneck-knit-v1,翻领短袖针织衫,01-上装,未找到线稿,0,False,True,False,01-上装/kg-mockneck-knit-v1__翻领短袖针织衫,assets/materials/garments/kg-mockneck-knit-v1/front.png
+kg-knit-armwarmers-v1,排扣针织袖套,09-首饰与发饰,未找到线稿,0,False,False,False,09-首饰与发饰/kg-knit-armwarmers-v1__排扣针织袖套,assets/materials/garments/kg-knit-armwarmers-v1/front.png
+kg-denim-shorts-v1,毛边牛仔短裤,03-下装/短裤,未找到线稿,0,False,True,False,03-下装/短裤/kg-denim-shorts-v1__毛边牛仔短裤,assets/materials/garments/kg-denim-shorts-v1/front.png
+kg-gauze-tie-blouse-v1,飘带褶纱衬衫,01-上装,未找到线稿,0,True,True,False,01-上装/kg-gauze-tie-blouse-v1__飘带褶纱衬衫,assets/materials/garments/kg-gauze-tie-blouse-v1/front.png
+printed-7acee4eb-b5b8-4b85-98e7-f6b85cade2e5,bloom印花＋合身 T 恤（袖型修正版）＋001,01-上装,未找到线稿,0,False,False,False,01-上装/printed-7acee4eb-b5b8-4b85-98e7-f6b85cade2e5__bloom印花＋合身 T 恤（袖型修正版）＋001,assets/materials/garments/printed-7acee4eb-b5b8-4b85-98e7-f6b85cade2e5/front.png
+printed-4ec992fe-3283-4cb0-b5eb-26023c116c96,改色＋合身 T 恤（袖型修正版）＋001,01-上装,未找到线稿,0,False,False,False,01-上装/printed-4ec992fe-3283-4cb0-b5eb-26023c116c96__改色＋合身 T 恤（袖型修正版）＋001,assets/materials/garments/printed-4ec992fe-3283-4cb0-b5eb-26023c116c96/front.png
+everyday-sport-bra,运动宽肩带内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-sport-bra__运动宽肩带内衣,assets/materials/published/fittings-everyday-sport-bra-2327-front.png
+everyday-sport-briefs,运动宽肩带内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-sport-briefs__运动宽肩带内裤,assets/materials/garments/everyday-sport-briefs/front.png
+everyday-rib-bra,罗纹棉布内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-rib-bra__罗纹棉布内衣,assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/current-front.png
+everyday-rib-briefs,罗纹棉布内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-rib-briefs__罗纹棉布内裤,assets/materials/garments/everyday-rib-briefs/front.png
+everyday-cotton-bra,平纹棉布内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-cotton-bra__平纹棉布内衣,assets/materials/published/fittings-everyday-cotton-bra-2305-front.png
+everyday-cotton-briefs,平纹棉布内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-cotton-briefs__平纹棉布内裤,assets/materials/garments/everyday-cotton-briefs/front.png
+everyday-lace-bra,花叶蕾丝内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-lace-bra__花叶蕾丝内衣,assets/materials/published/fittings-everyday-lace-bra-2307-front.png
+everyday-lace-briefs,花叶蕾丝内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-lace-briefs__花叶蕾丝内裤,assets/materials/garments/everyday-lace-briefs/front.png
+everyday-seamless-bra,无痕薄杯内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-seamless-bra__无痕薄杯内衣,assets/materials/published/fittings-everyday-seamless-bra-2250-front.png
+everyday-seamless-briefs,无痕薄杯内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-seamless-briefs__无痕薄杯内裤,assets/materials/garments/everyday-seamless-briefs/front.png
+everyday-bandeau-bra,无肩带内衣,05-内衣,仅材质线条层,1,False,True,False,05-内衣/everyday-bandeau-bra__无肩带内衣,assets/materials/published/fittings-everyday-bandeau-bra-2336-front.png
+everyday-bandeau-briefs,无肩带内裤,06-内裤,仅材质线条层,1,False,True,False,06-内裤/everyday-bandeau-briefs__无肩带内裤,assets/materials/garments/everyday-bandeau-briefs/front.png
+botanical-watercolor-gown-v1,花溪披风大摆礼裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/botanical-watercolor-gown-v1__花溪披风大摆礼裙,assets/materials/garments/botanical-watercolor-gown-v1/front.png
+botanical-wine-lace-dress-v1,绛莓花网挂脖裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/botanical-wine-lace-dress-v1__绛莓花网挂脖裙,assets/materials/garments/botanical-wine-lace-dress-v1/front.png
+botanical-petal-mini-v1,蜜桃花瓣露肩裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/botanical-petal-mini-v1__蜜桃花瓣露肩裙,assets/materials/garments/botanical-petal-mini-v1/front.png
+botanical-leaf-gown-v1,花叶露肩拖尾礼裙,04-连衣裙,未找到线稿,0,False,False,False,04-连衣裙/botanical-leaf-gown-v1__花叶露肩拖尾礼裙,assets/materials/garments/botanical-leaf-gown-v1/front.png
+fresh-gingham-roundcup-v1,晴蓝格纹圆杯,05-内衣,未找到线稿,0,False,False,False,05-内衣/fresh-gingham-roundcup-v1__晴蓝格纹圆杯,assets/materials/garments/fresh-gingham-roundcup-v1/front.png
+fresh-square-cami-v1,奶油格纹方领背心,05-内衣,未找到线稿,0,False,False,False,05-内衣/fresh-square-cami-v1__奶油格纹方领背心,assets/materials/garments/fresh-square-cami-v1/front.png
+fresh-botanical-bustier-v1,叶语刺绣小束身,05-内衣,未找到线稿,0,False,False,False,05-内衣/fresh-botanical-bustier-v1__叶语刺绣小束身,assets/materials/garments/fresh-botanical-bustier-v1/front.png
+fresh-ribbon-ruffle-v1,桃雾丝带荷叶杯,05-内衣,未找到线稿,0,False,False,False,05-内衣/fresh-ribbon-ruffle-v1__桃雾丝带荷叶杯,assets/materials/garments/fresh-ribbon-ruffle-v1/front.png
 heart-drop-earrings,心形垂坠耳饰,12-未接入饰品,独立原始线稿,2,False,False,False,12-未接入饰品/heart-drop-earrings__心形垂坠耳饰,assets/atelier-accessories-v1/items/heart-drop-earrings/color.png
 pearl-bow-necklace,珍珠蝴蝶结项链,12-未接入饰品,独立原始线稿,2,False,False,False,12-未接入饰品/pearl-bow-necklace__珍珠蝴蝶结项链,assets/atelier-accessories-v1/items/pearl-bow-necklace/color.png
 double-heart-hairclip,双心发夹,12-未接入饰品,独立原始线稿,2,False,False,False,12-未接入饰品/double-heart-hairclip__双心发夹,assets/atelier-accessories-v1/items/double-heart-hairclip/color.png

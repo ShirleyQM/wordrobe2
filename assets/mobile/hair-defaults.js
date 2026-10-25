@@ -2,7 +2,7 @@
 (function(root){
  function merge(player,editor){
   const next={...player,positionDefaults:{front:{...(player.positionDefaults?.front||{}),...(editor.positionDefaults?.front||{})},back:{...(player.positionDefaults?.back||{}),...(editor.positionDefaults?.back||{})}},piecePlacement:{...(player.piecePlacement||{}),...(editor.piecePlacement||{})}};
-  if(Array.isArray(editor.palette))next.palette=editor.palette.filter(v=>Array.isArray(v)&&/^#[0-9a-f]{6}$/i.test(v[0])&&typeof v[1]==='string').map(v=>[v[0].toLowerCase(),v[1].slice(0,24)]);
+  if(Array.isArray(editor.palette))next.palette=editor.palette.filter(v=>Array.isArray(v)&&/^#[0-9a-f]{6}$/i.test(v[0])&&typeof v[1]==='string').map(v=>[v[0].toLowerCase(),v[1].slice(0,24),...(v[2]?.kind==='highlight'?[JSON.parse(JSON.stringify(v[2]))]:[])]);
   // Older editor versions persist free width/height transforms on the active fit.
   for(const side of ['front','back'])if(editor[side]&&editor[side]!=='none'&&editor[side+'Fit']&&(!editor.positionDefaults?.[side]?.[editor[side]]||['x','y'].every(k=>(editor.positionDefaults[side][editor[side]][k]||0)===0)&&editor.positionDefaults[side][editor[side]].scale===1.2&&(editor.positionDefaults[side][editor[side]].sx||1)===1&&(editor.positionDefaults[side][editor[side]].sy||1)===1))next.positionDefaults[side][editor[side]]={...(next.positionDefaults[side][editor[side]]||{}),...editor[side+'Fit']};
   for(const side of ['front','back'])if(next.positionDefaults[side][next[side]])next[side+'Fit']={...next.positionDefaults[side][next[side]]};

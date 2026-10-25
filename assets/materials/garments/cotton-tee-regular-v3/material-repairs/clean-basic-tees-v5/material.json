@@ -1,0 +1,48 @@
+{
+  "id": "cotton-tee-regular-v3",
+  "version": 5,
+  "defaultColor": "#ffffff",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "presets": "/assets/materials/sources/cotton-tee-batch-v3/material-presets.json",
+  "runtimeCanvas": [
+    939,
+    1676
+  ],
+  "hdCanvas": [
+    1878,
+    3352
+  ],
+  "backTechnicalPlaceholder": true,
+  "backLayers": false,
+  "sourceSeparation": "New built-in image_gen paint, uniform registration only. Tonal multiply/screen maps are not lineart. Original genuine pre-color construction drawing archived in original-precolor-lineart.png. Runtime lineart overlay is transparent because painted seam detail is retained in the tone maps.",
+  "layers": [
+    {
+      "path": "base-mask.png"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over"
+    }
+  ],
+  "registration": {
+    "scale": 0.34189548272807796,
+    "translate": [
+      273,
+      276
+    ]
+  },
+  "innerPieces": false
+}

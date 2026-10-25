@@ -1,0 +1,34 @@
+'use strict';
+(async()=>{
+ const root='/assets/materials/characters/face-live-workflow-v1/',manifest=await (await fetch(root+'manifest.json')).json(),canvas=document.querySelector('#face'),ctx=canvas.getContext('2d',{willReadFrequently:true}),reference=document.querySelector('#reference'),images={},status=document.querySelector('#status');
+ const defaults={eye:1,gazeX:0,gazeY:0,brow:0,smile:0,mouth:'original',lip:'#a43c54',lipAmount:0,blush:0,shadow:0,autoBlink:false,follow:false},pose={...defaults};let blinkStart=-Infinity,nextBlink=performance.now()+3000,frames=0,audio=null,cues=[],audioPose='original',audioWeight=0;
+ async function load(name,file){const im=new Image();await new Promise((res,rej)=>{im.onload=res;im.onerror=()=>rej(Error(file));im.src=root+file});images[name]=im}
+ await Promise.all([load('original','original.png'),...Object.entries(manifest.parts).map(([k,v])=>load(k,v.file))]);reference.getContext('2d',{willReadFrequently:true}).drawImage(images.original,0,0);
+ function patch(key,alpha=1,dy=0){const p=manifest.parts[key];ctx.save();ctx.globalAlpha=alpha;ctx.drawImage(images[key],p.rect[0],p.rect[1]+dy);ctx.restore()}
+ function opening(c,key){c.beginPath();if(key==='eye-r'){c.moveTo(276,607);c.bezierCurveTo(303,577,382,577,414,619);c.bezierCurveTo(384,646,310,651,276,607)}else{c.moveTo(540,620);c.bezierCurveTo(571,578,649,578,684,606);c.bezierCurveTo(650,650,569,650,540,620)}c.closePath()}
+ function eye(key,open){if(open<.995){const close=1-open;if(close<.5)patch(key+'-half',close*2);else{patch(key+'-half');patch(key+'-closed',(close-.5)*2)}return}if(Math.abs(pose.gazeX)+Math.abs(pose.gazeY)>.001){ctx.save();opening(ctx,key);ctx.clip();patch(key+'-white-eyes');const p=manifest.parts[key+'-iris'];ctx.drawImage(images[key+'-iris'],p.rect[0]+pose.gazeX*6,p.rect[1]+pose.gazeY*2);ctx.restore()}}
+ const lipCache=new Map();function lipstick(state){if(pose.lipAmount<=0)return;const key=state+'|'+pose.lip,part=manifest.parts['mouth-'+state],mask=images['lip-mask-'+state];let c=lipCache.get(key);if(!c){c=document.createElement('canvas');c.width=mask.width;c.height=mask.height;const x=c.getContext('2d');x.drawImage(mask,0,0);x.globalCompositeOperation='source-in';x.fillStyle=pose.lip;x.fillRect(0,0,c.width,c.height);lipCache.set(key,c);if(lipCache.size>24)lipCache.delete(lipCache.keys().next().value)}ctx.save();ctx.globalCompositeOperation='color';ctx.globalAlpha=pose.lipAmount*.88;ctx.drawImage(c,part.rect[0],part.rect[1]);ctx.restore()}
+ function softEllipse(x,y,rx,ry,color,amount){if(!amount)return;ctx.save();ctx.translate(x,y);ctx.scale(rx,ry);const g=ctx.createRadialGradient(0,0,0,0,0,1);g.addColorStop(0,color);g.addColorStop(1,'rgba(180,80,90,0)');ctx.globalAlpha=amount;ctx.fillStyle=g;ctx.fillRect(-1,-1,2,2);ctx.restore()}
+ function render(now=performance.now()){
+  ctx.clearRect(0,0,1000,1100);ctx.drawImage(images.original,0,0);let open=pose.eye;if(pose.autoBlink&&now>=nextBlink){blinkStart=now;nextBlink=now+2900+Math.random()*2200}const elapsed=now-blinkStart;if(elapsed>=0&&elapsed<230){const b=elapsed<80?elapsed/80:elapsed<115?1:1-(elapsed-115)/115;open=Math.min(open,1-Math.max(0,b))}
+  for(const k of ['eye-r','eye-l'])eye(k,open);
+  if(pose.brow){for(const key of ['brow-r','brow-l']){patch(key+'-clean');patch(key+'-original',1,-pose.brow*8)}}
+  let mouth=pose.mouth,weight=1;if(audio&&!audio.paused){const t=audio.currentTime,cue=cues.find(c=>t>=c.start&&t<c.end);if(cue){audioPose=['E','F'].includes(cue.value)?'mouth-round':['X','A'].includes(cue.value)?'original':'mouth-open';audioWeight=['D'].includes(cue.value)?1:.75}else{audioPose='original';audioWeight=0}mouth=audioPose;weight=audioWeight}
+  if(mouth!=='original')patch('mouth-'+mouth,weight);else if(pose.smile)patch('mouth-smile',pose.smile);
+  const lipState=mouth!=='original'?mouth:pose.smile>.5?'smile':'original';lipstick(lipState);
+  softEllipse(325,715,64,29,'rgba(190,76,90,.50)',pose.blush*.45);softEllipse(635,715,64,29,'rgba(190,76,90,.50)',pose.blush*.45);
+  if(pose.shadow){const y=570+(1-open)*36;softEllipse(350,y,64,17,'rgba(115,67,79,.42)',pose.shadow*.45);softEllipse(610,y,64,17,'rgba(115,67,79,.42)',pose.shadow*.45)}
+  frames++;canvas.dataset.eyeOpen=open.toFixed(3);canvas.dataset.mouth=mouth;canvas.dataset.frames=frames;
+ }
+ function sync(){for(const [key,value]of Object.entries(pose)){const el=document.getElementById(key);if(!el)continue;if(el.type==='checkbox')el.checked=value;else el.value=value}}
+ function setPose(p){for(const k of Object.keys(defaults))if(k in p)pose[k]=p[k];sync();render();return {...pose}}
+ function stop(){if(audio){audio.pause();audio.currentTime=0}audioPose='original';audioWeight=0;status.textContent='语音已停止，口型复位';render()}
+ for(const key of Object.keys(defaults)){const el=document.getElementById(key);el?.addEventListener('input',()=>{pose[key]=el.type==='checkbox'?el.checked:el.type==='range'?Number(el.value):el.value;render()})}
+ document.querySelector('#blink').onclick=()=>{blinkStart=performance.now();render()};document.querySelector('#reset').onclick=()=>{stop();blinkStart=-Infinity;setPose(defaults);status.textContent='已恢复原始脸；动作和妆容归零'};document.querySelector('#stop').onclick=stop;
+ document.querySelectorAll('[data-preset]').forEach(b=>b.onclick=()=>{const p=b.dataset.preset;setPose(p==='original'?{lipAmount:0,blush:0,shadow:0}:p==='daily'?{lip:'#a45c4d',lipAmount:.6,blush:.25,shadow:.25}:{lip:'#a23e65',lipAmount:.8,blush:.55,shadow:.55});status.textContent='已切换妆容，动作设置保持不变'});
+ canvas.addEventListener('pointermove',e=>{if(!pose.follow)return;const r=canvas.getBoundingClientRect();pose.gazeX=Math.max(-1,Math.min(1,(e.clientX-r.left)/r.width*2-1));pose.gazeY=Math.max(-1,Math.min(1,(e.clientY-r.top)/r.height*2-1));sync()});canvas.addEventListener('pointerleave',()=>{if(pose.follow){pose.gazeX=pose.gazeY=0;sync()}});
+ document.querySelector('#sample').onclick=async()=>{try{if(!audio){cues=(await (await fetch(root+'sample-cues.json')).json()).mouthCues;audio=new Audio(root+'sample.wav');audio.onended=()=>{audioPose='original';audioWeight=0;status.textContent='语音播放完成，口型复位'}}await audio.play();status.textContent='正在播放本机合成语音 · Rhubarb 离线口型时序'}catch(e){status.textContent='测试音频暂不可用：'+e.message}};
+ let raf;function tick(t){if(!document.hidden)render(t);raf=requestAnimationFrame(tick)}raf=requestAnimationFrame(tick);window.addEventListener('pagehide',()=>{cancelAnimationFrame(raf);stop()});
+ window.FaceTrial={ready:true,manifest,setPose,reset:()=>{stop();blinkStart=-Infinity;setPose(defaults)},render,snapshot:()=>canvas.toDataURL('image/png'),state:()=>({...pose}),stats:()=>({frames,width:1000,height:1100,lipCache:lipCache.size,loaded:Object.keys(images).length})};status.textContent='局部素材已载入 · 可先眨眼，再叠加表情与妆容';
+})().catch(e=>{document.querySelector('#status').textContent='载入失败：'+e.message;console.error(e)});
+

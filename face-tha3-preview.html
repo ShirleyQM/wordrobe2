@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>原始脸 · THA3 测试</title>
+<style>
+[hidden]{display:none!important}
+*{box-sizing:border-box}body{margin:0;background:#eeeae5;color:#303b3e;font:16px/1.65 system-ui,sans-serif}main{max-width:1100px;margin:auto;padding:32px 20px}h1{font-size:28px;margin:0}p{max-width:850px}.muted{color:#687176}.row{display:flex;flex-wrap:wrap;gap:20px}.panel{background:#faf8f4;border:1px solid #d6d4cd;border-radius:16px;overflow:hidden;flex:1;min-width:280px}.panel h2{font-size:16px;margin:12px 20px}.viewport{width:320px;height:352px;position:relative;margin:auto;overflow:hidden}.viewport img{position:absolute;width:1024px;height:1024px;max-width:none;left:-352px;top:-96px}.demo{width:320px;height:382px;display:block;margin:auto}.controls{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0}button,select{font:inherit;padding:8px 14px;border-radius:8px;border:1px solid #b9c3c0;background:#faf8f4;color:inherit;cursor:pointer}button.active{background:#38675e;color:white}a{color:#35695d}.status{background:#faf8f4;padding:12px 16px;border-left:4px solid #678f80}.full{max-width:100%;height:auto}details{margin-top:24px}summary{cursor:pointer}
+</style>
+<main><h1>原始脸 · THA3 测试</h1>
+<p>直接使用原始脸和 THA3 神经网络生成表情。左侧是输入原图，右侧是模型输出；没有使用上一版的五官贴片。</p>
+<p class="status" id="status">正在载入生成结果……</p>
+<label>模型版本 <select id="variant"><option value="standard_float">标准版 · standard_float</option></select></label>
+<div class="controls" id="controls"></div>
+<div class="row"><section class="panel"><h2>原图</h2><div class="viewport"><img src="/outputs/face-tha3/input.png" alt="原始脸"></div></section><section class="panel"><h2 id="poseLabel">模型输出</h2><div class="viewport" id="still"><img id="result" alt="THA3 表情输出"></div><img class="demo" id="demo" hidden alt="THA3 连续动画"></section></div>
+<p class="muted">THA3 输入和输出画布为 512×512，脸部占其中约 128×128。这里放大显示以方便检查，不代表生成了高清细节。当前测试锁定头部和身体旋转，便于观察五官。</p>
+<details><summary>查看所有表情及完整处理流程的对照</summary><img id="sheet" class="full" alt="表情对照图"></details>
+<p class="muted">THA3：Pramook Khungurn。代码 MIT，模型 CC BY 4.0。<a href="https://github.com/pkhungurn/talking-head-anime-3-demo" target="_blank" rel="noreferrer">上游项目</a> · <a id="report" target="_blank">本次运行记录</a></p>
+</main>
+<script>
+const poses=[['demo','连续动画'],['neutral','静止'],['blink-half','半闭眼'],['blink-closed','闭眼'],['gaze-left','视线左'],['gaze-right','视线右'],['brows-up','抬眉'],['smile','微笑'],['mouth-a','嘴形 A'],['mouth-i','嘴形 I'],['mouth-u','嘴形 U'],['mouth-e','嘴形 E'],['mouth-o','嘴形 O'],['full-neutral','完整流程静止'],['full-blink-closed','完整流程闭眼']];let selected='demo';
+const $=s=>document.querySelector(s);
+function show(name){selected=name;const base='/outputs/face-tha3/'+$('#variant').value+'/';$('#still').hidden=name==='demo';$('#demo').hidden=name!=='demo';if(name==='demo')$('#demo').src=base+'demo.webp';else $('#result').src=base+name+'.png';$('#poseLabel').textContent=poses.find(x=>x[0]===name)[1];document.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.pose===name));$('#sheet').src=base+'contact-sheet.jpg';$('#report').href=base+'report.json'}
+async function load(){try{const r=await fetch('/outputs/face-tha3/'+$('#variant').value+'/report.json');if(!r.ok)throw Error('该版本尚未生成');const d=await r.json();$('#status').textContent='已运行：'+d.gpu+' · '+d.variant+' · 五官推理中位耗时 '+Math.round(d.median_face_seconds*1000)+' ms。视觉效果待验收。';show(selected)}catch(e){$('#status').textContent=e.message}}
+for(const [name,label]of poses){const b=document.createElement('button');b.textContent=label;b.dataset.pose=name;b.onclick=()=>show(name);$('#controls').append(b)}$('#variant').onchange=load;load();
+</script></html>
