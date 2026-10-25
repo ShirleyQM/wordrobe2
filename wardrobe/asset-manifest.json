@@ -20648,6 +20648,24 @@
       "bytes": 1749,
       "sourceSha256": "1aaac9382d9678bc762cc5e787567c8ba494010892ecfb87df3e884ce9f8c528",
       "sha256": "1aaac9382d9678bc762cc5e787567c8ba494010892ecfb87df3e884ce9f8c528"
+    },
+    {
+      "path": "data/wardrobe.json",
+      "bytes": 4109682,
+      "sourceSha256": "6785c4dfae3032a2353f65357a30c009278831848ff2401048df446dcbdab153",
+      "sha256": "6785c4dfae3032a2353f65357a30c009278831848ff2401048df446dcbdab153"
+    },
+    {
+      "path": "data/materials.json",
+      "bytes": 221510,
+      "sourceSha256": "f46db01b2852051be5534da20cda9e942998d35af6ba34bbabaddbf783b308e1",
+      "sha256": "f46db01b2852051be5534da20cda9e942998d35af6ba34bbabaddbf783b308e1"
+    },
+    {
+      "path": "data/hair-defaults.json",
+      "bytes": 68995,
+      "sourceSha256": "f1da66d57697989f0960241a25bca4702e0b864b12d73cd2a7346127481ee277",
+      "sha256": "f1da66d57697989f0960241a25bca4702e0b864b12d73cd2a7346127481ee277"
     }
   ]
 }
