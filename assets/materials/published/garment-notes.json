@@ -19,21 +19,23 @@
     },
     "tops-hoodie-pullover": {
       "itemId": "tops-hoodie-pullover",
-      "revision": 1,
+      "revision": 2,
       "tags": [
-        "袖子不贴"
+        "袖子不贴",
+        "基础款"
       ],
       "text": "",
-      "updatedAt": "2026-10-21T17:55:55.000Z"
+      "updatedAt": "2026-10-24T19:45:23.455Z"
     },
     "tops-sweatshirt-crop": {
       "itemId": "tops-sweatshirt-crop",
-      "revision": 1,
+      "revision": 2,
       "tags": [
-        "内片露出"
+        "内片露出",
+        "基础款"
       ],
       "text": "",
-      "updatedAt": "2026-10-21T17:56:01.717Z"
+      "updatedAt": "2026-10-24T19:45:21.791Z"
     },
     "top-v1-green-rib": {
       "itemId": "top-v1-green-rib",
@@ -54,12 +56,13 @@
     },
     "top-v1-blue-ruffle": {
       "itemId": "top-v1-blue-ruffle",
-      "revision": 1,
+      "revision": 2,
       "tags": [
-        "袖子不贴"
+        "袖子不贴",
+        "基础款"
       ],
       "text": "",
-      "updatedAt": "2026-10-21T18:18:20.577Z"
+      "updatedAt": "2026-10-24T20:34:33.231Z"
     },
     "top-v1-olive-scarf": {
       "itemId": "top-v1-olive-scarf",
@@ -118,10 +121,12 @@
     },
     "separate-v1-ivory-polo-original": {
       "itemId": "separate-v1-ivory-polo-original",
-      "revision": 1,
-      "tags": [],
+      "revision": 2,
+      "tags": [
+        "基础款"
+      ],
       "text": "原来的衣服是小短款泡泡袖",
-      "updatedAt": "2026-10-22T14:10:52.910Z"
+      "updatedAt": "2026-10-24T19:41:01.585Z"
     },
     "separate-v1-mustard-polo-original": {
       "itemId": "separate-v1-mustard-polo-original",
@@ -240,12 +245,10 @@
     },
     "top-v1-lavender-wrap": {
       "itemId": "top-v1-lavender-wrap",
-      "revision": 1,
-      "tags": [
-        "基础款"
-      ],
+      "revision": 2,
+      "tags": [],
       "text": "",
-      "updatedAt": "2026-10-23T18:00:57.842Z"
+      "updatedAt": "2026-10-24T19:41:26.870Z"
     },
     "top-v1-ivory-tank": {
       "itemId": "top-v1-ivory-tank",
@@ -352,6 +355,186 @@
       ],
       "text": "",
       "updatedAt": "2026-10-23T22:07:13.459Z"
+    },
+    "street-v1-gray-tee": {
+      "itemId": "street-v1-gray-tee",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:40:58.420Z"
+    },
+    "tops-bandeau-denim": {
+      "itemId": "tops-bandeau-denim",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:20.026Z"
+    },
+    "tops-sweatshirt-halfzip": {
+      "itemId": "tops-sweatshirt-halfzip",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:24.402Z"
+    },
+    "tops-sweatshirt-raglan": {
+      "itemId": "tops-sweatshirt-raglan",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:25.990Z"
+    },
+    "tops-bandeau-bow": {
+      "itemId": "tops-bandeau-bow",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:27.414Z"
+    },
+    "tops-bandeau-navy": {
+      "itemId": "tops-bandeau-navy",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:30.340Z"
+    },
+    "navy-shirt": {
+      "itemId": "navy-shirt",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T19:45:33.580Z"
+    },
+    "top-v1-white-bardot": {
+      "itemId": "top-v1-white-bardot",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T20:34:35.962Z"
+    },
+    "top-v1-gray-halter": {
+      "itemId": "top-v1-gray-halter",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-24T20:34:40.222Z"
+    },
+    "kg-gauze-tie-blouse-v1": {
+      "itemId": "kg-gauze-tie-blouse-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:28:07.278Z"
+    },
+    "layered-ruched-top-v1": {
+      "itemId": "layered-ruched-top-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:28:35.284Z"
+    },
+    "kg-scoop-knit-v1": {
+      "itemId": "kg-scoop-knit-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:30.208Z"
+    },
+    "layered-rainbow-knit-v1": {
+      "itemId": "layered-rainbow-knit-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:31.207Z"
+    },
+    "editorial-shell-v1": {
+      "itemId": "editorial-shell-v1",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:48.580Z"
+    },
+    "romantic-cup-bustier": {
+      "itemId": "romantic-cup-bustier",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:54.334Z"
+    },
+    "runway-oatmeal-halfzip": {
+      "itemId": "runway-oatmeal-halfzip",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:57.643Z"
+    },
+    "runway-ivory-camp-blouse": {
+      "itemId": "runway-ivory-camp-blouse",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:29:59.044Z"
+    },
+    "cool-sweat-cropzip": {
+      "itemId": "cool-sweat-cropzip",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:31:02.204Z"
+    },
+    "cool-sweat-dropshoulder": {
+      "itemId": "cool-sweat-dropshoulder",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:32:11.742Z"
+    },
+    "cool-sweat-asymmetric": {
+      "itemId": "cool-sweat-asymmetric",
+      "revision": 1,
+      "tags": [
+        "基础款"
+      ],
+      "text": "",
+      "updatedAt": "2026-10-25T07:32:12.889Z"
     }
   }
 }

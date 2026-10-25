@@ -5,7 +5,7 @@
   "description": "词间衣橱：换装与背单词交互原型",
   "scripts": {
     "start": "node server.cjs",
-    "test": "node test.cjs && node test-print-transform.cjs && node test-print-garment.cjs && node test-wardrobe-library.cjs && node test-fit-catalog.cjs && node test-material-paths.cjs && node test-atelier-tools.cjs && node test-art-merge.cjs && node test-regeneration.cjs && node test-printed-garments.cjs && node test-script-lettering.cjs && node test-print-native-size.cjs && node test-explicit-save.cjs && node test-fitting-concurrency.cjs && node test-pants-batch.cjs",
+    "test": "node test.cjs && node test-print-transform.cjs && node test-print-garment.cjs && node test-wardrobe-library.cjs && node test-fit-catalog.cjs && node test-material-paths.cjs && node test-atelier-tools.cjs && node test-art-merge.cjs && node test-regeneration.cjs && node test-printed-garments.cjs && node test-script-lettering.cjs && node test-print-native-size.cjs && node test-explicit-save.cjs && node test-fitting-concurrency.cjs && node test-pants-batch.cjs && node test-wardrobe-innerwear-render.cjs",
     "test:notes": "node test-garment-notes.cjs",
     "test:openings": "node test-new-garment-openings.cjs",
     "test:deletions": "node test-garment-deletions.cjs",

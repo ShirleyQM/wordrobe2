@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm'),C=require('./assets/mobile/look-lab-core.js');
+const rows=[{id:'top',slot:'top',price:40},{id:'bottom',slot:'bottom',price:60},{id:'dress',slot:'dress',price:100}],find=id=>rows.find(i=>i.id===id),owns=id=>id==='top';
+assert.deepEqual(C.owned({top:'top',dress:'dress'},owns,find),{top:'top'});
+assert.equal(C.missing({equipped:{top:'top',bottom:'bottom'}},owns,find)[0].id,'bottom');
+assert.deepEqual(C.goal([rows[1]],10,50),{cost:60,remaining:50,lessons:1});assert.equal(C.goal([rows[1]],100,50).lessons,0);
+const original={top:'top',bottom:'bottom'},preview=C.preview(original,rows[2],v=>v,find);assert.deepEqual(preview,{dress:'dress'});assert.deepEqual(original,{top:'top',bottom:'bottom'});
+const paints=[],images=[],stage={dataset:{}},target={innerHTML:'old'};
+const context={FigureView:{paint:(el,html)=>{el.innerHTML=html;paints.push(html);}},MobileEditUI:{focus(){}},document:{createElement(){return {innerHTML:'',content:{querySelector(){return null;}}};}},$:()=>stage,t:zh=>zh,toast(){},Image:class{set src(url){this.url=url;images.push(this);}},Set,Map};
+context.document.createElement=()=>{let html='';return {set innerHTML(value){html=value;},content:{querySelector:()=>{const url=html.match(/face="([^"]+)"/)?.[1];return url?{getAttribute:()=>url}:null;}}};};
+const source=fs.readFileSync('assets/mobile/look-lab.js','utf8');vm.createContext(context);vm.runInContext(source.slice(source.indexOf(' const basePaint='),source.indexOf("\n document.addEventListener('visibilitychange'")),context);
+(async()=>{context.FigureView.paint(target,'face="a"');context.FigureView.paint(target,'face="b"');assert.equal(target.innerHTML,'old');images[0].onload();await Promise.resolve();assert.equal(target.innerHTML,'old','Earlier face cannot replace the new selection');images[1].onload();await Promise.resolve();assert.equal(target.innerHTML,'face="b"');context.FigureView.paint(target,'face="a"');assert.equal(target.innerHTML,'face="a"','Decoded head renders synchronously');assert.equal(stage.dataset.faceLoading,'false');console.log('PASS: locked items excluded from equipment, wishlist requirements, live reward-based study goal, immutable trial outfit and latest-only decoded face rendering.');})().catch(e=>{console.error(e);process.exitCode=1;});

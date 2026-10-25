@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "canvas": [
+    1000,
+    1100
+  ],
+  "source": "original.png",
+  "sourceHash": "ee4d98c15a3f3a1168192a20df6334c7f69ee907c3b9446c8a83868b86fbbcad",
+  "parts": {
+    "eye-r-clean": {
+      "file": "parts/eye-r-clean.png",
+      "rect": [
+        254,
+        554,
+        188,
+        127
+      ]
+    },
+    "eye-r-original": {
+      "file": "parts/eye-r-original.png",
+      "rect": [
+        254,
+        554,
+        188,
+        127
+      ]
+    },
+    "eye-r-white-eyes": {
+      "file": "parts/eye-r-white-eyes.png",
+      "rect": [
+        254,
+        554,
+        188,
+        127
+      ]
+    },
+    "eye-r-half": {
+      "file": "parts/eye-r-half.png",
+      "rect": [
+        254,
+        554,
+        188,
+        127
+      ]
+    },
+    "eye-r-closed": {
+      "file": "parts/eye-r-closed.png",
+      "rect": [
+        254,
+        554,
+        188,
+        127
+      ]
+    },
+    "eye-l-clean": {
+      "file": "parts/eye-l-clean.png",
+      "rect": [
+        518,
+        554,
+        192,
+        127
+      ]
+    },
+    "eye-l-original": {
+      "file": "parts/eye-l-original.png",
+      "rect": [
+        518,
+        554,
+        192,
+        127
+      ]
+    },
+    "eye-l-white-eyes": {
+      "file": "parts/eye-l-white-eyes.png",
+      "rect": [
+        518,
+        554,
+        192,
+        127
+      ]
+    },
+    "eye-l-half": {
+      "file": "parts/eye-l-half.png",
+      "rect": [
+        518,
+        554,
+        192,
+        127
+      ]
+    },
+    "eye-l-closed": {
+      "file": "parts/eye-l-closed.png",
+      "rect": [
+        518,
+        554,
+        192,
+        127
+      ]
+    },
+    "brow-r-clean": {
+      "file": "parts/brow-r-clean.png",
+      "rect": [
+        262,
+        510,
+        177,
+        55
+      ]
+    },
+    "brow-r-original": {
+      "file": "parts/brow-r-original.png",
+      "rect": [
+        262,
+        510,
+        177,
+        55
+      ]
+    },
+    "brow-l-clean": {
+      "file": "parts/brow-l-clean.png",
+      "rect": [
+        519,
+        510,
+        186,
+        55
+      ]
+    },
+    "brow-l-original": {
+      "file": "parts/brow-l-original.png",
+      "rect": [
+        519,
+        510,
+        186,
+        55
+      ]
+    },
+    "mouth-clean": {
+      "file": "parts/mouth-clean.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "mouth-original": {
+      "file": "parts/mouth-original.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "mouth-smile": {
+      "file": "parts/mouth-smile.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "mouth-mouth-open": {
+      "file": "parts/mouth-mouth-open.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "mouth-mouth-round": {
+      "file": "parts/mouth-mouth-round.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "eye-r-iris": {
+      "file": "parts/eye-r-iris.png",
+      "rect": [
+        317,
+        575,
+        76,
+        76
+      ]
+    },
+    "eye-l-iris": {
+      "file": "parts/eye-l-iris.png",
+      "rect": [
+        568,
+        575,
+        76,
+        76
+      ]
+    },
+    "lip-mask-original": {
+      "file": "parts/lip-mask-original.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "lip-mask-smile": {
+      "file": "parts/lip-mask-smile.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "lip-mask-mouth-open": {
+      "file": "parts/lip-mask-mouth-open.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    },
+    "lip-mask-mouth-round": {
+      "file": "parts/lip-mask-mouth-round.png",
+      "rect": [
+        394,
+        767,
+        172,
+        116
+      ]
+    }
+  },
+  "eyeCenters": {
+    "eye-r": [
+      355,
+      613
+    ],
+    "eye-l": [
+      606,
+      613
+    ]
+  },
+  "makeupMode": "lip recolor and additive eye-shadow/blush over original makeup; full bare-skin removal not claimed",
+  "production": "image_gen localized repairs + deterministic alpha and registration; browser sprite prototype; engine export separately reported"
+}

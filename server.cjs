@@ -8,10 +8,12 @@ const wardrobeRoute=require('./wardrobe-store.cjs')(root);
 const regenerationRoute=require('./regeneration-route.cjs')(root);
 const printedRoute=require('./printed-garments.cjs')(root).route;
 const notesRoute=require('./garment-notes.cjs')(root);
+const variationsRoute=require('./garment-variations.cjs')(root);
 const artDeliverySync=require('./art-delivery-sync.cjs')(root);
 const garmentDeletions=require('./garment-deletions.cjs')(root);
 const wardrobePolicy=require('./wardrobe-policy.cjs')(root);
 const {canonicalURL}=require('./asset-paths.cjs');
+const versionGarmentAssets=require('./wardrobe-asset-versions.cjs')(root);
 const types = {'.woff2':'font/woff2','.ttf':'font/ttf','.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.png':'image/png','.json':'application/json; charset=utf-8','.txt':'text/plain; charset=utf-8','.zip':'application/zip'};
 const server=http.createServer(async(req,res)=>{
   let pathname;try{pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);}catch(e){res.writeHead(400);res.end();return;}
@@ -20,8 +22,9 @@ const server=http.createServer(async(req,res)=>{
   if(pathname==='/api/wardrobe'||pathname==='/assets/materials/garments/collection.json')await artDeliverySync.sync();
   if(await wardrobePolicy.route(req,res,pathname))return;
   if(await garmentDeletions.route(req,res,pathname))return;
-  if(pathname==='/assets/materials/garments/collection.json'){const collection=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/garments/collection.json'),'utf8')),deleted=garmentDeletions.deletedIds();collection.items=collection.items.filter(i=>!deleted.has(i.id)&&wardrobePolicy.visible(i.id));wardrobePolicy.decorate([{group:'library',items:collection.items}]);res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(collection));return;}
+  if(pathname==='/assets/materials/garments/collection.json'){const collection=JSON.parse(fs.readFileSync(path.join(root,'assets/materials/garments/collection.json'),'utf8')),deleted=garmentDeletions.deletedIds();collection.items=collection.items.filter(i=>!deleted.has(i.id)&&wardrobePolicy.visible(i.id));wardrobePolicy.decorate([{group:'library',items:collection.items}]);versionGarmentAssets([{items:collection.items}]);res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(collection));return;}
   if(await notesRoute(req,res,pathname))return;
+  if(await variationsRoute(req,res,pathname))return;
   if(await printedRoute(req,res,pathname))return;
   if(await regenerationRoute(req,res,pathname))return;
   if(await wardrobeRoute(req,res,pathname))return;
