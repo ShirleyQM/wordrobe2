@@ -28,6 +28,72 @@
       "texture": "/assets/materials/fabrics/universal/jacquard.png",
       "strength": 0.65,
       "tileSize": 256
+    },
+    {
+      "id": "universal-gray-cotton-fine",
+      "name": "细棉布 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/cotton-fine.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/cotton-fine.png",
+      "strength": 0.48,
+      "tileSize": 256,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
+    },
+    {
+      "id": "universal-gray-knit-fine",
+      "name": "细针织 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/knit-fine.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/knit-fine.png",
+      "strength": 0.65,
+      "tileSize": 192,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
+    },
+    {
+      "id": "universal-gray-tweed-soft",
+      "name": "柔软粗花呢 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/tweed-soft.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/tweed-soft.png",
+      "strength": 0.72,
+      "tileSize": 256,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
+    },
+    {
+      "id": "universal-gray-suede-fine",
+      "name": "细麂皮 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/suede-fine.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/suede-fine.png",
+      "strength": 0.48,
+      "tileSize": 256,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
+    },
+    {
+      "id": "universal-gray-leather-fine",
+      "name": "细纹皮革 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/leather-fine.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/leather-fine.png",
+      "strength": 0.55,
+      "tileSize": 256,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
+    },
+    {
+      "id": "universal-gray-satin-fine",
+      "name": "细缎面 · 灰度",
+      "texture": "/assets/materials/fabrics/universal/gray-v1/satin-fine.png",
+      "thumbnail": "/assets/materials/fabrics/universal/gray-v1/satin-fine.png",
+      "strength": 0.38,
+      "tileSize": 192,
+      "kind": "surface-texture",
+      "changesDrape": false,
+      "changesAlpha": false
     }
   ],
   "mode": "neutral gray surface texture; original garment color, alpha and painted folds preserved"

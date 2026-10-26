@@ -1,7 +1,155 @@
 {
-  "updatedAt": "2026-10-23T17:18:39.978048+00:00",
-  "lastAttemptAt": "2026-10-24T16:12:01.708433+00:00",
+  "updatedAt": "2026-10-24T19:24:15.994636+00:00",
+  "lastAttemptAt": "2026-10-26T12:46:59.477419+00:00",
   "items": [
+    {
+      "id": "8360b681ee239812",
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "source": "NASA",
+      "publishedAt": "Sat, 24 Oct 2026 04:05:00 +0000",
+      "paragraphs": [
+        "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+        "Explanation: This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet’s curious double-lobed nucleus. Bright sunlight glints off one of Rosetta’s 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta’s still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae’s camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet."
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
+    {
+      "id": "57c0a5f2d9657bbd",
+      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "source": "NASA",
+      "publishedAt": "Fri, 23 Oct 2026 22:39:39 +0000",
+      "paragraphs": [
+        "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers.",
+        "Since NASA established initial contracts with Blue Origin and SpaceX for crewed missions to the Moon, the agency has redefined Artemis III to demonstrate rendezvous and docking capabilities between test versions of landers from each provider and the agency’s Orion spacecraft in low Earth orbit next year. In parallel, the companies are also developing crew and cargo versions of their landers for near-term Artemis missions.",
+        "“We are executing President Trump’s National Space Policy to complete the long-awaited return of American astronauts to the lunar surface in 2028 and establish a Moon Base,” said NASA Administrator Jared Isaacman. “We have a proven foundation in SLS and Orion, along with two lunar landers in development with Blue Origin and SpaceX. But NASA has no intention of sitting idly by as all the pieces come together. That is not how Apollo succeeded, and it is not how the near-impossible is achieved. NASA is energized, our core capabilities are being rebuilt, our machine shops are running 24/7, and our experts are in the field attacking the critical path. We are building a Super Bowl-caliber team to safely achieve these objectives and everything that comes next.”",
+        "For the initial crewed missions to the Moon, Artemis astronauts will launch in the agency’s Orion spacecraft on top of the SLS (Space Launch System) rocket from NASA’s Kennedy Space Center in Florida. During each Artemis mission, a commercial human landings system will link up with Orion before taking two crew members to the lunar surface while two remain aboard Orion. To accelerate development toward a 2028 landing, the Artemis landers and Orion will no longer rendezvous in a near-rectilinear halo orbit around the Moon and instead meet up in an orbit that differs for each partner, informed by their systems.",
+        "Both companies are required to perform an uncrewed demonstration mission with their crewed landers prior to the near-term Artemis crewed missions to the Moon. NASA will certify lander systems prior to the crewed missions to ensure safety and mission success.",
+        "SpaceX continues to plan for an in-space propellant aggregation approach to transfer super cold, or cryogenic, liquid propellant in space. The company will launch multiple versions of Starship to low Earth orbit prior to the launch of the Starship Human Landing System (HLS) from Florida. Similar to a gas station on Earth, the series of propellant “tanker” Starships in low Earth orbit will transfer propellant to the waiting “depot” Starship. The depot Starship will ultimately fuel the Starship lander for its journey to the Moon.",
+        "Under the revised operations, Starship HLS will await Orion and its crew in Earth orbit. The lander and Orion will rendezvous and dock in Earth orbit, then the Starship lander will perform a trans-lunar injection burn to send the combined lander and Orion stack to low lunar orbit. NASA is working to modify Orion to enable Starship to push it to the Moon. The lander will bring two crew members to the lunar surface for several days before delivering them back to Orion for the ride back to Earth.",
+        "Propellant aggregation in low Earth orbit allows for flexibility in the crew launch timing on SLS, while a trans-lunar injection burn performed by the Starship lander will enable direct access to low lunar orbit. This new concept of operations using low lunar orbit will significantly lower the amount of propellant Starship needs to aggregate in space while reducing the amount of time it can take for astronauts leaving the Moon’s surface in Starship to link back up with Orion. SpaceX will demonstrate the propellant aggregation approach during the uncrewed demonstration mission.",
+        "For its accelerated 2028 crewed lunar landing mission, Blue Origin will defer propellant transfer and use three transfer stages to send the Blue Moon Mark 2 Alpha Lander to the Moon. Based on existing Mark 1 and Mark 2 hardware, the stages operate like a multistage rocket. They launch into low Earth orbit, followed by the Mark 2 lander. Once docked, the stack departs for an elliptical polar orbit around the Moon, with each transfer stage separating as its propellant depletes. Compared with the previously planned near-rectilinear halo orbit, the elliptical polar orbit offers faster returns from the lunar surface to Orion, reduces Blue Moon lander propellant requirements, and maximizes the performance available by SLS.",
+        "This architecture provides multiple opportunities for SLS and Orion to launch the crew to elliptical polar orbit and dock with the Blue Moon Mark 2 lander. Two crew members then transfer to the lander and descend to the Moon’s South Pole. After surface operations, the lander returns to Orion, where the crew transfers for their journey back to Earth.",
+        "Blue Origin will incorporate lessons from earlier robotic Mark 1 missions supporting the agency’s Moon Base Program and demonstrate the full mission profile in an uncrewed lander transfer stage demonstration mission.",
+        "Ultimately, based on lander readiness, NASA will determine which company will be first selected to safely deliver astronauts to the Moon’s surface and back to lunar orbit in 2028. A second crewed landing opportunity will follow.",
+        "NASA is targeting two, approximately two-hour long lunar surface Moonwalks during initial surface missions. Astronauts will use the Moonwalks to collection lunar samples and test capabilities of the spacesuit provided by Axiom Space.",
+        "Earlier this year, NASA updated its contracts with Blue Origin and SpaceX for human landing systems and large cargo deliveries to the Moon. The updates align the agency’s human landing system requirements with acceleration efforts announced earlier this year to streamline Artemis mission architecture, expedite a lunar return, and support an increased mission cadence to the Moon.",
+        "Under the original HLS contracts, SpaceX’s Starship human landing system was assigned to the Artemis III and IV missions, while Blue Origin would use its Blue Moon Mark 2 human landing system for Artemis V. Under the contract realignments, both providers are participating in the Artemis III mission in low Earth orbit and neither lander provider has been assigned to a specific Artemis lunar landing mission.",
+        "“NASA and our lunar lander providers Blue Origin and SpaceX have been working hand in hand to ensure we can return American astronauts to the Moon by 2028,” said Jeremy Parsons, NASA’s Artemis program manager.“While work to realign with our partners in support of architecture updates announced at Ignition Day in March has been underway since then, updating the contracts ensures NASA and its partners are on the same page with requirements and other milestones to ensure continued insight into lander development to support mission success and the safety of our Moon crews.”",
+        "Both Blue Origin and SpaceX have added development milestones to provide NASA with more insight into lander development efforts, reducing risk and enhancing astronaut safety in preparation for crewed Moon landings. SpaceX is adding two demonstrations of its crew cabin, called Cabin 1, for its Starship lander. Blue Origin is adding new human-in-the-loop testing and hardware readiness milestones to streamline training development as well as ground and flight operations.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery though its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars.",
+        "NASA has selected two science instruments designed for astronauts to deploy on the surface of…",
+        "Learn about the handy device NASA is developing to help astronauts rehydrate their meals aboard…"
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
+    {
+      "id": "452bf28ae114f7dc",
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "source": "NASA",
+      "publishedAt": "Fri, 23 Oct 2026 22:37:53 +0000",
+      "paragraphs": [
+        "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
+        "Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit to perform a series of demonstrations with test versions, or test articles, of human landing systems being developed by industry partners Blue Origin and SpaceX. During the planned 14-day mission, crews and flight controllers will practice the rendezvous, docking, habitation, and operational procedures that will be essential when Artemis astronauts begin landing near the Moon’s South Pole in 2028. The mission is designed to reduce risk, validate hardware, and gain operational experience before NASA attempts a crewed lunar landing.",
+        "“Every piece of this mission in Earth orbit is designed to reduce risk before we put astronauts back on the Moon,” said Jeremy Parsons, NASA’s Artemis program manager. “We’re launching three spacecraft on three different rockets and testing how they operate together — something NASA has never attempted. Every lesson we learn here gets us closer to landing on the Moon in 2028.”",
+        "First stop: Blue Origin’s lunar lander test article",
+        "Earlier Artemis missions used only NASA’s SLS (Space Launch System) rocket and Orion spacecraft. Artemis III will involve three separate spacecraft launched on three different heavy-lift rockets within a relatively short period of time.",
+        "The mission begins with Blue Origin launching a test version of its Blue Moon Mark 2 lander into a circular low Earth orbit approximately 273 miles (237 nautical miles) above Earth. The spacecraft can remain on orbit for up to 30 days providing schedule flexibility. Artemis III is designed as a tightly choreographed campaign, with NASA planning to launch Orion on top of SLS from the agency’s Kennedy Space Center in Florida only days after the Blue Moon test article launch and confirmation the vehicle is healthy and ready for joint operations.",
+        "Following launch, Orion will initially enter an elliptical Earth orbit of 18 x 1122 miles (16 x 975 nautical miles). It will use its service module to perform a series of maneuvers to transition to a circular orbit at about 345 miles (300 nautical miles) for thermal stabilization before then gradually setting up its rendezvous with the waiting Blue Moon lander test article. Because each spacecraft operates in slightly different orbital regimes optimized for its mission requirements, Artemis III requires a carefully choreographed sequence of orbital maneuvers and rendezvous operations throughout the flight.",
+        "During the first two days of flight, the crew will check out Orion’s systems, prepare for proximity operations, and gradually position themselves for the mission’s first major objective: rendezvous and docking with the Blue Moon test vehicle.",
+        "The operation represents NASA’s first opportunity to evaluate how Orion and a commercial lunar lander work together in space. Engineers will assess how software aboard both spacecraft, guidance systems, communications systems, and operational procedures perform in real-world conditions, while flight controllers gain experience coordinating activities across multiple teams and organizations.",
+        "Once docked, astronauts will spend approximately two days conducting evaluations aboard the Blue Moon test article. Crew members will open the hatch and enter the spacecraft, allowing them to assess the cabin environment, controls, and life-support systems firsthand. Teams will verify the spacecraft’s ability to maintain the proper atmosphere and pressure.",
+        "The Blue Moon test article incorporates many of the avionics, software, flight-control systems, crew-cabin technologies, and life-support functions planned for future lunar missions. Testing those systems in orbit will provide the first opportunity to evaluate how many of the lander’s flight systems perform in space as an integrated vehicle.",
+        "By the time Orion undocks, NASA will have completed its first evaluation of a commercial lunar lander with crew, gathering data on spacecraft systems, crew operations, and spacecraft interoperability not possible on the ground.",
+        "After completing operations with Blue Origin’s lander, Orion will undock and reposition to support the next phase of the mission: a second rendezvous operation.",
+        "SpaceX will launch a Starship Version 3 test article from Florida. Because Starship is designed for a much shorter on-orbit lifetime than Blue Origin’s lander, launch occurs later in the mission, allowing NASA to efficiently sequence the two docking demonstrations. Starship will enter a lower orbit at 206 nautical miles, optimized for communications coverage, and will carry an added docking system mounted at the forward end.",
+        "Orion will rendezvous and dock with the spacecraft during a test expected to last up to two hours. Crew will not enter Starship during this test. The demonstration is focused on validating how Orion and Starship interact as a docked system in space. NASA and SpaceX plan to evaluate spacecraft controllability, communications, integrated software performance, and the dynamics associated with docking and undocking operations.",
+        "The docking itself also presents a unique test, using different docking geometries. Orion will connect to a port beside Blue Moon’s crew cabin, then later align its forward docking system with the one at Starship’s nose. Testing both approaches during a single mission gives NASA an opportunity to assess different operational concepts while gathering valuable engineering data.",
+        "Together, the two docking campaigns will demonstrate how Orion interfaces with two very different commercial lander architectures during a single mission.",
+        "Testing Orion for future exploration",
+        "Even after docking activities are complete, Artemis III will continue generating data that supports future missions.",
+        "Once the Starship demonstration is complete, Orion and its crew will have up to five additional days available in orbit before beginning preparations for the journey home. NASA plans to use this time to complete a variety of test objectives that support future Artemis missions, including additional evaluations of the Orion Crew Survival System suits, docking sensor tests, acoustic and thermal measurements, human-factors assessments, and a range of science and technology demonstrations.",
+        "Several investigations led by NASA will build on studies conducted during Artemis II, collecting additional data that will help inform future deep-space missions. The crew also will conduct a proof-of-concept study examining how astronauts could perform health-related assessments when they are unable to communicate directly with mission control, an important capability for future lunar surface expeditions and other missions farther from Earth.",
+        "NASA also plans to fly a cellular biology experiment during the mission while researchers use the flight to test concepts for returning lunar samples to Earth. Teams will evaluate how future samples could be transported, received, and moved into curation facilities after landing, while also conducting assessments of Orion’s environment to better understand potential contamination considerations for future lunar missions.",
+        "The mission also will include Earth and solar observations that help astronauts continue developing critical observation skills while taking advantage of the spacecraft’s unique orbital vantage point. Plant seeds will fly aboard Orion as well, providing opportunities for scientific study and educational engagement following the mission.",
+        "Mission planners have also built flexibility into the flight timeline, providing additional opportunities to complete test objectives depending on how operations unfold in real time.",
+        "When ready, Orion will begin phasing for return, and the crew will configure the cabin for reentry and splashdown, which will occur in the Pacific Ocean, off the coast of California. Orion and its crew will be recovered by NASA personnel and the United States Navy.",
+        "Every activity performed during Artemis III supports a larger goal: reducing risk before astronauts return to the lunar surface.",
+        "The mission will provide NASA with experience operating alongside multiple commercial partners while managing complex rendezvous and docking operations involving three different spacecraft. Engineers will gain insight into spacecraft interoperability, mission-control coordination, communications architecture, crew operations, and hardware performance.",
+        "By the time Artemis III concludes with Orion’s splashdown on Earth, NASA will have demonstrated technologies and operational concepts that future lunar crews will rely on as they travel to and from the Moon.",
+        "Most importantly, Artemis III will provide the operational experience needed to transform plans for future lunar landings into proven flight procedures. The lessons learned throughout the mission will help refine future exploration plans, strengthen partnerships with industry, and ensure astronauts are prepared for humanity’s next giant leap at the Moon.",
+        "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars."
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
+    {
+      "id": "e6e32e1c0407b5f7",
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "source": "NASA",
+      "publishedAt": "Fri, 23 Oct 2026 21:51:19 +0000",
+      "paragraphs": [
+        "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets.",
+        "Swift conducted its final observation on Oct. 20. It is expected to re-enter the atmosphere in the next few weeks.",
+        "“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” said Shawn Domagal-Goldman, director, Astrophysics Division at NASA Headquarters in Washington. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community. To support rapid response to cosmic events in a post-Swift world, we’re exploring our ability to use and augment NASA’s fleet of existing space telescopes, from fast-to-orbit commercial capabilities to efficient, innovative new missions. And Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more.”",
+        "In its storied career, Swift has observed more than 2,000 gamma-ray bursts, the most powerful explosions in the cosmos. It has studied more than 1,400 supernova explosions, witnessed stars shredded by black holes, monitored active galaxies, conducted an all-sky X-ray survey, studied asteroids and comets, and more. Swift data has contributed to about 7,000 published scientific papers.",
+        "“Swift was designed as a satellite dedicated to studying gamma-ray bursts, outbursts that came and went so quickly that no one could target them with large telescopes to learn more,” said S. Bradley Cenko, the mission’s principal investigator at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “Swift needed to detect and locate gamma-ray bursts, communicate their position to other observatories, and then swing its telescopes around to image the burst locations before their afterglows faded out. This typically took Swift about a minute to do.”",
+        "Led by its first principal investigator, Neil Gehrels, Swift was born as a multiwavelength observatory, with co-aligned Optical/Ultraviolet and X-ray telescopes that could quickly image and refine a burst’s position. The mission launched into orbit on Nov. 20, 2004, and went to work the following month. In 2018, NASA renamed the mission to honor Gehrels following his death.",
+        "Speed was especially important for an elusive population called short gamma-ray bursts, which reach peak brightness in less than two seconds. Until Swift, it had been impossible to locate these bursts rapidly and precisely enough to observe their afterglows. In May 2005, Swift achieved this milestone with GRB 050509B, which lasted just 0.03 seconds. Swift turned to the burst fast enough to detect 11 X-ray photons, making this the first short burst with a detected afterglow. These observations validated long-standing theoretical models, showing that short gamma-ray bursts likely come from mergers of two neutron stars — objects with the mass of the Sun that have been crushed to the size of a city.",
+        "Another factor led to Swift’s success as a kind of astronomical multitool. Its flexible planning system enabled astronomers to request “target-of-opportunity” observations that could be commanded from the ground in as little as a few minutes, or to set up monitoring programs for observing specific sources lasting from as little as a few minutes to months. The system could schedule up to 75 independent targets a day.",
+        "“The unique speed of response of the Swift hardware, the extraordinary success of the rapid mission operations, and the closely knit teamwork of the Swift Flight and Science Operations teams placed Swift at the crossroads of burgeoning areas of research,” said John Nousek, the mission’s operations director and professor of astronomy and astrophysics in the Eberly College of Science at Penn State in University Park, Pennsylvania.",
+        "The Swift archive contains nearly 22 years of brightness measurements of all kinds of cosmic outbursts, multiwavelength spectra, more than 1.5 million images from its Ultraviolet/Optical Telescope, and much more. The full dataset, publicly available as part of NASA’s commitment to open, gold standard science, spans approximately 12 terabytes, the storage equivalent of about 600 high-definition movies.",
+        "As part of the agency’s previous planning for Swift’s end of mission, NASA will continue to prioritize finding new options to react rapidly to cosmic events, using current missions to help fill the gap in the meantime.",
+        "To learn more about the Swift mission, visit:",
+        "Astronomers around the world are captivated by an unusually bright and long-lasting pulse of high-energy…",
+        "For only the second time, astronomers have linked an elusive particle called a high-energy neutrino…"
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
+    {
+      "id": "dad78058cd63c76b",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "source": "NASA",
+      "publishedAt": "Fri, 23 Oct 2026 18:57:04 +0000",
+      "paragraphs": [
+        "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
+        "Prior to use, all RS-25 engines are proven flightworthy at NASA Stennis. While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime engine contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability."
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
+    {
+      "id": "2dbe5da910a8a7ed",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+      "source": "NASA",
+      "publishedAt": "Fri, 23 Oct 2026 17:50:21 +0000",
+      "paragraphs": [
+        "NASA is helping to foster long-term energy security in Virginia.",
+        "NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes.",
+        "Under a new Space Act Agreement announced during a ceremony Friday, the partnership will use NASA expertise in atmospheric sciences to assist Virginia Energy in support of resiliency studies, resource analysis, and long-term energy planning.",
+        "“NASA Langley relishes the opportunity to put our unique science data into the hands of those who want to improve people’s lives,” said NASA Langley Deputy Director Allen Kilgore. “This collaboration with Virginia Energy will benefit the citizens of Virginia and provide stronger energy security for the Commonwealth.”",
+        "This agreement will help state officials plan for current and potential extreme weather conditions in Virginia and assess implications for electricity demand, energy generation, and system stress. Information can be directly incorporated into energy policy, planning, and operational decisions.",
+        "By helping Virginians better anticipate energy demands, prepare for extreme weather, and understand factors affecting electricity generation, this partnership will support a more reliable and resilient energy system.",
+        "“Sound energy planning depends on models that reflect real-world conditions,” said Virginia Energy Director Vince Maiden. “This collaboration will help us better understand how weather affects electricity supply and demand, identify vulnerabilities, and weigh resource tradeoffs with greater confidence.”",
+        "The partnership will infuse relevant NASA Prediction of Worldwide Energy Resources (POWER) data products into Virginia Energy’s modeling and analysis system. The POWER information supports energy generation system designs and prediction of energy production using validated data products from NASA’s Earth Science to Action program. Those key NASA products represent research and development across NASA including Langley, Goddard Space Flight Center in Greenbelt, Maryland, and Ames Research Center in California’s Silicon Valley.",
+        "Through a digital pipeline, Virginia Energy can connect to Langley’s POWER web platform to download specific datasets and put them directly into their modeling tools. NASA’s POWER team members will work with Virginia Energy researchers to streamline the exchange, adjust formats, and evaluate the need for additional data.",
+        "This new partnership was fostered through NASA Langley’s Strategic Partnerships Office that connects industry, academia, and other government agencies with center facilities, capabilities, specialized test environments, and technical expertise to bring ideas to life.",
+        "For more information on strategic partnerships at NASA Langley, visit:",
+        "https://www.nasa.gov/centers-and-facilities/langley/explore-langley-partnerships/",
+        "Discover how to partner with NASA Langley Research Center.",
+        "Discover how NASA Langley is turning \"what if\" into what will be."
+      ],
+      "contentMode": "article",
+      "rights": "NASA editorial text; original link retained; no third-party images"
+    },
     {
       "id": "b0849f04c9f3097c",
       "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
@@ -10,7 +158,7 @@
       "publishedAt": "Fri, 23 Oct 2026 04:05:00 +0000",
       "paragraphs": [
         "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-        "Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy’s greater extent in planet Earth’s night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons."
+        "Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing detail as it climbed above rolling Australian hills. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, but is only visible to the unaided eye as a small, faint, fuzzy patch. Digitally tracked and stacked frames were combined with a foreground shot in the deep astro-image composite to reveal the galaxy’s greater extent in planet Earth’s night. In the springtime night skyscape,the closest large spiral galaxy spans nearly 6 full moons.Tomorrow’s picture: pixels in space"
       ],
       "contentMode": "article",
       "rights": "NASA editorial text; original link retained; no third-party images"
@@ -44,141 +192,6 @@
       "rights": "NASA editorial text; original link retained; no third-party images"
     },
     {
-      "id": "9e94dc14396e553b",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 21:39:58 +0000",
-      "paragraphs": [
-        "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville.",
-        "This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce.",
-        "Panels include discussions on Artemis II and III, space propulsion flash talks, building utilities and infrastructure for sustainable lunar operations, Moon base supply chain resilience, space nuclear technology, navigating the new NASA workforce, and engineering the future, featuring keynotes and awards presentations.",
-        "To request an interview with NASA speakers during the event, media must contact Lance D. Davis, lance.d.davis@nasa.gov, and Joel Wallace, joel.w.wallace@nasa.gov. Media interested in participating in-person or online must contact the American Astronomical Society to register.",
-        "Organized by the American Astronautical Society in collaboration with NASA’s Marshall Space Flight Center in Huntsville, Alabama, the annual event gathers leaders from government, industry, policy, and academia to discuss the current landscape of space exploration and help chart a path forward.",
-        "For more information on NASA Marshall, visit:",
-        "Lance D. DavisMarshall Space Flight Center, Huntsville, Ala.256-640-9065lance.d.davis@nasa.gov"
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
-      "id": "78a0ff249a66802c",
-      "title": "Spiral’s Edge",
-      "url": "https://www.nasa.gov/image-article/spirals-edge/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 21:35:38 +0000",
-      "paragraphs": [
-        "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of about 32 million light-years from Earth. Low-mass galaxies like the ones in this Hubble observing program provide a way to test the predictions of cosmological models on small scales, which struggle to match observations.",
-        "Image credit: NASA, ESA, Michael Jones (California Institute of Technology); Image Processing: Gladys Kober (NASA/Catholic University of America)"
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
-      "id": "960268508750b6c6",
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 16:20:37 +0000",
-      "paragraphs": [
-        "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
-        "This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope.",
-        "Gravitational lensing occurs when the mass of a foreground object – such as a galaxy – warps spacetime, causing light to bend, distort, and magnify as it passes around the object, similar to a giant lens in space. Lenses like this occur when a precise chance alignment takes place between the foreground and background galaxies, causing light from the background galaxy to curve around the foreground galaxy.",
-        "In this image, the gravitational lens features a foreground elliptical galaxy that is about 4.5 billion light-years away. That means the light we see from this galaxy now would have first started traveling toward us when our solar system was still forming. The background galaxy is about eight billion light-years away, almost twice as far. It appears as a pair of arcs, one large and very noticeable to the upper left of the foreground galaxy, the other a much smaller, flipped image of the same background galaxy to the lower right. This configuration is called an arc-counterarc pair.",
-        "The more massive the foreground galaxy is, the stronger the gravitational lens and the more significantly it bends light. By studying the distortion of the background galaxy, researchers can determine how much mass the foreground galaxy contains. This plays a huge role in the study of dark matter, the mysterious, invisible substance that makes up the majority of mass in the universe. The visible matter is not enough to account for the level of distortion in the background galaxy, which allows researchers to calculate both the mass of the foreground galaxy and how much dark matter it contains.",
-        "Almost all of the objects in this image are galaxies, except for a few scattered foreground stars. The barred spiral galaxy in this image – so called because its arms extend from a bar of stars in its center – is about the size of our own Milky Way galaxy, which astronomers think is a barred spiral as well. The tiny spiral to the left of the large spiral may be a satellite galaxy, similar to the Large and Small Magellanic Clouds that orbit the Milky Way.",
-        "Hubble views the cosmos primarily in visible and ultraviolet light with some infrared coverage, and Roman sees mainly infrared wavelengths and some visible light. Hubble can provide high-resolution views of individual objects, while Roman has a much larger field of view conducive to panoramas.",
-        "Images like this offer a glimpse of how Hubble and Roman will work together to build an even more comprehensive picture of the cosmos. This is just one of many gravitational lens images captured by Hubble. Astronomers will use them to analyze gravitational distortions to learn more about dark matter in the foreground galaxies and to lay the groundwork for future Roman observations.",
-        "Hubble can only view these gravitational lenses one at a time, while Roman’s wide view of the sky will provide a greater sample of these lenses. Astronomers are using Hubble’s sharp images to build a computer model to better analyze dark matter-induced distortions. This tool will help astronomers analyze Roman’s large images. Hubble will also follow up on interesting lenses Roman detects.",
-        "Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, MDclaire.andreoli@nasa.gov",
-        "Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
-        "NASA’s Hubble and Roman space telescopes will work together to broaden our perspective of the universe.",
-        "Hubble and Webb observations complement each other, providing us with a broad view of the universe.",
-        "Take a look at what cosmic wonders Hubble observed on your special day!"
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
-      "id": "813711696cd81a60",
-      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 04:05:00 +0000",
-      "paragraphs": [
-        "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-        "Explanation: Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. What about other colors? The featured image is an illustration showing WD J1330+6435, a white dwarf star, surrounded by an accretion disk with gas and rocks orbiting the star. White dwarfs are small, faint stars that are left over when a star like the Sun exhausts its nuclear fuel. Astronomers recently found that some white dwarf stars, despite their name, would appear yellow, green, cyan, pink, or purple. In these cases, trace elements that were accreted to these stars interact with the stellar atmosphere and shift its normally white color. But, alas! I wish I may, I wish I might, but they are too faint to see tonight…"
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
-      "id": "c5b220ee62288fba",
-      "title": "Fires Char New Guinea",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 04:01:00 +0000",
-      "paragraphs": [
-        "New Guinea, the world’s second-largest island, harbors an extraordinary variety of plant life across more than a dozen distinct ecoregions, including seasonally dry savannas, tropical rainforests, and lowland swamp forests. But in September and October 2026, as drought gripped New Guinea (sometimes called Papua) amid a strong El Niño, fires scorched the island and smoke shrouded large swaths of it for weeks.",
-        "The VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite captured this image of thick smoke streaming from the southern part of the island on October 11, 2026. In recent weeks, soaring levels of air pollution delayed and canceled flights, closed schools, and prompted officials in some areas to urge children and older people to wear masks.",
-        "“Sometimes smoke that has drifted into the convection of nearby thunderstorms will get washed out or lofted up into the upper troposphere, but a lot of smoke stays near the surface and causes air quality problems,” said Robert Field, an associate research scientist at NASA’s Goddard Institute for Space Studies and Columbia University. “It’s a horrible situation.”",
-        "According to the Global Fire Emissions Database (GFED), a fire emissions monitoring system, fires in Papua New Guinea, on the eastern half of the island, had released nearly 32 megatons of carbon by October 17, more than any other year on record at that point in the year (charts above). “Emissions are already much higher than the 2015 total for the year, and it’s very likely that this will become the highest year on record for Papua New Guinea, even surpassing 1997,” said Guido van der Werf, a fire scientist at Wageningen University & Research.",
-        "On the Indonesian side, sometimes called West New Guinea or Indonesian Papua, carbon emissions exceeded 35 megatons, the third highest after 2015 and 1997, other El Niño years with severe fires. Van der Werf led the development of GFED, a satellite-driven modeling framework that uses a mix of remote sensing, vegetation characteristics, and other information to estimate the extent of vegetation fires and the emissions over nearly three decades.",
-        "Unusually dry weather—a byproduct of El Niño shifting rainfall patterns—has primed ecosystems across the island to burn. The southernmost part of Papua New Guinea, dominated by relatively fire-prone savannas and grasslands of the Trans-Fly region, went more than 90 consecutive days without rain, according to Papua New Guinea’s National Weather Service. Since August, parts of the region have seen precipitation of roughly 5 to 10 percent of normal, according to the weather service’s data. Local news outlets report that drought is causing crop failures, water shortages, and school disruptions.",
-        "In this normally wet part of the world, people ignite the vast majority of fires, researchers say. Crop fires, pasture maintenance, deforestation and land clearing, and hunting are all common reasons people burn in New Guinea. In dry conditions, managed fires sometimes spread and burn uncontrolled as wildfires, particularly in the drier, southernmost parts of the island.",
-        "“We’re seeing an exceptionally high level of fire activity in Papua New Guinea and Eastern Indonesia, particularly Indonesian Papua and Kalimantan, this year compared with Sumatra and other parts of Western Indonesia,” said Yang Chen, an associate researcher at the University of California, Irvine. “Papua has emerged as Indonesia’s new deforestation frontier.”",
-        "Over the past two decades, land in Indonesian Papua has been cleared for industrial oil palm and pulpwood plantations, shifting small-scale cultivation, urban expansion, and mining. According to Global Forest Watch, the region lost 27,000 hectares of primary forest in 2025, nearly double the 2024 total and the most since 2017.",
-        "Sumatra’s fires are relatively low compared to other drought years partly because many areas are already developed. “Areas with large oil palm, sugarcane, or pulpwood plantations also often have their own private fire brigades to protect their assets,” said Field. “It’s in unmanaged areas or primary forest edges where we’re generally seeing the most fire.”",
-        "Researchers expect the fires to continue until the heavy rains of the wet season arrive in the southern part of New Guinea, typically in early November.",
-        "NASA Earth Observatory image and charts by Michala Garrison, using data from NASA EOSDIS LANCE, GIBS/Worldview, Joint Polar Satellite System (JPSS), and the Global Fire Emissions Database (GFED). Story by Adam Voiland.",
-        "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
-        "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and…",
-        "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
-        "Wildland fires in early August 2026 pushed air quality to unhealthy levels, destroyed hundreds of structures, and triggered mandatory evacuations…",
-        "Subscribe to the Earth Observatory and get the Earth in your inbox.",
-        "NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.",
-        "Open access to NASA’s archive of Earth science data"
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
-      "id": "62608a9554871725",
-      "title": "Faster to Science: A Letter to the Science Community",
-      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-      "source": "NASA",
-      "publishedAt": "Thu, 22 Oct 2026 00:00:16 +0000",
-      "paragraphs": [
-        "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall, from NASA Headquarters, to explain our new Competition Model 2.0 (CM 2.0), and answer your questions. (Details below.)",
-        "We have heard you. We have listened. We know that the burden of bringing great ideas forward has been too heavy for too long. It has taken years to move mission concepts through the current two-step process. This has often come with contract management challenges, unpredictability, and not enough funding. NASA is committed to doing better — and I’m excited to share with you how we’re making it happen.",
-        "I am so pleased that NASA Administrator Jared Isaacman has empowered the Science Mission Directorate to take action and make our mission selection process move more smoothly, efficiently, and effectively. The Administrator has directed us to accelerate the delivery of science, reduce the time and resources spent on long competitive processes, and focus funding on the highest-priority missions across every NASA Science division as quickly and affordably as possible. Predictability in delivering incredible science will be at the forefront of what we do.",
-        "We are committed to getting this right. Some of these changes will take time to fully implement. We will roll them out in stages, be thoughtful about them, and refine them with your input along the way. But time is also of the essence. By streamlining how missions are proposed, reviewed, and selected, we can make meaningful change right now. That streamlined approach is Competition Model 2.0, or CM2.0, and it is how we are answering the Administrator’s call to get you to science faster.",
-        "CM2.0 starts from a simple idea: compete on the science first. Proposals will be science-focused and will not require detailed engineering plans, cost, and implementation work until they are truly needed to make a decision. This frees you to spend more of your time doing science and less of it proposing how to do science.",
-        "Here is how we will streamline mission selection across our mission classes:",
-        "CM2.0 will not change how we manage our largest missions since that process has already been reformed. After the James Webb Space Telescope, NASA conducted the Large Mission Study which drew lessons from Webb and best practices from our most successful flagships into a single, documented approach for building large missions more efficiently. Flagships will continue to follow that approach, with NASA directing the overall mission to a lead NASA Center and it will then compete the science teams and instruments through targeted solicitations.",
-        "These missions will move to a new, accelerated two-step competition:",
-        "These updates in the mission selection process will reduce time from AO to step 2 selection by up to 45 percent. This means that the original 35-months timeline will be reduced to about 19.5 months, all while having a stronger, more mature mission at the time of selection.",
-        "These missions follow the same two-step approach with an even broader field of implementing organizations, including universities and industry partners. Implementing organizations and partners will be evaluated on past performance on projects of similar complexity and cost prior to mission selection. PI-led teams can request pairing with either a Goddard or JPL implementation team at Step 1 selection, and NASA can provide Center support where it will help with procurement, contract management, or quick resolution of technical challenges. This will result again in an up to a 45 percent reduction in the selection timeline.",
-        "These missions will move to a single-step competition with a smaller review team and virtual site visits. They will also be open to a broad range of implementing organizations. The time to final selection will drop from about 32 months to about 19 months which is a reduction of up to 40 percent. Our smallest missions will be riding the momentum of a maturing commercial space economy and will move even faster. This means more missions, more often, with more incredible science at a lower cost.",
-        "The commercial space industry has never been stronger—and it’s only gaining momentum. Mission and implementation teams will be expected to adopt industry best practices and emerging commercial capabilities, including commercial buses, subsystems, and multi-mission operations — wherever they offer a technical or cost benefit. No mission class is too large or too complex to benefit from the commercial industry. We will keep assessing the commercial landscape at regular intervals, building on our recent Science as a Service Request for Information.",
-        "By competing on science first, established teams and first-time teams stand on equal footing. The best idea wins.",
-        "Great science deserves great stewardship. Rigorous cost and schedule control remains mandatory across every mission class. Phase A estimates will inform complexity and scope trades. Therefore, breaches of control thresholds will carry real consequences of up to, and including, mission termination. That discipline is how we keep the pipeline flowing for everyone.",
-        "Our NASA Centers lead the world in spaceflight experience. Therefore, by appropriately directing work at Goddard and JPL, we will save taxpayer dollars, eliminate unnecessary competition among NASA Centers, encourage collaboration, and keep critical skills thriving across the agency.",
-        "This is a moment of real opportunity. We have an administrator who is empowering us to move faster and a commercial market that is ready to help. We have NASA Centers with unmatched expertise, and a science community whose ideas expand and redefine the bounds of human achievement in the cosmos. CM2.0 brings those strengths together so that more great ideas become great missions, all while being faster and returning more science at an affordable price for the benefit of all.",
-        "NASA leads the world in discovery and innovation, but none of that happens on its own. It happens because of you. You are the reason the list of what’s “impossible” keeps getting shorter. I am so proud of what this community has achieved, and what incredible science we will continue to discover together",
-        "Thank you for your brilliance, your dedication, and your partnership. The best of NASA Science is still ahead of us, and I cannot wait to see where this journey takes us.",
-        "Nicola Fox, associate administrator, Science Mission Directorate, NASA Headquarters",
-        "NASA will host a community town hall from 2 to 3 p.m. EDT Monday, Oct. 26, featuring Dr. Nicola “Nicky” Fox, associate administrator for the agency’s Science Mission Directorate, and other NASA science leaders. Fox will provide an overview of NASA’s new Competition Model 2.0 (CM 2.0), followed by an opportunity for participants to ask questions.",
-        "Members of the science community, academia, media, and the public are invited to join the virtual town hall at:",
-        "https://events.gcc.teams.microsoft.com/event/9e0b9170-49eb-4df1-a413-0a028c548c8f@7005d458-45be-48ae-8140-d43da96dd17b?source=copyLinkLegacyShareLinkDialog",
-        "Participants may submit questions and vote on questions submitted by others at:",
-        "Questions will be screened for spam and inappropriate content before appearing publicly. NASA science leaders will address as many questions as time allows.",
-        "A recording of the town hall will be posted online following the event."
-      ],
-      "contentMode": "article",
-      "rights": "NASA editorial text; original link retained; no third-party images"
-    },
-    {
       "id": "8a11025707b6e897",
       "title": "Researchers: South Korea’s Birth Rate Increase Last Year Unclear ",
       "url": "https://learningenglish.voanews.com/a/researchers-south-korea-s-birth-rate-increase-last-year-unclear-/7997203.html",
@@ -206,11 +219,11 @@
   "errors": [
     {
       "source": "NASA",
-      "message": "<urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+      "message": "<urlopen error [Errno 11001] getaddrinfo failed>"
     },
     {
       "source": "VOA Learning English",
-      "message": "<urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+      "message": "<urlopen error [Errno 11001] getaddrinfo failed>"
     }
   ]
 }

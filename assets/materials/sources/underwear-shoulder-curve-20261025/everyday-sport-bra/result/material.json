@@ -1,0 +1,33 @@
+{
+  "id": "everyday-sport-bra",
+  "backLayers": false,
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "defaultColor": "#697e8b",
+  "referenceLuminance": 150,
+  "sourceSeparation": "Neutral-gray generated master deliberately for recolor; calibrated luminance shading and high-frequency textile maps. No independently drawn ink; lineart is an explicitly empty placeholder, seams remain in tonal maps. Source alpha is preserved, including lace openings.",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "empty": true
+    }
+  ],
+  "presets": "../../../everyday-underwear-20261024/material-presets.json",
+  "repair": "Front shoulder cap silhouette only; original material maps clipped by identical local alpha mask."
+}

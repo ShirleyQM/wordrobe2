@@ -26,3 +26,4 @@ body.embedded #stage[data-tool="transform"]{height:calc(100dvh - 210px);min-heig
 #shoe-sides[hidden]{display:none}
 
 #eraser-controls{display:none!important}
+.fit-zoom-bar{display:flex;align-items:center;gap:7px;flex-wrap:wrap;padding:7px 12px;border-top:1px solid #d6e2f2;background:#f3f7fc;font-size:12px}.fit-zoom-bar button{padding:4px 8px;font:inherit;color:inherit;border:1px solid #cad9ed;background:white;border-radius:4px}.fit-zoom-bar label{display:flex;align-items:center;gap:3px}.fit-zoom-bar input[type=number]{width:65px;font:inherit;padding:4px;border:1px solid #cad9ed}.fit-zoom-bar input[type=range]{width:130px}.fit-zoom-tip{color:#63748b;font-size:11px}#stage[data-tool=view]{cursor:grab}

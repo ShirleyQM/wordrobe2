@@ -14,6 +14,22 @@
   if(!a||!b)return '';
   return `<svg class="waist-contact-shadow" aria-hidden="true" viewBox="0 0 939 1676" style="position:absolute;inset:0;width:100%;height:100%;max-width:none;pointer-events:none;overflow:visible" xmlns="http://www.w3.org/2000/svg"><defs><mask id="waist-top-alpha" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="939" height="1676"><image href="${a}" width="939" height="1676"/></mask><filter id="waist-contact" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="soft"/><feOffset in="soft" dy="${bottomAbove?-4:4}" result="lift"/><feFlood flood-color="#302922" flood-opacity="0.18"/><feComposite in2="lift" operator="in"/><feComposite in2="SourceAlpha" operator="out"/></filter></defs><g mask="url(#waist-top-alpha)"><image href="${b}" width="939" height="1676" filter="url(#waist-contact)"/></g></svg>`;
  }
- const api={geometry,style,waistShadow};root.GarmentBodyOcclusion=api;if(typeof module!=='undefined')module.exports=api;
+ // Containment is separate from ordinary alpha compositing. Only fitted inner
+ // roles may be constrained: never shrink a skirt or an outer coat to the body.
+ // ordered is the SAME back-to-front list used by the renderer, not slot labels.
+ const covers={bra:['top','dress','coat'],briefs:['bottom','dress'],top:['coat']};
+ function containment(item,ordered){
+  const at=ordered.findIndex(row=>row.id===item.id);
+  if(at<0)return [];
+  return ordered.slice(at+1).filter(row=>(covers[item.slot]||[]).includes(row.slot));
+ }
+ function garmentStyle(item,ordered,bodyURL){
+  if(!bodyURL||!containment(item,ordered).length)return '';
+  // CSS masks consume alpha, NOT skin brightness. Keep the original HD image;
+  // neckline/opening/lace visibility is still the outer layer's actual alpha.
+  const url=String(bodyURL).replace(/['"\\\n\r<>]/g,c=>'%'+c.charCodeAt(0).toString(16));
+  return `mask-image:url('${url}');-webkit-mask-image:url('${url}');mask-mode:alpha;mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-position:0 0;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;`;
+ }
+ const api={geometry,style,waistShadow,containment,garmentStyle};root.GarmentBodyOcclusion=api;if(typeof module!=='undefined')module.exports=api;
 })(typeof window==='undefined'?globalThis:window);
 

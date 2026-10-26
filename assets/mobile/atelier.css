@@ -29,4 +29,31 @@ body:has(#content)>main{background:var(--paper)}body:has(#content) button{border
 .mobile-app #hair-colors .mobile-swatches{display:flex;flex-wrap:nowrap;overflow-x:auto;max-height:34px}.mobile-app #hair-colors .palette-editor{display:flex}
 
 /* Four corner studio wash: mauve, sage, warm sand and mist. */
+.mobile-app #hair-colors [hidden]{display:none!important}
+
+.mobile-app #hair-colors{padding:1px 14px 5px;display:flex;flex-direction:column;gap:2px}
+.mobile-app .hair-control-row{display:flex;align-items:center;gap:8px;height:30px;min-height:30px;max-height:30px;min-width:0;font-size:10px}
+.mobile-app .hair-row-title{flex:0 0 35px;font-size:9px;letter-spacing:.08em;color:var(--muted)}
+.mobile-app #hair-colors .hair-control-row button{width:auto;min-width:0;height:26px;border:0;border-radius:0;box-shadow:none;background:transparent;color:var(--muted);padding:3px 5px;font:inherit;white-space:nowrap}
+.mobile-app #hair-colors .hair-control-row button[aria-pressed=true]{color:var(--ink)}
+.mobile-app .hair-mode-slider{display:flex;position:relative;background:color-mix(in srgb,var(--line) 50%,transparent);width:158px;height:25px;flex-shrink:0}
+.mobile-app .hair-mode-slider i{position:absolute;top:2px;bottom:2px;left:2px;width:calc(50% - 2px);background:var(--paper);transition:transform .18s ease;pointer-events:none}
+.mobile-app .hair-mode-slider[data-mode=multiple] i{transform:translateX(100%)}
+.mobile-app #hair-colors .hair-mode-slider button{position:relative;width:50%;height:25px;font-size:9px;letter-spacing:.06em;padding:0}
+.mobile-app #hair-colors [data-hair-auto-tones]{margin-left:auto}
+.mobile-app .hair-custom-colors{display:flex;gap:7px;flex-shrink:0}
+.mobile-app .hair-custom-colors label{display:flex;align-items:center;gap:3px;font-size:10px;cursor:pointer;white-space:nowrap}
+.mobile-app .hair-custom-colors input[type=color]{appearance:none;width:14px;height:18px;min-width:14px;padding:0;border:0;border-radius:0;background:transparent;cursor:pointer}
+.mobile-app .hair-custom-colors input::-webkit-color-swatch-wrapper{padding:2px 0}
+.mobile-app .hair-custom-colors input::-webkit-color-swatch{border:1px solid var(--line);border-radius:0}
+.mobile-app #hair-colors .hair-color-row .mobile-swatches{flex:1;min-width:0;gap:3px;padding:0 0 0 7px;margin:0;height:26px;min-height:0;border-left:1px solid var(--line);align-items:center;scrollbar-width:none}
+.mobile-app #hair-colors .hair-color-row [data-palette]{width:22px;height:22px;min-width:22px;border:4px solid #f3efeb!important;background:var(--swatch);padding:0}
+.mobile-app #hair-colors .hair-color-row [data-palette].selected:after{inset:-3px}
+.mobile-app .hair-position-row select{flex:1;min-width:0;width:0;height:26px;border:0;border-bottom:1px solid var(--line);border-radius:0;background:transparent;color:var(--ink);font:inherit;text-overflow:ellipsis;padding:0 2px}
+.mobile-app .hair-position-actions{display:flex;gap:2px;flex-shrink:0}
+.mobile-app #hair-colors .hair-position-actions button[aria-pressed=true]{box-shadow:inset 0 -1px var(--mark)}
+.mobile-app #hair-colors .hair-control-row button:disabled{opacity:.3;cursor:default}
+@media(max-width:360px){.mobile-app #hair-colors{padding-left:10px;padding-right:10px}.mobile-app .hair-control-row{gap:5px}.mobile-app .hair-row-title{flex-basis:29px}.mobile-app .hair-custom-colors{gap:4px}.mobile-app .hair-custom-colors label{gap:2px;font-size:9px}.mobile-app .hair-mode-slider{width:146px}}
 .mobile-app .stage{background-color:#F8F6F3;background-image:radial-gradient(ellipse at 0% 0%,rgba(200,183,201,.56),transparent 65%),radial-gradient(ellipse at 100% 0%,rgba(167,177,160,.42),transparent 65%),radial-gradient(ellipse at 0% 100%,rgba(230,222,215,.78),transparent 65%),radial-gradient(ellipse at 100% 100%,rgba(200,183,201,.38),transparent 65%)}
+
+.hair-color-name-dialog{width:min(320px,90vw);border:1px solid var(--line,#ddd);border-radius:0;background:var(--paper,#f8f6f3);color:var(--ink,#50484e);padding:20px}.hair-color-name-dialog::backdrop{background:#302a3438}.hair-color-name-dialog h2{font:16px Georgia,serif;margin:0 0 18px}.hair-color-name-dialog label{display:flex;align-items:center;gap:12px;font-size:12px}.hair-color-name-dialog input{width:0;flex:1;min-width:0;padding:6px;border:0;border-bottom:1px solid var(--line,#ddd);background:transparent;color:inherit;font:inherit}.hair-color-name-dialog form>div{display:flex;justify-content:flex-end;gap:16px;margin-top:20px}.hair-color-name-dialog button{padding:5px;font-size:12px}

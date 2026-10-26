@@ -2,7 +2,7 @@
 (function(root){
  function merge(player,editor){
   const next={...player,positionDefaults:{front:{...(player.positionDefaults?.front||{}),...(editor.positionDefaults?.front||{})},back:{...(player.positionDefaults?.back||{}),...(editor.positionDefaults?.back||{})}},piecePlacement:{...(player.piecePlacement||{}),...(editor.piecePlacement||{})}};
-  if(Array.isArray(editor.palette))next.palette=editor.palette.filter(v=>Array.isArray(v)&&/^#[0-9a-f]{6}$/i.test(v[0])&&typeof v[1]==='string').map(v=>[v[0].toLowerCase(),v[1].slice(0,24)]);
+  if(Array.isArray(editor.palette))next.palette=editor.palette.filter(v=>Array.isArray(v)&&/^#[0-9a-f]{6}$/i.test(v[0])&&typeof v[1]==='string').map(v=>[v[0].toLowerCase(),v[1].slice(0,24),...(v[2]?.kind==='highlight'?[JSON.parse(JSON.stringify(v[2]))]:[])]);
   // Older editor versions persist free width/height transforms on the active fit.
   for(const side of ['front','back'])if(editor[side]&&editor[side]!=='none'&&editor[side+'Fit']&&(!editor.positionDefaults?.[side]?.[editor[side]]||['x','y'].every(k=>(editor.positionDefaults[side][editor[side]][k]||0)===0)&&editor.positionDefaults[side][editor[side]].scale===1.2&&(editor.positionDefaults[side][editor[side]].sx||1)===1&&(editor.positionDefaults[side][editor[side]].sy||1)===1))next.positionDefaults[side][editor[side]]={...(next.positionDefaults[side][editor[side]]||{}),...editor[side+'Fit']};
   for(const side of ['front','back'])if(next.positionDefaults[side][next[side]])next[side+'Fit']={...next.positionDefaults[side][next[side]]};
@@ -12,7 +12,7 @@
  const key='wardrobe-mobile-hair-v1';root.HAIR_STORAGE_KEY=key;
  let published={},publishedStamp;
  function sync(){try{
-  const editor=JSON.parse(localStorage.getItem('wardrobe-hair-v1')||'{}'),stored=localStorage.getItem(key),player=stored?JSON.parse(stored):{...editor,enabled:true},next=merge(merge(player,editor),published);const personal=JSON.parse(localStorage.getItem('wardrobe-mobile-palette-v1')||'null');if(Array.isArray(personal))next.palette=personal;const value=JSON.stringify(next);
+  const editor=JSON.parse(localStorage.getItem('wardrobe-hair-v1')||'{}'),stored=localStorage.getItem(key),player=stored?JSON.parse(stored):{...editor,enabled:true},next=merge(merge(player,editor),published);const personal=JSON.parse(localStorage.getItem('wardrobe-mobile-palette-v1')||'null');if(Array.isArray(personal))next.palette=personal;const placements=JSON.parse(localStorage.getItem('wardrobe-mobile-hair-placement-v1')||'{}');for(const [id,layer]of Object.entries(placements))if(/^(front|back):\d\d$/.test(id)&&['front','behind'].includes(layer))next.piecePlacement[id]=layer;const value=JSON.stringify(next);
   if(value!==stored){localStorage.setItem(key,value);root.dispatchEvent(new CustomEvent('hair-defaults-synced',{detail:next}));}
  }catch(e){console.warn('发型位置暂未同步',e);}}
  let refreshFlight=null,refreshTimer;

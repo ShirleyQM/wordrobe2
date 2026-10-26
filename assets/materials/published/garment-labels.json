@@ -2752,5 +2752,65 @@
     "en": "Night Letters · Bandeau",
     "originalName": "无肩带内裤",
     "price": 40
+  },
+  "botanical-watercolor-gown-v1": {
+    "zh": "街角咖啡 · 花溪披风大摆礼裙",
+    "en": "Corner Café · Dress",
+    "originalName": "花溪披风大摆礼裙",
+    "price": 95
+  },
+  "botanical-wine-lace-dress-v1": {
+    "zh": "秘密花园 · 绛莓花网挂脖裙",
+    "en": "Secret Garden · Dress",
+    "originalName": "绛莓花网挂脖裙",
+    "price": 75
+  },
+  "botanical-petal-mini-v1": {
+    "zh": "夜航来信 · 蜜桃花瓣露肩裙",
+    "en": "Night Letters · Off-Shoulder Dress",
+    "originalName": "蜜桃花瓣露肩裙",
+    "price": 75
+  },
+  "botanical-leaf-gown-v1": {
+    "zh": "初晴 · 花叶露肩拖尾礼裙",
+    "en": "First Light · Off-Shoulder Dress",
+    "originalName": "花叶露肩拖尾礼裙",
+    "price": 75
+  },
+  "printed-87396232-969e-4b4a-8e07-799a3d556445": {
+    "zh": "电影散场 · 花枝印花 · 经典圆领 T 恤 · 典藏款",
+    "en": "After the Film · T-Shirt Edition",
+    "originalName": "花枝印花＋经典圆领 T 恤（顺袖款）＋001",
+    "price": 45
+  },
+  "printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7": {
+    "zh": "晨间序曲 · 花枝印花 · 经典圆领 T 恤 · 典藏款",
+    "en": "Morning Prelude · T-Shirt Edition",
+    "originalName": "花枝印花＋经典圆领 T 恤（顺袖款）＋002",
+    "price": 50
+  },
+  "fresh-gingham-roundcup-v1": {
+    "zh": "雨后小巷 · 格纹圆杯",
+    "en": "After the Rain · Plaid Bra",
+    "originalName": "晴蓝格纹圆杯",
+    "price": 40
+  },
+  "fresh-square-cami-v1": {
+    "zh": "旧书店 · 格纹方领背心",
+    "en": "Old Bookshop · Plaid Tank Top",
+    "originalName": "奶油格纹方领背心",
+    "price": 40
+  },
+  "fresh-botanical-bustier-v1": {
+    "zh": "电影散场 · 叶语刺绣小束身",
+    "en": "After the Film · Embellished Bra",
+    "originalName": "叶语刺绣小束身",
+    "price": 45
+  },
+  "fresh-ribbon-ruffle-v1": {
+    "zh": "月下散步 · 桃雾丝带荷叶杯",
+    "en": "Moonlit Walk · Bra",
+    "originalName": "桃雾丝带荷叶杯",
+    "price": 60
   }
 }
