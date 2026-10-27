@@ -1,7 +1,7 @@
 'use strict';
 const iconPaths={top:'M4 7 9 3h6l5 4-3 5-2-1v10H9V11l-2 1Z',bottom:'M6 3h12l2 18h-6l-2-11-2 11H4Z',dress:'m9 3-2 6 3 3-5 9h14l-5-9 3-3-2-6',coat:'M8 3 3 8l3 5 2-2v10h8V11l2 2 3-5-5-5-4 5Z',shoes:'M4 8h6l2 6 8 2v5H3v-7Z',socks:'M9 3h8v11l-7 7H4v-5l5-4Z',bag:'M4 8h16v13H4Zm4 0V5a4 4 0 0 1 8 0v3',jewelry:'m3 7 5-4h8l5 4-9 14Zm0 0h18M8 3l4 18 4-18',bra:'M3 11 5 4m16 7-2-7M3 11c0 11 9 9 9 2 0 7 9 9 9-2Z',briefs:'M3 7h18l-6 13H9Zm0 4h18'};
 function uiIcon(kind){const path=kind==='lock'?'M6 10h12v11H6ZM8 10V6a4 4 0 0 1 8 0v4':kind==='book'?'M3 4h7l2 2 2-2h7v16h-7l-2 2-2-2H3ZM12 6v16':kind==='buy'?'M4 8h16l-2 13H6ZM8 8V6a4 4 0 0 1 8 0v2':iconPaths[kind]||iconPaths.top;return `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="${path}" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;}
-const pointsUI=window.PointsUI;
+// pointsUI is initialized by points-ui.js before the mobile application.
 const tailorUnlocked=()=>PlayerEconomy.owns('feature:tailor');
 let trialId=null,testCategory=false,railDrag=null,panGesture=null,panX=0,panY=0,orderEditing=false,demoMode='print',demoStamp='';
 window.MobilePreview={current:()=>trialId?item(trialId):null,clear:()=>{trialId=null;}};
