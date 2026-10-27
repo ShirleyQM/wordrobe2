@@ -39,7 +39,7 @@ window.FaceMotion=(()=>{
    if(coverage){const f=ctx.getImageData(405,154,131,49).data,a=x.createImageData(131,49);a.data.set(HairFaceReveal.region(f,coverage,131,49,405,154,reveal.amount));x.putImageData(a,405,154);}
   }
  }
- function tick(now){requestAnimationFrame(tick);if(document.hidden||now-last<62)return;last=now;draw(now);sync();}
+ function tick(now){requestAnimationFrame(tick);if(document.hidden||document.getElementById('main-wardrobe')?.hidden||now-last<62)return;last=now;draw(now);sync();}
  function setEnabled(value){enabled=!!value;try{localStorage.setItem('wardrobe-face-motion',enabled?'on':'off');}catch(e){}manual=null;draw(performance.now());sync();if(typeof render==='function')render();}
  function setPose(value){manual=value?{...pose,blink:0,gaze:0,smile:0,brow:0,mouth:'neutral',...value}:null;draw(performance.now());sync();}
  function speak(text){if(!window.speechSynthesis||!window.SpeechSynthesisUtterance)return false;speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.9;u.onstart=()=>{speaking=true;speechAt=performance.now();};u.onend=u.onerror=()=>{speaking=false;};speechSynthesis.speak(u);return true;}

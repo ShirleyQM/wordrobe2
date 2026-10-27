@@ -49,7 +49,7 @@
   else if(e.target.closest('[data-variation-save]'))save(id,panel);
  });
  async function refresh(){try{
-  const r=await fetch('/api/garment-variations',{cache:'no-store'});if(!r.ok)throw Error('变化备注加载失败，请刷新重试');const data=await r.json();saved=data.items;loaded=true;error='';toolbar();redraw();
+  const r=await fetch('/api/garment-variations',{cache:'no-store'});if(!r.ok)throw Error('变化备注加载失败，请刷新重试');const data=await r.json();const changed=!loaded||JSON.stringify(saved)!==JSON.stringify(data.items);saved=data.items;loaded=true;error='';toolbar();if(changed)redraw();
  }catch(e){error=e.message;toolbar();}}
  document.querySelector('#variation-export').onclick=async()=>{
   const b=document.querySelector('#variation-export');b.disabled=true;
