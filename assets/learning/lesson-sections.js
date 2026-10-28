@@ -39,10 +39,10 @@ $('#content').onclick=async function(e){const b=e.target.closest('button');if(!b
 const directoryHome=home;home=async function(){document.body.classList.remove('section-learning');await directoryHome();const path=$('.lesson-path');if(path)path.textContent=tr('6 words · 12 questions · 1 story · 70 points','6 个词 · 12 道语境题 · 1 篇文章 · 70 积分');};
 const originalProgress=showProgress;showProgress=function(){originalProgress();const unfinished=course.filter(l=>l.words&&!journey.completed[l.id]&&journey.sessions?.[l.id]);for(const l of unfinished){const s=journey.sessions[l.id],p=sectionProgress(s);$('#content').insertAdjacentHTML('beforeend',`<button class="progress-word" data-level="${l.id}"><strong data-no-i18n>${esc(l.title)}</strong><span>${tr('In progress','学习中')} · ${p[0].done}/${p[0].total} ${tr('words','词')} · ${p[1].done}/${p[1].total} ${tr('practice','练习')}</span></button>`);}};
 // Keep the place inside a long article as well as the current question.
-function saveLessonPosition(){const s=journey.session;if(!journeyVisible||lessonDirectory||!s?.plan)return;s.scrollPositions=s.scrollPositions||{};s.scrollPositions[s.step]=window.scrollY||0;persistJourney();}
+function saveLessonPosition(){const s=journey.session;if(!journeyVisible||lessonDirectory||s?.celebrate||!s?.plan)return;s.scrollPositions=s.scrollPositions||{};s.scrollPositions[s.step]=window.scrollY||0;persistJourney();}
 let lessonScrollTimer;
 window.addEventListener('scroll',()=>{clearTimeout(lessonScrollTimer);lessonScrollTimer=setTimeout(saveLessonPosition,160);},{passive:true});
 window.addEventListener('pagehide',saveLessonPosition);
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden')saveLessonPosition();});
 const sectionRenderWithPosition=renderJourney;
-renderJourney=function(){sectionRenderWithPosition();const s=journey.session;if(!lessonDirectory&&s?.plan&&course?.find(l=>l.id===s.level)?.words){const step=s.step;requestAnimationFrame(()=>{if(journey.session===s&&s.step===step&&!lessonDirectory)window.scrollTo(0,s.scrollPositions?.[step]||0);});}};
+renderJourney=function(){sectionRenderWithPosition();const s=journey.session;if(!lessonDirectory&&!s?.celebrate&&s?.plan&&course?.find(l=>l.id===s.level)?.words){const step=s.step;requestAnimationFrame(()=>{if(journey.session===s&&s.step===step&&!lessonDirectory)window.scrollTo(0,s.scrollPositions?.[step]||0);});}};
