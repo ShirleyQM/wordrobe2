@@ -44,6 +44,10 @@
             {
               "en": "We should prepare for the worst-case scenario.",
               "zh": "我们应该为最坏的情况做好准备。"
+            },
+            {
+              "en": "The team prepared for a worst-case scenario.",
+              "zh": "团队为最坏的情形做了准备。"
             }
           ],
           "questions": [
@@ -107,7 +111,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "A possible situation, especially one used to plan ahead."
         },
         {
           "word": "rate",
@@ -125,6 +130,10 @@
             {
               "en": "This hotel offers a lower rate in winter.",
               "zh": "这家酒店冬季收费更低。"
+            },
+            {
+              "en": "The hotel offers a lower room rate in winter.",
+              "zh": "这家酒店冬季的房价更低。"
             }
           ],
           "questions": [
@@ -188,7 +197,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Also: a price charged for a service, as in a room rate."
         },
         {
           "word": "independent",
@@ -206,6 +216,10 @@
             {
               "en": "She became financially independent after finding a job.",
               "zh": "找到工作后，她实现了经济独立。"
+            },
+            {
+              "en": "Living alone made her more independent.",
+              "zh": "独自生活让她变得更加独立。"
             }
           ],
           "questions": [
@@ -269,7 +283,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Also: able to make decisions without relying on others."
         },
         {
           "word": "emissions",
@@ -287,6 +302,10 @@
             {
               "en": "The factory must measure its carbon emissions.",
               "zh": "这家工厂必须测量碳排放量。"
+            },
+            {
+              "en": "Taking the train can reduce transport emissions.",
+              "zh": "乘火车可以减少交通排放。"
             }
           ],
           "questions": [
@@ -350,7 +369,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Often plural: gases or other substances released into the air."
         },
         {
           "word": "peak",
@@ -368,6 +388,10 @@
             {
               "en": "Temperatures may peak in the afternoon.",
               "zh": "气温可能在下午达到最高值。"
+            },
+            {
+              "en": "Demand usually peaks in the evening.",
+              "zh": "需求通常在傍晚达到峰值。"
             }
           ],
           "questions": [
@@ -431,7 +455,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Also a verb: to reach the highest point."
         },
         {
           "word": "coastal",
@@ -449,6 +474,10 @@
             {
               "en": "We followed a coastal road past several fishing villages.",
               "zh": "我们沿着一条海岸公路经过几个渔村。"
+            },
+            {
+              "en": "The coastal path stays close to the water.",
+              "zh": "这条海岸小径一直沿着水边。"
             }
           ],
           "questions": [
@@ -512,7 +541,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Used for places, people, or activity near the sea."
         }
       ],
       "word": "scenario · rate · independent · emissions · peak · coastal",
@@ -972,7 +1002,36 @@
         {
           "phase": "reading"
         }
-      ]
+      ],
+      "readingQuestions": [
+        {
+          "id": "sea-main",
+          "prompt": "Which statement best captures the article’s main point?",
+          "options": [
+            "Cooling the air will immediately reverse sea level rise.",
+            "Oceans respond slowly, so sea levels can keep rising after temperatures fall.",
+            "Satellite measurements replace all climate models."
+          ],
+          "answer": "Oceans respond slowly, so sea levels can keep rising after temperatures fall.",
+          "explanation": "The ocean reacts more slowly than the air. A lower temperature does not mean an immediate fall in sea level.",
+          "translation": "哪句话最能概括文章主旨？",
+          "explanationZh": "海洋的反应比空气慢。气温下降，不代表海平面会立即下降。"
+        },
+        {
+          "id": "sea-action",
+          "prompt": "A coastal town reads this report. Which response follows from it?",
+          "options": [
+            "Stop flood planning once temperatures begin falling.",
+            "Focus only on the temperature peak and ignore its duration.",
+            "Prepare for flooding while continuing to reduce emissions."
+          ],
+          "answer": "Prepare for flooding while continuing to reduce emissions.",
+          "explanation": "Preparation and emission reductions work together: near-term rise is expected, but later outcomes still depend on our choices.",
+          "translation": "一个沿海小镇读了这份报告。哪种应对符合文章？",
+          "explanationZh": "防洪准备与减排需要同时进行：短期上升仍会发生，但长期结果仍取决于人类的选择。"
+        }
+      ],
+      "description": "Follow the evidence from a warming ocean to a coastal town."
     },
     {
       "id": "article-pilot-02",
@@ -1016,6 +1075,10 @@
             {
               "en": "I could detect a slight change in her voice.",
               "zh": "我能察觉到她的声音有一点变化。"
+            },
+            {
+              "en": "The sensor can detect a small change in temperature.",
+              "zh": "传感器能检测到细微的温度变化。"
             }
           ],
           "questions": [
@@ -1079,7 +1142,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Often used when something is hard to see or notice."
         },
         {
           "word": "hazardous",
@@ -1097,6 +1161,10 @@
             {
               "en": "The team studies potentially hazardous asteroids.",
               "zh": "团队研究可能带来危险的小行星。"
+            },
+            {
+              "en": "The icy road made driving hazardous.",
+              "zh": "结冰的道路让驾驶变得危险。"
             }
           ],
           "questions": [
@@ -1160,7 +1228,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Common with waste, chemicals, conditions, and work."
         },
         {
           "word": "mitigate",
@@ -1178,6 +1247,10 @@
             {
               "en": "The new barriers help mitigate flood risk.",
               "zh": "新的屏障有助于降低洪水风险。"
+            },
+            {
+              "en": "Shade helps mitigate the effects of extreme heat.",
+              "zh": "遮阴有助于缓解极端高温的影响。"
             }
           ],
           "questions": [
@@ -1241,7 +1314,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "To reduce harm; it does not necessarily remove the problem."
         },
         {
           "word": "robust",
@@ -1259,6 +1333,10 @@
             {
               "en": "The finding is supported by robust evidence from several studies.",
               "zh": "多项研究提供的有力证据支持这一发现。"
+            },
+            {
+              "en": "We need a robust plan that can survive delays.",
+              "zh": "我们需要一个即使遇到延误也能执行的稳健计划。"
             }
           ],
           "questions": [
@@ -1322,7 +1400,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Also: strong enough to keep working under difficult conditions."
         },
         {
           "word": "efficient",
@@ -1340,6 +1419,10 @@
             {
               "en": "This heater is more energy-efficient than the old one.",
               "zh": "这台暖气比旧款更节能。"
+            },
+            {
+              "en": "An efficient washing machine uses less water.",
+              "zh": "高效洗衣机用水更少。"
             }
           ],
           "questions": [
@@ -1403,7 +1486,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Getting a useful result with little wasted time or energy."
         },
         {
           "word": "survey",
@@ -1421,6 +1505,10 @@
             {
               "en": "A passenger survey asked people about delays.",
               "zh": "一项乘客问卷调查询问了人们对延误的看法。"
+            },
+            {
+              "en": "The survey asked students about their study habits.",
+              "zh": "这项调查询问了学生的学习习惯。"
             }
           ],
           "questions": [
@@ -1484,7 +1572,8 @@
                 }
               }
             }
-          ]
+          ],
+          "usage": "Also: a set of questions used to collect people’s opinions."
         }
       ],
       "word": "detect · hazardous · mitigate · robust · efficient · survey",
@@ -1944,7 +2033,36 @@
         {
           "phase": "reading"
         }
-      ]
+      ],
+      "readingQuestions": [
+        {
+          "id": "asteroid-main",
+          "prompt": "Why is detecting an asteroid early useful?",
+          "options": [
+            "It gives scientists more time to assess the risk and plan a response.",
+            "It proves that every nearby asteroid will hit Earth.",
+            "It removes the need to observe the asteroid again."
+          ],
+          "answer": "It gives scientists more time to assess the risk and plan a response.",
+          "explanation": "Detection is the beginning of risk assessment, not a prediction of an impact. More time makes mitigation more practical.",
+          "translation": "为什么尽早发现小行星有帮助？",
+          "explanationZh": "发现只是风险评估的起点，并不代表一定会撞击。更早发现能为应对争取时间。"
+        },
+        {
+          "id": "asteroid-inference",
+          "prompt": "What makes an asteroid survey useful for planetary defense?",
+          "options": [
+            "Finding only the brightest objects once.",
+            "A systematic search that can detect objects missed by earlier observations.",
+            "Assuming that an object is harmless whenever it is difficult to see."
+          ],
+          "answer": "A systematic search that can detect objects missed by earlier observations.",
+          "explanation": "A robust survey searches systematically and improves coverage, including objects that are difficult to detect.",
+          "translation": "什么样的小行星巡查有助于行星防御？",
+          "explanationZh": "可靠的巡查会系统地搜索、扩大覆盖范围，包括过去难以发现的目标。"
+        }
+      ],
+      "description": "Look for hidden risks, then decide what the evidence supports."
     }
   ]
 }
