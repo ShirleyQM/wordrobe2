@@ -1,0 +1,28 @@
+30-lesson course — 2026-10-29
+
+The public course now contains 30 six-word lessons: 180 target words, 540 bilingual examples, 360 contextual word questions and 60 reading checks.
+Lessons 3–30 are original educational narratives, not news reports or official exam questions. All six target words appear in the accompanying reading. Each word has two phrases, three examples and two separately authored contexts.
+The first two published lesson IDs, existing progress and wallet credit IDs are preserved.
+The manifest loads four versioned JSON packs. The offline packer embeds a merged course so no extra image-file budget is required.
+Build: node tools/learning-course-30/build.cjs
+Validate: node tools/learning-course-30/test.cjs
+
+Original pilot references retained below:
+
+Article pilot lessons — 2026-10-24
+
+Two 6-word lessons, followed by mixed practice and reading.
+All examples, questions, and reading adaptations were authored for this project. These are not GRE past-paper questions.
+
+1. NASA Sea Level Change Team, October 6, 2026:
+https://sealevel.nasa.gov/news/283/the-seas-will-keep-rising-even-if-the-planet-cools/
+Target words found in the report: scenario, rate, independent, emissions, peak, coastal.
+
+2. NASA Science Editorial Team, May 5, 2026:
+https://science.nasa.gov/blogs/neo-surveyor/2026/05/05/nasas-next-gen-near-earth-asteroid-space-telescope-takes-shape/
+Target words found in the report: detect, hazardous, mitigate, robust, efficient, survey.
+
+The adaptations summarize the reports rather than reproducing their full text. No images are reused and no NASA endorsement is implied. Original links and adaptation labels appear at the end of reading, never in quiz UI.
+Build data: tools/build-article-lessons.cjs
+Validation: test-article-lessons.cjs
+Existing course, progress IDs, wallet, and prior reward IDs remain intact.

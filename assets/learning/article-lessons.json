@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "description": "Two six-word pilot lessons. Project-authored practice and reading adaptations of linked NASA reports; not GRE test questions.",
+  "version": 2,
+  "description": "30 six-word lessons. The first two readings adapt credited NASA reports; lessons 3–30 are original educational scenarios written for Wordrobe, with context questions and reading checks.",
   "levels": [
     {
       "id": "article-pilot-01",
@@ -2064,5 +2064,12 @@
       ],
       "description": "Look for hidden risks, then decide what the evidence supports."
     }
+  ],
+  "totalLessons": 30,
+  "packs": [
+    "article-lessons-03-09.json",
+    "article-lessons-10-16.json",
+    "article-lessons-17-23.json",
+    "article-lessons-24-30.json"
   ]
 }

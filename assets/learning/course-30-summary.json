@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "lessons": 30,
+  "words": 180,
+  "wordQuestions": 360,
+  "readingQuestions": 60,
+  "pointsPerLesson": 70,
+  "levels": [
+    {
+      "id": "article-pilot-01",
+      "number": 1,
+      "title": "Why the sea keeps rising",
+      "words": [
+        "scenario",
+        "rate",
+        "independent",
+        "emissions",
+        "peak",
+        "coastal"
+      ]
+    },
+    {
+      "id": "article-pilot-02",
+      "number": 2,
+      "title": "Finding the asteroids we miss",
+      "words": [
+        "detect",
+        "hazardous",
+        "mitigate",
+        "robust",
+        "efficient",
+        "survey"
+      ]
+    },
+    {
+      "id": "article-course-03",
+      "number": 3,
+      "title": "The last train home",
+      "words": [
+        "alternative",
+        "delay",
+        "reliable",
+        "temporary",
+        "disrupt",
+        "restore"
+      ]
+    },
+    {
+      "id": "article-course-04",
+      "number": 4,
+      "title": "The café that ran out of bread",
+      "words": [
+        "demand",
+        "supply",
+        "scarce",
+        "affordable",
+        "consume",
+        "waste"
+      ]
+    },
+    {
+      "id": "article-course-05",
+      "number": 5,
+      "title": "Did the new lamp help?",
+      "words": [
+        "hypothesis",
+        "variable",
+        "bias",
+        "consistent",
+        "replicate",
+        "evidence"
+      ]
+    },
+    {
+      "id": "article-course-06",
+      "number": 6,
+      "title": "A quieter street",
+      "words": [
+        "resident",
+        "pedestrian",
+        "access",
+        "restrict",
+        "benefit",
+        "balance"
+      ]
+    },
+    {
+      "id": "article-course-07",
+      "number": 7,
+      "title": "The shared kitchen",
+      "words": [
+        "negotiate",
+        "compromise",
+        "boundary",
+        "obligation",
+        "mutual",
+        "resolve"
+      ]
+    },
+    {
+      "id": "article-course-08",
+      "number": 8,
+      "title": "One more year for a jacket",
+      "words": [
+        "durable",
+        "fragile",
+        "maintain",
+        "replace",
+        "retain",
+        "adapt"
+      ]
+    },
+    {
+      "id": "article-course-09",
+      "number": 9,
+      "title": "Two labels for one painting",
+      "words": [
+        "interpret",
+        "context",
+        "perspective",
+        "ambiguous",
+        "contrast",
+        "subtle"
+      ]
+    },
+    {
+      "id": "article-course-10",
+      "number": 10,
+      "title": "Before you share the message",
+      "words": [
+        "claim",
+        "verify",
+        "credible",
+        "misleading",
+        "reveal",
+        "deny"
+      ]
+    },
+    {
+      "id": "article-course-11",
+      "number": 11,
+      "title": "A garden for the island",
+      "words": [
+        "habitat",
+        "diverse",
+        "invasive",
+        "preserve",
+        "decline",
+        "recover"
+      ]
+    },
+    {
+      "id": "article-course-12",
+      "number": 12,
+      "title": "Who gets the scholarship?",
+      "words": [
+        "eligible",
+        "criteria",
+        "merit",
+        "potential",
+        "equitable",
+        "allocate"
+      ]
+    },
+    {
+      "id": "article-course-13",
+      "number": 13,
+      "title": "What does a survey really say?",
+      "words": [
+        "sample",
+        "represent",
+        "random",
+        "proportion",
+        "margin",
+        "infer"
+      ]
+    },
+    {
+      "id": "article-course-14",
+      "number": 14,
+      "title": "Why the word feels familiar",
+      "words": [
+        "recall",
+        "associate",
+        "retrieve",
+        "interval",
+        "reinforce",
+        "distinguish"
+      ]
+    },
+    {
+      "id": "article-course-15",
+      "number": 15,
+      "title": "The launch that got smaller",
+      "words": [
+        "priority",
+        "delegate",
+        "coordinate",
+        "feasible",
+        "constraint",
+        "deadline"
+      ]
+    },
+    {
+      "id": "article-course-16",
+      "number": 16,
+      "title": "When the system says no",
+      "words": [
+        "automate",
+        "assess",
+        "transparent",
+        "accountable",
+        "consent",
+        "override"
+      ]
+    },
+    {
+      "id": "article-course-17",
+      "number": 17,
+      "title": "A forecast is not a promise",
+      "words": [
+        "probability",
+        "uncertainty",
+        "anticipate",
+        "precaution",
+        "fluctuate",
+        "severe"
+      ]
+    },
+    {
+      "id": "article-course-18",
+      "number": 18,
+      "title": "More than a room of books",
+      "words": [
+        "resource",
+        "accessible",
+        "inclusive",
+        "literacy",
+        "initiative",
+        "sustain"
+      ]
+    },
+    {
+      "id": "article-course-19",
+      "number": 19,
+      "title": "Why the same shirt looks different",
+      "words": [
+        "texture",
+        "silhouette",
+        "drape",
+        "versatile",
+        "elaborate",
+        "understated"
+      ]
+    },
+    {
+      "id": "article-course-20",
+      "number": 20,
+      "title": "The label inside the coat",
+      "words": [
+        "craftsmanship",
+        "authentic",
+        "imitation",
+        "origin",
+        "heritage",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "article-course-21",
+      "number": 21,
+      "title": "The discount that cost more",
+      "words": [
+        "incentive",
+        "trade-off",
+        "consequence",
+        "rational",
+        "impulse",
+        "justify"
+      ]
+    },
+    {
+      "id": "article-course-22",
+      "number": 22,
+      "title": "The map beyond the center",
+      "words": [
+        "urban",
+        "congestion",
+        "infrastructure",
+        "transit",
+        "commute",
+        "peripheral"
+      ]
+    },
+    {
+      "id": "article-course-23",
+      "number": 23,
+      "title": "A better answer at the interview",
+      "words": [
+        "articulate",
+        "concise",
+        "relevant",
+        "clarify",
+        "acknowledge",
+        "assert"
+      ]
+    },
+    {
+      "id": "article-course-24",
+      "number": 24,
+      "title": "The festival’s missing room",
+      "words": [
+        "capacity",
+        "accommodate",
+        "flexible",
+        "contingency",
+        "unforeseen",
+        "revise"
+      ]
+    },
+    {
+      "id": "article-course-25",
+      "number": 25,
+      "title": "Where did the missing plastic go?",
+      "words": [
+        "accumulate",
+        "fragment",
+        "persist",
+        "disperse",
+        "absorb",
+        "residue"
+      ]
+    },
+    {
+      "id": "article-course-26",
+      "number": 26,
+      "title": "A bowl beneath the floor",
+      "words": [
+        "artifact",
+        "excavate",
+        "date",
+        "trace",
+        "intact",
+        "reconstruct"
+      ]
+    },
+    {
+      "id": "article-course-27",
+      "number": 27,
+      "title": "A pace that can last",
+      "words": [
+        "fatigue",
+        "sustainable",
+        "pace",
+        "replenish",
+        "resilience",
+        "moderate"
+      ]
+    },
+    {
+      "id": "article-course-28",
+      "number": 28,
+      "title": "A clever idea needs a guardrail",
+      "words": [
+        "innovation",
+        "regulation",
+        "safeguard",
+        "unintended",
+        "dilemma",
+        "oversight"
+      ]
+    },
+    {
+      "id": "article-course-29",
+      "number": 29,
+      "title": "The result that did not repeat",
+      "words": [
+        "scrutinize",
+        "corroborate",
+        "tentative",
+        "compelling",
+        "refute",
+        "concede"
+      ]
+    },
+    {
+      "id": "article-course-30",
+      "number": 30,
+      "title": "A garden that can take the rain",
+      "words": [
+        "resilient",
+        "alleviate",
+        "collaborate",
+        "proportionate",
+        "evaluate",
+        "viable"
+      ]
+    }
+  ]
+}
