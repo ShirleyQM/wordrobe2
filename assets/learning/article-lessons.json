@@ -46,8 +46,8 @@
               "zh": "我们应该为最坏的情况做好准备。"
             },
             {
-              "en": "The team prepared for a worst-case scenario.",
-              "zh": "团队为最坏的情形做了准备。"
+              "en": "Before changing careers, she considered several possible scenarios.",
+              "zh": "转行前，她考虑了几种可能的情况。"
             }
           ],
           "questions": [
@@ -132,8 +132,8 @@
               "zh": "这家酒店冬季收费更低。"
             },
             {
-              "en": "The hotel offers a lower room rate in winter.",
-              "zh": "这家酒店冬季的房价更低。"
+              "en": "How would you rate the service on a scale of one to five?",
+              "zh": "如果按一到五分打分，你会给这项服务评几分？"
             }
           ],
           "questions": [
@@ -198,7 +198,7 @@
               }
             }
           ],
-          "usage": "Also: a price charged for a service, as in a room rate."
+          "usage": "Also a verb: to judge quality or give a score. A room rate is the price of a room."
         },
         {
           "word": "independent",
@@ -218,8 +218,8 @@
               "zh": "找到工作后，她实现了经济独立。"
             },
             {
-              "en": "Living alone made her more independent.",
-              "zh": "独自生活让她变得更加独立。"
+              "en": "The newspaper is independent of any political party.",
+              "zh": "这家报纸独立于任何政党。"
             }
           ],
           "questions": [
@@ -304,8 +304,8 @@
               "zh": "这家工厂必须测量碳排放量。"
             },
             {
-              "en": "Taking the train can reduce transport emissions.",
-              "zh": "乘火车可以减少交通排放。"
+              "en": "The new car meets stricter emissions standards.",
+              "zh": "这款新车符合更严格的排放标准。"
             }
           ],
           "questions": [
@@ -390,8 +390,8 @@
               "zh": "气温可能在下午达到最高值。"
             },
             {
-              "en": "Demand usually peaks in the evening.",
-              "zh": "需求通常在傍晚达到峰值。"
+              "en": "Snow still covers the mountain peak in June.",
+              "zh": "六月时山顶仍覆盖着积雪。"
             }
           ],
           "questions": [
@@ -456,7 +456,7 @@
               }
             }
           ],
-          "usage": "Also a verb: to reach the highest point."
+          "usage": "Also: the top of a mountain. As a verb, peak means to reach the highest point."
         },
         {
           "word": "coastal",
@@ -476,8 +476,8 @@
               "zh": "我们沿着一条海岸公路经过几个渔村。"
             },
             {
-              "en": "The coastal path stays close to the water.",
-              "zh": "这条海岸小径一直沿着水边。"
+              "en": "Strong coastal winds supply power to the nearby town.",
+              "zh": "强劲的海岸风为附近的小镇提供电力。"
             }
           ],
           "questions": [
@@ -1077,8 +1077,8 @@
               "zh": "我能察觉到她的声音有一点变化。"
             },
             {
-              "en": "The sensor can detect a small change in temperature.",
-              "zh": "传感器能检测到细微的温度变化。"
+              "en": "The editor failed to detect the error before publication.",
+              "zh": "编辑未能在出版前发现这个错误。"
             }
           ],
           "questions": [
@@ -1163,8 +1163,8 @@
               "zh": "团队研究可能带来危险的小行星。"
             },
             {
-              "en": "The icy road made driving hazardous.",
-              "zh": "结冰的道路让驾驶变得危险。"
+              "en": "Workers must label containers of hazardous chemicals.",
+              "zh": "工人必须为装有危险化学品的容器贴上标签。"
             }
           ],
           "questions": [
@@ -1507,8 +1507,8 @@
               "zh": "一项乘客问卷调查询问了人们对延误的看法。"
             },
             {
-              "en": "The survey asked students about their study habits.",
-              "zh": "这项调查询问了学生的学习习惯。"
+              "en": "The engineer surveyed the site before work began.",
+              "zh": "工程师在开工前勘察了现场。"
             }
           ],
           "questions": [
@@ -1573,7 +1573,7 @@
               }
             }
           ],
-          "usage": "Also: a set of questions used to collect people’s opinions."
+          "usage": "Also a verb: to examine an area carefully. A customer survey collects opinions."
         }
       ],
       "word": "detect · hazardous · mitigate · robust · efficient · survey",
