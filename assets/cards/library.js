@@ -5,7 +5,7 @@
  const escape=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  function records(){try{return JSON.parse(localStorage.getItem(KEY)||'{}');}catch(e){return {};}}
  function owned(c){return !!records()[c.id]||root.PlayerEconomy.owns('fashion-card:'+c.id);}
- async function load(){if(data)return data;if(!pending)pending=fetch('assets/cards/catalog.json?v=cards-panel-20261030').then(r=>{if(!r.ok)throw Error(text('卡册载入失败，点击重试。','Could not load cards. Tap to retry.'));return r.json();}).then(d=>{data=d;return d;}).catch(e=>{pending=null;throw e;});return pending;}
+ async function load(){if(data)return data;if(!pending)pending=fetch('assets/cards/catalog.json?v=cards-panel-20261030').then(r=>{if(!r.ok)throw Error(text('卡册载入失败，点击重试。','Could not load cards. Tap to retry.'));return r.json();}).then(async d=>{data=d;const ids=d.cards.filter(owned).flatMap(c=>c.garments.map(g=>g.id));if(ids.length)await root.PlayerEconomy.grantItems(ids);return d;}).catch(e=>{pending=null;throw e;});return pending;}
  const title=c=>root.I18n?.lang()==='en'?c.title:c.titleZh;
  function forGarment(id){return (data?.cards||[]).filter(c=>c.garments.some(g=>g.id===id));}
  function art(c){return `<div class="collection-art" role="img" aria-label="${escape(title(c))}" style="background-image:url('${escape(c.art.url)}');background-position:${c.art.col*50}% ${c.art.row*50}%"></div>`;}
