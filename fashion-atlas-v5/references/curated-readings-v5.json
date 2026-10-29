@@ -1,0 +1,1562 @@
+[
+  {
+    "series_id": "S01",
+    "title_zh": "张扬穿衣，是对安静奢华的反击吗？",
+    "kind": "趋势评论",
+    "source": {
+      "url": "https://www.elle.com/fashion/trend-reports/a46522520/mob-wife-aesthetic-trend-explained/",
+      "title": "Will the Mob Wife Aesthetic Take a Sledgehammer to Quiet Luxury?",
+      "publisher": "ELLE",
+      "author": "Véronique Hyland",
+      "date": "2024-01-26",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "The hallmark of mob wife style is excess",
+      "quote_zh": "Mob Wife 风格的标志是铺张。"
+    },
+    "guide_en": "Hyland reads mob-wife style as a reaction against restrained dressing. Fur, big hair and animal prints make excess its signature. Her column connects a viral look with screen characters and the wider cycle of feminine fashion archetypes.",
+    "guide_zh": "作者把这股张扬潮流放在克制穿衣的对面，联系影视角色与女性时尚形象。",
+    "focus_zh": "看作者如何从衣服谈到文化，而非只列必买单品。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What defines the style in this guide?",
+        "options_en": [
+          "Minimal decoration",
+          "Deliberate excess",
+          "Soft colours"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读把 excess 作为这股风格的辨识点。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “restrained” mean?",
+        "options_en": [
+          "understated and controlled",
+          "damaged by wear",
+          "made to stretch"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，restrained 在这里表示：understated and controlled。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which detail would you choose to make a quiet outfit more conspicuous, and why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S02",
+    "title_zh": "Indie Sleaze：复兴还能保留随意感吗？",
+    "kind": "编辑对谈",
+    "source": {
+      "url": "https://www.vogue.com/article/indie-sleaze-revival-vogue-fashion-writers-debate",
+      "title": "Can We Ever Really Have an Indie-Sleaze Revival? Vogue Fashion Writers Debate",
+      "publisher": "Vogue",
+      "author": "Christian Allaire; Hannah Jackson",
+      "date": "2025-03-20",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a curated image is everything",
+      "quote_zh": "精心经营的形象成了一切。"
+    },
+    "guide_en": "Two Vogue writers debate an indie-sleaze revival. Allaire remembers improvised clothes and messy styling; he questions whether that spontaneity can survive today’s carefully curated images. The issue is authenticity, rather than simply bringing skinny jeans back.",
+    "guide_zh": "两位编辑讨论：当形象经过精心经营，旧日穿搭的随意还能回来吗？",
+    "focus_zh": "这是两位作者的讨论，不是全行业对复兴的共识。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What tension does the guide identify?",
+        "options_en": [
+          "Vintage clothes versus new clothes",
+          "Runway looks versus retail prices",
+          "Spontaneity versus image management"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读对比自发搭配与精心经营的形象。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “curated” mean?",
+        "options_en": [
+          "accidentally torn",
+          "carefully selected and arranged",
+          "legally protected"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，curated 在这里表示：carefully selected and arranged。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Can a carefully planned outfit still feel spontaneous? Give one example.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S03",
+    "title_zh": "球衣与蕾丝：混搭不只关乎甜酷",
+    "kind": "趋势分析",
+    "source": {
+      "url": "https://fashionjournal.com.au/fashion/blokette-aesthetic-tiktok/",
+      "title": "What’s the deal with TikTok’s ‘blokette’ aesthetic?",
+      "publisher": "Fashion Journal",
+      "author": "Ella Katz",
+      "date": "2023-08-14",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "But fashion isn’t just visual. It’s political.",
+      "quote_zh": "时尚不仅关乎视觉，也涉及政治。"
+    },
+    "guide_en": "Ella Katz describes blokette as a meeting of football jerseys and coquette details. Bold sports colours sit beside lace and ribbons. Her article then asks how this mixture challenges conventional gender categories, rather than treating the outfit as merely cute.",
+    "guide_zh": "文章从球衣与蕾丝的反差出发，进一步讨论服装中的性别分类。",
+    "focus_zh": "原文后半段有设计师访谈，值得接着读。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What does Katz explore beyond appearance?",
+        "options_en": [
+          "Gender categories",
+          "The economics of vintage jerseys",
+          "The technical design of sports fabrics"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读最后一句指出文章进入性别分类的讨论。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “conventional” mean?",
+        "options_en": [
+          "transparent",
+          "unusually expensive",
+          "established or traditional"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，conventional 在这里表示：established or traditional。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Choose two garments usually placed in different style categories. How could they work together?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S04",
+    "title_zh": "Y2K：当年的未来，今天的怀旧",
+    "kind": "时尚回顾",
+    "source": {
+      "url": "https://www.vogue.com/article/y2k-fashion",
+      "title": "Y2K Fashion 101: How the Millennium Started Trending All Over Again",
+      "publisher": "Vogue",
+      "author": "Boutayna Chokrane; Christina Pérez",
+      "date": "2025-01-26",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "fashion is cyclical",
+      "quote_zh": "时尚会循环往复。"
+    },
+    "guide_en": "This overview places Y2K dressing beside the digital excitement and anxiety around the millennium. Its revival remixes a recent past: futuristic references now carry nostalgia. The article offers a broader wardrobe than a single silver, cyber-inspired outfit.",
+    "guide_zh": "这篇回顾把千禧穿衣放回数字时代的兴奋与焦虑中，也解释今天的怀旧。",
+    "focus_zh": "Y2K 的范围比图鉴中 Cyber Y2K 的分类更广。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What makes the revival a paradox?",
+        "options_en": [
+          "Old clothes become wearable technology",
+          "Digital culture removes nostalgia",
+          "Old futuristic ideas now feel nostalgic"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读指出，昔日的未来想象如今成了怀旧素材。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “revival” mean?",
+        "options_en": [
+          "a manufacturing fault",
+          "a return to popularity",
+          "a permanent disappearance"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，revival 在这里表示：a return to popularity。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What object looks futuristic in an old photograph but nostalgic today? Describe it.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S05",
+    "title_zh": "认识 Toteme：极简品牌如何建立辨识度？",
+    "kind": "品牌秀评",
+    "source": {
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/toteme",
+      "title": "Toteme Fall 2024 Ready-to-Wear",
+      "publisher": "Vogue",
+      "author": "Amy Verner",
+      "date": "2024-01-23",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "through its accessories, Toteme is proving more distinctive",
+      "quote_zh": "Toteme 通过配饰显得更有辨识度。"
+    },
+    "guide_en": "Amy Verner reviews Toteme’s runway debut after a decade of growth. She finds its long, lean clothes persuasive but notes comparable options elsewhere. Accessories supply distinction. This is a useful example of praise that still identifies a competitive weakness.",
+    "guide_zh": "秀评肯定细长轮廓，也指出类似衣服并不少见；配饰才带来更强辨识度。",
+    "focus_zh": "注意评论如何同时写优点与保留意见。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Where does Verner locate greater distinction?",
+        "options_en": [
+          "The long, lean silhouette",
+          "Accessories",
+          "The monochrome palette"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读与摘录均把辨识度落在配饰上。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “distinctive” mean?",
+        "options_en": [
+          "recognisable as different",
+          "easy to fold",
+          "sold at a discount"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，distinctive 在这里表示：recognisable as different。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Can an accessory define a brand more strongly than a coat? Explain your view.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S06",
+    "title_zh": "暗黑学院：从荧幕人物到日常衣橱",
+    "kind": "风格报道",
+    "source": {
+      "url": "https://vogue.sg/dark-academia-style/",
+      "title": "The dark academia trend is returning thanks to Jenna Ortega’s Wednesday Addams",
+      "publisher": "Vogue Singapore",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "romanticising the experience of learning",
+      "quote_zh": "把学习的体验浪漫化。"
+    },
+    "guide_en": "Vogue Singapore connects dark academia with Wednesday Addams and a romanticised image of learning. Tweed blazers, pleated skirts and dark colours form its wardrobe. The piece is a styling guide with shopping suggestions, rather than a history of actual academic dress.",
+    "guide_zh": "以 Wednesday 为入口，文章讲粗花呢西装、褶裙和深色配色怎样构成学院想象。",
+    "focus_zh": "原文含购物推荐；读风格描述即可，不需要购买。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "How should this source be read?",
+        "options_en": [
+          "As a contemporary styling guide",
+          "As a history of school uniforms",
+          "As a designer collection review"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读说明它是当代搭配指南，而非学术服装史。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “romanticised” mean?",
+        "options_en": [
+          "measured with precision",
+          "washed at high temperature",
+          "presented as more ideal or appealing"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，romanticised 在这里表示：presented as more ideal or appealing。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which detail makes an outfit feel bookish to you, and where does that association come from?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S07",
+    "title_zh": "Fairycore：小饰物为何能提供情绪价值？",
+    "kind": "人物采访与趋势",
+    "source": {
+      "url": "https://www.nylon.com/fashion/fairycore-aesthetic-clothing-fashion",
+      "title": "Fairycore Is The Glittery Internet Aesthetic That’s Ready To Take Over Spring",
+      "publisher": "NYLON",
+      "author": "Sara Jin Li",
+      "date": "2024-02-20（更新）；2021-03-19（首发）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "Fairycore is accessible magic",
+      "quote_zh": "Fairycore 是触手可及的魔法。"
+    },
+    "guide_en": "NYLON interviews a fashion historian and independent sellers about fairycore. Crystal charms and mushroom jewellery are presented as small sources of optimism. The article links the aesthetic to life after lockdown, with individuality more important than a fixed costume formula.",
+    "guide_zh": "历史研究者与独立卖家谈水晶、蘑菇饰物，以及封锁后人们对乐观情绪的需要。",
+    "focus_zh": "摘录是受访者 Rachel Weingarten 的说法。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What role do the small accessories play?",
+        "options_en": [
+          "They express team loyalty",
+          "They offer optimism",
+          "They demonstrate luxury status"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读将这些小饰物与乐观情绪联系起来。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “charms” mean?",
+        "options_en": [
+          "small decorative objects worn or carried",
+          "care instructions",
+          "garment seams"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，charms 在这里表示：small decorative objects worn or carried。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe a small accessory that changes your mood. What gives it that effect?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S08",
+    "title_zh": "Balletcore：一双舞鞋怎样成为潮流？",
+    "kind": "学术短评",
+    "source": {
+      "url": "https://star.sta.qmul.ac.uk/short-guides/balletcore/",
+      "title": "Balletcore",
+      "publisher": "School of the Arts Review / Queen Mary University of London",
+      "author": "Cat Thy Au",
+      "date": "2026（页面标注年份）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "Algorithms are central to this fast fashion cascade",
+      "quote_zh": "算法是这条快时尚传播链的关键。"
+    },
+    "guide_en": "Cat Thy Au follows balletcore from designer collections to celebrity images and mass retailers. The guide argues that algorithms help accelerate this cascade. Its critical focus is how trends circulate through commerce, rather than how to dress like a professional dancer.",
+    "guide_zh": "作者追踪设计师、明星与零售商之间的传播链，讨论算法如何加速潮流。",
+    "focus_zh": "这是有立场的短评；可以质疑作者对潮流寿命的判断。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What is the article mainly examining?",
+        "options_en": [
+          "How a trend spreads",
+          "How dance technique develops",
+          "How rehearsal clothes are constructed"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读的中心是潮流传播链。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “cascade” mean?",
+        "options_en": [
+          "an individual buyer",
+          "a fabric sample",
+          "a chain of effects spreading onwards"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，cascade 在这里表示：a chain of effects spreading onwards。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which stage of a fashion trend’s journey interests you most: design, celebrity adoption or retail? Why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S09",
+    "title_zh": "蝴蝶结也能克制：看两套名人造型",
+    "kind": "造型点评",
+    "source": {
+      "url": "https://www.vogue.com/article/coquette-trend-spring-selena-gomez-kendall-jenner",
+      "title": "The Coquette Trend Is Still Thriving for Spring",
+      "publisher": "Vogue",
+      "author": "Christian Allaire",
+      "date": "2024-04-01",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "choosing one frivolous detail",
+      "quote_zh": "选取一个俏皮的细节。"
+    },
+    "guide_en": "Christian Allaire compares Kendall Jenner in Rodarte with Selena Gomez in Oscar de la Renta. Both use bows within relatively pared-back outfits. His argument is that one playful detail can carry coquette style without elaborate decoration everywhere.",
+    "guide_zh": "两套不同品牌的造型都把蝴蝶结作为重点，其余部分较为克制。",
+    "focus_zh": "回原文看图片，判断作者的“克制”是否有说服力。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What connects the two outfits?",
+        "options_en": [
+          "Matching floral prints",
+          "Elaborate layers of decoration",
+          "Bows within restrained styling"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读指出共同点是克制搭配中的蝴蝶结。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “pared-back” mean?",
+        "options_en": [
+          "covered in pearls",
+          "reduced to fewer elements",
+          "cut on the bias"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，pared-back 在这里表示：reduced to fewer elements。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Where would you place one bow so that it becomes the focus of an outfit?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S10",
+    "title_zh": "认识 Chloé：新设计师怎样回应品牌历史？",
+    "kind": "品牌秀评",
+    "source": {
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+      "title": "Chloé Fall 2024 Ready-to-Wear",
+      "publisher": "Vogue",
+      "author": "Sarah Mower",
+      "date": "2024-02-29",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a balancing act between the romantic, the practical",
+      "quote_zh": "在浪漫与实用之间取得平衡。"
+    },
+    "guide_en": "Sarah Mower reads Chemena Kamali’s Chloé debut through the house’s earlier designers. Light chiffon, capes and boots reconnect archive references with contemporary dressing. Her praise rests on the collection feeling natural, rather than resembling a checklist of brand signatures.",
+    "guide_zh": "评论通过薄纱、披风与长靴，看 Kamali 怎样把品牌档案带回当下。",
+    "focus_zh": "摘录只节选原句一部分；原文还强调 playful。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What does Mower value in the collection?",
+        "options_en": [
+          "A natural reinterpretation of the archive",
+          "A checklist of familiar signatures",
+          "A complete break with the archive"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读强调自然的重新演绎，而非逐项复刻。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “archive” mean?",
+        "options_en": [
+          "a shop fitting room",
+          "a seasonal discount",
+          "a collection of historical records or designs"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，archive 在这里表示：a collection of historical records or designs。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "How could a designer honour a brand’s past without copying an old outfit?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S11",
+    "title_zh": "认识 Pucci：印花之外，还有面料与身体",
+    "kind": "品牌与藏品",
+    "source": {
+      "url": "https://fidmmuseum.org/learn/articles/emilio-pucci",
+      "title": "Emilio Pucci",
+      "publisher": "ASU FIDM Museum",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "lightweight, easily packed silk jersey dresses",
+      "quote_zh": "轻盈、方便打包的丝质针织连衣裙。"
+    },
+    "guide_en": "The museum explains Pucci through swirling prints and lightweight silk jersey. His dresses followed the body without the rigid understructure of many 1950s designs. Pattern, packing and movement together help explain their appeal to international travellers in the early 1960s.",
+    "guide_zh": "Pucci 的辨识度既来自旋转印花，也来自便携丝质针织与少用硬衬的穿着方式。",
+    "focus_zh": "原文还追溯一件 1964 年长裙的具体图案来源。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What helped make the dresses suitable for travel?",
+        "options_en": [
+          "Rigid support beneath the fabric",
+          "Decoration that resisted movement",
+          "Lightweight fabric that packed easily"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读把旅行便利与轻盈、易打包的面料联系起来。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “understructure” mean?",
+        "options_en": [
+          "a printed border",
+          "support hidden beneath the outer fabric",
+          "a shop window"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，understructure 在这里表示：support hidden beneath the outer fabric。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What matters most in a travel dress: weight, creasing or movement? Explain your choice.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S12",
+    "title_zh": "法国新浪潮的衣服，如何被重新制作？",
+    "kind": "服装设计师访谈",
+    "source": {
+      "url": "https://www.wallpaper.com/fashion-beauty/richard-linklater-nouvelle-vague-movie-costumes-interview",
+      "title": "Pascaline Chavanne on her dreamy costumes for new film Nouvelle Vague",
+      "publisher": "Wallpaper*",
+      "author": "Zoe Whitfield",
+      "date": "2026-01-30",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "I counted all the stripes on the dress",
+      "quote_zh": "我数清了裙子上的所有条纹。"
+    },
+    "guide_en": "Costume designer Pascaline Chavanne describes researching Nouvelle Vague, a film about making Breathless. Recreating Jean Seberg’s striped dress involved counting stripes and consulting an original purchase invoice. A seemingly effortless screen wardrobe can depend on unusually meticulous archival work.",
+    "guide_zh": "重现 Seberg 的条纹裙，需要数条纹、查购买发票；随意的银幕感背后是细致研究。",
+    "focus_zh": "讨论的是新片对旧片的重建，并非当年设计师的自述。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What supported the costume reconstruction?",
+        "options_en": [
+          "The designer’s personal recollections alone",
+          "Archival evidence",
+          "A contemporary version of the dress"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读列出了条纹计数和原始购买发票。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “meticulous” mean?",
+        "options_en": [
+          "extremely careful about details",
+          "deliberately unfinished",
+          "quickly forgotten"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，meticulous 在这里表示：extremely careful about details。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What small detail would you check before recreating an outfit from a film still?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S13",
+    "title_zh": "超模不只是衣架：认识 Naomi 的职业贡献",
+    "kind": "博物馆人物介绍",
+    "source": {
+      "url": "https://www.vam.ac.uk/articles/about-the-naomi-in-fashion-exhibition",
+      "title": "About the NAOMI: In Fashion exhibition",
+      "publisher": "V&A",
+      "author": null,
+      "date": "2025-02-14（更新）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "model turned international celebrity",
+      "quote_zh": "成为国际名人的模特。"
+    },
+    "guide_en": "The V&A presents Naomi Campbell’s career through runway work, designer relationships and activism. Its exhibition treats modelling as a skilled contribution to fashion. Campbell’s own wardrobe and archival loans show how a model helps create memorable images, rather than simply displaying clothes.",
+    "guide_zh": "展览从走秀、设计师合作与倡议行动切入，强调模特本身的专业贡献。",
+    "focus_zh": "以具体职业经历理解“超模”，比记住九十年代单品更丰富。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "How does the exhibition frame modelling?",
+        "options_en": [
+          "As a service with no authorship",
+          "As a purely commercial endorsement",
+          "As skilled creative work"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读说明模特是有技能、有创造性贡献的参与者。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “activism” mean?",
+        "options_en": [
+          "a catwalk measurement",
+          "action intended to bring social change",
+          "a fabric treatment"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，activism 在这里表示：action intended to bring social change。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "How might a model change the way an audience understands a garment?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S14",
+    "title_zh": "Art Deco：一条裙子怎样回应电灯与舞蹈？",
+    "kind": "藏品细读",
+    "source": {
+      "url": "https://www.metmuseum.org/art/collection/search/137938",
+      "title": "Dress, 1925–28 (L.2018.61.16)",
+      "publisher": "The Metropolitan Museum of Art",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "capture and refract light when in motion",
+      "quote_zh": "运动时捕捉并折射光线。"
+    },
+    "guide_en": "The Met describes a 1925–28 dance dress with a simple chemise shape and elaborate glass and metal decoration. Movement makes its surface glitter under electric light. Geometric forms and contrasting metallic tones connect this particular object with Art Deco.",
+    "guide_zh": "1925—28 年的舞裙以简单外形承载玻璃、金属装饰，在电灯下随动作闪烁。",
+    "focus_zh": "页面有藏品图；可把材料、动作和照明连起来观察。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Why does movement matter to this dress?",
+        "options_en": [
+          "It activates reflected light",
+          "It changes the garment’s outline",
+          "It hides the surface decoration"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "装饰随运动捕光，正是导读描述的效果。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “elaborate” mean?",
+        "options_en": [
+          "completely undecorated",
+          "easy to discard",
+          "detailed and carefully developed"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，elaborate 在这里表示：detailed and carefully developed。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Would this dress look different in daylight and under stage lighting? Explain your prediction.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S15",
+    "title_zh": "认识 Hermès：马术历史怎样进入腰带？",
+    "kind": "品牌与藏品",
+    "source": {
+      "url": "https://www.metmuseum.org/art/collection/search/158845",
+      "title": "Hermès — Belt, ca. 1945 (2009.300.3861)",
+      "publisher": "The Metropolitan Museum of Art",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "first supplying harnesses to coach builders",
+      "quote_zh": "最初为马车制造者提供挽具。"
+    },
+    "guide_en": "A Hermès belt from about 1945 carries three carriage scenes. The Met connects these images with the house’s beginnings in equestrian leather goods. This makes brand heritage visible in a specific object, rather than leaving it as an abstract luxury story.",
+    "guide_zh": "一条约 1945 年的腰带，以三组马车场景呈现 Hermès 的马术皮具背景。",
+    "focus_zh": "可在原文图片中找出三种场景，避免只记一个品牌标签。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What links the belt to the brand’s origins?",
+        "options_en": [
+          "Its modern equestrian styling",
+          "Its carriage imagery",
+          "Its construction for athletic use"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读把马车图像与马术皮具起点相连。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “heritage” mean?",
+        "options_en": [
+          "a legacy inherited from the past",
+          "a newly invented fibre",
+          "a price reduction"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，heritage 在这里表示：a legacy inherited from the past。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Choose a brand symbol you know. What would you need to research before explaining its history?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S16",
+    "title_zh": "认识 McQueen：黑暗浪漫如何成为一场秀？",
+    "kind": "策展人讲解",
+    "source": {
+      "url": "https://blog.metmuseum.org/alexandermcqueen/video/",
+      "title": "Video — Alexander McQueen: Savage Beauty",
+      "publisher": "The Metropolitan Museum of Art",
+      "author": "Andrew Bolton（讲解）",
+      "date": "2011（展览年份）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "Every collection told a story",
+      "quote_zh": "每个系列都讲述一个故事。"
+    },
+    "guide_en": "Curator Andrew Bolton describes McQueen beginning with a runway concept, then developing clothes through fittings. The shows could provoke wonder, fear or uncertainty. Bolton links their darkness to romanticism: fashion becomes a medium for difficult ideas, beyond practical wearability.",
+    "guide_zh": "策展人讲述概念、试衣与戏剧化走秀的关系，也解释黑暗浪漫怎样引发复杂情绪。",
+    "focus_zh": "原页有视频与逐字稿；导读呈现的是 Bolton 的解释。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What role does the runway play here?",
+        "options_en": [
+          "A neutral display of wearable products",
+          "A medium for complex ideas",
+          "A record of manufacturing methods"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读将走秀视为表达复杂观念的媒介。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “provoke” mean?",
+        "options_en": [
+          "cause a strong reaction",
+          "make an exact copy",
+          "fasten with a zip"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，provoke 在这里表示：cause a strong reaction。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Should a fashion show make its audience uncomfortable? Explain your position.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S17",
+    "title_zh": "认识 Balenciaga：雕塑轮廓是怎么做出来的？",
+    "kind": "品牌工艺解析",
+    "source": {
+      "url": "https://www.vam.ac.uk/articles/secrets-of-balenciagas-construction",
+      "title": "Secrets of Balenciaga’s construction",
+      "publisher": "V&A",
+      "author": null,
+      "date": "2024-04-17（更新）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "framing the figure rather than restricting it",
+      "quote_zh": "框出身体，而非束缚身体。"
+    },
+    "guide_en": "The V&A reconstructs three Cristóbal Balenciaga designs. In the tulip dress, stiff silk gazar supports an architectural shape; the front and back joins eliminate side seams. Digital animations reveal how apparent simplicity depends on fabric behaviour and exact cutting.",
+    "guide_zh": "郁金香裙的建筑感来自硬挺丝质 gazar 与裁片连接，动画把外观还原成做法。",
+    "focus_zh": "这里讲的是 Cristóbal Balenciaga 的历史作品。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What supports the tulip dress’s shape?",
+        "options_en": [
+          "Softly knitted wool",
+          "Heavy metallic decoration",
+          "Stiff silk gazar"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读明确把建筑感与硬挺 silk gazar 联系起来。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “seams” mean?",
+        "options_en": [
+          "printed flower motifs",
+          "lines where pieces of fabric are joined",
+          "metal shoe heels"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，seams 在这里表示：lines where pieces of fabric are joined。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which would you examine first in a sculptural dress: fabric, seams or internal support? Why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S18",
+    "title_zh": "Poetcore：谁在把“像诗人”变成趋势？",
+    "kind": "趋势报道",
+    "source": {
+      "url": "https://www.voguearabia.com/article/pinterest-poetcore-trend",
+      "title": "Pinterest Has Called the Shots Again, it’s Poetcore This Year",
+      "publisher": "Vogue Arabia",
+      "author": "Arpita Hota",
+      "date": "2026-02-05",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a fashion that feels lived-in and emotionally textured",
+      "quote_zh": "一种有生活痕迹与情感层次的穿衣方式。"
+    },
+    "guide_en": "Arpita Hota introduces poetcore through Pinterest search trends and a wardrobe of nostalgic textures. The article contrasts its fluid mood with dark academia’s stricter image. Treat rising searches as evidence of interest, not proof that everyone dresses this way.",
+    "guide_zh": "报道以 Pinterest 搜索趋势解释 Poetcore，描绘更流动、更怀旧的书卷穿衣。",
+    "focus_zh": "搜索热度与实际穿着人数不是一回事。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What is one evidence source used in the article?",
+        "options_en": [
+          "Pinterest searches",
+          "A count of clothes worn on streets",
+          "A record of garments sold"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读开头指出 Pinterest 搜索趋势。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “nostalgic” mean?",
+        "options_en": [
+          "resistant to rain",
+          "designed for competition",
+          "expressing affection for the past"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，nostalgic 在这里表示：expressing affection for the past。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What would make a bookish outfit feel personal rather than like a costume?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S19",
+    "title_zh": "香港影像：旗袍怎样替角色说话？",
+    "kind": "电影与舞台评论",
+    "source": {
+      "url": "https://stories.sydneyoperahouse.com/stage-direction-in-the-mood-for-love/",
+      "title": "Stage Direction: In the Mood for Love",
+      "publisher": "Sydney Opera House",
+      "author": "Ying-Di Yin",
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "mark the passing of time and translate a feeling",
+      "quote_zh": "标记时间流逝，并传达情绪。"
+    },
+    "guide_en": "Ying-Di Yin explores the film In the Mood for Love and its stage reinterpretation. Patterned cheongsams mark time and communicate emotion. Clothing, interiors and restricted movement work together; costume is part of the narrative rather than an attractive background detail.",
+    "guide_zh": "文章把旗袍花纹、室内环境与受限动作放在一起，解释服装的叙事作用。",
+    "focus_zh": "这是电影与舞台改编的评论，不代表香港全部日常穿衣。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What function do costumes serve?",
+        "options_en": [
+          "They help tell the story",
+          "They provide period accuracy alone",
+          "They keep the setting visually neutral"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读指出服装参与时间与情绪的叙事。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “narrative” mean?",
+        "options_en": [
+          "a type of fastening",
+          "a shop’s opening hours",
+          "the way a story is told"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，narrative 在这里表示：the way a story is told。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Imagine the same scene with a different dress pattern. How might the mood change?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S20",
+    "title_zh": "City Pop 的视觉：永井博谈永恒夏天",
+    "kind": "艺术家访谈",
+    "source": {
+      "url": "https://sato.art/the-story-of-hiroshi-nagai/",
+      "title": "The Story of Hiroshi Nagai",
+      "publisher": "SATO GALLERY",
+      "author": "Sayaka Shibata（采访与整理）",
+      "date": "2025-09-08",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "City pop came to me",
+      "quote_zh": "是 City Pop 找到了我。"
+    },
+    "guide_en": "Hiroshi Nagai discusses the imagined summer landscapes behind his art. Books, postcards and interior magazines supplied references; musicians later approached him for covers. This interview concerns visual culture, not a fixed City Pop dress code. Its value lies in colour, space and atmosphere.",
+    "guide_zh": "永井博从书、明信片和室内杂志寻找图像参考，音乐人后来才来邀约封面。",
+    "focus_zh": "这是视觉文化延伸阅读；不要据此声称 City Pop 有固定服装。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What does the source offer this series?",
+        "options_en": [
+          "A standard wardrobe for the genre",
+          "Insights into visual atmosphere",
+          "The artist’s response to specific songs"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读将它定位为色彩、空间与氛围的视觉访谈。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “references” mean?",
+        "options_en": [
+          "materials used for ideas or information",
+          "garment refunds",
+          "shoe fastenings"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，references 在这里表示：materials used for ideas or information。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Translate one landscape colour relationship into an outfit. Explain the connection.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S21",
+    "title_zh": "Moto Boho：柔软浪漫为何加上机车靴？",
+    "kind": "趋势预测",
+    "source": {
+      "url": "https://www.vogue.com/article/5-womenswear-trend-predictions-for-autumn-winter-2025",
+      "title": "5 Womenswear Trend Predictions for Fall/Winter 2025",
+      "publisher": "Vogue Business",
+      "author": "Lucy Maguire",
+      "date": "2025-02-05",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a grungier repackaging of boho",
+      "quote_zh": "把波西米亚风重新包装得更粗粝。"
+    },
+    "guide_en": "Lucy Maguire’s forecast connects moto boho with biker boots, leather and softer bohemian details. The combination gives romance a rougher edge. This was a prediction published before the autumn/winter 2025 shows, not a retrospective finding that the forecast came true.",
+    "guide_zh": "机车靴、皮革为柔软波西米亚增添粗粝感；原文写的是 2025 秋冬预测。",
+    "focus_zh": "区分当时的预测与已经得到验证的结果。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What kind of claim does this source make?",
+        "options_en": [
+          "A report of confirmed consumer purchases",
+          "A review of a completed season",
+          "A forecast"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "标题与导读均说明这是预测。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “forecast” mean?",
+        "options_en": [
+          "an exact copy",
+          "a prediction about what may happen",
+          "a garment repair"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，forecast 在这里表示：a prediction about what may happen。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which contrast would you try: leather with lace, or heavy boots with a flowing skirt? Why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S22",
+    "title_zh": "认识 Lacoste：一件 Polo 如何从球场出发？",
+    "kind": "品牌自述",
+    "source": {
+      "url": "https://corporate.lacoste.com/our-history/",
+      "title": "Our History / Our key events",
+      "publisher": "Lacoste",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a flexible, lightweight polo shirt",
+      "quote_zh": "一件柔软轻盈的 Polo 衫。"
+    },
+    "guide_en": "Lacoste’s own timeline links its identity to René Lacoste’s tennis career. It describes the 1933 petit-piqué polo as a flexible alternative to conventional tennis shirts. Read this as the brand’s account: function and a sporting personality become a recognisable commercial identity.",
+    "guide_zh": "品牌时间线把网球生涯、1933 年 Polo 与鳄鱼身份联系起来，解释功能如何进入品牌。",
+    "focus_zh": "品牌官网提供一手自述，语气与独立评论不同。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What problem did the polo address in this account?",
+        "options_en": [
+          "Storage during a tennis match",
+          "Comfort in tennis clothing",
+          "Formal appearance after a match"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读说明柔软轻盈的 Polo 是传统网球衬衫的替代方案。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “flexible” mean?",
+        "options_en": [
+          "able to bend or move easily",
+          "decorated with crystals",
+          "made only for winter"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，flexible 在这里表示：able to bend or move easily。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which sportswear feature has become useful in your everyday clothes?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S23",
+    "title_zh": "Après Ski：雪场穿衣也是度假形象",
+    "kind": "时装历史报道",
+    "source": {
+      "url": "https://www.thezoereport.com/fashion/apres-ski-fashion-history",
+      "title": "The Upward Slope Of Modern Ski Style",
+      "publisher": "The Zoe Report",
+      "author": "Marina Liao",
+      "date": "2024-02-20（更新）；2023-01-10（首发）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "on and off the slopes",
+      "quote_zh": "雪道上与雪道之外。"
+    },
+    "guide_en": "Marina Liao follows ski style across changing materials, travel and luxury branding. The article treats mountain dressing as both equipment and a lifestyle image. Contemporary collaborations bring fashion labels together with sports specialists, while social photographs encourage distinctive holiday outfits.",
+    "guide_zh": "报道沿材料、旅行与品牌合作讲雪场风格，既看装备，也看度假形象。",
+    "focus_zh": "造型照片不能替代技术性能说明；原文的年代论述可继续追来源。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What two roles does mountain clothing play here?",
+        "options_en": [
+          "Equipment and lifestyle image",
+          "Professional uniform and ceremonial dress",
+          "Technical equipment and stage costume"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读明确并列 equipment 与 lifestyle image。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “collaborations” mean?",
+        "options_en": [
+          "unlabelled copies",
+          "washing instructions",
+          "projects created by partners together"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，collaborations 在这里表示：projects created by partners together。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What would you wear differently for skiing and for sitting in the lodge afterwards?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S24",
+    "title_zh": "功能穿衣：女性的口袋原来可以拆下来",
+    "kind": "服装史",
+    "source": {
+      "url": "https://www.vam.ac.uk/articles/womens-tie-pockets",
+      "title": "Women’s tie-on pockets",
+      "publisher": "V&A",
+      "author": null,
+      "date": "2024-04-17（更新）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "tied around the waist independently of clothing",
+      "quote_zh": "独立于衣服，系在腰间。"
+    },
+    "guide_en": "The V&A explains detachable pockets worn at the waist and reached through openings in dresses. These large containers carried daily possessions. Bags and pockets coexisted, so their history is not a simple story of one replacing the other. Function shaped women’s clothing choices.",
+    "guide_zh": "可拆卸口袋系在腰间，经裙装开口取物；它与手袋长期并存，而非简单替代。",
+    "focus_zh": "页面有实物和穿戴示意，适合观察功能怎样决定结构。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Which statement matches the guide?",
+        "options_en": [
+          "Handbags gradually replaced every pocket",
+          "All pockets were sewn into garments",
+          "Bags and pockets could coexist"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读直接指出二者并存。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “detachable” mean?",
+        "options_en": [
+          "permanently stitched down",
+          "able to be removed",
+          "waterproof"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，detachable 在这里表示：able to be removed。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Design a pocket for one object you carry daily. Where would you put it, and why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S25",
+    "title_zh": "Mermaidcore：流行文化如何进入衣橱？",
+    "kind": "趋势报道",
+    "source": {
+      "url": "https://www.teenvogue.com/story/mermaidcore-trend-summer-2023",
+      "title": "The Mermaidcore Trend Is Making Waves for Summer 2023",
+      "publisher": "Teen Vogue",
+      "author": "Donya Momenian",
+      "date": "2023-06-02",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "shell or pearl accessories",
+      "quote_zh": "贝壳或珍珠配饰。"
+    },
+    "guide_en": "Donya Momenian connects mermaidcore with films, fan styling and runway references. Shimmer, aquatic colours and shells make the fantasy visible. Interviewees also describe adapting items they already own, so joining the trend need not mean buying an entirely new wardrobe.",
+    "guide_zh": "电影、粉丝造型与秀场共同推动海洋幻想；受访者也会用已有物件演绎。",
+    "focus_zh": "原文包含购物推荐，导读选取报道与采访部分。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What alternative to buying everything is mentioned?",
+        "options_en": [
+          "Buying a complete matching wardrobe",
+          "Reproducing a single runway look",
+          "Reworking items already owned"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读最后一句提及用已有物件演绎。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “aquatic” mean?",
+        "options_en": [
+          "designed for libraries",
+          "connected with water",
+          "heavily tailored"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，aquatic 在这里表示：connected with water。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "How could you suggest the sea using only colour and texture, without a literal shell motif?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S26",
+    "title_zh": "海边日常：一组街拍怎样解释一个标签？",
+    "kind": "街拍导览",
+    "source": {
+      "url": "https://www.vogue.com/article/street-style-fashion-week-coastal-grandmother-trend",
+      "title": "Try Out Street Style’s ‘Coastal Grandmother’ Trend This Memorial Day Weekend",
+      "publisher": "Vogue",
+      "author": "Irene Kim",
+      "date": "2022-05-28",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "a breezy oversized button-up",
+      "quote_zh": "一件轻盈宽大的纽扣衬衫。"
+    },
+    "guide_en": "Irene Kim introduces coastal-grandmother dressing through oversized shirts, sun hats and pale knitwear. Street photographs show interpretations beyond a single outfit formula. The source is a visual trend guide from 2022, offering examples rather than evidence of a timeless regional uniform.",
+    "guide_zh": "宽衬衫、遮阳帽与浅色针织是入口；街拍展示同一标签下的多种穿法。",
+    "focus_zh": "把街拍当作具体例子，不把标签当成真实地区的统一着装。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What does the street-style format provide?",
+        "options_en": [
+          "A universal seaside dress code",
+          "Multiple visual interpretations",
+          "A study of garment construction"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读说明街拍提供不同演绎。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “breezy” mean?",
+        "options_en": [
+          "light and airy",
+          "rigidly reinforced",
+          "decorated with metal studs"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，breezy 在这里表示：light and airy。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "How would you adapt a relaxed seaside outfit for a city commute?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S27",
+    "title_zh": "Ballet Noir：轻盈舞裙背后的工程",
+    "kind": "舞台服装研究",
+    "source": {
+      "url": "https://www.londonmuseum.org.uk/blog/anna-pavlova-ballet-swan-costume-evolution-tutu/",
+      "title": "Anna Pavlova’s Swan costume & the evolution of tutus",
+      "publisher": "London Museum",
+      "author": "Kathy Kincel",
+      "date": "2025-04-17",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "an object of detailed engineering",
+      "quote_zh": "一件经过精密构造的物件。"
+    },
+    "guide_en": "Costume maker Kathy Kincel studies Anna Pavlova’s Swan tutu and the evolution of ballet skirts. Materials, stiffening and layered net support the floating appearance. A garment that seems weightless from the audience can require intricate engineering and painstaking work behind the scenes.",
+    "guide_zh": "研究者从 Pavlova 的天鹅舞裙讲材料、硬挺处理与层叠结构，拆解轻盈效果。",
+    "focus_zh": "用于理解舞台服装；它不是 Ballet Noir 这一编辑标签的起源证明。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What creates the apparent lightness?",
+        "options_en": [
+          "Careful material and structural work",
+          "Fabric colour alone",
+          "The absence of internal structure"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读将轻盈外观归于材料及结构劳动。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “intricate” mean?",
+        "options_en": [
+          "machine-washable",
+          "intentionally empty",
+          "complex and full of connected details"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，intricate 在这里表示：complex and full of connected details。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which everyday garment hides more construction than its appearance suggests?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S28",
+    "title_zh": "现代旗袍：从香港档案看变化",
+    "kind": "地方服装史",
+    "source": {
+      "url": "https://www.hkmemory.hk/en/collections-cheongsam-about.html",
+      "title": "A Century of Fashion: Hong Kong Cheongsam Story — About the Collection",
+      "publisher": "Hong Kong Memory / 香港记忆",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "the garment has undergone several changes",
+      "quote_zh": "这件服装经历过多次变化。"
+    },
+    "guide_en": "Hong Kong Memory introduces cheongsam through an exhibition of dresses, tailoring tools, posters and photographs. The overview links its local development with Shanghai tailors and changing women’s lives. Such varied evidence shows a changing garment, rather than one permanent silhouette.",
+    "guide_zh": "旗袍、工具、海报与照片共同记录变化，也把服装联系到裁缝迁移与女性生活。",
+    "focus_zh": "这是香港脉络的展览介绍，不概括所有地区的旗袍历史。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Why use several kinds of exhibition material?",
+        "options_en": [
+          "To establish one unchanging silhouette",
+          "To trace clothing in its social context",
+          "To separate clothing from daily life"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "多类材料可把衣服放回社会生活中观察。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “silhouette” mean?",
+        "options_en": [
+          "the overall outline of a garment",
+          "the label’s spelling",
+          "a type of needle"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，silhouette 在这里表示：the overall outline of a garment。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What could a tailoring tool tell you that a fashion photograph cannot?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S29",
+    "title_zh": "认识 Burberry：风衣的关键不只是格纹",
+    "kind": "品牌工艺与历史",
+    "source": {
+      "url": "https://www.vam.ac.uk/info/burberry-trench-crafting-an-icon-large-print-guide",
+      "title": "The Burberry Trench: Crafting an Icon — Large Print Guide",
+      "publisher": "V&A",
+      "author": null,
+      "date": null,
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "Water-resistant and breathable",
+      "quote_zh": "防泼水且透气。"
+    },
+    "guide_en": "The V&A traces the Burberry trench through gabardine, military use and specialist making. Tightly woven twill helped combine weather protection with breathability. Its familiar appearance rests on material innovation and craft, not simply a recognisable lining or a fashionable colour.",
+    "guide_zh": "展览导览从 gabardine 斜纹织物、军事使用与制作工艺解释风衣，而不只讲格纹。",
+    "focus_zh": "防泼水与完全防水不同；原文用 water-resistant。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What material property is central here?",
+        "options_en": [
+          "Maximum stiffness for a fixed shape",
+          "Complete transparency with low weight",
+          "Protection with breathability"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读强调防护与透气的结合。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “breathability” mean?",
+        "options_en": [
+          "the intensity of a colour",
+          "the ability to let air or moisture pass",
+          "the number of buttons"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，breathability 在这里表示：the ability to let air or moisture pass。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which inherited functional detail on a coat do you still use today?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S30",
+    "title_zh": "歌剧院之夜：观众为什么也要被看见？",
+    "kind": "服装与社交史",
+    "source": {
+      "url": "https://www.vam.ac.uk/articles/a-night-at-the-opera",
+      "title": "A night at the opera",
+      "publisher": "V&A",
+      "author": null,
+      "date": "2024-04-17（更新）",
+      "checked_on": "2026-10-29",
+      "verification": "正文已通过公开网页读取",
+      "access_note": "核验时可读取正文；外站访问条件可能变化。",
+      "quote_en": "to see and be seen",
+      "quote_zh": "观看别人，也被别人观看。"
+    },
+    "guide_en": "The V&A describes opera-going as a social display as well as entertainment. Bright auditoriums made audiences visible; clothing and accessories advertised status. Cloaks protected delicate evening fabrics without crushing them. These objects connect spectacle with the practical demands of an evening out.",
+    "guide_zh": "亮着灯的观众席也是社交舞台；斗篷既展示身份，也保护娇贵晚装。",
+    "focus_zh": "这是历史情境，不是今日去歌剧院必须遵循的规则。",
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Why were cloaks useful over evening clothes?",
+        "options_en": [
+          "They protected fabric without crushing it",
+          "They stiffened soft evening fabrics",
+          "They replaced the evening clothes beneath"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读最后两句说明了斗篷的保护作用。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “auditoriums” mean?",
+        "options_en": [
+          "garment storage boxes",
+          "private fitting rooms",
+          "spaces where audiences sit"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，auditoriums 在这里表示：spaces where audiences sit。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What accessory combines a practical use with a social message today?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  }
+]

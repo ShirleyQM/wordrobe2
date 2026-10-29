@@ -98,3 +98,20 @@ fit-catalog 保存本次接入时的透明原始前后片与轮廓锚点，sourc
 当前素材入口为 [assets/materials](assets/materials/README.md)：garments（衣服编辑源）、patterns（207 新图案与 9 原图案）、characters（人物）、published（自动保存的可用版本）、sources（导入原稿）。参考其中 catalog.json。旧工作目录保留为进行中的生成工作区或历史档案；旧 URL 由 asset-paths.cjs 兼容，新的保存统一写入 materials/published。
 
 重新生成：修版面板右上角的按钮会停用单件、保存快照，交给专用 Codex 会话重画。失败可重试或恢复旧版；新稿通过验收才恢复可用。流程见 REGENERATION.md。手调版本优先，生成期间出现新手调记录时拒绝自动覆盖。
+
+
+## Fashion Atlas V5 · 时尚阅读室
+
+入口：[Fashion Atlas V5](fashion-atlas-v5/index.html)。使用本地服务时访问 `/fashion-atlas-v5/index.html`，也可直接双击该 HTML 离线阅读。
+
+30 个系列各配一条已核验正文的公开来源，含英文短摘录、中文译文、双语导读和原文链接；60 道选择题支持答案解释与重试，另有 30 道开放题。原有 90 套服装概念方案保留在折叠区。阅读模块独立运行，未接入衣橱积分或服装素材导入流程。
+
+详情与可编辑内容见 [阅读版说明](fashion-atlas-v5/README_V5.md) 和 [来源与题目清单](fashion-atlas-v5/阅读清单与题目_V5.md)。
+
+重建与校验：
+
+```sh
+python3 fashion-atlas-v5/scripts/build_v5.py
+python3 fashion-atlas-v5/scripts/verify_v5.py
+node --check fashion-atlas-v5/scripts/ui-v5.js
+```

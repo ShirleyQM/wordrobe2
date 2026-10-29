@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-10-29",
+  "source_count": 30,
+  "objective_questions": 60,
+  "discussion_questions": 30,
+  "design_cards_preserved": 90,
+  "static_checks": "passed scripts/verify_v5.py",
+  "javascript_syntax": "passed node --check",
+  "browser_checks": [
+    "品牌搜索 Toteme 筛至1篇",
+    "目录锚点到 S05",
+    "错误选择出现解释与零分",
+    "正确选择出现解释与计分",
+    "重试清空选择、反馈与计分",
+    "窄屏阅读页面视觉检查"
+  ],
+  "preview": "preview-v5.png",
+  "limitations": [
+    "未测试外站未来访问条件",
+    "部分页面未能确认个人署名或发布日期，已明确标记",
+    "PDF通过浏览器打印导出，本版未附生成PDF"
+  ]
+}
