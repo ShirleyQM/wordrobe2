@@ -1,6 +1,6 @@
 'use strict';
 // The same SLOTS entries drive the category strip, worn indicators and ordering.
-const HAIR_CATEGORIES=[['front','前'],['back','后'],['single','单品']];
+const HAIR_CATEGORIES=[['front','前'],['back','后']];
 let hairPositionKey="";
 let mobileView='full',lastContext='',paletteIndex=-1,tailorItem=null,tailorPanel='',featureHandled=false;
 state.hairMode=state.hairMode==='single'?'single':'multiple';
