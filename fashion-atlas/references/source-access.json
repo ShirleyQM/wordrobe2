@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.vogue.com/",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  },
+  {
+    "url": "https://www.vogue.co.uk/",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  },
+  {
+    "url": "https://www.theguardian.com/fashion",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  },
+  {
+    "url": "https://www.metmuseum.org/",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  },
+  {
+    "url": "https://www.vam.ac.uk/",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  },
+  {
+    "url": "https://www.fitnyc.edu/museum/",
+    "status": "blocked_by_network_proxy",
+    "observed_result": "HTTPS CONNECT: 403 Forbidden",
+    "accessed_date": "2026-10-29",
+    "is_citation": false,
+    "note": "Publisher entry point only. No article, author, quotation or publication date has been verified."
+  }
+]
