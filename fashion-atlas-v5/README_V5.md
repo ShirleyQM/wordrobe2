@@ -30,3 +30,12 @@
 
 内容：assets/learning/fashion-lessons.json；控制器：assets/learning/fashion-atlas.js；作者数据及校验：tools/fashion-atlas/。运行 node tools/fashion-atlas/build.cjs 重建三关，运行 node tools/fashion-atlas/test.cjs 验证奖励与可选阅读。
 
+
+
+## 品牌与设计修订 V2
+
+前三关增加默认折叠的品牌介绍与三套设计方向，均不参与完成条件或奖励判定。保留 V4 的设计观察方法，当前选用 Roberto Cavalli、Dries Van Noten、Saint Laurent、Miu Miu、Wales Bonner、Martine Rose 六个独立系列参考。品牌与引用仅表示视觉研究，不表示联名或背书；排除记录和本轮检索范围在 tools/fashion-atlas/brand-policy.json。未将检索无结果表述为永久无争议。
+
+9套设计沿用卡片 ID，旧设计保存在 legacy_design_v5。新增图片是统一概念板，非已归位透明服装；现有服装奖励及手调文件不替换。品牌照片按用户展开后才从原站加载，保留图源署名和系列链接；原站不可用时隐藏破图并保留链接。概念板使用无损 WebP，已验证解码像素与生成 PNG 一致。
+
+设计数据：tools/fashion-atlas/design-v2.cjs；同步：node tools/fashion-atlas/apply-design-v2.cjs；重建：node tools/fashion-atlas/build.cjs；检查：node tools/fashion-atlas/test-design.cjs。

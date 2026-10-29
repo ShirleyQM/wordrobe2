@@ -1,0 +1,9 @@
+const fs=require('fs'),assert=require('node:assert/strict'),{refs,policy}=require('./design-v2.cjs'),d=require('../../assets/learning/fashion-lessons.json'),src=require('../../fashion-atlas-v5/content.json');
+const ids=[],blocked=new RegExp(policy.excluded.map(x=>x.match).join('|'),'i');
+for(const l of d.levels){assert.equal(l.brandStudies.length,2);assert.equal(l.designVariants.length,3);assert(!blocked.test(JSON.stringify(l.brandStudies)));assert(l.readingOptional);assert(fs.existsSync(l.conceptBoard.slice(1)));for(const b of l.brandStudies){assert(b.intro_en&&b.intro_zh&&b.analysis_en&&b.analysis_zh);assert(b.reference.page.startsWith('https://'));assert(b.reference.credit);}
+const series=src.series.find(s=>s.series_id===l.seriesId);for(const c of l.designVariants){ids.push(c.id);assert.equal(c.revision,4);assert(c.design&&c.designZh&&c.silhouetteZh);assert(c.items.length>=4);assert(c.items.every(i=>i.status==='concept_only'&&i.slot!=='bag'));assert(c.referenceIds.every(id=>Object.values(refs).some(r=>r.id===id)));assert(series.cards.find(x=>x.card_id===c.id).legacy_design_v5);}
+assert.equal(new Set(l.designVariants.map(c=>c.silhouetteZh)).size,3);
+}
+assert.equal(new Set(ids).size,9);assert.deepEqual(d.levels.map(l=>l.reward.card.id),['C01-A','C02-C','C03-A']);
+const ui=fs.readFileSync('assets/learning/fashion-atlas.js','utf8');assert(ui.includes('Brand notes · optional'));assert(!/<details class="atlas-brands"[^>]*\bopen\b/.test(ui));assert(ui.includes('data-reference-src'));assert(ui.includes("addEventListener('toggle'"));assert(!ui.includes('brandVisited'));assert(ui.includes('${revealChinese(b.intro_zh)}'));assert(ui.includes('background-position:${col*50}% ${row*50}%'));
+console.log('PASS: 6 screened brand entries; optional/collapsed bilingual introductions; 9 distinct revised concepts; 6 cited collections; stable collectible IDs and no wearable-asset replacement.');
