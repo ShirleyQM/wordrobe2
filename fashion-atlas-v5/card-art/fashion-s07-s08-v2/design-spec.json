@@ -1,0 +1,207 @@
+[
+  {
+    "id": "S07-F01",
+    "group": "S07",
+    "ref": "rodarte",
+    "title": "月蓝蝶影",
+    "en": "Moths in Moon Blue",
+    "palette_zh": "月蓝／墨黑／旧银",
+    "palette": [
+      "#244574",
+      "#131923",
+      "#B9C3D1"
+    ],
+    "detail": "FAIRYCORE nocturnal woodland, NOT green/lilac. Moon-blue silk narrow column ankle dress with sweeping black velvet leaf-vein appliques concentrated at neckline and hip; a sculptural high ruffled black lace collar floating over sheer dark navy yoke, sheer midnight-blue detachable long sleeves tied at upper arm. Silver narrow belt and low silver angular lace-up shoes. Strong vertical body, NO giant leaf cape. Adult woman with asymmetric black geometric bob, one side braided tightly above ear, level head and gaze. Frontal composed standing beside dark forest pool, one hand lightly resting on stone balustrade other holding a folded black gauze scarf low; both shoes visible. Blue moonlight and dark tree reflections, restrained mystical botanical atmosphere no magic wings. Reference 2 only lace/velvet botanical column contrasts; new colour, neckline, sleeves, layout.",
+    "items": [
+      [
+        "月蓝柱形裙、浮领与局部绒花",
+        "brand",
+        "参考蕾丝与绒面植物、长纵线；新设月蓝底色、悬浮领和贴花区域。"
+      ],
+      [
+        "独立纱袖、窄腰带与低跟鞋",
+        "original",
+        "自定分离层和细银落点，去掉上一版大片叶披纱。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. FAIRYCORE nocturnal woodland, NOT green/lilac. Moon-blue silk narrow column ankle dress with sweeping black velvet leaf-vein appliques concentrated at neckline and hip; a sculptural high ruffled black lace collar floating over sheer dark navy yoke, sheer midnight-blue detachable long sleeves tied at upper arm. Silver narrow belt and low silver angular lace-up shoes. Strong vertical body, NO giant leaf cape. Adult woman with asymmetric black geometric bob, one side braided tightly above ear, level head and gaze. Frontal composed standing beside dark forest pool, one hand lightly resting on stone balustrade other holding a folded black gauze scarf low; both shoes visible. Blue moonlight and dark tree reflections, restrained mystical botanical atmosphere no magic wings. Reference 2 only lace/velvet botanical column contrasts; new colour, neckline, sleeves, layout.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-93c2c295-e56f-4ca0-962f-a8121042b3f2.png",
+    "atmosphere_zh": "森林的幽静、生长与季节变化；月夜、腐叶与露水分别建立冷暖和明暗差异。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  },
+  {
+    "id": "S07-F02",
+    "group": "S07",
+    "ref": "simone",
+    "title": "赤陶孢子",
+    "en": "Terracotta Spores",
+    "palette_zh": "赤陶橙／黄油白／深褐",
+    "palette": [
+      "#B75B36",
+      "#F1E0B9",
+      "#382D29"
+    ],
+    "detail": "FAIRYCORE warm autumn forest counterpart, no sage/lilac. Original burnt-terracotta crisp silk-taffeta very short balloon cape with sculptural puff shoulders and asymmetric tie-front, opaque butter-ivory fitted long-cuff blouse under it. Chocolate velvet very wide knee-length sculptural culottes with deep reverse pleats, deep brown rib knee socks and antique copper rounded chunky low Mary Jane shoes. Short outer volume versus wide cropped leg, NOT long trousers or another maxi skirt. Adult woman copper-red pixie with clean upward crest and one slender silver pin. Seated upright on warm fallen tree trunk, feet planted apart, head absolutely upright looking level forward, one hand near actual cape fastening other braced on log. Fern glade with pale amber mist and rusty leaves, quiet ecological fairy atmosphere no literal fairy wings. Research2 translucent gathered volume transposed to opaque taffeta bubble cape, tie position re-engineered.",
+    "items": [
+      [
+        "赤陶短泡斗篷",
+        "brand",
+        "参考抽量、透明包裹与系带；改不透明塔夫绸、极短长度及不对称门襟。"
+      ],
+      [
+        "长袖口内搭、绒面裙裤与长袜",
+        "original",
+        "以膝下裙裤替换长裤，改为暖色与短体积主导。"
+      ],
+      [
+        "铜色低跟鞋与短刺发",
+        "original",
+        "原创鞋口和发型，回应秋季腐叶而非满身花朵。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. FAIRYCORE warm autumn forest counterpart, no sage/lilac. Original burnt-terracotta crisp silk-taffeta very short balloon cape with sculptural puff shoulders and asymmetric tie-front, opaque butter-ivory fitted long-cuff blouse under it. Chocolate velvet very wide knee-length sculptural culottes with deep reverse pleats, deep brown rib knee socks and antique copper rounded chunky low Mary Jane shoes. Short outer volume versus wide cropped leg, NOT long trousers or another maxi skirt. Adult woman copper-red pixie with clean upward crest and one slender silver pin. Seated upright on warm fallen tree trunk, feet planted apart, head absolutely upright looking level forward, one hand near actual cape fastening other braced on log. Fern glade with pale amber mist and rusty leaves, quiet ecological fairy atmosphere no literal fairy wings. Research2 translucent gathered volume transposed to opaque taffeta bubble cape, tie position re-engineered.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-e6d406f9-195b-4abe-b85e-e2238e8783bf.png",
+    "atmosphere_zh": "森林的幽静、生长与季节变化；月夜、腐叶与露水分别建立冷暖和明暗差异。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  },
+  {
+    "id": "S07-F03",
+    "group": "S07",
+    "ref": "needle",
+    "title": "青柠露珠",
+    "en": "Citron Dew",
+    "palette_zh": "青柠黄／深梅紫／珍珠白",
+    "palette": [
+      "#C9D46B",
+      "#532E59",
+      "#F1EBDD"
+    ],
+    "detail": "FAIRYCORE bright citron against rich plum, NO muted sage/ivory all-over maxi dress. Original pale citron tulle handkerchief-hem sleeveless over-tunic with defined opaque bodice and floating high-low panels, embroidered original pearl-white tiny spore dots and fine fern spirals denser near ONE shoulder and lower points, opaque plum silk fitted long sleeve top beneath. Deep plum slender ankle trousers and ivory flat pointed lace-up shoes. Long sheer jagged upper panels over narrow trousers, no flower gown, no thick skirt ruffle. Adult woman ash-brown hair swept into two braided elongated high loops with very short clean fringe. Purposeful upright walking across forest glasshouse stepping stones, head vertical gaze at distant opening, one hand holds small folded ivory cloth other swings naturally. Cold morning dew, broken greenhouse panes and tiny pale wildflowers, related woodland mystery but clearly brighter colour story. Photo2 ONLY tulle embroidery distribution, redesign motif, split hem, layering and trousers.",
+    "items": [
+      [
+        "青柠纱质手帕摆长上衣",
+        "brand",
+        "参考薄纱与刺绣分布；原创孢点蕨卷，长裙拆成长上衣与细腿裤。"
+      ],
+      [
+        "梅紫内搭与踝裤",
+        "original",
+        "深紫实布从浅纱下显出窄长轮廓，避免再做淡色大蓬裙。"
+      ],
+      [
+        "白色平底鞋与高位编环发型",
+        "original",
+        "原创建构，保持轻巧与明亮的收集辨识度。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. FAIRYCORE bright citron against rich plum, NO muted sage/ivory all-over maxi dress. Original pale citron tulle handkerchief-hem sleeveless over-tunic with defined opaque bodice and floating high-low panels, embroidered original pearl-white tiny spore dots and fine fern spirals denser near ONE shoulder and lower points, opaque plum silk fitted long sleeve top beneath. Deep plum slender ankle trousers and ivory flat pointed lace-up shoes. Long sheer jagged upper panels over narrow trousers, no flower gown, no thick skirt ruffle. Adult woman ash-brown hair swept into two braided elongated high loops with very short clean fringe. Purposeful upright walking across forest glasshouse stepping stones, head vertical gaze at distant opening, one hand holds small folded ivory cloth other swings naturally. Cold morning dew, broken greenhouse panes and tiny pale wildflowers, related woodland mystery but clearly brighter colour story. Photo2 ONLY tulle embroidery distribution, redesign motif, split hem, layering and trousers.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-7eabd30e-d486-44f8-820d-006da724186b.png",
+    "atmosphere_zh": "森林的幽静、生长与季节变化；月夜、腐叶与露水分别建立冷暖和明暗差异。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  },
+  {
+    "id": "S08-F01",
+    "group": "S08",
+    "ref": "softseoul",
+    "title": "蓝调热身",
+    "en": "Warming Up in Blue",
+    "palette_zh": "婴儿蓝／亮白／海军蓝",
+    "palette": [
+      "#8BBEDB",
+      "#FAF6EC",
+      "#1F2C48"
+    ],
+    "detail": "KOREAN BALLETCORE city-to-studio fashion, vivid baby-blue/bright white/navy, no all-grey pink. Original baby-blue irregular rib fitted knit with broad asymmetric folded boat neckline and extra long sleeves with thumb openings; white opaque cotton tiered wrap MINI skirt over white fitted knit cycling shorts, navy rib knee warmers and glossy navy low double-strap flat Mary Janes with round-square toes (reinterpret photo3, no branding). Adult woman sleek black long high ponytail threaded with one thin white cord and small blunt fringe. Standing upright near rehearsal bench tying narrow side skirt waistband with both hands, head vertical level gaze, legs naturally offset BOTH shoes visible. Industrial Korean rehearsal foyer, blue glazed tiles and warm oak floor with diffuse daylight, not another white barre window scene. Reference2 only folded rib collar and fitted knit, change neckline geometry/sleeves/skirt. Reference3 ONLY banded shoe structure, change toe/strap path and colour. Adult editorial proportions, not school costume.",
+    "items": [
+      [
+        "非对称折领罗纹上衣",
+        "brand",
+        "参考 SoftSeoul 折领与不规则罗纹；重画领缘、袖长和袖口。"
+      ],
+      [
+        "双带日常平底鞋",
+        "rockfish",
+        "参考双带鞋口；改海军蓝、方圆鞋头和带距。"
+      ],
+      [
+        "叠层裹短裙、打底短裤与暖腿袜",
+        "original",
+        "原创练习前后穿搭，短裙与内层分别构造。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. KOREAN BALLETCORE city-to-studio fashion, vivid baby-blue/bright white/navy, no all-grey pink. Original baby-blue irregular rib fitted knit with broad asymmetric folded boat neckline and extra long sleeves with thumb openings; white opaque cotton tiered wrap MINI skirt over white fitted knit cycling shorts, navy rib knee warmers and glossy navy low double-strap flat Mary Janes with round-square toes (reinterpret photo3, no branding). Adult woman sleek black long high ponytail threaded with one thin white cord and small blunt fringe. Standing upright near rehearsal bench tying narrow side skirt waistband with both hands, head vertical level gaze, legs naturally offset BOTH shoes visible. Industrial Korean rehearsal foyer, blue glazed tiles and warm oak floor with diffuse daylight, not another white barre window scene. Reference2 only folded rib collar and fitted knit, change neckline geometry/sleeves/skirt. Reference3 ONLY banded shoe structure, change toe/strap path and colour. Adult editorial proportions, not school costume.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-567aaa34-d641-4ec4-bf9c-4a57d8022d11.png",
+    "atmosphere_zh": "韩系日常芭蕾语汇；蓝白、莓红、黄油巧克力分别成套，领口、鞋面带与可脱层次互相呼应。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  },
+  {
+    "id": "S08-F02",
+    "group": "S08",
+    "ref": "barnnet",
+    "title": "覆盆子间奏",
+    "en": "Raspberry Interlude",
+    "palette_zh": "覆盆子红／淡粉／奶油白",
+    "palette": [
+      "#A83C65",
+      "#F1C4D0",
+      "#FFF1D3"
+    ],
+    "detail": "KOREAN BALLETCORE raspberry-red/blush/cream, rich warm colour counterpart to blue-white companion. Original raspberry soft gathered cotton cropped henley blouse with one broad off-shoulder folded frill (not copied logo), small functional cream tie at front and full sleeves gathered into long narrow cuffs; blush silk-jersey draped wrap skirt to just BELOW knee with a pronounced diagonal petal overlap, cream opaque soft rib socks and raspberry matte low cross-strap flats (new Rockfish interpretation no toe bow). Adult woman short glossy black bowl-pixie with exposed neck, tiny silver barrette. Seated upright on rehearsal landing bench, both feet planted slightly apart, one hand resting on folded cream knit leg warmers on knee other bracing on bench; head fully upright direct steady gaze. Dusty brick studio stairwell with warm peach wall and a dark door, restrained Korean everyday dancewear romance, not traditional white ballet stage. Photo2 ONLY Barnnet gathered feminine cotton/frill and short-long layering, redesign all panel placement, sleeve shape, colour and skirt length. Photo3 only footwear band idea, not exact product.",
+    "items": [
+      [
+        "覆盆子抽褶短衫",
+        "brand",
+        "参考 Barnnet 轻软布面、领部褶量与短长关系；改色、袖量、门襟和长度。"
+      ],
+      [
+        "交叉带低帮鞋",
+        "rockfish",
+        "参考带状鞋面关系，重新设计交叉路径与哑面红色。"
+      ],
+      [
+        "粉色花瓣裹裙、软袜与折叠暖腿层",
+        "original",
+        "用中长斜摆与红色短上身对照蓝白组短裙。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. KOREAN BALLETCORE raspberry-red/blush/cream, rich warm colour counterpart to blue-white companion. Original raspberry soft gathered cotton cropped henley blouse with one broad off-shoulder folded frill (not copied logo), small functional cream tie at front and full sleeves gathered into long narrow cuffs; blush silk-jersey draped wrap skirt to just BELOW knee with a pronounced diagonal petal overlap, cream opaque soft rib socks and raspberry matte low cross-strap flats (new Rockfish interpretation no toe bow). Adult woman short glossy black bowl-pixie with exposed neck, tiny silver barrette. Seated upright on rehearsal landing bench, both feet planted slightly apart, one hand resting on folded cream knit leg warmers on knee other bracing on bench; head fully upright direct steady gaze. Dusty brick studio stairwell with warm peach wall and a dark door, restrained Korean everyday dancewear romance, not traditional white ballet stage. Photo2 ONLY Barnnet gathered feminine cotton/frill and short-long layering, redesign all panel placement, sleeve shape, colour and skirt length. Photo3 only footwear band idea, not exact product.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-a8ff4f20-e7f2-4ad1-9e72-bd32f809f7f3.png",
+    "atmosphere_zh": "韩系日常芭蕾语汇；蓝白、莓红、黄油巧克力分别成套，领口、鞋面带与可脱层次互相呼应。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  },
+  {
+    "id": "S08-F03",
+    "group": "S08",
+    "ref": "rockfish",
+    "title": "黄油色散场",
+    "en": "A Butter-Yellow Exit",
+    "palette_zh": "黄油黄／巧克力／浅金",
+    "palette": [
+      "#E6CD73",
+      "#49312C",
+      "#D7B57A"
+    ],
+    "detail": "KOREAN BALLETCORE after-rehearsal fashion in butter yellow/chocolate/light gold, visually distinct from blue-white and raspberry. Original chocolate fine-rib sleeveless fitted ankle-length flared warm-up jumpsuit with modest square neckline, elongated clean leg line; butter-yellow semiopaque cotton-nylon cropped hooded wrap jacket with cocoon sleeves and gathered drawstring hem, worn open, gathered neck and sleeve adjusters visibly functional. Butter soft socks and chocolate flat double-strap square-round Mary Janes, redesign narrow straps and remove toe bow compared reference2. Adult woman dark auburn slick centre part low braid folded into a flat loop at nape, no head tilt. Purposeful step exiting brick dance studio into late afternoon, one hand carries a butter-yellow folded knit wrap, other hand in jacket pocket, head fully upright gaze forward. Pale ochre wall and charcoal studio door, warm ordinary-city setting with editorial proportions, no theatre costume. Photo2 only shoe opening and twin strap support, original garment design; reference3 Barnnet only loose soft layer over defined base, not copy.",
+    "items": [
+      [
+        "双带方圆头平底鞋",
+        "brand",
+        "参考 Rockfish 双带与浅鞋口；重设带距、鞋头及巧克力色，不复刻品牌鞋款。"
+      ],
+      [
+        "黄油黄短罩层与修长罗纹连体衣",
+        "original",
+        "用短圆外层和长窄内层建立舞者散场比例。"
+      ],
+      [
+        "浅色袜层与低环长辫",
+        "original",
+        "延续日常芭蕾感，避免灰粉统一色调。"
+      ]
+    ],
+    "prompt": "Create ONE full-body adult fashion collectible illustration, tall 1:2, both shoes fully in frame, thin ivory rounded border, no text/logos. CLEAN refined semi-realistic anime fashion illustration with precise lines and smooth controlled shading matching reference1 rendering ONLY. Never copy reference1 outfit, scenery, face, head angle or pose. Reference2 research garment/photo ONLY, not an exact replica. Strong editorial silhouettes and clearly distinguished fabrics. CRITICAL head upright, neck vertical, ears level, not sideways tilted. KOREAN BALLETCORE after-rehearsal fashion in butter yellow/chocolate/light gold, visually distinct from blue-white and raspberry. Original chocolate fine-rib sleeveless fitted ankle-length flared warm-up jumpsuit with modest square neckline, elongated clean leg line; butter-yellow semiopaque cotton-nylon cropped hooded wrap jacket with cocoon sleeves and gathered drawstring hem, worn open, gathered neck and sleeve adjusters visibly functional. Butter soft socks and chocolate flat double-strap square-round Mary Janes, redesign narrow straps and remove toe bow compared reference2. Adult woman dark auburn slick centre part low braid folded into a flat loop at nape, no head tilt. Purposeful step exiting brick dance studio into late afternoon, one hand carries a butter-yellow folded knit wrap, other hand in jacket pocket, head fully upright gaze forward. Pale ochre wall and charcoal studio door, warm ordinary-city setting with editorial proportions, no theatre costume. Photo2 only shoe opening and twin strap support, original garment design; reference3 Barnnet only loose soft layer over defined base, not copy.",
+    "generated_path": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-b9a81318-3f99-446c-9d2b-0d077ac6c341.png",
+    "atmosphere_zh": "韩系日常芭蕾语汇；蓝白、莓红、黄油巧克力分别成套，领口、鞋面带与可脱层次互相呼应。",
+    "review_zh": "新版已查看全图：主色、上下装比例与发型区分；来源标注为研究关系，不是品牌商品。"
+  }
+]

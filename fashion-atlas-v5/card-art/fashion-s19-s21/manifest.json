@@ -1,0 +1,501 @@
+[
+  {
+    "id": "S19-F01",
+    "group": "S19",
+    "ref": "levis",
+    "title": "霓虹底片",
+    "en": "A Neon Negative",
+    "palette_zh": "旧靛／朱红／黑",
+    "palette": [
+      "#4B7192",
+      "#BA3F36",
+      "#24272B"
+    ],
+    "fabric_zh": "硬丹宁／细针织／挺棉",
+    "silhouette_zh": "短棉夹克、五袋直裤",
+    "detail": "Washed indigo rigid five-pocket full-length straight jeans with original offset yoke and clean elongated leg, vivid vermilion halter knit with modest neckline, short black boxy cotton blouson, dark square low boots. Original cut/waist seam and contrast layers, no visible red tab or copied movie costume.",
+    "atmosphere_zh": "城市光线、行走与日常衣橱的重新组合，不借刻板符号。",
+    "source": {
+      "key": "levis",
+      "brand": "Levi’s",
+      "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-90s-lightweight-womens-jeans/p/A84210017",
+      "image": "https://lscoglobal.scene7.com/is/image/lscoglobal/WB_A8421-0017_GLO_CL_FV?fit=crop%2C1&fmt=jpeg&hei=2500&op_usm=0.6%2C0.6%2C8&qlt=70&resMode=sharp2&wid=2000",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://banditostore.com/products/jeans-donna-501-90s-in-denim-celeste-a1959-0106?srsltid=AfmBOordKZOEdHW3CjjsWqV_ySzd6w06Nb1UV9r1M3KzLeTIswYJ5lYH",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：五袋结构、直腿与清楚的丹宁接缝。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短棉夹克",
+        "brand",
+        "五袋结构、直腿与清楚的丹宁接缝；本卡转为「短棉夹克」，重新组织颜色、比例与分割。面料设计目标：硬丹宁／细针织／挺棉。"
+      ],
+      [
+        "五袋直裤",
+        "brand",
+        "五袋结构、直腿与清楚的丹宁接缝；本卡转为「五袋直裤」，重新组织颜色、比例与分割。面料设计目标：硬丹宁／细针织／挺棉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 香港影像与街头. Coherent group atmosphere: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy. This card alone has a distinct dominant palette: 旧靛／朱红／黑; target colours #4B7192,#BA3F36,#24272B. Do not dilute all colours into beige or grey. Outfit: Washed indigo rigid five-pocket full-length straight jeans with original offset yoke and clean elongated leg, vivid vermilion halter knit with modest neckline, short black boxy cotton blouson, dark square low boots. Original cut/waist seam and contrast layers, no visible red tab or copied movie costume. Material targets (designer choices, not certifications): 硬丹宁／细针织／挺棉. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Levi’s",
+    "path": "S19-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "0b32b74ac44a5373cc084c9ee8b7f73a238dd25bddc4a09553e2fe1fe3bfb29c",
+    "review_zh": "红色内搭、黑色短外层和浅丹宁宽裤形成清楚的三段关系。"
+  },
+  {
+    "id": "S19-F02",
+    "group": "S19",
+    "ref": "giordano",
+    "title": "青绿电车",
+    "en": "The Jade Tram",
+    "palette_zh": "青绿／白／石灰",
+    "palette": [
+      "#35847A",
+      "#EFEFE4",
+      "#777E7A"
+    ],
+    "fabric_zh": "府绸／干爽绉布",
+    "silhouette_zh": "宽袖短衬衫、斜褶中裙",
+    "detail": "Jade-teal crisp wide-sleeve shirt cropped at front with a long offset rear-side panel, ivory high-waist narrow calf skirt opening into one deep side box pleat, stone-grey low slingbacks and small black geometric shoulder bag. Amplify observed clean wide shirt volumes, new palette and asymmetric lengths.",
+    "atmosphere_zh": "城市光线、行走与日常衣橱的重新组合，不借刻板符号。",
+    "source": {
+      "key": "giordano",
+      "brand": "Giordano Ladies",
+      "url": "https://www.giordanoladies.com/",
+      "image": "https://static.wixstatic.com/media/63f558_905a89a862a94974a68f89d26639be9e~mv2.jpg/v1/fill/w_980%2Ch_554%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_auto/63f558_905a89a862a94974a68f89d26639be9e~mv2.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://m.giordano.com/HK?culture=en-us",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：清楚的衬衫线条与宽裕活动量。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "宽袖短衬衫",
+        "brand",
+        "清楚的衬衫线条与宽裕活动量；本卡转为「宽袖短衬衫」，重新组织颜色、比例与分割。面料设计目标：府绸／干爽绉布。"
+      ],
+      [
+        "斜褶中裙",
+        "brand",
+        "清楚的衬衫线条与宽裕活动量；本卡转为「斜褶中裙」，重新组织颜色、比例与分割。面料设计目标：府绸／干爽绉布。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 香港影像与街头. Coherent group atmosphere: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy. This card alone has a distinct dominant palette: 青绿／白／石灰; target colours #35847A,#EFEFE4,#777E7A. Do not dilute all colours into beige or grey. Outfit: Jade-teal crisp wide-sleeve shirt cropped at front with a long offset rear-side panel, ivory high-waist narrow calf skirt opening into one deep side box pleat, stone-grey low slingbacks and small black geometric shoulder bag. Amplify observed clean wide shirt volumes, new palette and asymmetric lengths. Material targets (designer choices, not certifications): 府绸／干爽绉布. Hair: sharp short shag with deliberate piecey fringe. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Giordano Ladies",
+    "path": "S19-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "dc67faf05b28af3e7af91dde1f256fbf1e0eaac81d99774962e156318bcc72d7",
+    "review_zh": "青绿衬衫与奶油斜摆裙相接，短发和坐姿强化都市松弛感。"
+  },
+  {
+    "id": "S19-F03",
+    "group": "S19",
+    "ref": "westwood",
+    "title": "紫李转角",
+    "en": "Plum Around the Corner",
+    "palette_zh": "梅紫／黄油／黑",
+    "palette": [
+      "#643656",
+      "#E8D79B",
+      "#26242C"
+    ],
+    "fabric_zh": "弹性针织／精纺条纹",
+    "silhouette_zh": "斜扭针织上衣、条纹阔裤",
+    "detail": "Plum jersey top twisted diagonally into a sculptural wide high neck and asymmetric draped short peplum, butter fine pinstripe very wide trousers, black squared lace-up low shoes. A single original tied side seam gathers top; translate research jersey stretch and tilted volume without copying the cut-out dress.",
+    "atmosphere_zh": "城市光线、行走与日常衣橱的重新组合，不借刻板符号。",
+    "source": {
+      "key": "westwood",
+      "brand": "Vivienne Westwood",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/vivienne-westwood",
+      "image": "https://assets.vogue.com/photos/65313974b60503dbfcd4534d/master/w_1280%2Cc_limit/00001-vivienne-westwood-spring-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Vivienne Westwood Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：针织伸展性、开口与偏斜轮廓。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "斜扭针织上衣",
+        "brand",
+        "针织伸展性、开口与偏斜轮廓；本卡转为「斜扭针织上衣」，重新组织颜色、比例与分割。面料设计目标：弹性针织／精纺条纹。"
+      ],
+      [
+        "条纹阔裤",
+        "brand",
+        "针织伸展性、开口与偏斜轮廓；本卡转为「条纹阔裤」，重新组织颜色、比例与分割。面料设计目标：弹性针织／精纺条纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 香港影像与街头. Coherent group atmosphere: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy. This card alone has a distinct dominant palette: 梅紫／黄油／黑; target colours #643656,#E8D79B,#26242C. Do not dilute all colours into beige or grey. Outfit: Plum jersey top twisted diagonally into a sculptural wide high neck and asymmetric draped short peplum, butter fine pinstripe very wide trousers, black squared lace-up low shoes. A single original tied side seam gathers top; translate research jersey stretch and tilted volume without copying the cut-out dress. Material targets (designer choices, not certifications): 弹性针织／精纺条纹. Hair: braided crown ending in one compact low coil. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: Hong Kong urban cinema atmosphere, tiled stairwell and tram corridor, subtle neon after dusk, no film-character copy, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Vivienne Westwood",
+    "path": "S19-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "9ae37c5bd9a0cd4277d78348984b7ca31d601fd9517c611370fddac59c361561",
+    "review_zh": "梅紫斜肩褶裥上衣搭浅金阔腿裤，编辫与裤腿流动呼应。"
+  },
+  {
+    "id": "S20-F01",
+    "group": "S20",
+    "ref": "beams",
+    "title": "珊瑚唱片",
+    "en": "Coral Records",
+    "palette_zh": "珊瑚／海军蓝／白",
+    "palette": [
+      "#DC785D",
+      "#273D60",
+      "#F7EFDA"
+    ],
+    "fabric_zh": "棉针织／挺棉／帆布",
+    "silhouette_zh": "条纹短上衣、深褶阔裤",
+    "detail": "Coral-and-navy irregular wide-striped cotton sleeveless top with a compact sculpted shoulder fold, ivory very wide long pleated trousers and a coral cropped loose overshirt tied at actual waist loops, navy low canvas shoes. Re-space stripe rhythm and reverse the reference skirt volume into trousers.",
+    "atmosphere_zh": "以色块、线条和音乐节奏转译复古都市想象。",
+    "source": {
+      "key": "beams",
+      "brand": "BEAMS BOY",
+      "url": "https://www.beams.co.jp/special/beamsboy/22ss/",
+      "image": "https://cdn1.beams.co.jp/special/beamsboy/22ss/assets/images/vol2/look_4_2.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.beams.co.jp/special/beamsboy_look/24ss_2/",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短针织外层、长衬衫和丹宁的错位层次。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "条纹短上衣",
+        "brand",
+        "短针织外层、长衬衫和丹宁的错位层次；本卡转为「条纹短上衣」，重新组织颜色、比例与分割。面料设计目标：棉针织／挺棉／帆布。"
+      ],
+      [
+        "深褶阔裤",
+        "brand",
+        "短针织外层、长衬衫和丹宁的错位层次；本卡转为「深褶阔裤」，重新组织颜色、比例与分割。面料设计目标：棉针织／挺棉／帆布。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: City Pop. Coherent group atmosphere: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon. This card alone has a distinct dominant palette: 珊瑚／海军蓝／白; target colours #DC785D,#273D60,#F7EFDA. Do not dilute all colours into beige or grey. Outfit: Coral-and-navy irregular wide-striped cotton sleeveless top with a compact sculpted shoulder fold, ivory very wide long pleated trousers and a coral cropped loose overshirt tied at actual waist loops, navy low canvas shoes. Re-space stripe rhythm and reverse the reference skirt volume into trousers. Material targets (designer choices, not certifications): 棉针织／挺棉／帆布. Hair: braided crown ending in one compact low coil. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "BEAMS BOY",
+    "path": "S20-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "355540c4f1bf847c581c647e493078e0b7fa3006c98da752c38a0842fcfe727a",
+    "review_zh": "珊瑚外层、条纹内搭和象牙阔腿裤构成滨水城市的轻快层次。"
+  },
+  {
+    "id": "S20-F02",
+    "group": "S20",
+    "ref": "issey",
+    "title": "蓝调合成器",
+    "en": "A Blue Synthesizer",
+    "palette_zh": "电蓝／樱粉／银",
+    "palette": [
+      "#2864BA",
+      "#D994AB",
+      "#BFC8CF"
+    ],
+    "fabric_zh": "细褶／纸感挺布",
+    "silhouette_zh": "细褶连体衣、折片短外层",
+    "detail": "Electric blue finely pleated wide-leg sleeveless jumpsuit with one spiralling waist fold and long clean legs, cherry-pink origami-fold short shoulder jacket with an open geometric collar, silver flat square shoes. Soft pleats against one crisp folded shell; no copied black wrap dress.",
+    "atmosphere_zh": "以色块、线条和音乐节奏转译复古都市想象。",
+    "source": {
+      "key": "issey",
+      "brand": "Issey Miyake",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+      "image": "https://assets.vogue.com/photos/6516da22c42fddef6ebbcdf1/master/w_1280%2Cc_limit/00001%E2%80%94issey%E2%80%94miyake-spring-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Issey Miyake Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：对角包裹与细褶形成的离身空间。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "细褶连体衣",
+        "brand",
+        "对角包裹与细褶形成的离身空间；本卡转为「细褶连体衣」，重新组织颜色、比例与分割。面料设计目标：细褶／纸感挺布。"
+      ],
+      [
+        "折片短外层",
+        "brand",
+        "对角包裹与细褶形成的离身空间；本卡转为「折片短外层」，重新组织颜色、比例与分割。面料设计目标：细褶／纸感挺布。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: City Pop. Coherent group atmosphere: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon. This card alone has a distinct dominant palette: 电蓝／樱粉／银; target colours #2864BA,#D994AB,#BFC8CF. Do not dilute all colours into beige or grey. Outfit: Electric blue finely pleated wide-leg sleeveless jumpsuit with one spiralling waist fold and long clean legs, cherry-pink origami-fold short shoulder jacket with an open geometric collar, silver flat square shoes. Soft pleats against one crisp folded shell; no copied black wrap dress. Material targets (designer choices, not certifications): 细褶／纸感挺布. Hair: slick side-part short bob with one sculptural finger wave. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Issey Miyake",
+    "path": "S20-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "3f02f2f26b7a4dff5c3ecb1fa9987f9f3601409be6e47639bcd1514e9fd24c44",
+    "review_zh": "宝蓝连体轮廓配粉色短袖外层，坐姿展开长裤的量感。"
+  },
+  {
+    "id": "S20-F03",
+    "group": "S20",
+    "ref": "onitsuka",
+    "title": "黄昏高频",
+    "en": "Sunset Frequency",
+    "palette_zh": "明黄／黑／冷白",
+    "palette": [
+      "#E4BA32",
+      "#24272B",
+      "#F3F1E9"
+    ],
+    "fabric_zh": "技术针织／薄尼龙",
+    "silhouette_zh": "立领长运动裙",
+    "detail": "Mustard-yellow technical jersey calf-length track dress with tall folded collar, original black angled side panels and off-centre zipper, white cropped nylon outer shell with curved elbow sleeves, black low-profile sneakers with plain blank side panels. No tiger stripes or logo; new sporty proportions.",
+    "atmosphere_zh": "以色块、线条和音乐节奏转译复古都市想象。",
+    "source": {
+      "key": "onitsuka",
+      "brand": "Onitsuka Tiger",
+      "url": "https://models.com/work/onitsuka-tiger-onitsuka-tiger-fw-24-show",
+      "image": "https://i.mdel.net/i/db/2024/2/2174317/2174317-800w.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.fashionsnap.com/collection/onitsuka-tiger/2024aw/",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：宽肩外层与精简运动纵线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "立领长运动裙",
+        "brand",
+        "宽肩外层与精简运动纵线；本卡转为「立领长运动裙」，重新组织颜色、比例与分割。面料设计目标：技术针织／薄尼龙。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: City Pop. Coherent group atmosphere: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon. This card alone has a distinct dominant palette: 明黄／黑／冷白; target colours #E4BA32,#24272B,#F3F1E9. Do not dilute all colours into beige or grey. Outfit: Mustard-yellow technical jersey calf-length track dress with tall folded collar, original black angled side panels and off-centre zipper, white cropped nylon outer shell with curved elbow sleeves, black low-profile sneakers with plain blank side panels. No tiger stripes or logo; new sporty proportions. Material targets (designer choices, not certifications): 技术针织／薄尼龙. Hair: two compact elongated high braid loops with short fringe. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: retro city-pop urban seaside promenade at dusk, graphic windows and reflected colour without written neon, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Onitsuka Tiger",
+    "path": "S20-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "a358398492f40c0680250794b3f36d011674bb7d2c79987091212f52ac8bd582",
+    "review_zh": "柠檬黄高领修身裙配浅色机能外层，运动鞋和双辫增添速度感。"
+  },
+  {
+    "id": "S21-F01",
+    "group": "S21",
+    "ref": "allsaints",
+    "title": "紫雾引擎",
+    "en": "A Lavender Engine",
+    "palette_zh": "黑／薰衣草／银",
+    "palette": [
+      "#24242B",
+      "#B7A0C6",
+      "#BCC1C7"
+    ],
+    "fabric_zh": "柔皮／雪纺／针织",
+    "silhouette_zh": "短机车夹克、轻纱长裙",
+    "detail": "Black supple leather dramatically cropped asymmetric biker jacket with original three-zip arrangement and rounded elbows, lavender opaque-lined chiffon long wrap skirt with a large off-centre godet, black slim jersey shell and square low boots. Shift hardware, jacket length and skirt geometry.",
+    "atmosphere_zh": "外层重量与轻薄下层互换，机车语汇与柔软层次共存。",
+    "source": {
+      "key": "allsaints",
+      "brand": "AllSaints",
+      "url": "https://www.next.co.uk/style/su455819/ag7285",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AG7285s.jpg?im=Resize",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.next.co.uk/style/su455819/ag7285",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：斜门襟、皮面与功能拉链。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短机车夹克",
+        "brand",
+        "斜门襟、皮面与功能拉链；本卡转为「短机车夹克」，重新组织颜色、比例与分割。面料设计目标：柔皮／雪纺／针织。"
+      ],
+      [
+        "轻纱长裙",
+        "brand",
+        "斜门襟、皮面与功能拉链；本卡转为「轻纱长裙」，重新组织颜色、比例与分割。面料设计目标：柔皮／雪纺／针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Moto Boho. Coherent group atmosphere: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho. This card alone has a distinct dominant palette: 黑／薰衣草／银; target colours #24242B,#B7A0C6,#BCC1C7. Do not dilute all colours into beige or grey. Outfit: Black supple leather dramatically cropped asymmetric biker jacket with original three-zip arrangement and rounded elbows, lavender opaque-lined chiffon long wrap skirt with a large off-centre godet, black slim jersey shell and square low boots. Shift hardware, jacket length and skirt geometry. Material targets (designer choices, not certifications): 柔皮／雪纺／针织. Hair: two compact elongated high braid loops with short fringe. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "AllSaints",
+    "path": "S21-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "861da0c07610ec61d52352f55e242133ece47aca9eec7eedd1f017109a610960",
+    "review_zh": "黑色皮夹克与浅紫多层纱裙相撞，短发让摇滚感更利落。"
+  },
+  {
+    "id": "S21-F02",
+    "group": "S21",
+    "ref": "chloe",
+    "title": "咖啡色尘途",
+    "en": "Coffee-Coloured Roads",
+    "palette_zh": "咖啡／矢车菊蓝／燕麦",
+    "palette": [
+      "#694A36",
+      "#6C92C4",
+      "#D8C4A0"
+    ],
+    "fabric_zh": "皮革／抽褶棉／精纺",
+    "silhouette_zh": "短皮披、褶短裤",
+    "detail": "Coffee leather short curved shoulder cape with flat tie fastening over a cornflower-blue full-sleeve gathered cotton blouse, deep oat wide pleated mid-thigh shorts, dark tall low boots. New short-leg silhouette under soft long sleeves, no copied runway belt or layered mini dress.",
+    "atmosphere_zh": "外层重量与轻薄下层互换，机车语汇与柔软层次共存。",
+    "source": {
+      "key": "chloe",
+      "brand": "Chloé",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+      "image": "https://assets.vogue.com/photos/65e09cb37deb0fee34cbc8ba/master/w_1280%2Cc_limit/00001-chloe-fall-2024-ready-to-wear-credit-gorunway.JPG",
+      "title": "Chloé Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短皮披与轻薄褶层的重量对照。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短皮披",
+        "brand",
+        "短皮披与轻薄褶层的重量对照；本卡转为「短皮披」，重新组织颜色、比例与分割。面料设计目标：皮革／抽褶棉／精纺。"
+      ],
+      [
+        "褶短裤",
+        "brand",
+        "短皮披与轻薄褶层的重量对照；本卡转为「褶短裤」，重新组织颜色、比例与分割。面料设计目标：皮革／抽褶棉／精纺。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Moto Boho. Coherent group atmosphere: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho. This card alone has a distinct dominant palette: 咖啡／矢车菊蓝／燕麦; target colours #694A36,#6C92C4,#D8C4A0. Do not dilute all colours into beige or grey. Outfit: Coffee leather short curved shoulder cape with flat tie fastening over a cornflower-blue full-sleeve gathered cotton blouse, deep oat wide pleated mid-thigh shorts, dark tall low boots. New short-leg silhouette under soft long sleeves, no copied runway belt or layered mini dress. Material targets (designer choices, not certifications): 皮革／抽褶棉／精纺. Hair: dark low folded long braid with a plain metal barrette. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Chloé",
+    "path": "S21-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "c738d14c5ced5b5758a165f5e46368cc8e7991314b710096893d92fbeb3a6f34",
+    "review_zh": "棕色短披、蓝色宽袖和沙色短裤配长靴，坐姿展示层次。"
+  },
+  {
+    "id": "S21-F03",
+    "group": "S21",
+    "ref": "marant",
+    "title": "铁锈花边",
+    "en": "Rust and Lace",
+    "palette_zh": "奶油／铁锈／巧克力",
+    "palette": [
+      "#EADDC1",
+      "#A65239",
+      "#50372E"
+    ],
+    "fabric_zh": "低光皮／衬里蕾丝／罗纹",
+    "silhouette_zh": "紧凑皮上衣、蕾丝喇叭裤",
+    "detail": "Cream fitted leather blouson with a broad folded funnel neck and clean hem, rust opaque-lined fine lace flared trousers reaching ankle, chocolate rib shell and low brown strapped shoes. Keep fringe absent, transfer lace from dress to the long lower half.",
+    "atmosphere_zh": "外层重量与轻薄下层互换，机车语汇与柔软层次共存。",
+    "source": {
+      "key": "marant",
+      "brand": "Isabel Marant",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+      "image": "https://assets.vogue.com/photos/6515ce2d7534c4a4dfefcd2d/master/w_1280%2Cc_limit/FIO00070.jpg",
+      "title": "Isabel Marant Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：深色皮外层、蕾丝与长短叠层。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "紧凑皮上衣",
+        "brand",
+        "深色皮外层、蕾丝与长短叠层；本卡转为「紧凑皮上衣」，重新组织颜色、比例与分割。面料设计目标：低光皮／衬里蕾丝／罗纹。"
+      ],
+      [
+        "蕾丝喇叭裤",
+        "brand",
+        "深色皮外层、蕾丝与长短叠层；本卡转为「蕾丝喇叭裤」，重新组织颜色、比例与分割。面料设计目标：低光皮／衬里蕾丝／罗纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s19-s21",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Moto Boho. Coherent group atmosphere: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho. This card alone has a distinct dominant palette: 奶油／铁锈／巧克力; target colours #EADDC1,#A65239,#50372E. Do not dilute all colours into beige or grey. Outfit: Cream fitted leather blouson with a broad folded funnel neck and clean hem, rust opaque-lined fine lace flared trousers reaching ankle, chocolate rib shell and low brown strapped shoes. Keep fringe absent, transfer lace from dress to the long lower half. Material targets (designer choices, not certifications): 低光皮／衬里蕾丝／罗纹. Hair: sleek angular chin bob with one tightly braided temple. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: urban music venue courtyard and concrete roadstop, wind and late afternoon, composed rebellious boho, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Isabel Marant",
+    "path": "S21-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "252773a1ce52fa241fb56f38757fef13407c32ef06bff8928e86af2666911f51",
+    "review_zh": "象牙短夹克配赤陶蕾丝喇叭裤，裤脚的透感成为舞台重点。"
+  }
+]

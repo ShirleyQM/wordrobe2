@@ -1,0 +1,451 @@
+[
+  {
+    "id": "S25-F01",
+    "group": "S25",
+    "ref": "dipetsa",
+    "title": "青潮塑形",
+    "en": "Tide-Shaped",
+    "palette_zh": "海青／冷白／银",
+    "palette": [
+      "#3F9D9B",
+      "#E9F0E8",
+      "#BCC8CF"
+    ],
+    "fabric_zh": "柔软弹性针织／局部低光金属",
+    "silhouette_zh": "抽褶柱形长裙",
+    "detail": "Seafoam-teal opaque jersey long column dress with original diagonal fan gathers gathered into a low silver side clasp, asymmetric broad shoulder strap and flowing narrow train panel ending above ground, ivory flat delicate sandals. Liquid drape from material and seams, no literal wet skin or copied neckline.",
+    "atmosphere_zh": "流动褶线与海水光泽，避免贝壳道具和同色鱼尾裙。",
+    "source": {
+      "key": "dipetsa",
+      "brand": "Di Petsa",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/di-petsa",
+      "image": "https://assets.vogue.com/photos/65047f9a4ab33b0dc2f7d4f4/master/w_1280%2Cc_limit/00001-di-petsa-spring-2024-RTW-credit-gorunway.jpg",
+      "title": "Di Petsa Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：斜向聚褶、贴体长线与液态光泽。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "抽褶柱形长裙",
+        "brand",
+        "斜向聚褶、贴体长线与液态光泽；本卡转为「抽褶柱形长裙」，重新组织颜色、比例与分割。面料设计目标：柔软弹性针织／局部低光金属。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Mermaidcore. Coherent group atmosphere: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial. This card alone has a distinct dominant palette: 海青／冷白／银; target colours #3F9D9B,#E9F0E8,#BCC8CF. Do not dilute all colours into beige or grey. Outfit: Seafoam-teal opaque jersey long column dress with original diagonal fan gathers gathered into a low silver side clasp, asymmetric broad shoulder strap and flowing narrow train panel ending above ground, ivory flat delicate sandals. Liquid drape from material and seams, no literal wet skin or copied neckline. Material targets (designer choices, not certifications): 柔软弹性针织／局部低光金属. Hair: slick side-part short bob with one sculptural finger wave. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Di Petsa"
+  },
+  {
+    "id": "S25-F02",
+    "group": "S25",
+    "ref": "blumarine",
+    "title": "珊瑚潮汐",
+    "en": "Coral Tides",
+    "palette_zh": "珊瑚橘／梅紫／珍珠",
+    "palette": [
+      "#D57961",
+      "#563754",
+      "#EADFCF"
+    ],
+    "fabric_zh": "弹性绉针织／轻纱荷叶",
+    "silhouette_zh": "荷叶长上衣、喇叭裤",
+    "detail": "Coral opaque jersey long one-sleeve tunic with a sloping ruffle seam from shoulder to one calf-length tail, deep plum elongated flared trousers, pearl low platform sandals. Rework dress-over-trousers and undulating hems, no shell bra, cross or copied flower symbol.",
+    "atmosphere_zh": "流动褶线与海水光泽，避免贝壳道具和同色鱼尾裙。",
+    "source": {
+      "key": "blumarine",
+      "brand": "Blumarine",
+      "url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+      "image": "https://assets.vogue.com/photos/632cc6a406377e01c5304729/master/w_2560%2Cc_limit/00009-blumarine-spring-2023-ready-to-wear-credit-gorunway.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：抽褶、流动下摆与长层次。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "荷叶长上衣",
+        "brand",
+        "抽褶、流动下摆与长层次；本卡转为「荷叶长上衣」，重新组织颜色、比例与分割。面料设计目标：弹性绉针织／轻纱荷叶。"
+      ],
+      [
+        "喇叭裤",
+        "brand",
+        "抽褶、流动下摆与长层次；本卡转为「喇叭裤」，重新组织颜色、比例与分割。面料设计目标：弹性绉针织／轻纱荷叶。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Mermaidcore. Coherent group atmosphere: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial. This card alone has a distinct dominant palette: 珊瑚橘／梅紫／珍珠; target colours #D57961,#563754,#EADFCF. Do not dilute all colours into beige or grey. Outfit: Coral opaque jersey long one-sleeve tunic with a sloping ruffle seam from shoulder to one calf-length tail, deep plum elongated flared trousers, pearl low platform sandals. Rework dress-over-trousers and undulating hems, no shell bra, cross or copied flower symbol. Material targets (designer choices, not certifications): 弹性绉针织／轻纱荷叶. Hair: two compact elongated high braid loops with short fringe. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Blumarine"
+  },
+  {
+    "id": "S25-F03",
+    "group": "S25",
+    "ref": "cultgaia",
+    "title": "珍珠断奏",
+    "en": "A Pearl Syncopation",
+    "palette_zh": "珍珠白／青铜／深海绿",
+    "palette": [
+      "#E7DFC9",
+      "#A8874E",
+      "#2B625A"
+    ],
+    "fabric_zh": "编织感针织／带片绸／实色内层",
+    "silhouette_zh": "编结衣身、带片中裙",
+    "detail": "Pearl woven-jersey sculptural modest sleeveless bodice with an original broad curved neckline, bronze satin waist strip above a deep sea-green calf skirt built from six wide spaced fabric strips over opaque lining. Transfer braided-and-mobile surfaces into much larger new panels, no copied sweetheart bodice or exact fringe dress.",
+    "atmosphere_zh": "流动褶线与海水光泽，避免贝壳道具和同色鱼尾裙。",
+    "source": {
+      "brand": "Cult Gaia",
+      "season": "Blythe Dress 产品研究",
+      "key": "cultgaia",
+      "url": "https://cultgaia.com/products/blythe-dress-off-white",
+      "image": "https://cultgaia.com/cdn/shop/files/250505_DR_CG_PF25_LOOK_64_0126_WEBBED.jpg?v=1753742553",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：编织衣身与可移动带状裙层。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "编结衣身",
+        "brand",
+        "编织衣身与可移动带状裙层；本卡转为「编结衣身」，重新组织颜色、比例与分割。面料设计目标：编织感针织／带片绸／实色内层。"
+      ],
+      [
+        "带片中裙",
+        "brand",
+        "编织衣身与可移动带状裙层；本卡转为「带片中裙」，重新组织颜色、比例与分割。面料设计目标：编织感针织／带片绸／实色内层。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Mermaidcore. Coherent group atmosphere: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial. This card alone has a distinct dominant palette: 珍珠白／青铜／深海绿; target colours #E7DFC9,#A8874E,#2B625A. Do not dilute all colours into beige or grey. Outfit: Pearl woven-jersey sculptural modest sleeveless bodice with an original broad curved neckline, bronze satin waist strip above a deep sea-green calf skirt built from six wide spaced fabric strips over opaque lining. Transfer braided-and-mobile surfaces into much larger new panels, no copied sweetheart bodice or exact fringe dress. Material targets (designer choices, not certifications): 编织感针织／带片绸／实色内层. Hair: dark low folded long braid with a plain metal barrette. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: tidal modern pavilion and still rock pool, luminous ocean reflection, refined aquatic editorial, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Cult Gaia"
+  },
+  {
+    "id": "S26-F01",
+    "group": "S26",
+    "ref": "eileen",
+    "title": "天蓝空隙",
+    "en": "Sky-Blue Space",
+    "palette_zh": "天蓝／白／浅麻",
+    "palette": [
+      "#8BB9CB",
+      "#F5F0DE",
+      "#C6B38D"
+    ],
+    "fabric_zh": "亚麻感织物／纸感棉",
+    "silhouette_zh": "宽肩衬裙、弧线裤",
+    "detail": "Sky-blue linen oversized sleeveless long shirt tunic with a wide folded square collar, two large side slits and asymmetric long front tab, white sculptural barrel ankle trousers, natural woven flat sandals. Redesign relaxed linen into shoulder geometry and curved lower volume, not plain shirt-and-pants.",
+    "atmosphere_zh": "海风里有设计的宽裕比例，色彩各自完整。",
+    "source": {
+      "key": "eileen",
+      "brand": "Eileen Fisher",
+      "url": "https://www.eileenfisherpress.com/may-2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/66e88917546bfc1aad9122b4/b3626ae1-ca83-4d04-a829-fe52b9efc951/26m5-PR-Lookbook--Linen-HP.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.eileenfisherpress.com/may-2026",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：宽裕亚麻感平面与松量。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "宽肩衬裙",
+        "brand",
+        "宽裕亚麻感平面与松量；本卡转为「宽肩衬裙」，重新组织颜色、比例与分割。面料设计目标：亚麻感织物／纸感棉。"
+      ],
+      [
+        "弧线裤",
+        "brand",
+        "宽裕亚麻感平面与松量；本卡转为「弧线裤」，重新组织颜色、比例与分割。面料设计目标：亚麻感织物／纸感棉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Coastal Ease. Coherent group atmosphere: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood. This card alone has a distinct dominant palette: 天蓝／白／浅麻; target colours #8BB9CB,#F5F0DE,#C6B38D. Do not dilute all colours into beige or grey. Outfit: Sky-blue linen oversized sleeveless long shirt tunic with a wide folded square collar, two large side slits and asymmetric long front tab, white sculptural barrel ankle trousers, natural woven flat sandals. Redesign relaxed linen into shoulder geometry and curved lower volume, not plain shirt-and-pants. Material targets (designer choices, not certifications): 亚麻感织物／纸感棉. Hair: dark low folded long braid with a plain metal barrette. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Eileen Fisher"
+  },
+  {
+    "id": "S26-F02",
+    "group": "S26",
+    "ref": "jenni",
+    "title": "海军蓝软岛",
+    "en": "The Navy Soft Island",
+    "palette_zh": "海军蓝／奶油／铁锈",
+    "palette": [
+      "#253C58",
+      "#EEE0C3",
+      "#A85B40"
+    ],
+    "fabric_zh": "绒面针织／罗纹／麂皮感",
+    "silhouette_zh": "茧形针织、柱形长裙",
+    "detail": "Deep navy very cropped cashmere-like cocoon cardigan with oversized balloon elbows and one low original asymmetric button, cream rib ankle column skirt with a broad rust waistband wrap, navy low suede mules. Recompose short soft knit versus long column and changed closure, no exact product copy.",
+    "atmosphere_zh": "海风里有设计的宽裕比例，色彩各自完整。",
+    "source": {
+      "key": "jenni",
+      "brand": "Jenni Kayne",
+      "url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+      "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/cropped-cashmere-cocoon-cardigan-oatmeal-02_720x.jpg?v=1749684515",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短茧形针织、V领和软袖量。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "茧形针织",
+        "brand",
+        "短茧形针织、V领和软袖量；本卡转为「茧形针织」，重新组织颜色、比例与分割。面料设计目标：绒面针织／罗纹／麂皮感。"
+      ],
+      [
+        "柱形长裙",
+        "brand",
+        "短茧形针织、V领和软袖量；本卡转为「柱形长裙」，重新组织颜色、比例与分割。面料设计目标：绒面针织／罗纹／麂皮感。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Coastal Ease. Coherent group atmosphere: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood. This card alone has a distinct dominant palette: 海军蓝／奶油／铁锈; target colours #253C58,#EEE0C3,#A85B40. Do not dilute all colours into beige or grey. Outfit: Deep navy very cropped cashmere-like cocoon cardigan with oversized balloon elbows and one low original asymmetric button, cream rib ankle column skirt with a broad rust waistband wrap, navy low suede mules. Recompose short soft knit versus long column and changed closure, no exact product copy. Material targets (designer choices, not certifications): 绒面针织／罗纹／麂皮感. Hair: sleek angular chin bob with one tightly braided temple. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Jenni Kayne"
+  },
+  {
+    "id": "S26-F03",
+    "group": "S26",
+    "ref": "loro",
+    "title": "向日葵海岸",
+    "en": "Sunflower Coast",
+    "palette_zh": "向日葵／米白／褐",
+    "palette": [
+      "#CFAE4C",
+      "#F0E5CE",
+      "#765A3E"
+    ],
+    "fabric_zh": "麻丝感斜纹／精纺／软皮",
+    "silhouette_zh": "长披巾外层、短裤",
+    "detail": "Sunflower linen-silk long sleeveless cape-vest with a generous integrated scarf fold, ivory compact square-neck shell and high-waist taupe long shorts, tan low leather sandals. Large saturated yellow field with precise pale inner geometry, not all beige, original collar and short-leg layering.",
+    "atmosphere_zh": "海风里有设计的宽裕比例，色彩各自完整。",
+    "source": {
+      "key": "loro",
+      "brand": "Loro Piana",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/loro-piana",
+      "image": "https://assets.vogue.com/photos/65d883d6c73c745e7a1c5393/master/w_1280%2Cc_limit/00001-loro-piana-fall-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Loro Piana Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：宽裕长外层与大披领的连续折线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长披巾外层",
+        "brand",
+        "宽裕长外层与大披领的连续折线；本卡转为「长披巾外层」，重新组织颜色、比例与分割。面料设计目标：麻丝感斜纹／精纺／软皮。"
+      ],
+      [
+        "短裤",
+        "brand",
+        "宽裕长外层与大披领的连续折线；本卡转为「短裤」，重新组织颜色、比例与分割。面料设计目标：麻丝感斜纹／精纺／软皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Coastal Ease. Coherent group atmosphere: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood. This card alone has a distinct dominant palette: 向日葵／米白／褐; target colours #CFAE4C,#F0E5CE,#765A3E. Do not dilute all colours into beige or grey. Outfit: Sunflower linen-silk long sleeveless cape-vest with a generous integrated scarf fold, ivory compact square-neck shell and high-waist taupe long shorts, tan low leather sandals. Large saturated yellow field with precise pale inner geometry, not all beige, original collar and short-leg layering. Material targets (designer choices, not certifications): 麻丝感斜纹／精纺／软皮. Hair: precise centre-part hair sculpted into a flat low loop. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: calm coastal architecture with wind and soft clear daylight, unhurried adult holiday mood, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Loro Piana"
+  },
+  {
+    "id": "S27-F01",
+    "group": "S27",
+    "ref": "rodarte",
+    "title": "黑紫幕帘",
+    "en": "Black-Violet Curtains",
+    "palette_zh": "墨黑／紫罗兰／旧银",
+    "palette": [
+      "#1C1C29",
+      "#6E4394",
+      "#A9AFBC"
+    ],
+    "fabric_zh": "薄纱／雪纺／绒面贴边",
+    "silhouette_zh": "不对称纱裙、长外层",
+    "detail": "Black opaque structured high-neck bodice over violet asymmetric tulle calf skirt with a single sculpted side puff and flat opposite side, long black sheer chiffon open coat with velvet branching trim only at cuffs, black low T-strap shoes. Dress for between performances, no stage tutu, crown or wings.",
+    "atmosphere_zh": "演出间隙的包裹与轻重层次，夜色与深浅衣服形成张力。",
+    "source": {
+      "key": "rodarte",
+      "brand": "Rodarte",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+      "image": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：植物贴花、深浅透明与长柱形。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "不对称纱裙",
+        "brand",
+        "植物贴花、深浅透明与长柱形；本卡转为「不对称纱裙」，重新组织颜色、比例与分割。面料设计目标：薄纱／雪纺／绒面贴边。"
+      ],
+      [
+        "长外层",
+        "brand",
+        "植物贴花、深浅透明与长柱形；本卡转为「长外层」，重新组织颜色、比例与分割。面料设计目标：薄纱／雪纺／绒面贴边。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Ballet Noir. Coherent group atmosphere: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro. This card alone has a distinct dominant palette: 墨黑／紫罗兰／旧银; target colours #1C1C29,#6E4394,#A9AFBC. Do not dilute all colours into beige or grey. Outfit: Black opaque structured high-neck bodice over violet asymmetric tulle calf skirt with a single sculpted side puff and flat opposite side, long black sheer chiffon open coat with velvet branching trim only at cuffs, black low T-strap shoes. Dress for between performances, no stage tutu, crown or wings. Material targets (designer choices, not certifications): 薄纱／雪纺／绒面贴边. Hair: precise centre-part hair sculpted into a flat low loop. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Rodarte"
+  },
+  {
+    "id": "S27-F02",
+    "group": "S27",
+    "ref": "simone",
+    "title": "暗红排练",
+    "en": "A Dark-Red Rehearsal",
+    "palette_zh": "暗红／棕黑／粉白",
+    "palette": [
+      "#7B3447",
+      "#342A2E",
+      "#E9D4D0"
+    ],
+    "fabric_zh": "欧根纱／绉布／细针织",
+    "silhouette_zh": "短纱罩、阔腿长裤",
+    "detail": "Dark wine sheer organza high-neck cropped smock with crisp sculptural folded sleeves, opaque blush fitted shell and chocolate-black very wide long crepe trousers, wine low strapped shoes. One fine tie closes neck, no heavy pearls or trapped flowers; short transparent volume versus long solid legs.",
+    "atmosphere_zh": "演出间隙的包裹与轻重层次，夜色与深浅衣服形成张力。",
+    "source": {
+      "key": "simone",
+      "brand": "Simone Rocha",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "image": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：领口系带、透明包裹与抽量。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短纱罩",
+        "brand",
+        "领口系带、透明包裹与抽量；本卡转为「短纱罩」，重新组织颜色、比例与分割。面料设计目标：欧根纱／绉布／细针织。"
+      ],
+      [
+        "阔腿长裤",
+        "brand",
+        "领口系带、透明包裹与抽量；本卡转为「阔腿长裤」，重新组织颜色、比例与分割。面料设计目标：欧根纱／绉布／细针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Ballet Noir. Coherent group atmosphere: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro. This card alone has a distinct dominant palette: 暗红／棕黑／粉白; target colours #7B3447,#342A2E,#E9D4D0. Do not dilute all colours into beige or grey. Outfit: Dark wine sheer organza high-neck cropped smock with crisp sculptural folded sleeves, opaque blush fitted shell and chocolate-black very wide long crepe trousers, wine low strapped shoes. One fine tie closes neck, no heavy pearls or trapped flowers; short transparent volume versus long solid legs. Material targets (designer choices, not certifications): 欧根纱／绉布／细针织. Hair: short copper textured pixie with exposed ears. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Simone Rocha"
+  },
+  {
+    "id": "S27-F03",
+    "group": "S27",
+    "ref": "repetto",
+    "title": "象牙色返场",
+    "en": "An Ivory Return",
+    "palette_zh": "象牙／深青／炭黑",
+    "palette": [
+      "#EBE2CD",
+      "#2F5C61",
+      "#33363D"
+    ],
+    "fabric_zh": "精纺／罗纹针织／低光皮",
+    "silhouette_zh": "短裹外套、长柱形裙",
+    "detail": "Ivory dense fine-wool cropped wrap jacket with a wide diagonal collar over deep teal opaque rib-knit ankle column dress, charcoal fine socks and ivory flat shallow-vamp shoes with newly designed short cross straps. Shoe structure alone references Repetto, garments original; clearly everyday fashion shoes not professional dance equipment.",
+    "atmosphere_zh": "演出间隙的包裹与轻重层次，夜色与深浅衣服形成张力。",
+    "source": {
+      "key": "repetto",
+      "brand": "Repetto",
+      "url": "https://repetto.com/en/collections/sophia-ballerina",
+      "image": "https://repetto.com/en/collections/sophia-ballerina",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：浅鞋口、柔软袜层与带状固定。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短裹外套",
+        "original",
+        "本卡原创服装层次；Repetto 仅提供日常平底鞋的研究依据。"
+      ],
+      [
+        "长柱形裙",
+        "original",
+        "本卡原创服装层次；Repetto 仅提供日常平底鞋的研究依据。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "brand",
+        "鞋履参考浅口与带状关系，重新设计带距和鞋面；服装为原创层次。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s25-s27",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Ballet Noir. Coherent group atmosphere: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro. This card alone has a distinct dominant palette: 象牙／深青／炭黑; target colours #EBE2CD,#2F5C61,#33363D. Do not dilute all colours into beige or grey. Outfit: Ivory dense fine-wool cropped wrap jacket with a wide diagonal collar over deep teal opaque rib-knit ankle column dress, charcoal fine socks and ivory flat shallow-vamp shoes with newly designed short cross straps. Shoe structure alone references Repetto, garments original; clearly everyday fashion shoes not professional dance equipment. Material targets (designer choices, not certifications): 精纺／罗纹针织／低光皮. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: backstage theatre passage and empty rehearsal room after evening performance, quiet theatrical chiaroscuro, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Repetto"
+  }
+]

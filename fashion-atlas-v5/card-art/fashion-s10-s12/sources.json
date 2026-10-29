@@ -1,0 +1,82 @@
+[
+  {
+    "key": "chloe",
+    "brand": "Chloé",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+    "image": "https://assets.vogue.com/photos/65e09cb37deb0fee34cbc8ba/master/w_1280%2Cc_limit/00001-chloe-fall-2024-ready-to-wear-credit-gorunway.JPG",
+    "title": "Chloé Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "etro",
+    "brand": "Etro",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/etro",
+    "image": "https://assets.vogue.com/photos/65d6ee1329be775867d61067/master/w_1280%2Cc_limit/00001-etro-fall-2024-ready-to-wear-credit-gorunway.JPG",
+    "title": "Etro Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "marant",
+    "brand": "Isabel Marant",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+    "image": "https://assets.vogue.com/photos/6515ce2d7534c4a4dfefcd2d/master/w_1280%2Cc_limit/FIO00070.jpg",
+    "title": "Isabel Marant Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "pucci",
+    "brand": "Pucci",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/emilio-pucci",
+    "image": "https://assets.vogue.com/photos/660f2c6bf972aae850afc3d7/master/w_1280%2Cc_limit/00001-pucci-spring-2024-ready-to-wear-credit-brand.jpg",
+    "title": "Emilio Pucci Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "maxmara",
+    "brand": "Max Mara",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/max-mara",
+    "image": "https://assets.vogue.com/photos/650c47eded9dbdb37994b278/master/w_1280%2Cc_limit/00001-max-mara-spring-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Max Mara Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "loro",
+    "brand": "Loro Piana",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/loro-piana",
+    "image": "https://assets.vogue.com/photos/65d883d6c73c745e7a1c5393/master/w_1280%2Cc_limit/00001-loro-piana-fall-2024-ready-to-wear-credit-brand.jpg",
+    "title": "Loro Piana Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "saintjames",
+    "brand": "Saint James",
+    "url": "https://www.musinsa.com/products/4758641",
+    "image": "https://image.msscdn.net/images/goods_img/20250205/4758641/4758641_17387170925052_500.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.lacroixespaceboutique.com/fc/mariniere-authentique-minquier-en-coton-leger-par.html",
+    "status": "downloaded"
+  },
+  {
+    "key": "apc",
+    "brand": "A.P.C.",
+    "url": "https://models.com/work/apc-fw-23",
+    "image": "https://i.mdel.net/i/db/2023/3/1896659/1896659-800w.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://models.com/work/apc-fw-23",
+    "status": "downloaded"
+  },
+  {
+    "key": "courreges",
+    "brand": "Courrèges",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/courreges",
+    "image": "https://assets.vogue.com/photos/65df84ba697a2547f6aa9e13/master/w_2560%2Cc_limit/00006-courreges-fall-2024-ready-to-wear-credit-brand.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  }
+]

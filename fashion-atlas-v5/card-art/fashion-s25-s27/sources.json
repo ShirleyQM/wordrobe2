@@ -1,0 +1,78 @@
+[
+  {
+    "key": "dipetsa",
+    "brand": "Di Petsa",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/di-petsa",
+    "image": "https://assets.vogue.com/photos/65047f9a4ab33b0dc2f7d4f4/master/w_1280%2Cc_limit/00001-di-petsa-spring-2024-RTW-credit-gorunway.jpg",
+    "title": "Di Petsa Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "blumarine",
+    "brand": "Blumarine",
+    "url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+    "image": "https://assets.vogue.com/photos/632cc6a406377e01c5304729/master/w_2560%2Cc_limit/00009-blumarine-spring-2023-ready-to-wear-credit-gorunway.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "brand": "Cult Gaia",
+    "season": "Blythe Dress 产品研究",
+    "key": "cultgaia",
+    "url": "https://cultgaia.com/products/blythe-dress-off-white",
+    "image": "https://cultgaia.com/cdn/shop/files/250505_DR_CG_PF25_LOOK_64_0126_WEBBED.jpg?v=1753742553",
+    "status": "downloaded"
+  },
+  {
+    "key": "eileen",
+    "brand": "Eileen Fisher",
+    "url": "https://www.eileenfisherpress.com/may-2026",
+    "image": "https://images.squarespace-cdn.com/content/v1/66e88917546bfc1aad9122b4/b3626ae1-ca83-4d04-a829-fe52b9efc951/26m5-PR-Lookbook--Linen-HP.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.eileenfisherpress.com/may-2026",
+    "status": "downloaded"
+  },
+  {
+    "key": "jenni",
+    "brand": "Jenni Kayne",
+    "url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/cropped-cashmere-cocoon-cardigan-oatmeal-02_720x.jpg?v=1749684515",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+    "status": "downloaded"
+  },
+  {
+    "key": "loro",
+    "brand": "Loro Piana",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/loro-piana",
+    "image": "https://assets.vogue.com/photos/65d883d6c73c745e7a1c5393/master/w_1280%2Cc_limit/00001-loro-piana-fall-2024-ready-to-wear-credit-brand.jpg",
+    "title": "Loro Piana Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "rodarte",
+    "brand": "Rodarte",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+    "image": "https://assets.vogue.com/photos/65cf29a9624724c3c792e6cb/master/w_2560%2Cc_limit/00017-rodarte-fall-2024-ready-to-wear-credit-todd-cole.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "simone",
+    "brand": "Simone Rocha",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+    "image": "https://media.vogue.de/photos/65f96999805418b0272112b4/master/pass/00031-simone-rocha-spring-2024-ready-to-wear-credit-gorunway.jpeg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "repetto",
+    "brand": "Repetto",
+    "url": "https://repetto.com/en/collections/sophia-ballerina",
+    "image": "https://repetto.com/cdn/shop/files/ShootporteAH160-Modifier_1.jpg?v=1734949278",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  }
+]

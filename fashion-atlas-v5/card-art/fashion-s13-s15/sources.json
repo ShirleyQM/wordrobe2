@@ -1,0 +1,72 @@
+[
+  {
+    "key": "calvin",
+    "brand": "Calvin Klein",
+    "url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/calvin-klein-collection/slideshow/details",
+    "image": "https://assets.vogue.com/photos/57b4b96f6a98be4d139f2048/master/w_2560%2Cc_limit/CALVIN-KLEIN-SPRING-1996-RTW-DETAIL-01-KIRSTY-HUME-CN10034255.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.voguehk.com/zh/article/fashion/calvin-klein-closes-ready-to-wear-runway-throwback/",
+    "status": "downloaded"
+  },
+  {
+    "key": "versace90",
+    "brand": "Versace",
+    "url": "https://www.vogue.com/fashion-shows/fall-1995-ready-to-wear/versace",
+    "image": "https://assets.vogue.com/photos/5a2855fc48a431324139f3f7/master/w_1280%2Cc_limit/VERSACE-FALL-1995-RTW-46-CLAUDIA-SCHIFFER-CN10047054.jpg",
+    "title": "Versace Fall 1995 Ready-to-Wear Collection | Vogue",
+    "season": "fall-1995-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "helmut",
+    "brand": "Helmut Lang",
+    "url": "https://www.vogue.com/fashion-shows/fall-1998-ready-to-wear/helmut-lang",
+    "image": "https://assets.vogue.com/photos/56b924a67f0b8b2a6b764d51/master/w_1280%2Cc_limit/01.jpg",
+    "title": "Helmut Lang Fall 1998 Ready-to-Wear Collection | Vogue",
+    "season": "fall-1998-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "lanvin",
+    "brand": "Jeanne Lanvin 历史作品",
+    "url": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress",
+    "image": "https://images.nms.ac.uk/production/Images/Discover/100-years-of-the-little-black-dress/Robe-de-style-Jeanne-Lanvin.jpg?auto=format&dm=1719401890&fill=solid&fill-color=000000&fit=fill&h=670&q=100&s=1e81ed39fa89816b125e9d4f63239f20&w=1123",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress",
+    "status": "downloaded"
+  },
+  {
+    "key": "ralph",
+    "brand": "Ralph Lauren",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+    "image": "https://assets.vogue.com/photos/663068286ca23caaa8032923/master/w_1920%2Cc_limit/00027-ralph-lauren-fall-2024-ready-to-wear-credit-brand.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "gucci",
+    "brand": "Gucci",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/gucci",
+    "image": "https://assets.vogue.com/photos/650dc9ed4658ceaf3b706274/master/w_1280%2Cc_limit/00001-gucci-spring-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Gucci Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "hermes",
+    "brand": "Hermès",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/hermes",
+    "image": "https://assets.vogue.com/photos/65e34a4af88752637a65d8bc/master/w_1280%2Cc_limit/00001-hermes-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Hermès Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "burberry",
+    "brand": "Burberry",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+    "image": "https://assets.vogue.com/photos/65d46e465b3abd4445d29085/master/w_2560%2Cc_limit/00006-burberry-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  }
+]

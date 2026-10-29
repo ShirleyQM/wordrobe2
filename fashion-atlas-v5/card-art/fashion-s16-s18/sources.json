@@ -1,0 +1,81 @@
+[
+  {
+    "key": "ann",
+    "brand": "Ann Demeulemeester",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ann-demeulemeester",
+    "image": "https://assets.vogue.com/photos/65e390b55ebdfbc9590e03a5/master/w_1280%2Cc_limit/00001-ann-demeulemeester-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Ann Demeulemeester Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "mcqueen",
+    "brand": "Alexander McQueen",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/alexander-mcqueen",
+    "image": "https://assets.vogue.com/photos/65e3af348fce6647e6d3a3f7/master/w_1280%2Cc_limit/00001-alexander-mcqueen-fall-2024-ready-to-wear-credit-brand.jpg",
+    "title": "McQueen Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "simone",
+    "brand": "Simone Rocha",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+    "image": "https://media.vogue.de/photos/65f96999805418b0272112b4/master/pass/00031-simone-rocha-spring-2024-ready-to-wear-credit-gorunway.jpeg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "issey",
+    "brand": "Issey Miyake",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+    "image": "https://assets.vogue.com/photos/6516da22c42fddef6ebbcdf1/master/w_1280%2Cc_limit/00001%E2%80%94issey%E2%80%94miyake-spring-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Issey Miyake Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "iris",
+    "brand": "Iris van Herpen",
+    "url": "https://www.vogue.com/fashion-shows/fall-2023-couture/iris-van-herpen/slideshow/collection",
+    "image": "https://assets.vogue.com/photos/64a2b9e73d397f9041925f36/master/w_2560%2Cc_limit/00014-iris-van-herpen-fall-2023-couture-credit-gorunway.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.vogue.com/fashion-shows/fall-2023-couture/iris-van-herpen/slideshow/collection",
+    "status": "downloaded"
+  },
+  {
+    "key": "cdg",
+    "brand": "Comme des Garçons",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/comme-des-garcons",
+    "image": "https://assets.vogue.com/photos/65e36ea37b454d0642afaa8a/master/w_1280%2Cc_limit/00001-comme-des-garcons-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Comme des Garçons Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "margaret",
+    "brand": "Margaret Howell",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+    "image": "https://assets.vogue.com/photos/65e49021d3293bde2b032f57/master/w_2560%2Cc_limit/00018-margaret-howell-fall-2024-ready-to-wear-credit-ola-rindal-brand.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "sea",
+    "brand": "Sea New York",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/sea",
+    "image": "https://assets.vogue.com/photos/65d5c333102f6dbc623bdf62/master/w_1280%2Cc_limit/00001-sea-fall-2024-ready-to-wear-credit-brand.jpg",
+    "title": "Sea Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "sezane",
+    "brand": "Sézane",
+    "url": "https://www.whowhatwear.com/fashion/shopping/sezane-gaspard-cardigan",
+    "image": "https://cdn.mos.cms.futurecdn.net/NFPD9BPihsxRZDuiWgmonJ.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.whowhatwear.com/fashion/shopping/sezane-gaspard-cardigan",
+    "status": "downloaded"
+  }
+]

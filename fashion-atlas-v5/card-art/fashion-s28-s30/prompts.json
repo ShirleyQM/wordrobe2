@@ -1,0 +1,449 @@
+[
+  {
+    "id": "S28-F01",
+    "group": "S28",
+    "ref": "shanghaitang",
+    "title": "玉色折枝",
+    "en": "Jade Branches",
+    "palette_zh": "玉绿／墨黑／金",
+    "palette": [
+      "#387C67",
+      "#252C2D",
+      "#B99A55"
+    ],
+    "fabric_zh": "暗纹提花／低光皮",
+    "silhouette_zh": "斜襟立领中长裙",
+    "detail": "Jade-green silk-jacquard calf qipao-inspired dress with an original low stand collar, offset curved front fastening and broad petal cap sleeve, restrained black geometric branch jacquard placed only at shoulder and hem, black flat pointed shoes. Rework collar, seam and original pattern without dragons or copied motifs.",
+    "atmosphere_zh": "立领、斜襟和裹身关系的现代设计，不堆砌文化符号。",
+    "source": {
+      "key": "shanghaitang",
+      "brand": "Shanghai Tang",
+      "url": "https://www.farfetch.com/eg/shopping/women/shanghai-tang-floral-lattice-silk-qipao-dress-item-25596835.aspx",
+      "image": "https://cdn-images.farfetch-contents.com/25/59/68/35/25596835_55616860_1000.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://cdn.shanghaitang.com/women/clothing/qipaos-cheongsams",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：立领、贴体长线与低对比暗纹。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "斜襟立领中长裙",
+        "brand",
+        "立领、贴体长线与低对比暗纹；本卡转为「斜襟立领中长裙」，重新组织颜色、比例与分割。面料设计目标：暗纹提花／低光皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Modern Qipao. Coherent group atmosphere: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring. This card alone has a distinct dominant palette: 玉绿／墨黑／金; target colours #387C67,#252C2D,#B99A55. Do not dilute all colours into beige or grey. Outfit: Jade-green silk-jacquard calf qipao-inspired dress with an original low stand collar, offset curved front fastening and broad petal cap sleeve, restrained black geometric branch jacquard placed only at shoulder and hem, black flat pointed shoes. Rework collar, seam and original pattern without dragons or copied motifs. Material targets (designer choices, not certifications): 暗纹提花／低光皮. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Shanghai Tang"
+  },
+  {
+    "id": "S28-F02",
+    "group": "S28",
+    "ref": "shiatzy",
+    "title": "朱红折领",
+    "en": "Vermilion Folds",
+    "palette_zh": "朱红／象牙／黑",
+    "palette": [
+      "#B93E35",
+      "#EDE2CE",
+      "#252830"
+    ],
+    "fabric_zh": "镂空感实衬织物／精纺",
+    "silhouette_zh": "立领短外套、阔裤",
+    "detail": "Vermilion structured cropped box jacket with a crisp modest standing collar and original diagonal cutwork panels over opaque ivory lining, ivory very wide full-length tailored trousers and black low sculptural shoes. Transfer researched embroidery/clean tailoring into a fresh jacket-and-trouser qipao vocabulary, no copied chain belt.",
+    "atmosphere_zh": "立领、斜襟和裹身关系的现代设计，不堆砌文化符号。",
+    "source": {
+      "key": "shiatzy",
+      "brand": "Shiatzy Chen",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/shiatzy-chen",
+      "image": "https://assets.vogue.com/photos/651ae3253161bd07cc46f5d5/master/w_1280%2Cc_limit/00001-shiatzy-chen-spring-2024-ready-to-wear-credit-brand.JPG",
+      "title": "Shiatzy Chen Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：局部装饰表面与清晰实色剪裁。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "立领短外套",
+        "brand",
+        "局部装饰表面与清晰实色剪裁；本卡转为「立领短外套」，重新组织颜色、比例与分割。面料设计目标：镂空感实衬织物／精纺。"
+      ],
+      [
+        "阔裤",
+        "brand",
+        "局部装饰表面与清晰实色剪裁；本卡转为「阔裤」，重新组织颜色、比例与分割。面料设计目标：镂空感实衬织物／精纺。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Modern Qipao. Coherent group atmosphere: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring. This card alone has a distinct dominant palette: 朱红／象牙／黑; target colours #B93E35,#EDE2CE,#252830. Do not dilute all colours into beige or grey. Outfit: Vermilion structured cropped box jacket with a crisp modest standing collar and original diagonal cutwork panels over opaque ivory lining, ivory very wide full-length tailored trousers and black low sculptural shoes. Transfer researched embroidery/clean tailoring into a fresh jacket-and-trouser qipao vocabulary, no copied chain belt. Material targets (designer choices, not certifications): 镂空感实衬织物／精纺. Hair: sharp short shag with deliberate piecey fringe. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Shiatzy Chen"
+  },
+  {
+    "id": "S28-F03",
+    "group": "S28",
+    "ref": "uma",
+    "title": "石蓝叠影",
+    "en": "Slate-Blue Layers",
+    "palette_zh": "石蓝／棕／冷白",
+    "palette": [
+      "#526E84",
+      "#795A48",
+      "#E5E4DA"
+    ],
+    "fabric_zh": "丝毛感密织／干爽斜纹",
+    "silhouette_zh": "非对称裹身长衣",
+    "detail": "Slate-blue dense silk-wool long wrapped coat dress with a folded high neckline, a broad asymmetrically draped umber side panel and long straight sleeves, ivory narrow ankle trousers peeking under front opening, dark brown squared low shoes. Restrained layered volume and diagonal wrap, original panel architecture.",
+    "atmosphere_zh": "立领、斜襟和裹身关系的现代设计，不堆砌文化符号。",
+    "source": {
+      "key": "uma",
+      "brand": "Uma Wang",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/uma-wang",
+      "image": "https://assets.vogue.com/photos/65e1ba866223a1b8e4aa4909/master/w_1280%2Cc_limit/00001-uma-wang-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Uma Wang Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：折领、长短裹身面与对角线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "非对称裹身长衣",
+        "brand",
+        "折领、长短裹身面与对角线；本卡转为「非对称裹身长衣」，重新组织颜色、比例与分割。面料设计目标：丝毛感密织／干爽斜纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Modern Qipao. Coherent group atmosphere: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring. This card alone has a distinct dominant palette: 石蓝／棕／冷白; target colours #526E84,#795A48,#E5E4DA. Do not dilute all colours into beige or grey. Outfit: Slate-blue dense silk-wool long wrapped coat dress with a folded high neckline, a broad asymmetrically draped umber side panel and long straight sleeves, ivory narrow ankle trousers peeking under front opening, dark brown squared low shoes. Restrained layered volume and diagonal wrap, original panel architecture. Material targets (designer choices, not certifications): 丝毛感密织／干爽斜纹. Hair: braided crown ending in one compact low coil. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: contemporary design museum courtyard with pale stone and restrained screen geometry, confident modern tailoring, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Uma Wang"
+  },
+  {
+    "id": "S29-F01",
+    "group": "S29",
+    "ref": "mackintosh",
+    "title": "黄铜雨檐",
+    "en": "A Brass Rain Eave",
+    "palette_zh": "芥黄／海军蓝／冷白",
+    "palette": [
+      "#C0A03D",
+      "#273C59",
+      "#E8EADD"
+    ],
+    "fabric_zh": "胶棉感挺布／轻绉／针织",
+    "silhouette_zh": "A形短雨外套、长裙",
+    "detail": "Mustard structured A-line thigh-length raincoat with dropped shoulders, original wide square storm collar and two inset hand pockets, navy flowing calf skirt and cool-white compact knit, black flat ankle rain shoes. Redesign coat proportions and pocket lines; styling concept not a waterproof certification.",
+    "atmosphere_zh": "雨后的光与外套结构；三种主色保持同一种清爽城市感。",
+    "source": {
+      "key": "mackintosh",
+      "brand": "Mackintosh",
+      "url": "https://bshop-inc.com/shop/ec/item/view/shop_product_id/40289",
+      "image": "https://bshop-prod.store-image.jp/product/BSG252L101-0069/BSG252L101-0069_detail_12.jpg?ts=20251017101209",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://bshop-inc.com/shop/ec/item/view/shop_product_id/40289",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：A形宽肩外套、翻领与可触及口袋。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "A形短雨外套",
+        "brand",
+        "A形宽肩外套、翻领与可触及口袋；本卡转为「A形短雨外套」，重新组织颜色、比例与分割。面料设计目标：胶棉感挺布／轻绉／针织。"
+      ],
+      [
+        "长裙",
+        "brand",
+        "A形宽肩外套、翻领与可触及口袋；本卡转为「长裙」，重新组织颜色、比例与分割。面料设计目标：胶棉感挺布／轻绉／针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Rain. Coherent group atmosphere: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses. This card alone has a distinct dominant palette: 芥黄／海军蓝／冷白; target colours #C0A03D,#273C59,#E8EADD. Do not dilute all colours into beige or grey. Outfit: Mustard structured A-line thigh-length raincoat with dropped shoulders, original wide square storm collar and two inset hand pockets, navy flowing calf skirt and cool-white compact knit, black flat ankle rain shoes. Redesign coat proportions and pocket lines; styling concept not a waterproof certification. Material targets (designer choices, not certifications): 胶棉感挺布／轻绉／针织. Hair: braided crown ending in one compact low coil. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Mackintosh"
+  },
+  {
+    "id": "S29-F02",
+    "group": "S29",
+    "ref": "burberry",
+    "title": "紫酒雨幕",
+    "en": "Wine-Coloured Rain",
+    "palette_zh": "紫酒／薄荷／黑",
+    "palette": [
+      "#653A57",
+      "#ADCFB4",
+      "#26272B"
+    ],
+    "fabric_zh": "密织斜纹／精纺／低光皮",
+    "silhouette_zh": "高领长雨外套、直筒裤",
+    "detail": "Aubergine dense twill long storm coat with exaggerated raised collar, curved short cape yoke, narrow black waist fastening and asymmetric side closure, pale mint tailored ankle trousers and black pointed low boots. Change material from researched felted wool, panel map and colour; no brand check.",
+    "atmosphere_zh": "雨后的光与外套结构；三种主色保持同一种清爽城市感。",
+    "source": {
+      "key": "burberry",
+      "brand": "Burberry",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+      "image": "https://assets.vogue.com/photos/65d46e465b3abd4445d29085/master/w_2560%2Cc_limit/00006-burberry-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：高领、厚实外套表面与收腰结构。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "高领长雨外套",
+        "brand",
+        "高领、厚实外套表面与收腰结构；本卡转为「高领长雨外套」，重新组织颜色、比例与分割。面料设计目标：密织斜纹／精纺／低光皮。"
+      ],
+      [
+        "直筒裤",
+        "brand",
+        "高领、厚实外套表面与收腰结构；本卡转为「直筒裤」，重新组织颜色、比例与分割。面料设计目标：密织斜纹／精纺／低光皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Rain. Coherent group atmosphere: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses. This card alone has a distinct dominant palette: 紫酒／薄荷／黑; target colours #653A57,#ADCFB4,#26272B. Do not dilute all colours into beige or grey. Outfit: Aubergine dense twill long storm coat with exaggerated raised collar, curved short cape yoke, narrow black waist fastening and asymmetric side closure, pale mint tailored ankle trousers and black pointed low boots. Change material from researched felted wool, panel map and colour; no brand check. Material targets (designer choices, not certifications): 密织斜纹／精纺／低光皮. Hair: slick side-part short bob with one sculptural finger wave. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Burberry"
+  },
+  {
+    "id": "S29-F03",
+    "group": "S29",
+    "ref": "margaret",
+    "title": "蓝色雨痕",
+    "en": "Blue Rain Marks",
+    "palette_zh": "奶油／群青／铜",
+    "palette": [
+      "#E5DBC1",
+      "#315EA3",
+      "#A2774B"
+    ],
+    "fabric_zh": "蜡感棉／灯芯绒／细罗纹",
+    "silhouette_zh": "半长蜡感外套、裙裤",
+    "detail": "Cream matte waxed-cotton-like half coat with original sharp angled patch pockets and compact stand collar, ultramarine wide corduroy below-knee culottes, cream fine rib socks and copper-brown low lace-up shoes. New short-wide lower half and practical accessible pocket arrangement.",
+    "atmosphere_zh": "雨后的光与外套结构；三种主色保持同一种清爽城市感。",
+    "source": {
+      "key": "margaret",
+      "brand": "Margaret Howell",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+      "image": "https://assets.vogue.com/photos/65e49021d3293bde2b032f57/master/w_2560%2Cc_limit/00018-margaret-howell-fall-2024-ready-to-wear-credit-ola-rindal-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：朴素密织表面、衬衫松量和清晰裤线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "半长蜡感外套",
+        "brand",
+        "朴素密织表面、衬衫松量和清晰裤线；本卡转为「半长蜡感外套」，重新组织颜色、比例与分割。面料设计目标：蜡感棉／灯芯绒／细罗纹。"
+      ],
+      [
+        "裙裤",
+        "brand",
+        "朴素密织表面、衬衫松量和清晰裤线；本卡转为「裙裤」，重新组织颜色、比例与分割。面料设计目标：蜡感棉／灯芯绒／细罗纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Rain. Coherent group atmosphere: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses. This card alone has a distinct dominant palette: 奶油／群青／铜; target colours #E5DBC1,#315EA3,#A2774B. Do not dilute all colours into beige or grey. Outfit: Cream matte waxed-cotton-like half coat with original sharp angled patch pockets and compact stand collar, ultramarine wide corduroy below-knee culottes, cream fine rib socks and copper-brown low lace-up shoes. New short-wide lower half and practical accessible pocket arrangement. Material targets (designer choices, not certifications): 蜡感棉／灯芯绒／细罗纹. Hair: two compact elongated high braid loops with short fringe. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: London-inspired stone arcade after rain, reflective pavement and clearing cool sky, no uniform umbrella poses, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Margaret Howell"
+  },
+  {
+    "id": "S30-F01",
+    "group": "S30",
+    "ref": "armani",
+    "title": "银紫序曲",
+    "en": "A Silver-Lilac Overture",
+    "palette_zh": "银紫／冷白／枪灰",
+    "palette": [
+      "#B5ABC9",
+      "#F0EDE7",
+      "#656875"
+    ],
+    "fabric_zh": "低光缎／轻绉／微闪织物",
+    "silhouette_zh": "雕塑礼服短上衣、长裤",
+    "detail": "Silver-lilac sculpted sleeveless evening jacket with a broad curved lapel and asymmetric double-front overlap, cool-white fluid very wide full-length trousers, gunmetal low pointed pumps and tiny silver clutch. Recompose tailored evening jacket and fluid trousers into new sleeveless geometry and palette.",
+    "atmosphere_zh": "盛装之后仍能行走和等待，仪式感来自剪裁与光泽。",
+    "source": {
+      "key": "armani",
+      "brand": "Armani Privé",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-couture/armani-prive",
+      "image": "https://assets.vogue.com/photos/667b16dae08025f359eb284c/master/w_1280%2Cc_limit/00001-armani-prive-fall-2024-couture-credit-gorunway.jpg",
+      "title": "Armani Privé Fall 2024 Couture Collection | Vogue",
+      "season": "fall-2024-couture",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：精细礼服剪裁与流动长裤。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "雕塑礼服短上衣",
+        "brand",
+        "精细礼服剪裁与流动长裤；本卡转为「雕塑礼服短上衣」，重新组织颜色、比例与分割。面料设计目标：低光缎／轻绉／微闪织物。"
+      ],
+      [
+        "长裤",
+        "brand",
+        "精细礼服剪裁与流动长裤；本卡转为「长裤」，重新组织颜色、比例与分割。面料设计目标：低光缎／轻绉／微闪织物。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Opera Night. Coherent group atmosphere: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence. This card alone has a distinct dominant palette: 银紫／冷白／枪灰; target colours #B5ABC9,#F0EDE7,#656875. Do not dilute all colours into beige or grey. Outfit: Silver-lilac sculpted sleeveless evening jacket with a broad curved lapel and asymmetric double-front overlap, cool-white fluid very wide full-length trousers, gunmetal low pointed pumps and tiny silver clutch. Recompose tailored evening jacket and fluid trousers into new sleeveless geometry and palette. Material targets (designer choices, not certifications): 低光缎／轻绉／微闪织物. Hair: two compact elongated high braid loops with short fringe. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Armani Privé"
+  },
+  {
+    "id": "S30-F02",
+    "group": "S30",
+    "ref": "valentino",
+    "title": "玫红安可",
+    "en": "A Magenta Encore",
+    "palette_zh": "玫红／酒红／祖母绿",
+    "palette": [
+      "#BE3474",
+      "#612E46",
+      "#28604F"
+    ],
+    "fabric_zh": "挺缎／布条流苏／绉缎",
+    "silhouette_zh": "长礼服外套、柱形裙",
+    "detail": "Magenta long evening coat with clean strong shoulders and a sparse original fine feather-like fabric fringe at ONE lower side, burgundy lapel facing over an emerald modest square-neck long column dress, magenta low satin pumps. Reinterpret long tailoring and moving trim with new placement/lengths; no copied ostrich hem or runway trousers.",
+    "atmosphere_zh": "盛装之后仍能行走和等待，仪式感来自剪裁与光泽。",
+    "source": {
+      "key": "valentino",
+      "brand": "Valentino",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-couture/valentino",
+      "image": "https://assets.vogue.com/photos/65b1abf91cde98af98bd688e/master/w_1280%2Cc_limit/00001-valentino-spring-2024-couture-credit-brand.jpg",
+      "title": "Valentino Spring 2024 Couture Collection | Vogue",
+      "season": "spring-2024-couture",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：长外层、局部动态饰边与明亮下装。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长礼服外套",
+        "brand",
+        "长外层、局部动态饰边与明亮下装；本卡转为「长礼服外套」，重新组织颜色、比例与分割。面料设计目标：挺缎／布条流苏／绉缎。"
+      ],
+      [
+        "柱形裙",
+        "brand",
+        "长外层、局部动态饰边与明亮下装；本卡转为「柱形裙」，重新组织颜色、比例与分割。面料设计目标：挺缎／布条流苏／绉缎。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Opera Night. Coherent group atmosphere: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence. This card alone has a distinct dominant palette: 玫红／酒红／祖母绿; target colours #BE3474,#612E46,#28604F. Do not dilute all colours into beige or grey. Outfit: Magenta long evening coat with clean strong shoulders and a sparse original fine feather-like fabric fringe at ONE lower side, burgundy lapel facing over an emerald modest square-neck long column dress, magenta low satin pumps. Reinterpret long tailoring and moving trim with new placement/lengths; no copied ostrich hem or runway trousers. Material targets (designer choices, not certifications): 挺缎／布条流苏／绉缎. Hair: dark low folded long braid with a plain metal barrette. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Valentino"
+  },
+  {
+    "id": "S30-F03",
+    "group": "S30",
+    "ref": "eliesaab",
+    "title": "深蓝终章",
+    "en": "The Midnight Finale",
+    "palette_zh": "午夜蓝／金／象牙",
+    "palette": [
+      "#243B61",
+      "#BA9C5A",
+      "#EEE5D4"
+    ],
+    "fabric_zh": "绉缎／局部珠绣／挺绸",
+    "silhouette_zh": "珠绣柱形长裙、肩披片",
+    "detail": "Midnight-blue opaque crepe ankle evening column dress with restrained original gold stepped-line embroidery rising along ONE side, broad ivory detachable sculptural shoulder panel folded into a short cape, navy low fine-strap heels. Reduced ornament, new asymmetry and colour; no copied couture embroidery, tiara or bridal train.",
+    "atmosphere_zh": "盛装之后仍能行走和等待，仪式感来自剪裁与光泽。",
+    "source": {
+      "key": "eliesaab",
+      "brand": "Elie Saab",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-couture/elie-saab",
+      "image": "https://assets.vogue.com/photos/65b134def9f4043be7ce390b/master/w_1280%2Cc_limit/00001-elie-saab-spring-2024-couture-credit-gorunway.jpg",
+      "title": "Elie Saab Spring 2024 Couture Collection | Vogue",
+      "season": "spring-2024-couture",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：长线、局部刺绣与外层开合关系。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "珠绣柱形长裙",
+        "brand",
+        "长线、局部刺绣与外层开合关系；本卡转为「珠绣柱形长裙」，重新组织颜色、比例与分割。面料设计目标：绉缎／局部珠绣／挺绸。"
+      ],
+      [
+        "肩披片",
+        "brand",
+        "长线、局部刺绣与外层开合关系；本卡转为「肩披片」，重新组织颜色、比例与分割。面料设计目标：绉缎／局部珠绣／挺绸。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s28-s30",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Opera Night. Coherent group atmosphere: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence. This card alone has a distinct dominant palette: 午夜蓝／金／象牙; target colours #243B61,#BA9C5A,#EEE5D4. Do not dilute all colours into beige or grey. Outfit: Midnight-blue opaque crepe ankle evening column dress with restrained original gold stepped-line embroidery rising along ONE side, broad ivory detachable sculptural shoulder panel folded into a short cape, navy low fine-strap heels. Reduced ornament, new asymmetry and colour; no copied couture embroidery, tiara or bridal train. Material targets (designer choices, not certifications): 绉缎／局部珠绣／挺绸. Hair: sleek angular chin bob with one tightly braided temple. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: opera-house foyer and broad stone staircase before curtain, restrained warm theatre light and formal confidence, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Elie Saab"
+  }
+]

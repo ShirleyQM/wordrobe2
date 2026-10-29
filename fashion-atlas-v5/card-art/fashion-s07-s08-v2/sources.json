@@ -1,0 +1,45 @@
+[
+  {
+    "key": "barnnet",
+    "brand": "The Barnnet",
+    "season": "2025 春季 Palette de Flour",
+    "url": "https://the-barnnet.com/sub/project.html",
+    "image": "https://cdn.imweb.me/thumbnail/20250404/5fd5dfc196e28.jpg",
+    "photo_source_url": "https://sto-blog.com/26/?bmode=view&idx=160674867"
+  },
+  {
+    "key": "rockfish",
+    "brand": "Rockfish Weatherwear",
+    "season": "26SS Maryjanes 结构研究",
+    "url": "https://rockfish-weatherwear.co.kr/category/all-season/476/",
+    "image": "https://rockfish-weatherwear.co.kr/web/product/big/202601/c900f62d7315750ccf92111948c40b4d.jpg"
+  },
+  {
+    "key": "softseoul",
+    "brand": "SoftSeoul",
+    "season": "Double Off Shoulder Knit / Baby Blue 产品研究",
+    "url": "https://softseoul.com/product/double-off-shoulder-knitbaby-blue/4450/",
+    "image": "https://cafe24img.poxo.com/soyu5256/web/product/big/202502/ca65572ea8154f46b53184649ffcdd5f.jpg"
+  },
+  {
+    "key": "rodarte",
+    "brand": "Rodarte",
+    "season": "2024 秋冬",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+    "image": "https://assets.vogue.com/photos/65cf29a9624724c3c792e6cb/master/w_2560%2Cc_limit/00017-rodarte-fall-2024-ready-to-wear-credit-todd-cole.jpg"
+  },
+  {
+    "key": "simone",
+    "brand": "Simone Rocha",
+    "season": "2024 春夏",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+    "image": "https://media.vogue.de/photos/65f96999805418b0272112b4/master/pass/00031-simone-rocha-spring-2024-ready-to-wear-credit-gorunway.jpeg"
+  },
+  {
+    "key": "needle",
+    "brand": "Needle & Thread",
+    "season": "Floral-embroidered Dress 产品研究",
+    "url": "https://www.farfetch.com/om/shopping/women/needle-thread-floral-embroidered-dress-item-30432588.aspx",
+    "image": "https://cdn-images.farfetch-contents.com/30/43/25/88/30432588_59638304_1000.jpg"
+  }
+]

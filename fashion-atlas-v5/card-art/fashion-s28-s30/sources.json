@@ -1,0 +1,81 @@
+[
+  {
+    "key": "shanghaitang",
+    "brand": "Shanghai Tang",
+    "url": "https://www.farfetch.com/eg/shopping/women/shanghai-tang-floral-lattice-silk-qipao-dress-item-25596835.aspx",
+    "image": "https://cdn-images.farfetch-contents.com/25/59/68/35/25596835_55616860_1000.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://cdn.shanghaitang.com/women/clothing/qipaos-cheongsams",
+    "status": "downloaded"
+  },
+  {
+    "key": "shiatzy",
+    "brand": "Shiatzy Chen",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/shiatzy-chen",
+    "image": "https://assets.vogue.com/photos/651ae3253161bd07cc46f5d5/master/w_1280%2Cc_limit/00001-shiatzy-chen-spring-2024-ready-to-wear-credit-brand.JPG",
+    "title": "Shiatzy Chen Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "uma",
+    "brand": "Uma Wang",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/uma-wang",
+    "image": "https://assets.vogue.com/photos/65e1ba866223a1b8e4aa4909/master/w_1280%2Cc_limit/00001-uma-wang-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Uma Wang Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "mackintosh",
+    "brand": "Mackintosh",
+    "url": "https://bshop-inc.com/shop/ec/item/view/shop_product_id/40289",
+    "image": "https://bshop-prod.store-image.jp/product/BSG252L101-0069/BSG252L101-0069_detail_12.jpg?ts=20251017101209",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://bshop-inc.com/shop/ec/item/view/shop_product_id/40289",
+    "status": "downloaded"
+  },
+  {
+    "key": "burberry",
+    "brand": "Burberry",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+    "image": "https://assets.vogue.com/photos/65d46e465b3abd4445d29085/master/w_2560%2Cc_limit/00006-burberry-fall-2024-ready-to-wear-credit-gorunway.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "margaret",
+    "brand": "Margaret Howell",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+    "image": "https://assets.vogue.com/photos/65e49021d3293bde2b032f57/master/w_2560%2Cc_limit/00018-margaret-howell-fall-2024-ready-to-wear-credit-ola-rindal-brand.jpg",
+    "season": "已核验公开系列／产品研究，沿用前批研究图",
+    "status": "downloaded"
+  },
+  {
+    "key": "armani",
+    "brand": "Armani Privé",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-couture/armani-prive",
+    "image": "https://assets.vogue.com/photos/667b16dae08025f359eb284c/master/w_1280%2Cc_limit/00001-armani-prive-fall-2024-couture-credit-gorunway.jpg",
+    "title": "Armani Privé Fall 2024 Couture Collection | Vogue",
+    "season": "fall-2024-couture",
+    "status": "downloaded"
+  },
+  {
+    "key": "valentino",
+    "brand": "Valentino",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-couture/valentino",
+    "image": "https://assets.vogue.com/photos/65b1abf91cde98af98bd688e/master/w_1280%2Cc_limit/00001-valentino-spring-2024-couture-credit-brand.jpg",
+    "title": "Valentino Spring 2024 Couture Collection | Vogue",
+    "season": "spring-2024-couture",
+    "status": "downloaded"
+  },
+  {
+    "key": "eliesaab",
+    "brand": "Elie Saab",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-couture/elie-saab",
+    "image": "https://assets.vogue.com/photos/65b134def9f4043be7ce390b/master/w_1280%2Cc_limit/00001-elie-saab-spring-2024-couture-credit-gorunway.jpg",
+    "title": "Elie Saab Spring 2024 Couture Collection | Vogue",
+    "season": "spring-2024-couture",
+    "status": "downloaded"
+  }
+]

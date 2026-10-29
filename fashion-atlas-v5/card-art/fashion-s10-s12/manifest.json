@@ -1,0 +1,490 @@
+[
+  {
+    "id": "S10-F01",
+    "group": "S10",
+    "ref": "chloe",
+    "title": "沙色回旋",
+    "en": "Sand in Rotation",
+    "palette_zh": "象牙／焦糖／墨蓝",
+    "palette": [
+      "#EDE0C7",
+      "#A6673E",
+      "#27374D"
+    ],
+    "fabric_zh": "轻纱／低光皮革／细斜纹",
+    "silhouette_zh": "褶袖短披、轻纱不对称长上衣",
+    "detail": "Ivory cascading chiffon long tunic with offset ruffled neck and deliberately uneven hem, under a very short cognac leather shoulder cape with clean curved edges; narrow ink-navy flared trousers, tan low platform sandals. Floaty vertical layers contrasted with compact leather. No copied belt, studs or cape cut.",
+    "atmosphere_zh": "松弛而有力量的手工层次；暖石墙、旅途与风，三个色彩方向共用一种自由气氛。",
+    "source": {
+      "key": "chloe",
+      "brand": "Chloé",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+      "image": "https://assets.vogue.com/photos/65e09cb37deb0fee34cbc8ba/master/w_1280%2Cc_limit/00001-chloe-fall-2024-ready-to-wear-credit-gorunway.JPG",
+      "title": "Chloé Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短皮披与轻薄褶层的重量对照。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "褶袖短披",
+        "brand",
+        "短皮披与轻薄褶层的重量对照；本卡转为「褶袖短披」，重新组织颜色、比例与分割。面料设计目标：轻纱／低光皮革／细斜纹。"
+      ],
+      [
+        "轻纱不对称长上衣",
+        "brand",
+        "短皮披与轻薄褶层的重量对照；本卡转为「轻纱不对称长上衣」，重新组织颜色、比例与分割。面料设计目标：轻纱／低光皮革／细斜纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Boho Chic. Coherent group atmosphere: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood. This card alone has a distinct dominant palette: 象牙／焦糖／墨蓝; target colours #EDE0C7,#A6673E,#27374D. Do not dilute all colours into beige or grey. Outfit: Ivory cascading chiffon long tunic with offset ruffled neck and deliberately uneven hem, under a very short cognac leather shoulder cape with clean curved edges; narrow ink-navy flared trousers, tan low platform sandals. Floaty vertical layers contrasted with compact leather. No copied belt, studs or cape cut. Material targets (designer choices, not certifications): 轻纱／低光皮革／细斜纹. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Chloé",
+    "path": "S10-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "9b7090608bbcf28e28ccfcbb3d38fa2f4b7ed76303f924f5df4b0664b866b807",
+    "review_zh": "焦糖短披压住象牙轻纱的纵向层次，墨蓝喇叭裤收束整体。"
+  },
+  {
+    "id": "S10-F02",
+    "group": "S10",
+    "ref": "etro",
+    "title": "蓝印旅人",
+    "en": "Blue-Print Traveller",
+    "palette_zh": "群青／砖红／奶油",
+    "palette": [
+      "#254C9A",
+      "#A34A35",
+      "#EFE0B8"
+    ],
+    "fabric_zh": "提花／挺棉／干爽绉布",
+    "silhouette_zh": "印花长马甲、箱褶裙裤",
+    "detail": "Ultramarine jacquard long waistcoat with original rust-and-cream broken paisley geometry confined to lower panels, cream full-sleeve cotton shirt, brick-red wide box-pleated knee culottes, dark blue lace-up boots. A narrow tasseled belt actually cinches vest. Redesign motif, panel placement and lengths.",
+    "atmosphere_zh": "松弛而有力量的手工层次；暖石墙、旅途与风，三个色彩方向共用一种自由气氛。",
+    "source": {
+      "key": "etro",
+      "brand": "Etro",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/etro",
+      "image": "https://assets.vogue.com/photos/65d6ee1329be775867d61067/master/w_1280%2Cc_limit/00001-etro-fall-2024-ready-to-wear-credit-gorunway.JPG",
+      "title": "Etro Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：规整西装与印花下装的材质对照。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "印花长马甲",
+        "brand",
+        "规整西装与印花下装的材质对照；本卡转为「印花长马甲」，重新组织颜色、比例与分割。面料设计目标：提花／挺棉／干爽绉布。"
+      ],
+      [
+        "箱褶裙裤",
+        "brand",
+        "规整西装与印花下装的材质对照；本卡转为「箱褶裙裤」，重新组织颜色、比例与分割。面料设计目标：提花／挺棉／干爽绉布。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Boho Chic. Coherent group atmosphere: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood. This card alone has a distinct dominant palette: 群青／砖红／奶油; target colours #254C9A,#A34A35,#EFE0B8. Do not dilute all colours into beige or grey. Outfit: Ultramarine jacquard long waistcoat with original rust-and-cream broken paisley geometry confined to lower panels, cream full-sleeve cotton shirt, brick-red wide box-pleated knee culottes, dark blue lace-up boots. A narrow tasseled belt actually cinches vest. Redesign motif, panel placement and lengths. Material targets (designer choices, not certifications): 提花／挺棉／干爽绉布. Hair: sharp short shag with deliberate piecey fringe. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Etro",
+    "path": "S10-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "db6b6a7f24084fe21d70cfb9257887bbe8d2fa012656def6c00d315fcb8f0066",
+    "review_zh": "深蓝纹样长背心与赤陶阔腿裤形成长短错层，坐姿展开裤量。"
+  },
+  {
+    "id": "S10-F03",
+    "group": "S10",
+    "ref": "marant",
+    "title": "莓色流苏",
+    "en": "Berry Fringe",
+    "palette_zh": "深莓／黑／旧银",
+    "palette": [
+      "#74364F",
+      "#202025",
+      "#B6A9A3"
+    ],
+    "fabric_zh": "衬里蕾丝／柔皮／哑金属",
+    "silhouette_zh": "无袖长皮革外套、斜摆蕾丝长裙",
+    "detail": "Deep berry lace V-neck opaque-lined bias mini dress with draped hip seam; black lightweight leather long sleeveless coat with sparse long fringe only at side hem, charcoal knee boots and narrow aged-silver cuff. Keep torso spare, use movement at coat edges not full-body decoration.",
+    "atmosphere_zh": "松弛而有力量的手工层次；暖石墙、旅途与风，三个色彩方向共用一种自由气氛。",
+    "source": {
+      "key": "marant",
+      "brand": "Isabel Marant",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+      "image": "https://assets.vogue.com/photos/6515ce2d7534c4a4dfefcd2d/master/w_1280%2Cc_limit/FIO00070.jpg",
+      "title": "Isabel Marant Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：深色皮外层、蕾丝与长短叠层。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长皮披外层",
+        "brand",
+        "深色皮外层、蕾丝与长短叠层；本卡转为「长皮披外层」，重新组织颜色、比例与分割。面料设计目标：衬里蕾丝／柔皮／哑金属。"
+      ],
+      [
+        "斜摆蕾丝长裙",
+        "brand",
+        "深色皮外层、蕾丝与长短叠层；本卡转为「斜裁蕾丝短裙」，重新组织颜色、比例与分割。面料设计目标：衬里蕾丝／柔皮／哑金属。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Boho Chic. Coherent group atmosphere: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood. This card alone has a distinct dominant palette: 深莓／黑／旧银; target colours #74364F,#202025,#B6A9A3. Do not dilute all colours into beige or grey. Outfit: Deep berry lace V-neck opaque-lined bias mini dress with draped hip seam; black lightweight leather long sleeveless coat with sparse long fringe only at side hem, charcoal knee boots and narrow aged-silver cuff. Keep torso spare, use movement at coat edges not full-body decoration. Material targets (designer choices, not certifications): 衬里蕾丝／柔皮／哑金属. Hair: braided crown ending in one compact low coil. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: sunlit old-stone courtyard, wind on fabric, editorial bohemian travel mood, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Isabel Marant",
+    "path": "S10-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "b7547a4bc0f751a65727ca0dac433e371bd5be8b2bcd67a96736a40bb0a1bf4b",
+    "review_zh": "莓红斜摆蕾丝长裙配黑色无袖长外套，行走时露出靴筒。"
+  },
+  {
+    "id": "S11-F01",
+    "group": "S11",
+    "ref": "pucci",
+    "title": "柠檬海湾",
+    "en": "Lemon Bay",
+    "palette_zh": "湖绿／柠檬／白",
+    "palette": [
+      "#1F9B9E",
+      "#E5D649",
+      "#FBF4DE"
+    ],
+    "fabric_zh": "细针织／低光缎面",
+    "silhouette_zh": "几何领长裙",
+    "detail": "Turquoise fine jersey ankle column dress with an original angular lemon-and-white yoke framing neck and shoulders, one broad sculptural side drape released at hip; white flat sandals and a small lemon folded clutch. Geometric collar rhythm translated into new colour planes, no copied Pucci print.",
+    "atmosphere_zh": "明亮地中海假日，鲜明颜色与清晰剪裁，避免三套白麻衣。",
+    "source": {
+      "key": "pucci",
+      "brand": "Pucci",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/emilio-pucci",
+      "image": "https://assets.vogue.com/photos/660f2c6bf972aae850afc3d7/master/w_1280%2Cc_limit/00001-pucci-spring-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Emilio Pucci Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：简洁长身与领缘几何装饰的集中关系。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "几何领长裙",
+        "brand",
+        "简洁长身与领缘几何装饰的集中关系；本卡转为「几何领长裙」，重新组织颜色、比例与分割。面料设计目标：细针织／低光缎面。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dolce Vita. Coherent group atmosphere: bright Mediterranean holiday terrace and harbour, poised cinematic summer. This card alone has a distinct dominant palette: 湖绿／柠檬／白; target colours #1F9B9E,#E5D649,#FBF4DE. Do not dilute all colours into beige or grey. Outfit: Turquoise fine jersey ankle column dress with an original angular lemon-and-white yoke framing neck and shoulders, one broad sculptural side drape released at hip; white flat sandals and a small lemon folded clutch. Geometric collar rhythm translated into new colour planes, no copied Pucci print. Material targets (designer choices, not certifications): 细针织／低光缎面. Hair: braided crown ending in one compact low coil. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: bright Mediterranean holiday terrace and harbour, poised cinematic summer, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Pucci",
+    "path": "S11-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "ef68efa940820b41b8ac53d6a799b24fda439939ce65c79cf9165aa40c933c06",
+    "review_zh": "湖绿长裙以柠檬黄几何领片和侧褶提亮，细辫盘发保持利落。"
+  },
+  {
+    "id": "S11-F02",
+    "group": "S11",
+    "ref": "maxmara",
+    "title": "朱砂午后",
+    "en": "Vermilion Afternoon",
+    "palette_zh": "朱砂／奶油／橄榄",
+    "palette": [
+      "#C85238",
+      "#F1E0BB",
+      "#5C6442"
+    ],
+    "fabric_zh": "挺棉／软皮",
+    "silhouette_zh": "短袖收腰衬裙",
+    "detail": "Vermilion crisp cotton shirt dress with wide elbow sleeves, architectural wrapped waist and flared calf-length skirt, butter-cream sash threaded through side slots, olive flat leather sandals. A single oversize folded pocket is integrated into the side seam. Transform reference wrap/shirt lines into new sleeve volume and skirt flare.",
+    "atmosphere_zh": "明亮地中海假日，鲜明颜色与清晰剪裁，避免三套白麻衣。",
+    "source": {
+      "key": "maxmara",
+      "brand": "Max Mara",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/max-mara",
+      "image": "https://assets.vogue.com/photos/650c47eded9dbdb37994b278/master/w_1280%2Cc_limit/00001-max-mara-spring-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Max Mara Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：衬衫式结构、收腰与裹身纵线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短袖收腰衬裙",
+        "brand",
+        "衬衫式结构、收腰与裹身纵线；本卡转为「短袖收腰衬裙」，重新组织颜色、比例与分割。面料设计目标：挺棉／软皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dolce Vita. Coherent group atmosphere: bright Mediterranean holiday terrace and harbour, poised cinematic summer. This card alone has a distinct dominant palette: 朱砂／奶油／橄榄; target colours #C85238,#F1E0BB,#5C6442. Do not dilute all colours into beige or grey. Outfit: Vermilion crisp cotton shirt dress with wide elbow sleeves, architectural wrapped waist and flared calf-length skirt, butter-cream sash threaded through side slots, olive flat leather sandals. A single oversize folded pocket is integrated into the side seam. Transform reference wrap/shirt lines into new sleeve volume and skirt flare. Material targets (designer choices, not certifications): 挺棉／软皮. Hair: slick side-part short bob with one sculptural finger wave. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: bright Mediterranean holiday terrace and harbour, poised cinematic summer, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Max Mara",
+    "path": "S11-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "634e2353f7e1aeac60b3dec2ddcfb8ec57c6b5bbb12dbc8dfa1fe149447bb3e5",
+    "review_zh": "朱砂红衬衫裙以宽腰带收腰，坐姿展现不对称裙摆。"
+  },
+  {
+    "id": "S11-F03",
+    "group": "S11",
+    "ref": "loro",
+    "title": "蜂蜜色航线",
+    "en": "A Honey-Coloured Route",
+    "palette_zh": "蜂蜜／白／海军蓝",
+    "palette": [
+      "#C79B47",
+      "#F7EFDD",
+      "#24374B"
+    ],
+    "fabric_zh": "亚麻感斜纹／细针织／编织皮",
+    "silhouette_zh": "披巾长马甲、短裤",
+    "detail": "Honey linen-silk long sleeveless wrap vest with broad floating scarf collar, ivory sleeveless fitted knit, tailored navy high-waist shorts reaching mid-thigh, honey woven low shoes. Overscaled drape above compact shorts, no copied hat or handbag.",
+    "atmosphere_zh": "明亮地中海假日，鲜明颜色与清晰剪裁，避免三套白麻衣。",
+    "source": {
+      "key": "loro",
+      "brand": "Loro Piana",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/loro-piana",
+      "image": "https://assets.vogue.com/photos/65d883d6c73c745e7a1c5393/master/w_1280%2Cc_limit/00001-loro-piana-fall-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Loro Piana Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：宽裕长外层与大披领的连续折线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "披巾长马甲",
+        "brand",
+        "宽裕长外层与大披领的连续折线；本卡转为「披巾长马甲」，重新组织颜色、比例与分割。面料设计目标：亚麻感斜纹／细针织／编织皮。"
+      ],
+      [
+        "短裤",
+        "brand",
+        "宽裕长外层与大披领的连续折线；本卡转为「短裤」，重新组织颜色、比例与分割。面料设计目标：亚麻感斜纹／细针织／编织皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dolce Vita. Coherent group atmosphere: bright Mediterranean holiday terrace and harbour, poised cinematic summer. This card alone has a distinct dominant palette: 蜂蜜／白／海军蓝; target colours #C79B47,#F7EFDD,#24374B. Do not dilute all colours into beige or grey. Outfit: Honey linen-silk long sleeveless wrap vest with broad floating scarf collar, ivory sleeveless fitted knit, tailored navy high-waist shorts reaching mid-thigh, honey woven low shoes. Overscaled drape above compact shorts, no copied hat or handbag. Material targets (designer choices, not certifications): 亚麻感斜纹／细针织／编织皮. Hair: two compact elongated high braid loops with short fringe. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: bright Mediterranean holiday terrace and harbour, poised cinematic summer, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Loro Piana",
+    "path": "S11-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "68e64e477dc5f15f77d8973d0d8d0ab5e9ffb765697133f679697a65680d8539",
+    "review_zh": "蜂蜜色长背心搭墨蓝短裤，长辫与步幅强调假日的风。"
+  },
+  {
+    "id": "S12-F01",
+    "group": "S12",
+    "ref": "saintjames",
+    "title": "红裙的跳切",
+    "en": "The Red-Skirt Cut",
+    "palette_zh": "海军蓝白／番茄红",
+    "palette": [
+      "#263B5B",
+      "#F5EFE1",
+      "#C64A37"
+    ],
+    "fabric_zh": "棉针织／挺棉",
+    "silhouette_zh": "船领条纹上衣、长褶裙",
+    "detail": "Navy-and-ivory fine cotton Breton boatneck top with re-spaced stripes and extra-long cuffs, tomato-red crisp ankle pleated A-skirt with one diagonal folded panel, black low slingbacks, small ivory scarf tied at wrist. New lengths, stripe rhythm and skirt structure.",
+    "atmosphere_zh": "利落、轻叛逆的城市观察者；旧影院与街道，不复制电影人物。",
+    "source": {
+      "key": "saintjames",
+      "brand": "Saint James",
+      "url": "https://www.musinsa.com/products/4758641",
+      "image": "https://image.msscdn.net/images/goods_img/20250205/4758641/4758641_17387170925052_500.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.lacroixespaceboutique.com/fc/mariniere-authentique-minquier-en-coton-leger-par.html",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：横条纹、平直衣身与简洁领口。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "船领条纹上衣",
+        "brand",
+        "横条纹、平直衣身与简洁领口；本卡转为「船领条纹上衣」，重新组织颜色、比例与分割。面料设计目标：棉针织／挺棉。"
+      ],
+      [
+        "长褶裙",
+        "brand",
+        "横条纹、平直衣身与简洁领口；本卡转为「长褶裙」，重新组织颜色、比例与分割。面料设计目标：棉针织／挺棉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: French New Wave. Coherent group atmosphere: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street. This card alone has a distinct dominant palette: 海军蓝白／番茄红; target colours #263B5B,#F5EFE1,#C64A37. Do not dilute all colours into beige or grey. Outfit: Navy-and-ivory fine cotton Breton boatneck top with re-spaced stripes and extra-long cuffs, tomato-red crisp ankle pleated A-skirt with one diagonal folded panel, black low slingbacks, small ivory scarf tied at wrist. New lengths, stripe rhythm and skirt structure. Material targets (designer choices, not certifications): 棉针织／挺棉. Hair: two compact elongated high braid loops with short fringe. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Saint James",
+    "path": "S12-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "b718e35dad30c80087fa57d31951946d9e2dafcaae63d6e03796cb9db205958e",
+    "review_zh": "黑白横条纹搭砖红长裙，高马尾让复古造型更轻快。"
+  },
+  {
+    "id": "S12-F02",
+    "group": "S12",
+    "ref": "apc",
+    "title": "靛蓝双重奏",
+    "en": "Indigo Duet",
+    "palette_zh": "深靛／浅蓝／焦糖",
+    "palette": [
+      "#283B58",
+      "#A2BFCE",
+      "#9B623D"
+    ],
+    "fabric_zh": "硬挺丹宁／衬衫棉／皮扣",
+    "silhouette_zh": "短丹宁夹克、斜门襟中裙",
+    "detail": "Dark indigo rigid denim cropped broad-collar jacket over pale-blue vertical stripe shirt, asymmetric knee-length denim wrap skirt with slanted patch pockets and one tan side buckle, black square-toe lace-up shoes and pale socks. Rescale denim jacket, closure and skirt volume instead of copying the reference set.",
+    "atmosphere_zh": "利落、轻叛逆的城市观察者；旧影院与街道，不复制电影人物。",
+    "source": {
+      "key": "apc",
+      "brand": "A.P.C.",
+      "url": "https://models.com/work/apc-fw-23",
+      "image": "https://i.mdel.net/i/db/2023/3/1896659/1896659-800w.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://models.com/work/apc-fw-23",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：硬挺丹宁短外层与紧凑裙身。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短丹宁夹克",
+        "brand",
+        "硬挺丹宁短外层与紧凑裙身；本卡转为「短丹宁夹克」，重新组织颜色、比例与分割。面料设计目标：硬挺丹宁／衬衫棉／皮扣。"
+      ],
+      [
+        "斜门襟中裙",
+        "brand",
+        "硬挺丹宁短外层与紧凑裙身；本卡转为「斜门襟中裙」，重新组织颜色、比例与分割。面料设计目标：硬挺丹宁／衬衫棉／皮扣。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: French New Wave. Coherent group atmosphere: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street. This card alone has a distinct dominant palette: 深靛／浅蓝／焦糖; target colours #283B58,#A2BFCE,#9B623D. Do not dilute all colours into beige or grey. Outfit: Dark indigo rigid denim cropped broad-collar jacket over pale-blue vertical stripe shirt, asymmetric knee-length denim wrap skirt with slanted patch pockets and one tan side buckle, black square-toe lace-up shoes and pale socks. Rescale denim jacket, closure and skirt volume instead of copying the reference set. Material targets (designer choices, not certifications): 硬挺丹宁／衬衫棉／皮扣. Hair: dark low folded long braid with a plain metal barrette. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "A.P.C.",
+    "path": "S12-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "10a783724c43fc063389b2e2a275c288bcd94efa126a71a0a810950c66ff955a",
+    "review_zh": "深靛丹宁短外套与短裙成套，浅蓝衬衫和白袜提亮。"
+  },
+  {
+    "id": "S12-F03",
+    "group": "S12",
+    "ref": "courreges",
+    "title": "黄油色字幕",
+    "en": "Butter-Yellow Subtitles",
+    "palette_zh": "黄油黄／白／黑",
+    "palette": [
+      "#E7CE78",
+      "#F7F0DF",
+      "#24282B"
+    ],
+    "fabric_zh": "复合针织／低光皮",
+    "silhouette_zh": "几何领直身裙",
+    "detail": "Butter-yellow bonded jersey sculptural calf-length shift dress with a clean squared standing collar and original diagonal front inset, abbreviated ivory rounded shoulder cape, black fitted mid-calf boots. A geometric mini bag in yellow. Replace research hood, side buttons and long stretch silhouette.",
+    "atmosphere_zh": "利落、轻叛逆的城市观察者；旧影院与街道，不复制电影人物。",
+    "source": {
+      "key": "courreges",
+      "brand": "Courrèges",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/courreges",
+      "image": "https://assets.vogue.com/photos/65df84ba697a2547f6aa9e13/master/w_2560%2Cc_limit/00006-courreges-fall-2024-ready-to-wear-credit-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：光洁包裹、几何开口与修长靴线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "几何领直身裙",
+        "brand",
+        "光洁包裹、几何开口与修长靴线；本卡转为「几何领直身裙」，重新组织颜色、比例与分割。面料设计目标：复合针织／低光皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s10-s12",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: French New Wave. Coherent group atmosphere: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street. This card alone has a distinct dominant palette: 黄油黄／白／黑; target colours #E7CE78,#F7F0DF,#24282B. Do not dilute all colours into beige or grey. Outfit: Butter-yellow bonded jersey sculptural calf-length shift dress with a clean squared standing collar and original diagonal front inset, abbreviated ivory rounded shoulder cape, black fitted mid-calf boots. A geometric mini bag in yellow. Replace research hood, side buttons and long stretch silhouette. Material targets (designer choices, not certifications): 复合针织／低光皮. Hair: sleek angular chin bob with one tightly braided temple. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: French new-wave city cinema mood, graphic daylight, old bookshop and cinema street, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Courrèges",
+    "path": "S12-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "04835efa6b80f06ac547f707f0962995f0748c8c67cffbd75dc80e48f4d6101d",
+    "review_zh": "黄油黄裹身裙配象牙短披，侧分短发与行走裙摆呼应。"
+  }
+]

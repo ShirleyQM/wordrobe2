@@ -1,0 +1,493 @@
+[
+  {
+    "id": "S13-F01",
+    "group": "S13",
+    "ref": "calvin",
+    "title": "香槟色镜头",
+    "en": "Champagne on Camera",
+    "palette_zh": "香槟／冷白／烟灰",
+    "palette": [
+      "#C8B79B",
+      "#F3F2ED",
+      "#6C7077"
+    ],
+    "fabric_zh": "低光缎／轻薄绉纱",
+    "silhouette_zh": "斜裁长裙、极薄长外层",
+    "detail": "Champagne opaque silk bias ankle slip dress with a restrained shallow square neckline and displaced diagonal seam, nearly weightless cool-white long collarless duster open at front, smoke-grey fine-strap low heels. Clean long lines with subtle fabric tension, no copied slip shape.",
+    "atmosphere_zh": "简练但有出场感；材质、纵线与强肩，不靠品牌标识。",
+    "source": {
+      "key": "calvin",
+      "brand": "Calvin Klein",
+      "url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/calvin-klein-collection/slideshow/details",
+      "image": "https://assets.vogue.com/photos/57b4b96f6a98be4d139f2048/master/w_2560%2Cc_limit/CALVIN-KLEIN-SPRING-1996-RTW-DETAIL-01-KIRSTY-HUME-CN10034255.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.voguehk.com/zh/article/fashion/calvin-klein-closes-ready-to-wear-runway-throwback/",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：浅色窄内层与长纵线的克制关系。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "斜裁长裙",
+        "brand",
+        "浅色窄内层与长纵线的克制关系；本卡转为「斜裁长裙」，重新组织颜色、比例与分割。面料设计目标：低光缎／轻薄绉纱。"
+      ],
+      [
+        "极薄长外层",
+        "brand",
+        "浅色窄内层与长纵线的克制关系；本卡转为「极薄长外层」，重新组织颜色、比例与分割。面料设计目标：低光缎／轻薄绉纱。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 90s Supermodel. Coherent group atmosphere: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze. This card alone has a distinct dominant palette: 香槟／冷白／烟灰; target colours #C8B79B,#F3F2ED,#6C7077. Do not dilute all colours into beige or grey. Outfit: Champagne opaque silk bias ankle slip dress with a restrained shallow square neckline and displaced diagonal seam, nearly weightless cool-white long collarless duster open at front, smoke-grey fine-strap low heels. Clean long lines with subtle fabric tension, no copied slip shape. Material targets (designer choices, not certifications): 低光缎／轻薄绉纱. Hair: sleek angular chin bob with one tightly braided temple. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Calvin Klein",
+    "path": "S13-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "9f11ad5a3102c26421298212b22bd56cc3b6060468a9095760550367405fa344",
+    "review_zh": "香槟色长裙在透明外层下形成柔和光泽，短发压低装饰感。"
+  },
+  {
+    "id": "S13-F02",
+    "group": "S13",
+    "ref": "versace90",
+    "title": "钴蓝主光",
+    "en": "Cobalt Key Light",
+    "palette_zh": "钴蓝／黑／亮银",
+    "palette": [
+      "#1F4EA5",
+      "#171C25",
+      "#CCD0D7"
+    ],
+    "fabric_zh": "精纺羊毛／缎面嵌片／亮皮",
+    "silhouette_zh": "强肩短西装裙",
+    "detail": "Cobalt sharply tailored long-sleeve mini blazer dress with sculpted square shoulders, asymmetric waist fastening and a single original black irregular checker panel at one hip, silver square cuff, black pointed knee boots. Rework 1990s gloss and check contrast into a new solid-dominant silhouette.",
+    "atmosphere_zh": "简练但有出场感；材质、纵线与强肩，不靠品牌标识。",
+    "source": {
+      "key": "versace90",
+      "brand": "Versace",
+      "url": "https://www.vogue.com/fashion-shows/fall-1995-ready-to-wear/versace",
+      "image": "https://assets.vogue.com/photos/5a2855fc48a431324139f3f7/master/w_1280%2Cc_limit/VERSACE-FALL-1995-RTW-46-CLAUDIA-SCHIFFER-CN10047054.jpg",
+      "title": "Versace Fall 1995 Ready-to-Wear Collection | Vogue",
+      "season": "fall-1995-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：亮皮、格纹与短长比例的对比。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "强肩短西装裙",
+        "brand",
+        "亮皮、格纹与短长比例的对比；本卡转为「强肩短西装裙」，重新组织颜色、比例与分割。面料设计目标：精纺羊毛／缎面嵌片／亮皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 90s Supermodel. Coherent group atmosphere: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze. This card alone has a distinct dominant palette: 钴蓝／黑／亮银; target colours #1F4EA5,#171C25,#CCD0D7. Do not dilute all colours into beige or grey. Outfit: Cobalt sharply tailored long-sleeve mini blazer dress with sculpted square shoulders, asymmetric waist fastening and a single original black irregular checker panel at one hip, silver square cuff, black pointed knee boots. Rework 1990s gloss and check contrast into a new solid-dominant silhouette. Material targets (designer choices, not certifications): 精纺羊毛／缎面嵌片／亮皮. Hair: precise centre-part hair sculpted into a flat low loop. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Versace",
+    "path": "S13-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "74406b1a38a4ee04ad1ce93f4a7aca167bd7c11eae7262ab6745017e176c1f3e",
+    "review_zh": "钴蓝收腰西装短裙用棋盘侧片打破整色，长靴强化九十年代比例。"
+  },
+  {
+    "id": "S13-F03",
+    "group": "S13",
+    "ref": "helmut",
+    "title": "白噪低频",
+    "en": "White Noise",
+    "palette_zh": "酸青／白／石墨",
+    "palette": [
+      "#C6D66B",
+      "#F3F1E9",
+      "#444B50"
+    ],
+    "fabric_zh": "薄尼龙／棉罗纹／干爽斜纹",
+    "silhouette_zh": "透明短外层、修长直裤",
+    "detail": "Pale acid-lime translucent cropped zip shell with crisp chest pockets, opaque white narrow tank, full-length graphite slim straight trousers with one long ivory slit overlay tab at side waist, white low-profile square boots. Long versus short layering with no logos or tactical clutter.",
+    "atmosphere_zh": "简练但有出场感；材质、纵线与强肩，不靠品牌标识。",
+    "source": {
+      "key": "helmut",
+      "brand": "Helmut Lang",
+      "url": "https://www.vogue.com/fashion-shows/fall-1998-ready-to-wear/helmut-lang",
+      "image": "https://assets.vogue.com/photos/56b924a67f0b8b2a6b764d51/master/w_1280%2Cc_limit/01.jpg",
+      "title": "Helmut Lang Fall 1998 Ready-to-Wear Collection | Vogue",
+      "season": "fall-1998-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：白色长短层次与透明薄层。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "透明短外层",
+        "brand",
+        "白色长短层次与透明薄层；本卡转为「透明短外层」，重新组织颜色、比例与分割。面料设计目标：薄尼龙／棉罗纹／干爽斜纹。"
+      ],
+      [
+        "修长直裤",
+        "brand",
+        "白色长短层次与透明薄层；本卡转为「修长直裤」，重新组织颜色、比例与分割。面料设计目标：薄尼龙／棉罗纹／干爽斜纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: 90s Supermodel. Coherent group atmosphere: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze. This card alone has a distinct dominant palette: 酸青／白／石墨; target colours #C6D66B,#F3F1E9,#444B50. Do not dilute all colours into beige or grey. Outfit: Pale acid-lime translucent cropped zip shell with crisp chest pockets, opaque white narrow tank, full-length graphite slim straight trousers with one long ivory slit overlay tab at side waist, white low-profile square boots. Long versus short layering with no logos or tactical clutter. Material targets (designer choices, not certifications): 薄尼龙／棉罗纹／干爽斜纹. Hair: short copper textured pixie with exposed ears. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: 1990s fashion editorial attitude, clean backstage architecture and strong composed gaze, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Helmut Lang",
+    "path": "S13-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "511d71b807f31573c29feebadfc6de88ad567a69a4ba779694abcd763388f5e4",
+    "review_zh": "青柠透明衬衫搭灰色长裤，白色内搭和短发保留干净线条。"
+  },
+  {
+    "id": "S14-F01",
+    "group": "S14",
+    "ref": "lanvin",
+    "title": "孔雀扇面",
+    "en": "The Peacock Fan",
+    "palette_zh": "祖母绿／金／墨黑",
+    "palette": [
+      "#1E6B58",
+      "#C2A05B",
+      "#1B2528"
+    ],
+    "fabric_zh": "罗缎／局部珠绣",
+    "silhouette_zh": "侧撑茶长礼裙",
+    "detail": "Emerald silk faille tea-length dress with a narrow modest bodice, wide low pannier-like hip volume and tiny cap sleeves; original black-and-gold stepped fan beadwork only at neckline and hem, matte gold low T-strap heels. Reinterpret historical robe de style volume with new geometry, colours and reduced ornament.",
+    "atmosphere_zh": "几何、垂线、扇面与步伐节拍；复古空间里的现代剪裁。",
+    "source": {
+      "key": "lanvin",
+      "brand": "Jeanne Lanvin 历史作品",
+      "url": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress",
+      "image": "https://images.nms.ac.uk/production/Images/Discover/100-years-of-the-little-black-dress/Robe-de-style-Jeanne-Lanvin.jpg?auto=format&dm=1719401890&fill=solid&fill-color=000000&fit=fill&h=670&q=100&s=1e81ed39fa89816b125e9d4f63239f20&w=1123",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：侧向展开的茶长裙量与局部几何珠绣。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "侧撑茶长礼裙",
+        "brand",
+        "侧向展开的茶长裙量与局部几何珠绣；本卡转为「侧撑茶长礼裙」，重新组织颜色、比例与分割。面料设计目标：罗缎／局部珠绣。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Art Deco. Coherent group atmosphere: Art Deco jazz foyer, brass geometry, cinematic evening shadows. This card alone has a distinct dominant palette: 祖母绿／金／墨黑; target colours #1E6B58,#C2A05B,#1B2528. Do not dilute all colours into beige or grey. Outfit: Emerald silk faille tea-length dress with a narrow modest bodice, wide low pannier-like hip volume and tiny cap sleeves; original black-and-gold stepped fan beadwork only at neckline and hem, matte gold low T-strap heels. Reinterpret historical robe de style volume with new geometry, colours and reduced ornament. Material targets (designer choices, not certifications): 罗缎／局部珠绣. Hair: short copper textured pixie with exposed ears. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: Art Deco jazz foyer, brass geometry, cinematic evening shadows, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Jeanne Lanvin 历史作品",
+    "path": "S14-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "364465a6701f20f75f22ef6f7cb213da4628cdac8bf2e4312eb6c9098fc2cf7e",
+    "review_zh": "祖母绿宽裙摆以金色几何纹样组织，短卷发延续装饰艺术气氛。"
+  },
+  {
+    "id": "S14-F02",
+    "group": "S14",
+    "ref": "ralph",
+    "title": "银幕的垂线",
+    "en": "Silver-Screen Lines",
+    "palette_zh": "象牙／枪灰／冷银",
+    "palette": [
+      "#EEE6D4",
+      "#555E68",
+      "#BFC7CD"
+    ],
+    "fabric_zh": "精纺／缎面／轻绉",
+    "silhouette_zh": "短礼服夹克、斜裁长裙",
+    "detail": "Ivory precise cropped tuxedo jacket with a long narrow gunmetal satin scarf-neck shirt, fluid silver-grey bias ankle skirt with one geometric stepped pleat insert, ivory pointed low heels. Recompose tailoring and satin long line, no copied tie or exact pinstripe look.",
+    "atmosphere_zh": "几何、垂线、扇面与步伐节拍；复古空间里的现代剪裁。",
+    "source": {
+      "key": "ralph",
+      "brand": "Ralph Lauren",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "image": "https://assets.vogue.com/photos/663068286ca23caaa8032923/master/w_1920%2Cc_limit/00027-ralph-lauren-fall-2024-ready-to-wear-credit-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：礼服剪裁、领口纵线与长下装。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短礼服夹克",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「短礼服夹克」，重新组织颜色、比例与分割。面料设计目标：精纺／缎面／轻绉。"
+      ],
+      [
+        "斜裁长裙",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「斜裁长裙」，重新组织颜色、比例与分割。面料设计目标：精纺／缎面／轻绉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Art Deco. Coherent group atmosphere: Art Deco jazz foyer, brass geometry, cinematic evening shadows. This card alone has a distinct dominant palette: 象牙／枪灰／冷银; target colours #EEE6D4,#555E68,#BFC7CD. Do not dilute all colours into beige or grey. Outfit: Ivory precise cropped tuxedo jacket with a long narrow gunmetal satin scarf-neck shirt, fluid silver-grey bias ankle skirt with one geometric stepped pleat insert, ivory pointed low heels. Recompose tailoring and satin long line, no copied tie or exact pinstripe look. Material targets (designer choices, not certifications): 精纺／缎面／轻绉. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: Art Deco jazz foyer, brass geometry, cinematic evening shadows, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Ralph Lauren",
+    "path": "S14-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "39e4bd17109f93fa62591b0577c34065de6709cc8490ea8388e8d17f2a9266ca",
+    "review_zh": "象牙短西装与银灰斜摆裙构成柔硬对比，盘发避免上半身拥挤。"
+  },
+  {
+    "id": "S14-F03",
+    "group": "S14",
+    "ref": "gucci",
+    "title": "石榴节拍",
+    "en": "Garnet Rhythm",
+    "palette_zh": "石榴红／黑／旧金",
+    "palette": [
+      "#A53851",
+      "#202126",
+      "#AF9556"
+    ],
+    "fabric_zh": "羊毛／低光针织／金属细链",
+    "silhouette_zh": "长窄外套、流苏中裙",
+    "detail": "Garnet long narrow tailored single-breasted jacket cinched at low waist over black opaque slim shell, black calf skirt with original sparse vertical bronze chain fringe in stepped lengths over a solid lining, garnet T-strap pumps. Tailoring references the researched look; fringe map and proportions are original.",
+    "atmosphere_zh": "几何、垂线、扇面与步伐节拍；复古空间里的现代剪裁。",
+    "source": {
+      "key": "gucci",
+      "brand": "Gucci",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/gucci",
+      "image": "https://assets.vogue.com/photos/650dc9ed4658ceaf3b706274/master/w_1280%2Cc_limit/00001-gucci-spring-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Gucci Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：长剪裁外层、紧凑内层与小金属落点。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长窄外套",
+        "brand",
+        "长剪裁外层、紧凑内层与小金属落点；本卡转为「长窄外套」，重新组织颜色、比例与分割。面料设计目标：羊毛／低光针织／金属细链。"
+      ],
+      [
+        "流苏中裙",
+        "brand",
+        "长剪裁外层、紧凑内层与小金属落点；本卡转为「流苏中裙」，重新组织颜色、比例与分割。面料设计目标：羊毛／低光针织／金属细链。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Art Deco. Coherent group atmosphere: Art Deco jazz foyer, brass geometry, cinematic evening shadows. This card alone has a distinct dominant palette: 石榴红／黑／旧金; target colours #A53851,#202126,#AF9556. Do not dilute all colours into beige or grey. Outfit: Garnet long narrow tailored single-breasted jacket cinched at low waist over black opaque slim shell, black calf skirt with original sparse vertical bronze chain fringe in stepped lengths over a solid lining, garnet T-strap pumps. Tailoring references the researched look; fringe map and proportions are original. Material targets (designer choices, not certifications): 羊毛／低光针织／金属细链. Hair: sharp short shag with deliberate piecey fringe. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: Art Deco jazz foyer, brass geometry, cinematic evening shadows, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Gucci",
+    "path": "S14-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "7b0f89e3a6e25c6d44151e468ab6f031d44180be7e13793a48d0e536778fdd54",
+    "review_zh": "石榴红长外套搭黑金流苏裙，步态让金色线条分散展开。"
+  },
+  {
+    "id": "S15-F01",
+    "group": "S15",
+    "ref": "hermes",
+    "title": "栗色缰线",
+    "en": "Chestnut Reins",
+    "palette_zh": "栗红／黑／黄油白",
+    "palette": [
+      "#6E2D36",
+      "#25272A",
+      "#EADFBC"
+    ],
+    "fabric_zh": "柔皮／密织羊毛／细针织",
+    "silhouette_zh": "短皮夹克、裹身中裙",
+    "detail": "Chestnut-burgundy supple leather short standing-collar jacket with broad curved elbows, black wool wrapped calf skirt with one forward riding pleat, butter fine-knit neck layer, black low-heel riding boots. Original small rectangular closure, no harness logo or saddle-bag replica.",
+    "atmosphere_zh": "骑行语汇转译到城市时装；肩腰腿的关系与克制皮革。",
+    "source": {
+      "key": "hermes",
+      "brand": "Hermès",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/hermes",
+      "image": "https://assets.vogue.com/photos/65e34a4af88752637a65d8bc/master/w_1280%2Cc_limit/00001-hermes-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Hermès Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：皮革长线、立领与修长下身。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短皮夹克",
+        "brand",
+        "皮革长线、立领与修长下身；本卡转为「短皮夹克」，重新组织颜色、比例与分割。面料设计目标：柔皮／密织羊毛／细针织。"
+      ],
+      [
+        "裹身中裙",
+        "brand",
+        "皮革长线、立领与修长下身；本卡转为「裹身中裙」，重新组织颜色、比例与分割。面料设计目标：柔皮／密织羊毛／细针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Equestrian. Coherent group atmosphere: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight. This card alone has a distinct dominant palette: 栗红／黑／黄油白; target colours #6E2D36,#25272A,#EADFBC. Do not dilute all colours into beige or grey. Outfit: Chestnut-burgundy supple leather short standing-collar jacket with broad curved elbows, black wool wrapped calf skirt with one forward riding pleat, butter fine-knit neck layer, black low-heel riding boots. Original small rectangular closure, no harness logo or saddle-bag replica. Material targets (designer choices, not certifications): 柔皮／密织羊毛／细针织. Hair: sharp short shag with deliberate piecey fringe. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Hermès",
+    "path": "S15-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "049e639a3153ff36d19c20cd068b4420ab4b1388690a043b47032cc2e37ab3b4",
+    "review_zh": "酒红短皮夹克搭黑色中长裙和马靴，保留骑装的克制力度。"
+  },
+  {
+    "id": "S15-F02",
+    "group": "S15",
+    "ref": "ralph",
+    "title": "奶油色骑迹",
+    "en": "Cream-Coloured Tracks",
+    "palette_zh": "奶油／海军蓝／棕",
+    "palette": [
+      "#E7D8B6",
+      "#24364D",
+      "#835735"
+    ],
+    "fabric_zh": "精纺／府绸／哑皮",
+    "silhouette_zh": "修长马甲、锥形马裤",
+    "detail": "Cream wool elongated sharp riding waistcoat over navy fine poplin long-cuff shirt, navy narrow tapered equestrian trousers with original curved knee seams, chestnut tall flat boots. No exact polo or crest; original asymmetric waist fastening and collar proportion.",
+    "atmosphere_zh": "骑行语汇转译到城市时装；肩腰腿的关系与克制皮革。",
+    "source": {
+      "key": "ralph",
+      "brand": "Ralph Lauren",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "image": "https://assets.vogue.com/photos/663068286ca23caaa8032923/master/w_1920%2Cc_limit/00027-ralph-lauren-fall-2024-ready-to-wear-credit-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：礼服剪裁、领口纵线与长下装。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "修长马甲",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「修长马甲」，重新组织颜色、比例与分割。面料设计目标：精纺／府绸／哑皮。"
+      ],
+      [
+        "锥形马裤",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「锥形马裤」，重新组织颜色、比例与分割。面料设计目标：精纺／府绸／哑皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Equestrian. Coherent group atmosphere: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight. This card alone has a distinct dominant palette: 奶油／海军蓝／棕; target colours #E7D8B6,#24364D,#835735. Do not dilute all colours into beige or grey. Outfit: Cream wool elongated sharp riding waistcoat over navy fine poplin long-cuff shirt, navy narrow tapered equestrian trousers with original curved knee seams, chestnut tall flat boots. No exact polo or crest; original asymmetric waist fastening and collar proportion. Material targets (designer choices, not certifications): 精纺／府绸／哑皮. Hair: braided crown ending in one compact low coil. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Ralph Lauren",
+    "path": "S15-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "214bff08418ce57c5e0875781a6830e64c2b371c0318a94f1679c5b30d85062d",
+    "review_zh": "象牙收腰马甲搭墨蓝骑装裤，棕色长靴为坐姿增加纵向线条。"
+  },
+  {
+    "id": "S15-F03",
+    "group": "S15",
+    "ref": "burberry",
+    "title": "绿松石的风",
+    "en": "A Teal Wind",
+    "palette_zh": "深青／燕麦／黑",
+    "palette": [
+      "#336968",
+      "#C7B78F",
+      "#262A2B"
+    ],
+    "fabric_zh": "缩绒羊毛／灯芯绒",
+    "silhouette_zh": "高领骑行披外套、裙裤",
+    "detail": "Deep teal felted wool knee-length riding cape-coat with high sculptural storm collar and offset front slit, oat corduroy wide below-knee culottes, opaque black tights and black tall boots. Redesign original felted outerwear into cape sleeve openings and a broad round hem.",
+    "atmosphere_zh": "骑行语汇转译到城市时装；肩腰腿的关系与克制皮革。",
+    "source": {
+      "key": "burberry",
+      "brand": "Burberry",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+      "image": "https://assets.vogue.com/photos/65d46e465b3abd4445d29085/master/w_2560%2Cc_limit/00006-burberry-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：高领、厚实外套表面与收腰结构。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "高领骑行披外套",
+        "brand",
+        "高领、厚实外套表面与收腰结构；本卡转为「高领骑行披外套」，重新组织颜色、比例与分割。面料设计目标：缩绒羊毛／灯芯绒。"
+      ],
+      [
+        "裙裤",
+        "brand",
+        "高领、厚实外套表面与收腰结构；本卡转为「裙裤」，重新组织颜色、比例与分割。面料设计目标：缩绒羊毛／灯芯绒。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s13-s15",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Equestrian. Coherent group atmosphere: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight. This card alone has a distinct dominant palette: 深青／燕麦／黑; target colours #336968,#C7B78F,#262A2B. Do not dilute all colours into beige or grey. Outfit: Deep teal felted wool knee-length riding cape-coat with high sculptural storm collar and offset front slit, oat corduroy wide below-knee culottes, opaque black tights and black tall boots. Redesign original felted outerwear into cape sleeve openings and a broad round hem. Material targets (designer choices, not certifications): 缩绒羊毛／灯芯绒. Hair: slick side-part short bob with one sculptural finger wave. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: quiet equestrian club courtyard, stable stone arch and tack-room doorway, dignified daylight, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Burberry",
+    "path": "S15-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "f22b1289f603ed5158967aab6d5af843dac6daa8d863060ae50ad3d124f706bf",
+    "review_zh": "深青披风与沙色宽裤形成宽窄层次，短发露出高领。"
+  }
+]

@@ -1,0 +1,489 @@
+[
+  {
+    "id": "S16-F01",
+    "group": "S16",
+    "ref": "ann",
+    "title": "黑羽写意",
+    "en": "Ink-Black Feathers",
+    "palette_zh": "墨黑／旧白／深紫",
+    "palette": [
+      "#191A24",
+      "#DDD8CB",
+      "#46334B"
+    ],
+    "fabric_zh": "雪纺／丝绸／丝绒",
+    "silhouette_zh": "长尾马甲、喇叭长裤",
+    "detail": "Ink-black sheer chiffon long tailcoat waistcoat with opaque sharply cut front panels, old-white modest high-neck silk shirt with long tie ends, deep plum velvet flared trousers, black pointed low boots. Airy dark tails against long solid legs, no copied fur collar or underwear.",
+    "atmosphere_zh": "暗色里的材质张力；黑、酒红和瓶绿分别建立情绪。",
+    "source": {
+      "key": "ann",
+      "brand": "Ann Demeulemeester",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ann-demeulemeester",
+      "image": "https://assets.vogue.com/photos/65e390b55ebdfbc9590e03a5/master/w_1280%2Cc_limit/00001-ann-demeulemeester-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Ann Demeulemeester Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：长黑外层与浅色内层形成的纵向对照。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长尾马甲",
+        "brand",
+        "长黑外层与浅色内层形成的纵向对照；本卡转为「长尾马甲」，重新组织颜色、比例与分割。面料设计目标：雪纺／丝绸／丝绒。"
+      ],
+      [
+        "喇叭长裤",
+        "brand",
+        "长黑外层与浅色内层形成的纵向对照；本卡转为「喇叭长裤」，重新组织颜色、比例与分割。面料设计目标：雪纺／丝绸／丝绒。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dark Romance. Coherent group atmosphere: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props. This card alone has a distinct dominant palette: 墨黑／旧白／深紫; target colours #191A24,#DDD8CB,#46334B. Do not dilute all colours into beige or grey. Outfit: Ink-black sheer chiffon long tailcoat waistcoat with opaque sharply cut front panels, old-white modest high-neck silk shirt with long tie ends, deep plum velvet flared trousers, black pointed low boots. Airy dark tails against long solid legs, no copied fur collar or underwear. Material targets (designer choices, not certifications): 雪纺／丝绸／丝绒. Hair: slick side-part short bob with one sculptural finger wave. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Ann Demeulemeester",
+    "path": "S16-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "06846b39d363b71f1826d44bb555ba723f570ee948df543a1eb9ee6c7e0c0d28",
+    "review_zh": "黑色长纱尾外层与象牙高领、梅紫长裤叠穿，冷暗气氛集中在衣料和空间。"
+  },
+  {
+    "id": "S16-F02",
+    "group": "S16",
+    "ref": "mcqueen",
+    "title": "酒红刀锋",
+    "en": "An Oxblood Edge",
+    "palette_zh": "酒红／紫黑／银",
+    "palette": [
+      "#7A253C",
+      "#2D2536",
+      "#B8BCC5"
+    ],
+    "fabric_zh": "涂层缎感布／低光皮",
+    "silhouette_zh": "雕塑肩中长裙",
+    "detail": "Oxblood lacquered cotton-satin structured midi dress with a sculpted asymmetric shoulder, original diagonal spiral waist folds and a high modest neck opening, plum-black fitted boots, one brushed silver geometric cuff. Translate shiny sculpted material into new shoulder, hem and fold architecture.",
+    "atmosphere_zh": "暗色里的材质张力；黑、酒红和瓶绿分别建立情绪。",
+    "source": {
+      "key": "mcqueen",
+      "brand": "Alexander McQueen",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/alexander-mcqueen",
+      "image": "https://assets.vogue.com/photos/65e3af348fce6647e6d3a3f7/master/w_1280%2Cc_limit/00001-alexander-mcqueen-fall-2024-ready-to-wear-credit-brand.jpg",
+      "title": "McQueen Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：亮面紧凑衣身与受力褶的雕塑感。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "雕塑肩中长裙",
+        "brand",
+        "亮面紧凑衣身与受力褶的雕塑感；本卡转为「雕塑肩中长裙」，重新组织颜色、比例与分割。面料设计目标：涂层缎感布／低光皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "two compact elongated high braid loops with short fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dark Romance. Coherent group atmosphere: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props. This card alone has a distinct dominant palette: 酒红／紫黑／银; target colours #7A253C,#2D2536,#B8BCC5. Do not dilute all colours into beige or grey. Outfit: Oxblood lacquered cotton-satin structured midi dress with a sculpted asymmetric shoulder, original diagonal spiral waist folds and a high modest neck opening, plum-black fitted boots, one brushed silver geometric cuff. Translate shiny sculpted material into new shoulder, hem and fold architecture. Material targets (designer choices, not certifications): 涂层缎感布／低光皮. Hair: two compact elongated high braid loops with short fringe. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Alexander McQueen",
+    "path": "S16-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "6693065115b73dd059bd3401f90483707723b38ce14f84d7f4c7f658f67f1f58",
+    "review_zh": "深酒红亮面褶裥裙以单肩折叠和不规则下摆形成张力。"
+  },
+  {
+    "id": "S16-F03",
+    "group": "S16",
+    "ref": "simone",
+    "title": "夜绿花房",
+    "en": "The Night-Green House",
+    "palette_zh": "瓶绿／黑／暖金",
+    "palette": [
+      "#25564B",
+      "#202026",
+      "#B09A65"
+    ],
+    "fabric_zh": "欧根纱／挺绸／局部薄纱",
+    "silhouette_zh": "短纱茧外层、箱褶裙",
+    "detail": "Bottle-green sheer organza cropped cocoon jacket with a crisp black high-neck opaque bodice, black below-knee box-pleated skirt with a single green inflated tulle side panel, antique-gold low shoes. Sparse narrow ties close outer layer; no roses, pearls or copied sheer shift.",
+    "atmosphere_zh": "暗色里的材质张力；黑、酒红和瓶绿分别建立情绪。",
+    "source": {
+      "key": "simone",
+      "brand": "Simone Rocha",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "image": "https://media.vogue.de/photos/65f96999805418b0272112b4/master/pass/00031-simone-rocha-spring-2024-ready-to-wear-credit-gorunway.jpeg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：领口系带、透明包裹与抽量。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短纱茧外层",
+        "brand",
+        "领口系带、透明包裹与抽量；本卡转为「短纱茧外层」，重新组织颜色、比例与分割。面料设计目标：欧根纱／挺绸／局部薄纱。"
+      ],
+      [
+        "箱褶裙",
+        "brand",
+        "领口系带、透明包裹与抽量；本卡转为「箱褶裙」，重新组织颜色、比例与分割。面料设计目标：欧根纱／挺绸／局部薄纱。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Dark Romance. Coherent group atmosphere: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props. This card alone has a distinct dominant palette: 瓶绿／黑／暖金; target colours #25564B,#202026,#B09A65. Do not dilute all colours into beige or grey. Outfit: Bottle-green sheer organza cropped cocoon jacket with a crisp black high-neck opaque bodice, black below-knee box-pleated skirt with a single green inflated tulle side panel, antique-gold low shoes. Sparse narrow ties close outer layer; no roses, pearls or copied sheer shift. Material targets (designer choices, not certifications): 欧根纱／挺绸／局部薄纱. Hair: dark low folded long braid with a plain metal barrette. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: dark romantic greenhouse and shadowed stone hall, nocturnal dramatic light without Halloween props, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Simone Rocha",
+    "path": "S16-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "1b3434101efd3b1c332206397befdb73fcd4ca54f8a9811aefbafbcbe18a3be1",
+    "review_zh": "黑色收腰裙外罩森林绿透明层，行走裙量与盘辫共同维持暗调。"
+  },
+  {
+    "id": "S17-F01",
+    "group": "S17",
+    "ref": "issey",
+    "title": "蓝色涡线",
+    "en": "A Blue Vortex",
+    "palette_zh": "电蓝／深蓝／白",
+    "palette": [
+      "#255EC4",
+      "#183254",
+      "#F0EEE8"
+    ],
+    "fabric_zh": "细褶面料／轻支撑层",
+    "silhouette_zh": "螺旋褶茧裙",
+    "detail": "Electric cobalt fine accordion-pleat cocoon midi dress wrapped diagonally around body with a raised asymmetric shoulder flange and deliberate oval negative space away from upper arm, ivory angular flat shoes. Clearly fabric-supported form, no rigid armour; original seam path and volume distribution.",
+    "atmosphere_zh": "衣服与身体之间的离身空间，褶、弧片与充气体积。",
+    "source": {
+      "key": "issey",
+      "brand": "Issey Miyake",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+      "image": "https://assets.vogue.com/photos/6516da22c42fddef6ebbcdf1/master/w_1280%2Cc_limit/00001%E2%80%94issey%E2%80%94miyake-spring-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Issey Miyake Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：对角包裹与细褶形成的离身空间。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "螺旋褶茧裙",
+        "brand",
+        "对角包裹与细褶形成的离身空间；本卡转为「螺旋褶茧裙」，重新组织颜色、比例与分割。面料设计目标：细褶面料／轻支撑层。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "dark low folded long braid with a plain metal barrette",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Sculptural Fashion. Coherent group atmosphere: minimal architectural sculpture museum with clear shadow, clothing as constructed volume. This card alone has a distinct dominant palette: 电蓝／深蓝／白; target colours #255EC4,#183254,#F0EEE8. Do not dilute all colours into beige or grey. Outfit: Electric cobalt fine accordion-pleat cocoon midi dress wrapped diagonally around body with a raised asymmetric shoulder flange and deliberate oval negative space away from upper arm, ivory angular flat shoes. Clearly fabric-supported form, no rigid armour; original seam path and volume distribution. Material targets (designer choices, not certifications): 细褶面料／轻支撑层. Hair: dark low folded long braid with a plain metal barrette. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: minimal architectural sculpture museum with clear shadow, clothing as constructed volume, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Issey Miyake",
+    "path": "S17-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "b5f09695c0287841fd1e3a5cfda8eee9f7ee13bae0b6912c46859a5e77ca6cb9",
+    "review_zh": "钴蓝交叉褶裥形成窄长轮廓，白鞋使折线更清楚。"
+  },
+  {
+    "id": "S17-F02",
+    "group": "S17",
+    "ref": "iris",
+    "title": "潮汐骨架",
+    "en": "Tidal Framework",
+    "palette_zh": "珍珠白／珊瑚／浅金",
+    "palette": [
+      "#EAE5D8",
+      "#D77F6D",
+      "#C1A366"
+    ],
+    "fabric_zh": "半透明硬纱／轻绉／内层缎",
+    "silhouette_zh": "离身弧片衣身、透明长裙",
+    "detail": "Pearl-ivory sculptural sleeveless bodice of large original curved translucent fabric ribs floating slightly away from torso over opaque coral lining, ivory flowing split-panel ankle skirt, matte gold low sandals. Redesign organic lamellae as six large readable arcs, not copied intricate couture geometry.",
+    "atmosphere_zh": "衣服与身体之间的离身空间，褶、弧片与充气体积。",
+    "source": {
+      "key": "iris",
+      "brand": "Iris van Herpen",
+      "url": "https://www.vogue.com/fashion-shows/fall-2023-couture/iris-van-herpen/slideshow/collection",
+      "image": "https://assets.vogue.com/photos/64a2b9e73d397f9041925f36/master/w_2560%2Cc_limit/00014-iris-van-herpen-fall-2023-couture-credit-gorunway.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.vogue.com/fashion-shows/fall-2023-couture/iris-van-herpen/slideshow/collection",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：透明弧片、重复骨架与流动边缘。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "离身弧片衣身",
+        "brand",
+        "透明弧片、重复骨架与流动边缘；本卡转为「离身弧片衣身」，重新组织颜色、比例与分割。面料设计目标：半透明硬纱／轻绉／内层缎。"
+      ],
+      [
+        "透明长裙",
+        "brand",
+        "透明弧片、重复骨架与流动边缘；本卡转为「透明长裙」，重新组织颜色、比例与分割。面料设计目标：半透明硬纱／轻绉／内层缎。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Sculptural Fashion. Coherent group atmosphere: minimal architectural sculpture museum with clear shadow, clothing as constructed volume. This card alone has a distinct dominant palette: 珍珠白／珊瑚／浅金; target colours #EAE5D8,#D77F6D,#C1A366. Do not dilute all colours into beige or grey. Outfit: Pearl-ivory sculptural sleeveless bodice of large original curved translucent fabric ribs floating slightly away from torso over opaque coral lining, ivory flowing split-panel ankle skirt, matte gold low sandals. Redesign organic lamellae as six large readable arcs, not copied intricate couture geometry. Material targets (designer choices, not certifications): 半透明硬纱／轻绉／内层缎. Hair: sleek angular chin bob with one tightly braided temple. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: minimal architectural sculpture museum with clear shadow, clothing as constructed volume, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Iris van Herpen",
+    "path": "S17-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "bda448deadd2b49b4ec83ac02553aa3a85d76337f75338c43dfa5a39261a2482",
+    "review_zh": "杏白半透明曲线围绕身体展开，坐姿让层叠边缘形成雕塑感。"
+  },
+  {
+    "id": "S17-F03",
+    "group": "S17",
+    "ref": "cdg",
+    "title": "玫红负形",
+    "en": "Fuchsia Negative Space",
+    "palette_zh": "玫红／黑／烟灰",
+    "palette": [
+      "#B62F6D",
+      "#222329",
+      "#73747B"
+    ],
+    "fabric_zh": "挺缎／轻填充／精纺",
+    "silhouette_zh": "充气感短外套、窄裤",
+    "detail": "Fuchsia satin-surfaced short jacket with three oversized rounded inflated volumes at shoulder and side waist, clear asymmetric front opening exposing charcoal fitted high-neck shell, black narrow straight ankle trousers and square black platform boots. Invent a new three-lobe silhouette, not copied black balloon gown.",
+    "atmosphere_zh": "衣服与身体之间的离身空间，褶、弧片与充气体积。",
+    "source": {
+      "key": "cdg",
+      "brand": "Comme des Garçons",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/comme-des-garcons",
+      "image": "https://assets.vogue.com/photos/65e36ea37b454d0642afaa8a/master/w_1280%2Cc_limit/00001-comme-des-garcons-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Comme des Garçons Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：光滑硬挺表面与夸张圆体积。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "充气感短外套",
+        "brand",
+        "光滑硬挺表面与夸张圆体积；本卡转为「充气感短外套」，重新组织颜色、比例与分割。面料设计目标：挺缎／轻填充／精纺。"
+      ],
+      [
+        "窄裤",
+        "brand",
+        "光滑硬挺表面与夸张圆体积；本卡转为「窄裤」，重新组织颜色、比例与分割。面料设计目标：挺缎／轻填充／精纺。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Sculptural Fashion. Coherent group atmosphere: minimal architectural sculpture museum with clear shadow, clothing as constructed volume. This card alone has a distinct dominant palette: 玫红／黑／烟灰; target colours #B62F6D,#222329,#73747B. Do not dilute all colours into beige or grey. Outfit: Fuchsia satin-surfaced short jacket with three oversized rounded inflated volumes at shoulder and side waist, clear asymmetric front opening exposing charcoal fitted high-neck shell, black narrow straight ankle trousers and square black platform boots. Invent a new three-lobe silhouette, not copied black balloon gown. Material targets (designer choices, not certifications): 挺缎／轻填充／精纺. Hair: precise centre-part hair sculpted into a flat low loop. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: minimal architectural sculpture museum with clear shadow, clothing as constructed volume, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Comme des Garçons",
+    "path": "S17-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "29375a286744e7da61deb81d08a515c52dc5da00e9e298f5ca97713ad5df33e9",
+    "review_zh": "玫红体积短外套配黑色窄长裤，宽肩与收腰形成鲜明对照。"
+  },
+  {
+    "id": "S18-F01",
+    "group": "S18",
+    "ref": "margaret",
+    "title": "苔绿边注",
+    "en": "Moss Marginalia",
+    "palette_zh": "苔绿／象牙／棕",
+    "palette": [
+      "#607153",
+      "#EAE2CB",
+      "#805E43"
+    ],
+    "fabric_zh": "羊毛／府绸／灯芯绒",
+    "silhouette_zh": "窄马甲、阔腿灯芯绒裤",
+    "detail": "Moss narrow British-wool long waistcoat over oversized ivory poplin poet shirt with broad clean collar and long cuff extensions, caramel wide corduroy trousers with one deep front fold, dark brown square low Oxfords. New vest length and emphatic cuff/shirt volume, practical but fashion-forward.",
+    "atmosphere_zh": "写、读、改稿的实际状态；三套各有自己的安静色彩。",
+    "source": {
+      "key": "margaret",
+      "brand": "Margaret Howell",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+      "image": "https://assets.vogue.com/photos/65e49021d3293bde2b032f57/master/w_2560%2Cc_limit/00018-margaret-howell-fall-2024-ready-to-wear-credit-ola-rindal-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：朴素密织表面、衬衫松量和清晰裤线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "窄马甲",
+        "brand",
+        "朴素密织表面、衬衫松量和清晰裤线；本卡转为「窄马甲」，重新组织颜色、比例与分割。面料设计目标：羊毛／府绸／灯芯绒。"
+      ],
+      [
+        "阔腿灯芯绒裤",
+        "brand",
+        "朴素密织表面、衬衫松量和清晰裤线；本卡转为「阔腿灯芯绒裤」，重新组织颜色、比例与分割。面料设计目标：羊毛／府绸／灯芯绒。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Poetcore. Coherent group atmosphere: writer studio and library passage, ink and paper atmosphere, thoughtful concentration. This card alone has a distinct dominant palette: 苔绿／象牙／棕; target colours #607153,#EAE2CB,#805E43. Do not dilute all colours into beige or grey. Outfit: Moss narrow British-wool long waistcoat over oversized ivory poplin poet shirt with broad clean collar and long cuff extensions, caramel wide corduroy trousers with one deep front fold, dark brown square low Oxfords. New vest length and emphatic cuff/shirt volume, practical but fashion-forward. Material targets (designer choices, not certifications): 羊毛／府绸／灯芯绒. Hair: precise centre-part hair sculpted into a flat low loop. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: writer studio and library passage, ink and paper atmosphere, thoughtful concentration, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Margaret Howell",
+    "path": "S18-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "c9ae3326e0045be802767b42c76c77a8fc59343b02baa2dfedb623b5375adacf",
+    "review_zh": "橄榄长马甲搭棕色宽裤与白衬衫，厚薄层次取代琐碎装饰。"
+  },
+  {
+    "id": "S18-F02",
+    "group": "S18",
+    "ref": "sea",
+    "title": "赭石书页",
+    "en": "Ochre Pages",
+    "palette_zh": "赭黄／墨蓝／铜",
+    "palette": [
+      "#BF8F34",
+      "#283A4D",
+      "#A36B44"
+    ],
+    "fabric_zh": "挺绸／细针织",
+    "silhouette_zh": "大折领围裙长裙",
+    "detail": "Ochre crisp taffeta long apron-style dress with a giant ivory angular folded collar and sculptural short puff sleeves, sharply defined waist above an asymmetric pleated calf skirt, navy fine-knit opaque inner sleeve and navy low shoes. Translate gathered dress and collar into original diagonal apron lines.",
+    "atmosphere_zh": "写、读、改稿的实际状态；三套各有自己的安静色彩。",
+    "source": {
+      "key": "sea",
+      "brand": "Sea New York",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/sea",
+      "image": "https://assets.vogue.com/photos/65d5c333102f6dbc623bdf62/master/w_1280%2Cc_limit/00001-sea-fall-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Sea Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：大领缘、短袖体积和收腰长裙。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "大折领围裙长裙",
+        "brand",
+        "大领缘、短袖体积和收腰长裙；本卡转为「大折领围裙长裙」，重新组织颜色、比例与分割。面料设计目标：挺绸／细针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Poetcore. Coherent group atmosphere: writer studio and library passage, ink and paper atmosphere, thoughtful concentration. This card alone has a distinct dominant palette: 赭黄／墨蓝／铜; target colours #BF8F34,#283A4D,#A36B44. Do not dilute all colours into beige or grey. Outfit: Ochre crisp taffeta long apron-style dress with a giant ivory angular folded collar and sculptural short puff sleeves, sharply defined waist above an asymmetric pleated calf skirt, navy fine-knit opaque inner sleeve and navy low shoes. Translate gathered dress and collar into original diagonal apron lines. Material targets (designer choices, not certifications): 挺绸／细针织. Hair: short copper textured pixie with exposed ears. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: writer studio and library passage, ink and paper atmosphere, thoughtful concentration, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Sea New York",
+    "path": "S18-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "19740a655bcf47c569703e9196dad9e9207a7ed9b4882bbededf0ee070bbaa1c",
+    "review_zh": "赭黄宽领褶裙叠深蓝内层，铜色短发呼应暖调。"
+  },
+  {
+    "id": "S18-F03",
+    "group": "S18",
+    "ref": "sezane",
+    "title": "紫色删改",
+    "en": "Lavender Revisions",
+    "palette_zh": "烟紫／深墨／奶油",
+    "palette": [
+      "#9A82B0",
+      "#303344",
+      "#EEE0C4"
+    ],
+    "fabric_zh": "绒面针织／干爽斜纹",
+    "silhouette_zh": "长绒针织、窄褶中裙",
+    "detail": "Smoked lavender brushed-knit long cardigan worn with one side turned inward and closed by an original wide fabric tab at waist, ink navy straight calf skirt with one inverted pleat, cream fine-knit square-neck shell and lilac low lace-up shoes. Pearl-like button rhythm translated to hidden fastening, no copied cardigan styling.",
+    "atmosphere_zh": "写、读、改稿的实际状态；三套各有自己的安静色彩。",
+    "source": {
+      "key": "sezane",
+      "brand": "Sézane",
+      "url": "https://www.whowhatwear.com/fashion/shopping/sezane-gaspard-cardigan",
+      "image": "https://cdn.mos.cms.futurecdn.net/NFPD9BPihsxRZDuiWgmonJ.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.whowhatwear.com/fashion/shopping/sezane-gaspard-cardigan",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：柔绒针织、简洁圆领与扣子节奏。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长绒针织",
+        "brand",
+        "柔绒针织、简洁圆领与扣子节奏；本卡转为「长绒针织」，重新组织颜色、比例与分割。面料设计目标：绒面针织／干爽斜纹。"
+      ],
+      [
+        "窄褶中裙",
+        "brand",
+        "柔绒针织、简洁圆领与扣子节奏；本卡转为「窄褶中裙」，重新组织颜色、比例与分割。面料设计目标：绒面针织／干爽斜纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s16-s18",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Poetcore. Coherent group atmosphere: writer studio and library passage, ink and paper atmosphere, thoughtful concentration. This card alone has a distinct dominant palette: 烟紫／深墨／奶油; target colours #9A82B0,#303344,#EEE0C4. Do not dilute all colours into beige or grey. Outfit: Smoked lavender brushed-knit long cardigan worn with one side turned inward and closed by an original wide fabric tab at waist, ink navy straight calf skirt with one inverted pleat, cream fine-knit square-neck shell and lilac low lace-up shoes. Pearl-like button rhythm translated to hidden fastening, no copied cardigan styling. Material targets (designer choices, not certifications): 绒面针织／干爽斜纹. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: writer studio and library passage, ink and paper atmosphere, thoughtful concentration, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Sézane",
+    "path": "S18-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "635974513ce2962d35a7faa5e1c1756ad13ea4c9e1f1723b774b378d6e5290de",
+    "review_zh": "薰衣草长针织外套配深蓝裙，行走状态保留柔软的垂坠。"
+  }
+]

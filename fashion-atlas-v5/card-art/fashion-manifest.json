@@ -6,9 +6,11 @@
     "title_zh": "鎏金主场",
     "title_en": "A Gilded Entrance",
     "path": "card-art/fashion-s01-s03/S01-F01.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S01",
+    "brand_reference": "Dolce & Gabbana",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S01-F02",
@@ -17,9 +19,11 @@
     "title_zh": "石榴夜宴",
     "title_en": "The Garnet Supper",
     "path": "card-art/fashion-s01-s03/S01-F02.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S01",
+    "brand_reference": "Roberto Cavalli",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S01-F03",
@@ -28,9 +32,11 @@
     "title_zh": "锋芒入席",
     "title_en": "An Entrance with an Edge",
     "path": "card-art/fashion-s01-s03/S01-F03.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S01",
+    "brand_reference": "Versace",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S02-F01",
@@ -39,9 +45,11 @@
     "title_zh": "最后一首安可",
     "title_en": "One Last Encore",
     "path": "card-art/fashion-s01-s03/S02-F01.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S02",
+    "brand_reference": "Dior Homme / Hedi Slimane",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S02-F02",
@@ -50,9 +58,11 @@
     "title_zh": "闪光灯余温",
     "title_en": "After the Flash",
     "path": "card-art/fashion-s01-s03/S02-F02.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S02",
+    "brand_reference": "American Apparel",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S02-F03",
@@ -61,9 +71,11 @@
     "title_zh": "借来的凌晨",
     "title_en": "Borrowed After Midnight",
     "path": "card-art/fashion-s01-s03/S02-F03.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S02",
+    "brand_reference": "Topshop Unique",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S03-F01",
@@ -72,9 +84,11 @@
     "title_zh": "看台上的缎光",
     "title_en": "Satin in the Stands",
     "path": "card-art/fashion-s01-s03/S03-F01.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S03",
+    "brand_reference": "adidas Originals",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S03-F02",
@@ -83,9 +97,11 @@
     "title_zh": "织入加时赛",
     "title_en": "Woven into Extra Time",
     "path": "card-art/fashion-s01-s03/S03-F02.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S03",
+    "brand_reference": "Wales Bonner",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S03-F03",
@@ -94,9 +110,11 @@
     "title_zh": "终场换一面",
     "title_en": "After the Final Whistle",
     "path": "card-art/fashion-s01-s03/S03-F03.png",
-    "details_page": "card-art/fashion-s01-s03/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s01-s03/manifest.json"
+    "details_page": "card-art/fashion-s01-s03/index.html#S03",
+    "brand_reference": "Martine Rose",
+    "manifest": "card-art/fashion-s01-s03/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S04-F01",
@@ -105,9 +123,11 @@
     "title_zh": "轨道静默",
     "title_en": "Orbital Silence",
     "path": "card-art/fashion-s04-s05/S04-F01.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S04",
     "brand_reference": "Courrèges",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S04-F02",
@@ -116,9 +136,11 @@
     "title_zh": "失真频段",
     "title_en": "Distorted Frequency",
     "path": "card-art/fashion-s04-s05/S04-F02.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S04",
     "brand_reference": "Diesel",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S04-F03",
@@ -127,9 +149,11 @@
     "title_zh": "液态回声",
     "title_en": "Liquid Echo",
     "path": "card-art/fashion-s04-s05/S04-F03.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S04",
     "brand_reference": "Blumarine",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S05-F01",
@@ -138,9 +162,11 @@
     "title_zh": "风的折线",
     "title_en": "A Fold in the Wind",
     "path": "card-art/fashion-s04-s05/S05-F01.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S05",
     "brand_reference": "Toteme",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S05-F02",
@@ -149,9 +175,11 @@
     "title_zh": "城市切片",
     "title_en": "City in Layers",
     "path": "card-art/fashion-s04-s05/S05-F02.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S05",
     "brand_reference": "Ganni",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S05-F03",
@@ -160,9 +188,11 @@
     "title_zh": "偏移坐标",
     "title_en": "Displaced Coordinates",
     "path": "card-art/fashion-s04-s05/S05-F03.png",
-    "details_page": "card-art/fashion-s04-s05/index.html",
+    "details_page": "card-art/fashion-s04-s05/index.html#S05",
     "brand_reference": "Acne Studios",
-    "manifest": "card-art/fashion-s04-s05/manifest.json"
+    "manifest": "card-art/fashion-s04-s05/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S06-F01",
@@ -171,9 +201,11 @@
     "title_zh": "禁书目录",
     "title_en": "The Forbidden Index",
     "path": "card-art/fashion-s06/S06-F01.png",
-    "details_page": "card-art/fashion-s06/index.html",
+    "details_page": "card-art/fashion-s06/index.html#S06",
     "brand_reference": "Ralph Lauren",
-    "manifest": "card-art/fashion-s06/manifest.json"
+    "manifest": "card-art/fashion-s06/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S06-F02",
@@ -182,9 +214,11 @@
     "title_zh": "午夜辩论",
     "title_en": "The Midnight Disputation",
     "path": "card-art/fashion-s06/S06-F02.png",
-    "details_page": "card-art/fashion-s06/index.html",
+    "details_page": "card-art/fashion-s06/index.html#S06",
     "brand_reference": "Margaret Howell",
-    "manifest": "card-art/fashion-s06/manifest.json"
+    "manifest": "card-art/fashion-s06/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S06-F03",
@@ -193,75 +227,113 @@
     "title_zh": "雨廊来信",
     "title_en": "Letters Through the Rain",
     "path": "card-art/fashion-s06/S06-F03.png",
-    "details_page": "card-art/fashion-s06/index.html",
+    "details_page": "card-art/fashion-s06/index.html#S06",
     "brand_reference": "Burberry",
-    "manifest": "card-art/fashion-s06/manifest.json"
+    "manifest": "card-art/fashion-s06/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S07-F01",
     "series_id": "S07",
     "tier": "fashion",
-    "title_zh": "苔影回声",
-    "title_en": "Echoes in Moss",
-    "path": "card-art/fashion-s07-s09/S07-F01.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "月蓝蝶影",
+    "title_en": "Moths in Moon Blue",
+    "path": "card-art/fashion-s07-s08-v2/S07-F01-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S07",
+    "brand_reference": "Rodarte",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#244574",
+      "#131923",
+      "#B9C3D1"
+    ],
+    "palette_zh": "月蓝／墨黑／旧银"
   },
   {
     "card_id": "S07-F02",
     "series_id": "S07",
     "tier": "fashion",
-    "title_zh": "落叶的体积",
-    "title_en": "The Volume of Fallen Leaves",
-    "path": "card-art/fashion-s07-s09/S07-F02.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "赤陶孢子",
+    "title_en": "Terracotta Spores",
+    "path": "card-art/fashion-s07-s08-v2/S07-F02-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S07",
+    "brand_reference": "Simone Rocha",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#B75B36",
+      "#F1E0B9",
+      "#382D29"
+    ],
+    "palette_zh": "赤陶橙／黄油白／深褐"
   },
   {
     "card_id": "S07-F03",
     "series_id": "S07",
     "tier": "fashion",
-    "title_zh": "露水的针脚",
-    "title_en": "Stitches of Dew",
-    "path": "card-art/fashion-s07-s09/S07-F03.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "青柠露珠",
+    "title_en": "Citron Dew",
+    "path": "card-art/fashion-s07-s08-v2/S07-F03-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S07",
+    "brand_reference": "Needle & Thread",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#C9D46B",
+      "#532E59",
+      "#F1EBDD"
+    ],
+    "palette_zh": "青柠黄／深梅紫／珍珠白"
   },
   {
     "card_id": "S08-F01",
     "series_id": "S08",
     "tier": "fashion",
-    "title_zh": "身体醒来之前",
-    "title_en": "Before the Body Wakes",
-    "path": "card-art/fashion-s07-s09/S08-F01.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "蓝调热身",
+    "title_en": "Warming Up in Blue",
+    "path": "card-art/fashion-s07-s08-v2/S08-F01-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S08",
+    "brand_reference": "SoftSeoul",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#8BBEDB",
+      "#FAF6EC",
+      "#1F2C48"
+    ],
+    "palette_zh": "婴儿蓝／亮白／海军蓝"
   },
   {
     "card_id": "S08-F02",
     "series_id": "S08",
     "tier": "fashion",
-    "title_zh": "褶线里的呼吸",
-    "title_en": "Breathing Between Pleats",
-    "path": "card-art/fashion-s07-s09/S08-F02.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "覆盆子间奏",
+    "title_en": "Raspberry Interlude",
+    "path": "card-art/fashion-s07-s08-v2/S08-F02-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S08",
+    "brand_reference": "The Barnnet",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#A83C65",
+      "#F1C4D0",
+      "#FFF1D3"
+    ],
+    "palette_zh": "覆盆子红／淡粉／奶油白"
   },
   {
     "card_id": "S08-F03",
     "series_id": "S08",
     "tier": "fashion",
-    "title_zh": "幕间的安静",
-    "title_en": "Quiet Between Rehearsals",
-    "path": "card-art/fashion-s07-s09/S08-F03.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "title_zh": "黄油色散场",
+    "title_en": "A Butter-Yellow Exit",
+    "path": "card-art/fashion-s07-s08-v2/S08-F03-v2.png",
+    "details_page": "card-art/fashion-s07-s08-v2/index.html#S08",
+    "brand_reference": "Rockfish Weatherwear",
+    "manifest": "card-art/fashion-s07-s08-v2/manifest.json",
+    "palette": [
+      "#E6CD73",
+      "#49312C",
+      "#D7B57A"
+    ],
+    "palette_zh": "黄油黄／巧克力／浅金"
   },
   {
     "card_id": "S09-F01",
@@ -270,9 +342,11 @@
     "title_zh": "结的决定权",
     "title_en": "The Choice of a Knot",
     "path": "card-art/fashion-s07-s09/S09-F01.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "details_page": "card-art/fashion-s07-s09/index.html#S09",
+    "brand_reference": "Sandy Liang",
+    "manifest": "card-art/fashion-s07-s09/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S09-F02",
@@ -281,9 +355,11 @@
     "title_zh": "严肃的粉色",
     "title_en": "Pink with Conviction",
     "path": "card-art/fashion-s07-s09/S09-F02.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "details_page": "card-art/fashion-s07-s09/index.html#S09",
+    "brand_reference": "Shushu/Tong",
+    "manifest": "card-art/fashion-s07-s09/manifest.json",
+    "palette": [],
+    "palette_zh": ""
   },
   {
     "card_id": "S09-F03",
@@ -292,8 +368,1081 @@
     "title_zh": "秩序偏一寸",
     "title_en": "A Small Shift in Order",
     "path": "card-art/fashion-s07-s09/S09-F03.png",
-    "details_page": "card-art/fashion-s07-s09/index.html",
-    "brand_reference": null,
-    "manifest": "card-art/fashion-s07-s09/manifest.json"
+    "details_page": "card-art/fashion-s07-s09/index.html#S09",
+    "brand_reference": "Miu Miu",
+    "manifest": "card-art/fashion-s07-s09/manifest.json",
+    "palette": [],
+    "palette_zh": ""
+  },
+  {
+    "card_id": "S10-F01",
+    "series_id": "S10",
+    "tier": "fashion",
+    "title_zh": "沙色回旋",
+    "title_en": "Sand in Rotation",
+    "path": "card-art/fashion-s10-s12/S10-F01.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S10",
+    "brand_reference": "Chloé",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#EDE0C7",
+      "#A6673E",
+      "#27374D"
+    ],
+    "palette_zh": "象牙／焦糖／墨蓝"
+  },
+  {
+    "card_id": "S10-F02",
+    "series_id": "S10",
+    "tier": "fashion",
+    "title_zh": "蓝印旅人",
+    "title_en": "Blue-Print Traveller",
+    "path": "card-art/fashion-s10-s12/S10-F02.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S10",
+    "brand_reference": "Etro",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#254C9A",
+      "#A34A35",
+      "#EFE0B8"
+    ],
+    "palette_zh": "群青／砖红／奶油"
+  },
+  {
+    "card_id": "S10-F03",
+    "series_id": "S10",
+    "tier": "fashion",
+    "title_zh": "莓色流苏",
+    "title_en": "Berry Fringe",
+    "path": "card-art/fashion-s10-s12/S10-F03.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S10",
+    "brand_reference": "Isabel Marant",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#74364F",
+      "#202025",
+      "#B6A9A3"
+    ],
+    "palette_zh": "深莓／黑／旧银"
+  },
+  {
+    "card_id": "S11-F01",
+    "series_id": "S11",
+    "tier": "fashion",
+    "title_zh": "柠檬海湾",
+    "title_en": "Lemon Bay",
+    "path": "card-art/fashion-s10-s12/S11-F01.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S11",
+    "brand_reference": "Pucci",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#1F9B9E",
+      "#E5D649",
+      "#FBF4DE"
+    ],
+    "palette_zh": "湖绿／柠檬／白"
+  },
+  {
+    "card_id": "S11-F02",
+    "series_id": "S11",
+    "tier": "fashion",
+    "title_zh": "朱砂午后",
+    "title_en": "Vermilion Afternoon",
+    "path": "card-art/fashion-s10-s12/S11-F02.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S11",
+    "brand_reference": "Max Mara",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#C85238",
+      "#F1E0BB",
+      "#5C6442"
+    ],
+    "palette_zh": "朱砂／奶油／橄榄"
+  },
+  {
+    "card_id": "S11-F03",
+    "series_id": "S11",
+    "tier": "fashion",
+    "title_zh": "蜂蜜色航线",
+    "title_en": "A Honey-Coloured Route",
+    "path": "card-art/fashion-s10-s12/S11-F03.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S11",
+    "brand_reference": "Loro Piana",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#C79B47",
+      "#F7EFDD",
+      "#24374B"
+    ],
+    "palette_zh": "蜂蜜／白／海军蓝"
+  },
+  {
+    "card_id": "S12-F01",
+    "series_id": "S12",
+    "tier": "fashion",
+    "title_zh": "红裙的跳切",
+    "title_en": "The Red-Skirt Cut",
+    "path": "card-art/fashion-s10-s12/S12-F01.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S12",
+    "brand_reference": "Saint James",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#263B5B",
+      "#F5EFE1",
+      "#C64A37"
+    ],
+    "palette_zh": "海军蓝白／番茄红"
+  },
+  {
+    "card_id": "S12-F02",
+    "series_id": "S12",
+    "tier": "fashion",
+    "title_zh": "靛蓝双重奏",
+    "title_en": "Indigo Duet",
+    "path": "card-art/fashion-s10-s12/S12-F02.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S12",
+    "brand_reference": "A.P.C.",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#283B58",
+      "#A2BFCE",
+      "#9B623D"
+    ],
+    "palette_zh": "深靛／浅蓝／焦糖"
+  },
+  {
+    "card_id": "S12-F03",
+    "series_id": "S12",
+    "tier": "fashion",
+    "title_zh": "黄油色字幕",
+    "title_en": "Butter-Yellow Subtitles",
+    "path": "card-art/fashion-s10-s12/S12-F03.png",
+    "details_page": "card-art/fashion-s10-s12/index.html#S12",
+    "brand_reference": "Courrèges",
+    "manifest": "card-art/fashion-s10-s12/manifest.json",
+    "palette": [
+      "#E7CE78",
+      "#F7F0DF",
+      "#24282B"
+    ],
+    "palette_zh": "黄油黄／白／黑"
+  },
+  {
+    "card_id": "S13-F01",
+    "series_id": "S13",
+    "tier": "fashion",
+    "title_zh": "香槟色镜头",
+    "title_en": "Champagne on Camera",
+    "path": "card-art/fashion-s13-s15/S13-F01.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S13",
+    "brand_reference": "Calvin Klein",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#C8B79B",
+      "#F3F2ED",
+      "#6C7077"
+    ],
+    "palette_zh": "香槟／冷白／烟灰"
+  },
+  {
+    "card_id": "S13-F02",
+    "series_id": "S13",
+    "tier": "fashion",
+    "title_zh": "钴蓝主光",
+    "title_en": "Cobalt Key Light",
+    "path": "card-art/fashion-s13-s15/S13-F02.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S13",
+    "brand_reference": "Versace",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#1F4EA5",
+      "#171C25",
+      "#CCD0D7"
+    ],
+    "palette_zh": "钴蓝／黑／亮银"
+  },
+  {
+    "card_id": "S13-F03",
+    "series_id": "S13",
+    "tier": "fashion",
+    "title_zh": "白噪低频",
+    "title_en": "White Noise",
+    "path": "card-art/fashion-s13-s15/S13-F03.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S13",
+    "brand_reference": "Helmut Lang",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#C6D66B",
+      "#F3F1E9",
+      "#444B50"
+    ],
+    "palette_zh": "酸青／白／石墨"
+  },
+  {
+    "card_id": "S14-F01",
+    "series_id": "S14",
+    "tier": "fashion",
+    "title_zh": "孔雀扇面",
+    "title_en": "The Peacock Fan",
+    "path": "card-art/fashion-s13-s15/S14-F01.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S14",
+    "brand_reference": "Jeanne Lanvin 历史作品",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#1E6B58",
+      "#C2A05B",
+      "#1B2528"
+    ],
+    "palette_zh": "祖母绿／金／墨黑"
+  },
+  {
+    "card_id": "S14-F02",
+    "series_id": "S14",
+    "tier": "fashion",
+    "title_zh": "银幕的垂线",
+    "title_en": "Silver-Screen Lines",
+    "path": "card-art/fashion-s13-s15/S14-F02.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S14",
+    "brand_reference": "Ralph Lauren",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#EEE6D4",
+      "#555E68",
+      "#BFC7CD"
+    ],
+    "palette_zh": "象牙／枪灰／冷银"
+  },
+  {
+    "card_id": "S14-F03",
+    "series_id": "S14",
+    "tier": "fashion",
+    "title_zh": "石榴节拍",
+    "title_en": "Garnet Rhythm",
+    "path": "card-art/fashion-s13-s15/S14-F03.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S14",
+    "brand_reference": "Gucci",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#A53851",
+      "#202126",
+      "#AF9556"
+    ],
+    "palette_zh": "石榴红／黑／旧金"
+  },
+  {
+    "card_id": "S15-F01",
+    "series_id": "S15",
+    "tier": "fashion",
+    "title_zh": "栗色缰线",
+    "title_en": "Chestnut Reins",
+    "path": "card-art/fashion-s13-s15/S15-F01.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S15",
+    "brand_reference": "Hermès",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#6E2D36",
+      "#25272A",
+      "#EADFBC"
+    ],
+    "palette_zh": "栗红／黑／黄油白"
+  },
+  {
+    "card_id": "S15-F02",
+    "series_id": "S15",
+    "tier": "fashion",
+    "title_zh": "奶油色骑迹",
+    "title_en": "Cream-Coloured Tracks",
+    "path": "card-art/fashion-s13-s15/S15-F02.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S15",
+    "brand_reference": "Ralph Lauren",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#E7D8B6",
+      "#24364D",
+      "#835735"
+    ],
+    "palette_zh": "奶油／海军蓝／棕"
+  },
+  {
+    "card_id": "S15-F03",
+    "series_id": "S15",
+    "tier": "fashion",
+    "title_zh": "绿松石的风",
+    "title_en": "A Teal Wind",
+    "path": "card-art/fashion-s13-s15/S15-F03.png",
+    "details_page": "card-art/fashion-s13-s15/index.html#S15",
+    "brand_reference": "Burberry",
+    "manifest": "card-art/fashion-s13-s15/manifest.json",
+    "palette": [
+      "#336968",
+      "#C7B78F",
+      "#262A2B"
+    ],
+    "palette_zh": "深青／燕麦／黑"
+  },
+  {
+    "card_id": "S16-F01",
+    "series_id": "S16",
+    "tier": "fashion",
+    "title_zh": "黑羽写意",
+    "title_en": "Ink-Black Feathers",
+    "path": "card-art/fashion-s16-s18/S16-F01.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S16",
+    "brand_reference": "Ann Demeulemeester",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#191A24",
+      "#DDD8CB",
+      "#46334B"
+    ],
+    "palette_zh": "墨黑／旧白／深紫"
+  },
+  {
+    "card_id": "S16-F02",
+    "series_id": "S16",
+    "tier": "fashion",
+    "title_zh": "酒红刀锋",
+    "title_en": "An Oxblood Edge",
+    "path": "card-art/fashion-s16-s18/S16-F02.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S16",
+    "brand_reference": "Alexander McQueen",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#7A253C",
+      "#2D2536",
+      "#B8BCC5"
+    ],
+    "palette_zh": "酒红／紫黑／银"
+  },
+  {
+    "card_id": "S16-F03",
+    "series_id": "S16",
+    "tier": "fashion",
+    "title_zh": "夜绿花房",
+    "title_en": "The Night-Green House",
+    "path": "card-art/fashion-s16-s18/S16-F03.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S16",
+    "brand_reference": "Simone Rocha",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#25564B",
+      "#202026",
+      "#B09A65"
+    ],
+    "palette_zh": "瓶绿／黑／暖金"
+  },
+  {
+    "card_id": "S17-F01",
+    "series_id": "S17",
+    "tier": "fashion",
+    "title_zh": "蓝色涡线",
+    "title_en": "A Blue Vortex",
+    "path": "card-art/fashion-s16-s18/S17-F01.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S17",
+    "brand_reference": "Issey Miyake",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#255EC4",
+      "#183254",
+      "#F0EEE8"
+    ],
+    "palette_zh": "电蓝／深蓝／白"
+  },
+  {
+    "card_id": "S17-F02",
+    "series_id": "S17",
+    "tier": "fashion",
+    "title_zh": "潮汐骨架",
+    "title_en": "Tidal Framework",
+    "path": "card-art/fashion-s16-s18/S17-F02.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S17",
+    "brand_reference": "Iris van Herpen",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#EAE5D8",
+      "#D77F6D",
+      "#C1A366"
+    ],
+    "palette_zh": "珍珠白／珊瑚／浅金"
+  },
+  {
+    "card_id": "S17-F03",
+    "series_id": "S17",
+    "tier": "fashion",
+    "title_zh": "玫红负形",
+    "title_en": "Fuchsia Negative Space",
+    "path": "card-art/fashion-s16-s18/S17-F03.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S17",
+    "brand_reference": "Comme des Garçons",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#B62F6D",
+      "#222329",
+      "#73747B"
+    ],
+    "palette_zh": "玫红／黑／烟灰"
+  },
+  {
+    "card_id": "S18-F01",
+    "series_id": "S18",
+    "tier": "fashion",
+    "title_zh": "苔绿边注",
+    "title_en": "Moss Marginalia",
+    "path": "card-art/fashion-s16-s18/S18-F01.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S18",
+    "brand_reference": "Margaret Howell",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#607153",
+      "#EAE2CB",
+      "#805E43"
+    ],
+    "palette_zh": "苔绿／象牙／棕"
+  },
+  {
+    "card_id": "S18-F02",
+    "series_id": "S18",
+    "tier": "fashion",
+    "title_zh": "赭石书页",
+    "title_en": "Ochre Pages",
+    "path": "card-art/fashion-s16-s18/S18-F02.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S18",
+    "brand_reference": "Sea New York",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#BF8F34",
+      "#283A4D",
+      "#A36B44"
+    ],
+    "palette_zh": "赭黄／墨蓝／铜"
+  },
+  {
+    "card_id": "S18-F03",
+    "series_id": "S18",
+    "tier": "fashion",
+    "title_zh": "紫色删改",
+    "title_en": "Lavender Revisions",
+    "path": "card-art/fashion-s16-s18/S18-F03.png",
+    "details_page": "card-art/fashion-s16-s18/index.html#S18",
+    "brand_reference": "Sézane",
+    "manifest": "card-art/fashion-s16-s18/manifest.json",
+    "palette": [
+      "#9A82B0",
+      "#303344",
+      "#EEE0C4"
+    ],
+    "palette_zh": "烟紫／深墨／奶油"
+  },
+  {
+    "card_id": "S19-F01",
+    "series_id": "S19",
+    "tier": "fashion",
+    "title_zh": "霓虹底片",
+    "title_en": "A Neon Negative",
+    "path": "card-art/fashion-s19-s21/S19-F01.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S19",
+    "brand_reference": "Levi’s",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#4B7192",
+      "#BA3F36",
+      "#24272B"
+    ],
+    "palette_zh": "旧靛／朱红／黑"
+  },
+  {
+    "card_id": "S19-F02",
+    "series_id": "S19",
+    "tier": "fashion",
+    "title_zh": "青绿电车",
+    "title_en": "The Jade Tram",
+    "path": "card-art/fashion-s19-s21/S19-F02.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S19",
+    "brand_reference": "Giordano Ladies",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#35847A",
+      "#EFEFE4",
+      "#777E7A"
+    ],
+    "palette_zh": "青绿／白／石灰"
+  },
+  {
+    "card_id": "S19-F03",
+    "series_id": "S19",
+    "tier": "fashion",
+    "title_zh": "紫李转角",
+    "title_en": "Plum Around the Corner",
+    "path": "card-art/fashion-s19-s21/S19-F03.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S19",
+    "brand_reference": "Vivienne Westwood",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#643656",
+      "#E8D79B",
+      "#26242C"
+    ],
+    "palette_zh": "梅紫／黄油／黑"
+  },
+  {
+    "card_id": "S20-F01",
+    "series_id": "S20",
+    "tier": "fashion",
+    "title_zh": "珊瑚唱片",
+    "title_en": "Coral Records",
+    "path": "card-art/fashion-s19-s21/S20-F01.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S20",
+    "brand_reference": "BEAMS BOY",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#DC785D",
+      "#273D60",
+      "#F7EFDA"
+    ],
+    "palette_zh": "珊瑚／海军蓝／白"
+  },
+  {
+    "card_id": "S20-F02",
+    "series_id": "S20",
+    "tier": "fashion",
+    "title_zh": "蓝调合成器",
+    "title_en": "A Blue Synthesizer",
+    "path": "card-art/fashion-s19-s21/S20-F02.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S20",
+    "brand_reference": "Issey Miyake",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#2864BA",
+      "#D994AB",
+      "#BFC8CF"
+    ],
+    "palette_zh": "电蓝／樱粉／银"
+  },
+  {
+    "card_id": "S20-F03",
+    "series_id": "S20",
+    "tier": "fashion",
+    "title_zh": "黄昏高频",
+    "title_en": "Sunset Frequency",
+    "path": "card-art/fashion-s19-s21/S20-F03.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S20",
+    "brand_reference": "Onitsuka Tiger",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#E4BA32",
+      "#24272B",
+      "#F3F1E9"
+    ],
+    "palette_zh": "明黄／黑／冷白"
+  },
+  {
+    "card_id": "S21-F01",
+    "series_id": "S21",
+    "tier": "fashion",
+    "title_zh": "紫雾引擎",
+    "title_en": "A Lavender Engine",
+    "path": "card-art/fashion-s19-s21/S21-F01.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S21",
+    "brand_reference": "AllSaints",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#24242B",
+      "#B7A0C6",
+      "#BCC1C7"
+    ],
+    "palette_zh": "黑／薰衣草／银"
+  },
+  {
+    "card_id": "S21-F02",
+    "series_id": "S21",
+    "tier": "fashion",
+    "title_zh": "咖啡色尘途",
+    "title_en": "Coffee-Coloured Roads",
+    "path": "card-art/fashion-s19-s21/S21-F02.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S21",
+    "brand_reference": "Chloé",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#694A36",
+      "#6C92C4",
+      "#D8C4A0"
+    ],
+    "palette_zh": "咖啡／矢车菊蓝／燕麦"
+  },
+  {
+    "card_id": "S21-F03",
+    "series_id": "S21",
+    "tier": "fashion",
+    "title_zh": "铁锈花边",
+    "title_en": "Rust and Lace",
+    "path": "card-art/fashion-s19-s21/S21-F03.png",
+    "details_page": "card-art/fashion-s19-s21/index.html#S21",
+    "brand_reference": "Isabel Marant",
+    "manifest": "card-art/fashion-s19-s21/manifest.json",
+    "palette": [
+      "#EADDC1",
+      "#A65239",
+      "#50372E"
+    ],
+    "palette_zh": "奶油／铁锈／巧克力"
+  },
+  {
+    "card_id": "S22-F01",
+    "series_id": "S22",
+    "tier": "fashion",
+    "title_zh": "常青边线",
+    "title_en": "The Evergreen Line",
+    "path": "card-art/fashion-s22-s24/S22-F01.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S22",
+    "brand_reference": "Lacoste",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#286E55",
+      "#F5F0E1",
+      "#29302F"
+    ],
+    "palette_zh": "松绿／白／黑"
+  },
+  {
+    "card_id": "S22-F02",
+    "series_id": "S22",
+    "tier": "fashion",
+    "title_zh": "橘色抢七",
+    "title_en": "Orange Tie-Break",
+    "path": "card-art/fashion-s22-s24/S22-F02.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S22",
+    "brand_reference": "Fila",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#D9753B",
+      "#23385B",
+      "#F6F1E5"
+    ],
+    "palette_zh": "橘红／海军蓝／白"
+  },
+  {
+    "card_id": "S22-F03",
+    "series_id": "S22",
+    "tier": "fashion",
+    "title_zh": "丁香休赛日",
+    "title_en": "A Lilac Rest Day",
+    "path": "card-art/fashion-s22-s24/S22-F03.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S22",
+    "brand_reference": "Sporty & Rich",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#A798C4",
+      "#F4EEE3",
+      "#723649"
+    ],
+    "palette_zh": "丁香／白／酒红"
+  },
+  {
+    "card_id": "S23-F01",
+    "series_id": "S23",
+    "tier": "fashion",
+    "title_zh": "白色雪脊",
+    "title_en": "The White Ridge",
+    "path": "card-art/fashion-s22-s24/S23-F01.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S23",
+    "brand_reference": "Moncler Grenoble",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#EEF0EB",
+      "#BDD348",
+      "#424C52"
+    ],
+    "palette_zh": "冷白／青柠／炭灰"
+  },
+  {
+    "card_id": "S23-F02",
+    "series_id": "S23",
+    "tier": "fashion",
+    "title_zh": "红色雪线",
+    "title_en": "The Red Snow Line",
+    "path": "card-art/fashion-s22-s24/S23-F02.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S23",
+    "brand_reference": "Bogner",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#C84138",
+      "#27272B",
+      "#E9DDBF"
+    ],
+    "palette_zh": "亮红／黑／奶油"
+  },
+  {
+    "card_id": "S23-F03",
+    "series_id": "S23",
+    "tier": "fashion",
+    "title_zh": "蓝色回转",
+    "title_en": "Blue Turns",
+    "path": "card-art/fashion-s22-s24/S23-F03.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S23",
+    "brand_reference": "Perfect Moment",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#325EB0",
+      "#F5F0DE",
+      "#C8AB6A"
+    ],
+    "palette_zh": "宝蓝／白／浅金"
+  },
+  {
+    "card_id": "S24-F01",
+    "series_id": "S24",
+    "tier": "fashion",
+    "title_zh": "沙丘口袋",
+    "title_en": "Dune Pockets",
+    "path": "card-art/fashion-s22-s24/S24-F01.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S24",
+    "brand_reference": "Banana Republic 早期档案",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#AF9160",
+      "#A45736",
+      "#EFE3C9"
+    ],
+    "palette_zh": "沙棕／砖橙／白"
+  },
+  {
+    "card_id": "S24-F02",
+    "series_id": "S24",
+    "tier": "fashion",
+    "title_zh": "蓝墨折页",
+    "title_en": "A Blue-Ink Fold",
+    "path": "card-art/fashion-s22-s24/S24-F02.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S24",
+    "brand_reference": "Max Mara",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#31596E",
+      "#D2D2C3",
+      "#899297"
+    ],
+    "palette_zh": "蓝墨／浅石／金属灰"
+  },
+  {
+    "card_id": "S24-F03",
+    "series_id": "S24",
+    "tier": "fashion",
+    "title_zh": "酒渍工作室",
+    "title_en": "The Wine-Stained Studio",
+    "path": "card-art/fashion-s22-s24/S24-F03.png",
+    "details_page": "card-art/fashion-s22-s24/index.html#S24",
+    "brand_reference": "Ralph Lauren",
+    "manifest": "card-art/fashion-s22-s24/manifest.json",
+    "palette": [
+      "#7A374B",
+      "#E9E2D3",
+      "#A2754A"
+    ],
+    "palette_zh": "酒红／白／焦糖"
+  },
+  {
+    "card_id": "S25-F01",
+    "series_id": "S25",
+    "tier": "fashion",
+    "title_zh": "青潮塑形",
+    "title_en": "Tide-Shaped",
+    "path": "card-art/fashion-s25-s27/S25-F01.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S25",
+    "brand_reference": "Di Petsa",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#3F9D9B",
+      "#E9F0E8",
+      "#BCC8CF"
+    ],
+    "palette_zh": "海青／冷白／银"
+  },
+  {
+    "card_id": "S25-F02",
+    "series_id": "S25",
+    "tier": "fashion",
+    "title_zh": "珊瑚潮汐",
+    "title_en": "Coral Tides",
+    "path": "card-art/fashion-s25-s27/S25-F02.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S25",
+    "brand_reference": "Blumarine",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#D57961",
+      "#563754",
+      "#EADFCF"
+    ],
+    "palette_zh": "珊瑚橘／梅紫／珍珠"
+  },
+  {
+    "card_id": "S25-F03",
+    "series_id": "S25",
+    "tier": "fashion",
+    "title_zh": "珍珠断奏",
+    "title_en": "A Pearl Syncopation",
+    "path": "card-art/fashion-s25-s27/S25-F03.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S25",
+    "brand_reference": "Cult Gaia",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#E7DFC9",
+      "#A8874E",
+      "#2B625A"
+    ],
+    "palette_zh": "珍珠白／青铜／深海绿"
+  },
+  {
+    "card_id": "S26-F01",
+    "series_id": "S26",
+    "tier": "fashion",
+    "title_zh": "天蓝空隙",
+    "title_en": "Sky-Blue Space",
+    "path": "card-art/fashion-s25-s27/S26-F01.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S26",
+    "brand_reference": "Eileen Fisher",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#8BB9CB",
+      "#F5F0DE",
+      "#C6B38D"
+    ],
+    "palette_zh": "天蓝／白／浅麻"
+  },
+  {
+    "card_id": "S26-F02",
+    "series_id": "S26",
+    "tier": "fashion",
+    "title_zh": "海军蓝软岛",
+    "title_en": "The Navy Soft Island",
+    "path": "card-art/fashion-s25-s27/S26-F02.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S26",
+    "brand_reference": "Jenni Kayne",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#253C58",
+      "#EEE0C3",
+      "#A85B40"
+    ],
+    "palette_zh": "海军蓝／奶油／铁锈"
+  },
+  {
+    "card_id": "S26-F03",
+    "series_id": "S26",
+    "tier": "fashion",
+    "title_zh": "向日葵海岸",
+    "title_en": "Sunflower Coast",
+    "path": "card-art/fashion-s25-s27/S26-F03.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S26",
+    "brand_reference": "Loro Piana",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#CFAE4C",
+      "#F0E5CE",
+      "#765A3E"
+    ],
+    "palette_zh": "向日葵／米白／褐"
+  },
+  {
+    "card_id": "S27-F01",
+    "series_id": "S27",
+    "tier": "fashion",
+    "title_zh": "黑紫幕帘",
+    "title_en": "Black-Violet Curtains",
+    "path": "card-art/fashion-s25-s27/S27-F01.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S27",
+    "brand_reference": "Rodarte",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#1C1C29",
+      "#6E4394",
+      "#A9AFBC"
+    ],
+    "palette_zh": "墨黑／紫罗兰／旧银"
+  },
+  {
+    "card_id": "S27-F02",
+    "series_id": "S27",
+    "tier": "fashion",
+    "title_zh": "暗红排练",
+    "title_en": "A Dark-Red Rehearsal",
+    "path": "card-art/fashion-s25-s27/S27-F02.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S27",
+    "brand_reference": "Simone Rocha",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#7B3447",
+      "#342A2E",
+      "#E9D4D0"
+    ],
+    "palette_zh": "暗红／棕黑／粉白"
+  },
+  {
+    "card_id": "S27-F03",
+    "series_id": "S27",
+    "tier": "fashion",
+    "title_zh": "象牙色返场",
+    "title_en": "An Ivory Return",
+    "path": "card-art/fashion-s25-s27/S27-F03.png",
+    "details_page": "card-art/fashion-s25-s27/index.html#S27",
+    "brand_reference": "Repetto",
+    "manifest": "card-art/fashion-s25-s27/manifest.json",
+    "palette": [
+      "#EBE2CD",
+      "#2F5C61",
+      "#33363D"
+    ],
+    "palette_zh": "象牙／深青／炭黑"
+  },
+  {
+    "card_id": "S28-F01",
+    "series_id": "S28",
+    "tier": "fashion",
+    "title_zh": "玉色折枝",
+    "title_en": "Jade Branches",
+    "path": "card-art/fashion-s28-s30/S28-F01.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S28",
+    "brand_reference": "Shanghai Tang",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#387C67",
+      "#252C2D",
+      "#B99A55"
+    ],
+    "palette_zh": "玉绿／墨黑／金"
+  },
+  {
+    "card_id": "S28-F02",
+    "series_id": "S28",
+    "tier": "fashion",
+    "title_zh": "朱红折领",
+    "title_en": "Vermilion Folds",
+    "path": "card-art/fashion-s28-s30/S28-F02.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S28",
+    "brand_reference": "Shiatzy Chen",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#B93E35",
+      "#EDE2CE",
+      "#252830"
+    ],
+    "palette_zh": "朱红／象牙／黑"
+  },
+  {
+    "card_id": "S28-F03",
+    "series_id": "S28",
+    "tier": "fashion",
+    "title_zh": "石蓝叠影",
+    "title_en": "Slate-Blue Layers",
+    "path": "card-art/fashion-s28-s30/S28-F03.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S28",
+    "brand_reference": "Uma Wang",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#526E84",
+      "#795A48",
+      "#E5E4DA"
+    ],
+    "palette_zh": "石蓝／棕／冷白"
+  },
+  {
+    "card_id": "S29-F01",
+    "series_id": "S29",
+    "tier": "fashion",
+    "title_zh": "黄铜雨檐",
+    "title_en": "A Brass Rain Eave",
+    "path": "card-art/fashion-s28-s30/S29-F01.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S29",
+    "brand_reference": "Mackintosh",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#C0A03D",
+      "#273C59",
+      "#E8EADD"
+    ],
+    "palette_zh": "芥黄／海军蓝／冷白"
+  },
+  {
+    "card_id": "S29-F02",
+    "series_id": "S29",
+    "tier": "fashion",
+    "title_zh": "紫酒雨幕",
+    "title_en": "Wine-Coloured Rain",
+    "path": "card-art/fashion-s28-s30/S29-F02.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S29",
+    "brand_reference": "Burberry",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#653A57",
+      "#ADCFB4",
+      "#26272B"
+    ],
+    "palette_zh": "紫酒／薄荷／黑"
+  },
+  {
+    "card_id": "S29-F03",
+    "series_id": "S29",
+    "tier": "fashion",
+    "title_zh": "蓝色雨痕",
+    "title_en": "Blue Rain Marks",
+    "path": "card-art/fashion-s28-s30/S29-F03.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S29",
+    "brand_reference": "Margaret Howell",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#E5DBC1",
+      "#315EA3",
+      "#A2774B"
+    ],
+    "palette_zh": "奶油／群青／铜"
+  },
+  {
+    "card_id": "S30-F01",
+    "series_id": "S30",
+    "tier": "fashion",
+    "title_zh": "银紫序曲",
+    "title_en": "A Silver-Lilac Overture",
+    "path": "card-art/fashion-s28-s30/S30-F01.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S30",
+    "brand_reference": "Armani Privé",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#B5ABC9",
+      "#F0EDE7",
+      "#656875"
+    ],
+    "palette_zh": "银紫／冷白／枪灰"
+  },
+  {
+    "card_id": "S30-F02",
+    "series_id": "S30",
+    "tier": "fashion",
+    "title_zh": "玫红安可",
+    "title_en": "A Magenta Encore",
+    "path": "card-art/fashion-s28-s30/S30-F02.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S30",
+    "brand_reference": "Valentino",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#BE3474",
+      "#612E46",
+      "#28604F"
+    ],
+    "palette_zh": "玫红／酒红／祖母绿"
+  },
+  {
+    "card_id": "S30-F03",
+    "series_id": "S30",
+    "tier": "fashion",
+    "title_zh": "深蓝终章",
+    "title_en": "The Midnight Finale",
+    "path": "card-art/fashion-s28-s30/S30-F03.png",
+    "details_page": "card-art/fashion-s28-s30/index.html#S30",
+    "brand_reference": "Elie Saab",
+    "manifest": "card-art/fashion-s28-s30/manifest.json",
+    "palette": [
+      "#243B61",
+      "#BA9C5A",
+      "#EEE5D4"
+    ],
+    "palette_zh": "午夜蓝／金／象牙"
   }
 ]

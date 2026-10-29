@@ -1,0 +1,83 @@
+[
+  {
+    "key": "levis",
+    "brand": "Levi’s",
+    "url": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-90s-lightweight-womens-jeans/p/A84210017",
+    "image": "https://lscoglobal.scene7.com/is/image/lscoglobal/WB_A8421-0017_GLO_CL_FV?fit=crop%2C1&fmt=jpeg&hei=2500&op_usm=0.6%2C0.6%2C8&qlt=70&resMode=sharp2&wid=2000",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://banditostore.com/products/jeans-donna-501-90s-in-denim-celeste-a1959-0106?srsltid=AfmBOordKZOEdHW3CjjsWqV_ySzd6w06Nb1UV9r1M3KzLeTIswYJ5lYH",
+    "status": "downloaded"
+  },
+  {
+    "key": "giordano",
+    "brand": "Giordano Ladies",
+    "url": "https://www.giordanoladies.com/",
+    "image": "https://static.wixstatic.com/media/63f558_905a89a862a94974a68f89d26639be9e~mv2.jpg/v1/fill/w_980%2Ch_554%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_auto/63f558_905a89a862a94974a68f89d26639be9e~mv2.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://m.giordano.com/HK?culture=en-us",
+    "status": "downloaded"
+  },
+  {
+    "key": "westwood",
+    "brand": "Vivienne Westwood",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/vivienne-westwood",
+    "image": "https://assets.vogue.com/photos/65313974b60503dbfcd4534d/master/w_1280%2Cc_limit/00001-vivienne-westwood-spring-2024-ready-to-wear-credit-brand.jpg",
+    "title": "Vivienne Westwood Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "beams",
+    "brand": "BEAMS BOY",
+    "url": "https://www.beams.co.jp/special/beamsboy/22ss/",
+    "image": "https://cdn1.beams.co.jp/special/beamsboy/22ss/assets/images/vol2/look_4_2.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.beams.co.jp/special/beamsboy_look/24ss_2/",
+    "status": "downloaded"
+  },
+  {
+    "key": "issey",
+    "brand": "Issey Miyake",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+    "image": "https://assets.vogue.com/photos/6516da22c42fddef6ebbcdf1/master/w_1280%2Cc_limit/00001%E2%80%94issey%E2%80%94miyake-spring-2024-ready-to-wear-credit-gorunway.jpg",
+    "title": "Issey Miyake Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "onitsuka",
+    "brand": "Onitsuka Tiger",
+    "url": "https://models.com/work/onitsuka-tiger-onitsuka-tiger-fw-24-show",
+    "image": "https://i.mdel.net/i/db/2024/2/2174317/2174317-800w.jpg",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.fashionsnap.com/collection/onitsuka-tiger/2024aw/",
+    "status": "downloaded"
+  },
+  {
+    "key": "allsaints",
+    "brand": "AllSaints",
+    "url": "https://www.next.co.uk/style/su455819/ag7285",
+    "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AG7285s.jpg?im=Resize",
+    "season": "公开系列／产品与造型研究；具体系列见来源",
+    "photo_source_url": "https://www.next.co.uk/style/su455819/ag7285",
+    "status": "downloaded"
+  },
+  {
+    "key": "chloe",
+    "brand": "Chloé",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+    "image": "https://assets.vogue.com/photos/65e09cb37deb0fee34cbc8ba/master/w_1280%2Cc_limit/00001-chloe-fall-2024-ready-to-wear-credit-gorunway.JPG",
+    "title": "Chloé Fall 2024 Ready-to-Wear Collection | Vogue",
+    "season": "fall-2024-ready-to-wear",
+    "status": "downloaded"
+  },
+  {
+    "key": "marant",
+    "brand": "Isabel Marant",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+    "image": "https://assets.vogue.com/photos/6515ce2d7534c4a4dfefcd2d/master/w_1280%2Cc_limit/FIO00070.jpg",
+    "title": "Isabel Marant Spring 2024 Ready-to-Wear Collection | Vogue",
+    "season": "spring-2024-ready-to-wear",
+    "status": "downloaded"
+  }
+]

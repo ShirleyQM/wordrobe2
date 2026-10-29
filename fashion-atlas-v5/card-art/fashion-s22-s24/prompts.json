@@ -1,0 +1,450 @@
+[
+  {
+    "id": "S22-F01",
+    "group": "S22",
+    "ref": "lacoste",
+    "title": "常青边线",
+    "en": "The Evergreen Line",
+    "palette_zh": "松绿／白／黑",
+    "palette": [
+      "#286E55",
+      "#F5F0E1",
+      "#29302F"
+    ],
+    "fabric_zh": "棉尼龙／罗纹／褶面料",
+    "silhouette_zh": "球场短外套、褶裙裤",
+    "detail": "Forest-green cotton-nylon short coat with exaggerated storm lapel, ivory compact rib polo, matching deep-green wide below-knee trousers with an original detachable ivory front pleated skirt panel, plain white court shoes. Tailored outerwear and pleat-over-trouser tension, no crocodile logo.",
+    "atmosphere_zh": "俱乐部日常穿搭里的领型、褶量和运动色块。",
+    "source": {
+      "key": "lacoste",
+      "brand": "Lacoste",
+      "url": "https://www.vogue.fr/article/lacoste-pelagia-kolotouros-automne-hiver-2024-2025",
+      "image": "https://media.vogue.fr/photos/65e86dbd0ca3563228bd2838/master/w_1600%2Cc_limit/2061673063",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.highsnobiety.com/p/lacoste-fw24/",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：长剪裁外层与饱和绿小面积对照。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "球场短外套",
+        "brand",
+        "长剪裁外层与饱和绿小面积对照；本卡转为「球场短外套」，重新组织颜色、比例与分割。面料设计目标：棉尼龙／罗纹／褶面料。"
+      ],
+      [
+        "褶裙裤",
+        "brand",
+        "长剪裁外层与饱和绿小面积对照；本卡转为「褶裙裤」，重新组织颜色、比例与分割。面料设计目标：棉尼龙／罗纹／褶面料。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "sleek angular chin bob with one tightly braided temple",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Tennis Club. Coherent group atmosphere: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere. This card alone has a distinct dominant palette: 松绿／白／黑; target colours #286E55,#F5F0E1,#29302F. Do not dilute all colours into beige or grey. Outfit: Forest-green cotton-nylon short coat with exaggerated storm lapel, ivory compact rib polo, matching deep-green wide below-knee trousers with an original detachable ivory front pleated skirt panel, plain white court shoes. Tailored outerwear and pleat-over-trouser tension, no crocodile logo. Material targets (designer choices, not certifications): 棉尼龙／罗纹／褶面料. Hair: sleek angular chin bob with one tightly braided temple. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Lacoste"
+  },
+  {
+    "id": "S22-F02",
+    "group": "S22",
+    "ref": "fila",
+    "title": "橘色抢七",
+    "en": "Orange Tie-Break",
+    "palette_zh": "橘红／海军蓝／白",
+    "palette": [
+      "#D9753B",
+      "#23385B",
+      "#F6F1E5"
+    ],
+    "fabric_zh": "珠地棉／挺绉／细罗纹",
+    "silhouette_zh": "短Polo、运动裙裤",
+    "detail": "Apricot-orange structured cropped cotton-pique polo with original white angular collar and navy curved side seam, navy sharply pleated short skort over hidden opaque shorts, white fine socks and orange-white low court shoes. Alter colour blocks and skirt construction; no brand marks.",
+    "atmosphere_zh": "俱乐部日常穿搭里的领型、褶量和运动色块。",
+    "source": {
+      "key": "fila",
+      "brand": "Fila",
+      "url": "https://fila.com.sg/collections/womens-dresses-skirts",
+      "image": "https://img.myshopline.com/image/store/1742810640047/fila-1080-1080-1.png?h=1080&w=1080",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://fila.com.sg/collections/womens-dresses-skirts",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：运动领口、短袖线条与边缘色块。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短Polo",
+        "brand",
+        "运动领口、短袖线条与边缘色块；本卡转为「短Polo」，重新组织颜色、比例与分割。面料设计目标：珠地棉／挺绉／细罗纹。"
+      ],
+      [
+        "运动裙裤",
+        "brand",
+        "运动领口、短袖线条与边缘色块；本卡转为「运动裙裤」，重新组织颜色、比例与分割。面料设计目标：珠地棉／挺绉／细罗纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "precise centre-part hair sculpted into a flat low loop",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Tennis Club. Coherent group atmosphere: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere. This card alone has a distinct dominant palette: 橘红／海军蓝／白; target colours #D9753B,#23385B,#F6F1E5. Do not dilute all colours into beige or grey. Outfit: Apricot-orange structured cropped cotton-pique polo with original white angular collar and navy curved side seam, navy sharply pleated short skort over hidden opaque shorts, white fine socks and orange-white low court shoes. Alter colour blocks and skirt construction; no brand marks. Material targets (designer choices, not certifications): 珠地棉／挺绉／细罗纹. Hair: precise centre-part hair sculpted into a flat low loop. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Fila"
+  },
+  {
+    "id": "S22-F03",
+    "group": "S22",
+    "ref": "sportyrich",
+    "title": "丁香休赛日",
+    "en": "A Lilac Rest Day",
+    "palette_zh": "丁香／白／酒红",
+    "palette": [
+      "#A798C4",
+      "#F4EEE3",
+      "#723649"
+    ],
+    "fabric_zh": "蜂巢针织／珠地棉／挺棉",
+    "silhouette_zh": "短针织套层、阔短裤",
+    "detail": "Lilac waffle-knit short zip cardigan over white sleeveless broad-collar polo, wide tailored white mid-thigh shorts with a wrap-front panel, burgundy cotton sweater folded over one shoulder, lilac low canvas court shoes. Rework clean clubwear into new layered volumes, no slogans.",
+    "atmosphere_zh": "俱乐部日常穿搭里的领型、褶量和运动色块。",
+    "source": {
+      "key": "sportyrich",
+      "brand": "Sporty & Rich",
+      "url": "https://sportyandrich.com/pages/tennis-drop-ss24",
+      "image": "https://sportyandrich.com/cdn/shop/files/0052-1320_96f559a4-c000-4ca8-9998-b156f79b19f2.jpg?v=1718615033",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://sportyandrich.com/pages/tennis-drop-ss24",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：简洁Polo与轻便俱乐部穿搭层次。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "短针织套层",
+        "brand",
+        "简洁Polo与轻便俱乐部穿搭层次；本卡转为「短针织套层」，重新组织颜色、比例与分割。面料设计目标：蜂巢针织／珠地棉／挺棉。"
+      ],
+      [
+        "阔短裤",
+        "brand",
+        "简洁Polo与轻便俱乐部穿搭层次；本卡转为「阔短裤」，重新组织颜色、比例与分割。面料设计目标：蜂巢针织／珠地棉／挺棉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Tennis Club. Coherent group atmosphere: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere. This card alone has a distinct dominant palette: 丁香／白／酒红; target colours #A798C4,#F4EEE3,#723649. Do not dilute all colours into beige or grey. Outfit: Lilac waffle-knit short zip cardigan over white sleeveless broad-collar polo, wide tailored white mid-thigh shorts with a wrap-front panel, burgundy cotton sweater folded over one shoulder, lilac low canvas court shoes. Rework clean clubwear into new layered volumes, no slogans. Material targets (designer choices, not certifications): 蜂巢针织／珠地棉／挺棉. Hair: short copper textured pixie with exposed ears. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: quiet clay tennis club court and pavilion after a match, clean afternoon sport-club atmosphere, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Sporty & Rich"
+  },
+  {
+    "id": "S23-F01",
+    "group": "S23",
+    "ref": "moncler",
+    "title": "白色雪脊",
+    "en": "The White Ridge",
+    "palette_zh": "冷白／青柠／炭灰",
+    "palette": [
+      "#EEF0EB",
+      "#BDD348",
+      "#424C52"
+    ],
+    "fabric_zh": "绗缝填充／羊毛／粗针织",
+    "silhouette_zh": "圆肩短羽感外套、直裤",
+    "detail": "Cool-white compact round-shoulder insulated short jacket with original diagonal baffle map and lime collar insert, charcoal straight wool trousers with lime side cuff tab, white substantial flat après-ski boots and plain charcoal knit beanie. Off-slope fashion concept, no technical performance claim.",
+    "atmosphere_zh": "雪后休息与出行时装，清晰暖层与大色块，不伪称性能认证。",
+    "source": {
+      "key": "moncler",
+      "brand": "Moncler Grenoble",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/moncler-grenoble",
+      "image": "https://assets.vogue.com/photos/65bfa7c6f160138d0ba2226a/master/w_1280%2Cc_limit/00001-moncler-grenoble-fall-2024-ready-to-wear-credit-brand.jpg",
+      "title": "Moncler Grenoble Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：层叠填充外层与清晰保暖内层。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "圆肩短羽感外套",
+        "brand",
+        "层叠填充外层与清晰保暖内层；本卡转为「圆肩短羽感外套」，重新组织颜色、比例与分割。面料设计目标：绗缝填充／羊毛／粗针织。"
+      ],
+      [
+        "直裤",
+        "brand",
+        "层叠填充外层与清晰保暖内层；本卡转为「直裤」，重新组织颜色、比例与分割。面料设计目标：绗缝填充／羊毛／粗针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "short copper textured pixie with exposed ears",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Ski. Coherent group atmosphere: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion. This card alone has a distinct dominant palette: 冷白／青柠／炭灰; target colours #EEF0EB,#BDD348,#424C52. Do not dilute all colours into beige or grey. Outfit: Cool-white compact round-shoulder insulated short jacket with original diagonal baffle map and lime collar insert, charcoal straight wool trousers with lime side cuff tab, white substantial flat après-ski boots and plain charcoal knit beanie. Off-slope fashion concept, no technical performance claim. Material targets (designer choices, not certifications): 绗缝填充／羊毛／粗针织. Hair: short copper textured pixie with exposed ears. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Moncler Grenoble"
+  },
+  {
+    "id": "S23-F02",
+    "group": "S23",
+    "ref": "bogner",
+    "title": "红色雪线",
+    "en": "The Red Snow Line",
+    "palette_zh": "亮红／黑／奶油",
+    "palette": [
+      "#C84138",
+      "#27272B",
+      "#E9DDBF"
+    ],
+    "fabric_zh": "绗缝／密织羊毛／粗罗纹",
+    "silhouette_zh": "收腰短滑雪感外套、中裙",
+    "detail": "Vivid red tailored insulated short jacket with original curved black side panels and tall knit collar, black structured below-knee wool wrap skirt over opaque cream rib leggings, red-and-cream flat snow boots. Reinterpret fitted ski-set relation as an après-ski skirt outfit, no logo.",
+    "atmosphere_zh": "雪后休息与出行时装，清晰暖层与大色块，不伪称性能认证。",
+    "source": {
+      "key": "bogner",
+      "brand": "Bogner",
+      "url": "https://www.bogner.com/en-us/p/bogner-sport-ski-look-ellya-light-blue/look-915411.html",
+      "image": "https://www.bogner.com/dw/image/v2/BFLD_PRD/on/demandware.static/-/Sites-bogner-master/default/dw73d19959/images/1/3/2/4/8/4/7/4/254-3180-9796-306_s01_life_look_01_b2c_1764005684.jpg?sfrm=jpg&sw=1600",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.bogner.com/en-us/p/bogner-sport-ski-look-ellya-light-blue/look-915411.html",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短填充外层与修长雪装下身。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "收腰短滑雪感外套",
+        "brand",
+        "短填充外层与修长雪装下身；本卡转为「收腰短滑雪感外套」，重新组织颜色、比例与分割。面料设计目标：绗缝／密织羊毛／粗罗纹。"
+      ],
+      [
+        "中裙",
+        "brand",
+        "短填充外层与修长雪装下身；本卡转为「中裙」，重新组织颜色、比例与分割。面料设计目标：绗缝／密织羊毛／粗罗纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "glossy high ponytail wrapped with a thin plain cord",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Ski. Coherent group atmosphere: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion. This card alone has a distinct dominant palette: 亮红／黑／奶油; target colours #C84138,#27272B,#E9DDBF. Do not dilute all colours into beige or grey. Outfit: Vivid red tailored insulated short jacket with original curved black side panels and tall knit collar, black structured below-knee wool wrap skirt over opaque cream rib leggings, red-and-cream flat snow boots. Reinterpret fitted ski-set relation as an après-ski skirt outfit, no logo. Material targets (designer choices, not certifications): 绗缝／密织羊毛／粗罗纹. Hair: glossy high ponytail wrapped with a thin plain cord. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Bogner"
+  },
+  {
+    "id": "S23-F03",
+    "group": "S23",
+    "ref": "perfect",
+    "title": "蓝色回转",
+    "en": "Blue Turns",
+    "palette_zh": "宝蓝／白／浅金",
+    "palette": [
+      "#325EB0",
+      "#F5F0DE",
+      "#C8AB6A"
+    ],
+    "fabric_zh": "挺弹斜纹／细针织／低光皮",
+    "silhouette_zh": "修长喇叭连体衣",
+    "detail": "Royal-blue slim torso flared-leg one-piece fashion ski suit with a new broad ivory stepped shoulder yoke instead of stars, defined waist with a plain soft tie belt, ivory tall knit collar and cream flat après boots. New panel geometry and collar; no copied star print or performance claims.",
+    "atmosphere_zh": "雪后休息与出行时装，清晰暖层与大色块，不伪称性能认证。",
+    "source": {
+      "key": "perfect",
+      "brand": "Perfect Moment",
+      "url": "https://lindaneve.com.br/product/macacao-perfect-moment-nova-star",
+      "image": "https://lindaneve.com.br/storage/assets/products/macacao-perfect-moment-nova-star_2_1698244423_6539274784d6c.png",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://lindaneve.com.br/product/macacao-perfect-moment-nova-star",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：收腰连体轮廓与喇叭裤线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "修长喇叭连体衣",
+        "brand",
+        "收腰连体轮廓与喇叭裤线；本卡转为「修长喇叭连体衣」，重新组织颜色、比例与分割。面料设计目标：挺弹斜纹／细针织／低光皮。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Après Ski. Coherent group atmosphere: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion. This card alone has a distinct dominant palette: 宝蓝／白／浅金; target colours #325EB0,#F5F0DE,#C8AB6A. Do not dilute all colours into beige or grey. Outfit: Royal-blue slim torso flared-leg one-piece fashion ski suit with a new broad ivory stepped shoulder yoke instead of stars, defined waist with a plain soft tie belt, ivory tall knit collar and cream flat après boots. New panel geometry and collar; no copied star print or performance claims. Material targets (designer choices, not certifications): 挺弹斜纹／细针织／低光皮. Hair: sharp short shag with deliberate piecey fringe. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: alpine lodge terrace after skiing, snow-reflected daylight and warm timber, off-slope fashion, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Perfect Moment"
+  },
+  {
+    "id": "S24-F01",
+    "group": "S24",
+    "ref": "banana",
+    "title": "沙丘口袋",
+    "en": "Dune Pockets",
+    "palette_zh": "沙棕／砖橙／白",
+    "palette": [
+      "#AF9160",
+      "#A45736",
+      "#EFE3C9"
+    ],
+    "fabric_zh": "棉帆布／府绸／斜纹",
+    "silhouette_zh": "功能口袋马甲、阔工装裤",
+    "detail": "Sand cotton-canvas long utility waistcoat with only four original reachable bellows pockets and flat tab closures, ivory broad-sleeve poplin shirt, brick-orange very wide pleated utility trousers with a single knee dart, brown squared low boots. Research early functional garments only, no colonial expedition imagery.",
+    "atmosphere_zh": "口袋能触及、扣点能解释；剪裁和实际携带逻辑兼顾。",
+    "source": {
+      "key": "banana",
+      "brand": "Banana Republic 早期档案",
+      "url": "https://www.secretfanbase.com/banana/a-rare-look-banana-republic-catalogs-1978-1983/",
+      "image": "https://www.secretfanbase.com/banana/wp-content/gallery/covers/BR_1982_11_Kevin_Sarkki.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.secretfanbase.com/banana/a-rare-look-banana-republic-catalogs-1978-1983/",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：早期目录里的口袋、翻盖与携带逻辑。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "功能口袋马甲",
+        "brand",
+        "早期目录里的口袋、翻盖与携带逻辑；本卡转为「功能口袋马甲」，重新组织颜色、比例与分割。面料设计目标：棉帆布／府绸／斜纹。"
+      ],
+      [
+        "阔工装裤",
+        "brand",
+        "早期目录里的口袋、翻盖与携带逻辑；本卡转为「阔工装裤」，重新组织颜色、比例与分割。面料设计目标：棉帆布／府绸／斜纹。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze.",
+    "hair_brief_en": "sharp short shag with deliberate piecey fringe",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Utility. Coherent group atmosphere: design workshop and urban work courtyard, crisp functional fashion, no military costume. This card alone has a distinct dominant palette: 沙棕／砖橙／白; target colours #AF9160,#A45736,#EFE3C9. Do not dilute all colours into beige or grey. Outfit: Sand cotton-canvas long utility waistcoat with only four original reachable bellows pockets and flat tab closures, ivory broad-sleeve poplin shirt, brick-orange very wide pleated utility trousers with a single knee dart, brown squared low boots. Research early functional garments only, no colonial expedition imagery. Material targets (designer choices, not certifications): 棉帆布／府绸／斜纹. Hair: sharp short shag with deliberate piecey fringe. Pose: Standing upright with feet naturally offset, one hand lightly adjusting a real cuff or fastening while the other relaxes at side; full garment front visible; level straight gaze. Scene: design workshop and urban work courtyard, crisp functional fashion, no military costume, location variant 1: a strong doorway framing, front three-quarter camera at waist height. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Banana Republic 早期档案"
+  },
+  {
+    "id": "S24-F02",
+    "group": "S24",
+    "ref": "maxmara",
+    "title": "蓝墨折页",
+    "en": "A Blue-Ink Fold",
+    "palette_zh": "蓝墨／浅石／金属灰",
+    "palette": [
+      "#31596E",
+      "#D2D2C3",
+      "#899297"
+    ],
+    "fabric_zh": "棉斜纹／细针织",
+    "silhouette_zh": "可调腰长衬裙",
+    "detail": "Petrol-blue dense cotton twill sleeveless long shirt dress with wide structured shoulder flanges, asymmetrically folded waist belt and two genuine side-access pockets, pale stone full-sleeve knit underneath, steel-grey flat leather sandals. Transform shirt-wrap design into reachable utility openings and clean broad folds.",
+    "atmosphere_zh": "口袋能触及、扣点能解释；剪裁和实际携带逻辑兼顾。",
+    "source": {
+      "key": "maxmara",
+      "brand": "Max Mara",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/max-mara",
+      "image": "https://assets.vogue.com/photos/650c47eded9dbdb37994b278/master/w_1280%2Cc_limit/00001-max-mara-spring-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Max Mara Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：衬衫式结构、收腰与裹身纵线。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "可调腰长衬裙",
+        "brand",
+        "衬衫式结构、收腰与裹身纵线；本卡转为「可调腰长衬裙」，重新组织颜色、比例与分割。面料设计目标：棉斜纹／细针织。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant.",
+    "hair_brief_en": "braided crown ending in one compact low coil",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Utility. Coherent group atmosphere: design workshop and urban work courtyard, crisp functional fashion, no military costume. This card alone has a distinct dominant palette: 蓝墨／浅石／金属灰; target colours #31596E,#D2D2C3,#899297. Do not dilute all colours into beige or grey. Outfit: Petrol-blue dense cotton twill sleeveless long shirt dress with wide structured shoulder flanges, asymmetrically folded waist belt and two genuine side-access pockets, pale stone full-sleeve knit underneath, steel-grey flat leather sandals. Transform shirt-wrap design into reachable utility openings and clean broad folds. Material targets (designer choices, not certifications): 棉斜纹／细针织. Hair: braided crown ending in one compact low coil. Pose: Seated upright on an appropriate stone or upholstered bench, both complete shoes on ground, hands supported naturally beside hip or on knee, alert level gaze, no coy head cant. Scene: design workshop and urban work courtyard, crisp functional fashion, no military costume, location variant 2: a long horizontal bench and side-lit wall, front view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Max Mara"
+  },
+  {
+    "id": "S24-F03",
+    "group": "S24",
+    "ref": "ralph",
+    "title": "酒渍工作室",
+    "en": "The Wine-Stained Studio",
+    "palette_zh": "酒红／白／焦糖",
+    "palette": [
+      "#7A374B",
+      "#E9E2D3",
+      "#A2754A"
+    ],
+    "fabric_zh": "绒面羊毛／细针织／挺棉",
+    "silhouette_zh": "长工装衬衫、按扣中裙",
+    "detail": "Burgundy brushed wool long overshirt with fitted waist tabs, ivory high-neck fine knit and cognac straight calf skirt with original diagonal snap panel and deep front step pleat, burgundy low laced shoes. Tailoring is translated into practical collar/cuff and waist control; pocket map and skirt original.",
+    "atmosphere_zh": "口袋能触及、扣点能解释；剪裁和实际携带逻辑兼顾。",
+    "source": {
+      "key": "ralph",
+      "brand": "Ralph Lauren",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "image": "https://assets.vogue.com/photos/663068286ca23caaa8032923/master/w_1920%2Cc_limit/00027-ralph-lauren-fall-2024-ready-to-wear-credit-brand.jpg",
+      "season": "已核验公开系列／产品研究，沿用前批研究图",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：礼服剪裁、领口纵线与长下装。颜色、长度、分割和搭配重新设计。",
+    "items": [
+      [
+        "长工装衬衫",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「长工装衬衫」，重新组织颜色、比例与分割。面料设计目标：绒面羊毛／细针织／挺棉。"
+      ],
+      [
+        "按扣中裙",
+        "brand",
+        "礼服剪裁、领口纵线与长下装；本卡转为「按扣中裙」，重新组织颜色、比例与分割。面料设计目标：绒面羊毛／细针织／挺棉。"
+      ],
+      [
+        "鞋履、包与发饰",
+        "original",
+        "本卡自定鞋履、包型和发型细节，不标作品牌原款。"
+      ]
+    ],
+    "pose_brief_en": "A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder.",
+    "hair_brief_en": "slick side-part short bob with one sculptural finger wave",
+    "generation_tool": "built-in image_gen",
+    "tier": "fashion",
+    "folder": "fashion-s22-s24",
+    "prompt": "Create ONE polished full-body adult woman collectible fashion illustration, vertical 1:2, both complete shoes inside frame with ground margin, thin ivory rounded border. No text, logos, real team badges, watermark or copied trademark patterns. Refined CLEAN semi-realistic anime illustration, precise thin lines, smooth controlled shading, clear texture differences. Reference1 is rendering ONLY: never copy its outfit, pose, head angle, face or background. Reference2 is brand material/structure research ONLY: do not copy whole outfit, model, colours or print. Recompose intentionally with bold wearable editorial proportions. Head absolutely upright, neck vertical, ears level; no sideways head tilt, no coy hair-touch pose. Theme: Utility. Coherent group atmosphere: design workshop and urban work courtyard, crisp functional fashion, no military costume. This card alone has a distinct dominant palette: 酒红／白／焦糖; target colours #7A374B,#E9E2D3,#A2754A. Do not dilute all colours into beige or grey. Outfit: Burgundy brushed wool long overshirt with fitted waist tabs, ivory high-neck fine knit and cognac straight calf skirt with original diagonal snap panel and deep front step pleat, burgundy low laced shoes. Tailoring is translated into practical collar/cuff and waist control; pocket map and skirt original. Material targets (designer choices, not certifications): 绒面羊毛／细针织／挺棉. Hair: slick side-part short bob with one sculptural finger wave. Pose: A decisive natural walking stride across a low threshold, shoulders balanced, one arm swings while other holds a small original folded bag low; head upright looking forward, not over shoulder. Scene: design workshop and urban work courtyard, crisp functional fashion, no military costume, location variant 3: a low broad step and open passage, three-quarter view. Make theme clear through clothes and mood, not only props. Keep hands anatomically natural, no excessive background clutter.",
+    "brand": "Ralph Lauren"
+  }
+]
