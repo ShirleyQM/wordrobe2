@@ -1,0 +1,53 @@
+[
+  {
+    "card_id": "S06-F01",
+    "tier": "fashion",
+    "theme": "Dark Academia / 暗黑学院",
+    "title_zh": "禁书目录",
+    "title_en": "The Forbidden Index",
+    "brand_reference": "Ralph Lauren",
+    "reference_focus": "领带与剪裁秩序",
+    "transformation": "将裤装改成长褶裹裙，重画短前长后衣摆和斜向收腰；细条纹、羊毛与缎面领带形成材质对照。",
+    "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+    "path": "S06-F01.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "360f975d4df2892c4fe713685b6793100bc174f305e080bbc9484818ec826ec3",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "Reviewed full illustration, garment structure, hairstyle and common dark-academic mood; first card rear shoe mostly obscured by long skirt. Generated interpretation, not exact prompt reproduction."
+  },
+  {
+    "card_id": "S06-F02",
+    "tier": "fashion",
+    "theme": "Dark Academia / 暗黑学院",
+    "title_zh": "午夜辩论",
+    "title_en": "The Midnight Disputation",
+    "brand_reference": "Margaret Howell",
+    "reference_focus": "宽松衬衫、黑色剪裁与实用层次",
+    "transformation": "去掉牛仔裤与运动鞋，重组为大袖衬衫、斜摆马甲、灯芯绒阔腿裙裤和厚底系带鞋。",
+    "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+    "path": "S06-F02.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "5ecbd3101a17fcaceddfdd64a58d2a5fb54c1a983e87b48ec919d5318c09ed24",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "Reviewed full illustration, garment structure, hairstyle and common dark-academic mood; first card rear shoe mostly obscured by long skirt. Generated interpretation, not exact prompt reproduction."
+  },
+  {
+    "card_id": "S06-F03",
+    "tier": "fashion",
+    "theme": "Dark Academia / 暗黑学院",
+    "title_zh": "雨廊来信",
+    "title_en": "Letters Through the Rain",
+    "brand_reference": "Burberry",
+    "reference_focus": "缩绒羊毛与风雨外套结构",
+    "transformation": "改变外套长度、肩部覆片、袖量和开襟比例，搭配百褶短裙、长靴及高编辫；成图内衬为酒红植物纹，不使用品牌格纹。",
+    "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+    "path": "S06-F03.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "9056713424ec1a6c4786aa0a29784e763e324b9b26cc84c9aeaee01358381f5e",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "Reviewed full illustration, garment structure, hairstyle and common dark-academic mood; first card rear shoe mostly obscured by long skirt. Generated interpretation, not exact prompt reproduction."
+  }
+]

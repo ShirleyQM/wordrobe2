@@ -1,0 +1,1143 @@
+[
+  {
+    "series_id": "S07",
+    "title_zh": "Fairycore 森林精灵",
+    "title_en": "Fairycore",
+    "previous_title_zh": "Fairycore 森林精灵",
+    "category_zh": "浪漫幻想",
+    "brand_comparisons": [
+      {
+        "name": "Rodarte",
+        "analysis_zh": "观察纱、针织与花卉如何形成梦境式图像；新版用自然过程生成层次，而非照搬花朵堆叠。",
+        "analysis_en": "Study how delicate surfaces create atmosphere; let natural processes shape construction."
+      },
+      {
+        "name": "Simone Rocha",
+        "analysis_zh": "研究体积、透明层与装饰密度的关系。三套分别分配不同体积，不统一变成蓬裙与珍珠。",
+        "analysis_en": "Compare volume, transparency and the density of ornament rather than repeating one puffed silhouette."
+      },
+      {
+        "name": "Needle & Thread",
+        "analysis_zh": "以薄纱与刺绣分布研究表面节奏，重点是绣线的疏密与位置，而非把华丽程度等同于设计深度。",
+        "analysis_en": "Study the placement and spacing of embroidery rather than equating more decoration with more meaning."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C07-A",
+        "revision": 3,
+        "title_zh": "翅翼的空气",
+        "title_en": "Air Between Wings",
+        "silhouette_zh": "薄袖短上衣／长层裙；上轻下展开",
+        "palette": [
+          {
+            "name_zh": "鼠尾草",
+            "hex": "#B9C9AB",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "珍珠",
+            "hex": "#EEE8DB",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "冷紫",
+            "hex": "#85759C",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "半透明细纱与稀疏不规则绣线",
+        "design_en": "A light blouse and three unequal skirt layers describe air rather than a literal pair of wings. Sparse embroidery follows branching lines. The pale colours stay distinct under side light, and the separate camisole remains a real layer.",
+        "items": [
+          {
+            "design_item_id": "S07-A-D01",
+            "name_zh": "薄纱宽袖上衣",
+            "name_en": "Sheer full-sleeved blouse",
+            "construction_zh": "袖根完整，前袖口小收拢",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-A-D02",
+            "name_zh": "独立短背心",
+            "name_en": "Separate cropped camisole",
+            "construction_zh": "珍珠色，非烘焙在纱上",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-A-D03",
+            "name_zh": "斜层长裙",
+            "name_en": "Diagonally layered maxi skirt",
+            "construction_zh": "三层不等长，不作叶片剪纸",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-A-D04",
+            "name_zh": "绑带平底鞋",
+            "name_en": "Tie-fastened flats",
+            "construction_zh": "柔紫",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-A-D05",
+            "name_zh": "细枝耳饰",
+            "name_en": "Branch-like earrings",
+            "construction_zh": "原创抽象形",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "林缘站姿抬手触枝，光从薄袖穿过，主体轮廓不遮",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C07-A.png"
+      },
+      {
+        "card_id": "C07-B",
+        "revision": 3,
+        "title_zh": "腐叶与铜",
+        "title_en": "Leaves Turning to Copper",
+        "silhouette_zh": "短斗篷／高腰阔裤；圆上身与长下身",
+        "palette": [
+          {
+            "name_zh": "树皮",
+            "hex": "#72503C",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "铜锈",
+            "hex": "#B7744A",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "苔绿",
+            "hex": "#65755A",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "短绒毛料、粗节亚麻与少量金属线",
+        "design_en": "A short rounded cape and long trousers place the strongest volume above a narrow waist area. Bark, copper and moss suggest a forest floor in change. The small seed-like brooch carries the only metallic accent.",
+        "items": [
+          {
+            "design_item_id": "S07-B-D01",
+            "name_zh": "圆肩短斗篷",
+            "name_en": "Rounded short cape",
+            "construction_zh": "领口单扣、前缘曲线",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-B-D02",
+            "name_zh": "高领无袖上衣",
+            "name_en": "Sleeveless high-neck top",
+            "construction_zh": "棕绿细针织",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-B-D03",
+            "name_zh": "粗节阔腿裤",
+            "name_en": "Slub wide-leg trousers",
+            "construction_zh": "踝上，前中缝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-B-D04",
+            "name_zh": "软底短靴",
+            "name_en": "Soft-soled ankle boots",
+            "construction_zh": "树皮色",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-B-D05",
+            "name_zh": "抽象果实胸针",
+            "name_en": "Abstract seed brooch",
+            "construction_zh": "铜色小件",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "落叶地面站姿拾起种荚，低机位仍保留全身比例",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C07-B.png"
+      },
+      {
+        "card_id": "C07-C",
+        "revision": 3,
+        "title_zh": "暮色地衣",
+        "title_en": "Lichen at Dusk",
+        "silhouette_zh": "不对称针织裙／长透明罩层；偏侧重量",
+        "palette": [
+          {
+            "name_zh": "夜紫",
+            "hex": "#65546F",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "地衣黄",
+            "hex": "#C6C789",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "烟灰",
+            "hex": "#969892",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "疏针肌理与细网层；不统一加花冠",
+        "design_en": "An asymmetric knitted dress meets a long transparent layer. Violet, lichen yellow and smoke grey build a colder forest mood. Turning beside a stone wall reveals differences in opacity without adding another flower crown.",
+        "items": [
+          {
+            "design_item_id": "S07-C-D01",
+            "name_zh": "偏襟针织裙",
+            "name_en": "Asymmetric knitted dress",
+            "construction_zh": "一侧斜垂，膝下",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-C-D02",
+            "name_zh": "长透明罩层",
+            "name_en": "Long sheer overlay",
+            "construction_zh": "宽袖、开前襟、不连背内片",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-C-D03",
+            "name_zh": "软皮长靴",
+            "name_en": "Soft leather tall boots",
+            "construction_zh": "烟灰低跟",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S07-C-D04",
+            "name_zh": "叶脉发簪",
+            "name_en": "Vein-pattern hair pin",
+            "construction_zh": "单件抽象线条",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "石墙旁站姿回身，薄层略扬；暮光保留面料颜色",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C07-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "Not Every Fairy Needs a Flower Crown",
+      "title_zh": "精灵不一定戴花冠",
+      "body_en": "A flower crown is a very efficient piece of shorthand. Put one on a figure in a green dress and the forest has apparently arrived. The trouble is that, after a few pictures, every forest starts to look the same.\n\nLook more closely at an actual woodland and the palette becomes less predictable. There is copper in fallen leaves, violet in shadow and a dry yellow-green on stone. Some surfaces are soft; others are rough enough to catch a sleeve. Nature supplies more than a collection of pretty flowers.\n\nClothes can borrow these relationships without turning into illustrations of leaves. A fine sheer sleeve suggests fragility through its edge. A short rounded cape feels heavier than the trousers below it. An uneven knitted hem can appear to have grown rather than been cut straight across.\n\nThe result is still a fantasy. That is part of the pleasure. But a fantasy becomes richer when it has something particular to look at. One outfit might belong to the bright edge of the trees, another to the ground after rain, a third to the last light of the afternoon. None needs a different species of flower attached to every available surface. Sometimes the most convincing woodland detail is simply a colour you had forgotten to notice.",
+      "body_zh": "花冠是一种效率很高的速记。给绿裙人物戴上它，森林仿佛就到场了。问题是看过几张以后，每片森林开始长得一样。\n\n靠近真正的林地，颜色会难猜得多：落叶里有铜，阴影里有紫，石上还有干黄绿。有些表面柔软，有些粗到足以勾住袖子。自然给出的不只是漂亮花朵。\n\n衣服可以借这些关系，而不必变成叶子的插图。细透明袖通过边缘表现脆薄，短圆斗篷显得比下方裤子沉，不齐针织摆仿佛是长出来的，而非一刀剪平。\n\n结果仍是幻想，乐趣正在这里。但幻想有具体观察对象时会更丰富：一套属于明亮林缘，一套属于雨后地面，一套属于午后最后的光。不必每块空白都缀不同品种的花。有时最可信的林地细节，只是一种你忘记注意过的颜色。",
+      "word_count": 213,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "What does the writer suggest borrowing from a woodland?",
+        "options_en": [
+          "Relationships among colours, surfaces and weight.",
+          "A separate literal plant shape for every garment.",
+          "One consistent green so the collection stays recognisable."
+        ],
+        "answer_index": 0,
+        "evidence_en": "“Clothes can borrow these relationships without turning into illustrations of leaves.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Choose one overlooked colour or surface outdoors. Describe how you would use it without drawing the object it comes from.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "shorthand",
+        "zh": "速记式表达"
+      },
+      {
+        "en": "woodland",
+        "zh": "林地"
+      },
+      {
+        "en": "sheer",
+        "zh": "轻薄透明的"
+      },
+      {
+        "en": "hem",
+        "zh": "下摆"
+      },
+      {
+        "en": "uneven",
+        "zh": "不齐的"
+      },
+      {
+        "en": "palette",
+        "zh": "配色范围"
+      }
+    ],
+    "reading": {
+      "series_id": "S07",
+      "title_zh": "Fairycore：小饰物为何能提供情绪价值？",
+      "kind": "人物采访与趋势",
+      "source": {
+        "url": "https://www.nylon.com/fashion/fairycore-aesthetic-clothing-fashion",
+        "title": "Fairycore Is The Glittery Internet Aesthetic That’s Ready To Take Over Spring",
+        "publisher": "NYLON",
+        "author": "Sara Jin Li",
+        "date": "2024-02-20（更新）；2021-03-19（首发）",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "Fairycore is accessible magic",
+        "quote_zh": "Fairycore 是触手可及的魔法。"
+      },
+      "guide_en": "NYLON interviews a fashion historian and independent sellers about fairycore. Crystal charms and mushroom jewellery are presented as small sources of optimism. The article links the aesthetic to life after lockdown, with individuality more important than a fixed costume formula.",
+      "guide_zh": "历史研究者与独立卖家谈水晶、蘑菇饰物，以及封锁后人们对乐观情绪的需要。",
+      "focus_zh": "摘录是受访者 Rachel Weingarten 的说法。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What role do the small accessories play?",
+          "options_en": [
+            "They express team loyalty",
+            "They offer optimism",
+            "They demonstrate luxury status"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "导读将这些小饰物与乐观情绪联系起来。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “charms” mean?",
+          "options_en": [
+            "small decorative objects worn or carried",
+            "care instructions",
+            "garment seams"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "结合导读语境，charms 在这里表示：small decorative objects worn or carried。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "Describe a small accessory that changes your mood. What gives it that effect?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What role do the small accessories play?",
+        "options_en": [
+          "They express team loyalty",
+          "They offer optimism",
+          "They demonstrate luxury status"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读将这些小饰物与乐观情绪联系起来。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “charms” mean?",
+        "options_en": [
+          "small decorative objects worn or carried",
+          "care instructions",
+          "garment seams"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，charms 在这里表示：small decorative objects worn or carried。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe a small accessory that changes your mood. What gives it that effect?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S08",
+    "title_zh": "Balletcore 芭蕾缪斯",
+    "title_en": "Balletcore",
+    "previous_title_zh": "Balletcore 芭蕾缪斯",
+    "category_zh": "浪漫幻想",
+    "brand_comparisons": [
+      {
+        "name": "Repetto",
+        "analysis_zh": "用于讨论舞蹈相关鞋履的视觉传统；时装平底鞋和专业训练装备必须区别描述。",
+        "analysis_en": "Distinguish a dance-related visual reference from equipment suitable for professional practice."
+      },
+      {
+        "name": "Miu Miu",
+        "analysis_zh": "比较日常衣与舞蹈练习意象之间的错位，重点是层次与比例，不直接复刻现成搭配。",
+        "analysis_en": "Compare everyday layers with practice-related imagery through proportion and displacement."
+      },
+      {
+        "name": "Simone Rocha",
+        "analysis_zh": "透明层、针织与装饰能够让柔软产生结构。本组缩减珠饰，将注意力放在裹身和褶量。",
+        "analysis_en": "Use softness as a structural problem, with emphasis on wrapping and folds rather than beads."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C08-A",
+        "revision": 3,
+        "title_zh": "热身之后",
+        "title_en": "After Warming Up",
+        "silhouette_zh": "短裹身针织／高腰直裤；交叠上身与纵裤线",
+        "palette": [
+          {
+            "name_zh": "杏粉",
+            "hex": "#DDB9AF",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "石灰",
+            "hex": "#B5B3AB",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "深莓",
+            "hex": "#754353",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细针织、弹性棉外观与毛斜纹",
+        "design_en": "A pink wrap cardigan crosses above high-waisted straight trousers. The side tie changes the upper silhouette as it loosens. Berry-coloured flats and a quiet base tank keep the outfit grounded in ordinary dressing.",
+        "items": [
+          {
+            "design_item_id": "S08-A-D01",
+            "name_zh": "裹身短开衫",
+            "name_en": "Cropped wrap cardigan",
+            "construction_zh": "腰侧窄系带，前襟交叠",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-A-D02",
+            "name_zh": "方领基础背心",
+            "name_en": "Square-neck base tank",
+            "construction_zh": "石灰合体、独立单品",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-A-D03",
+            "name_zh": "高腰直裤",
+            "name_en": "High-waisted straight trousers",
+            "construction_zh": "不做专业训练裤宣称",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-A-D04",
+            "name_zh": "柔软平底鞋",
+            "name_en": "Soft leather flats",
+            "construction_zh": "深莓",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-A-D05",
+            "name_zh": "窄针织发带",
+            "name_en": "Narrow knitted headband",
+            "construction_zh": "杏粉",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "排练室外站姿解开外层系带，动作重在可调层次",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C08-A.png"
+      },
+      {
+        "card_id": "C08-B",
+        "revision": 3,
+        "title_zh": "长褶呼吸",
+        "title_en": "Breathing Through Pleats",
+        "silhouette_zh": "贴体短上衣／长风琴褶裙；静上动下",
+        "palette": [
+          {
+            "name_zh": "烟蓝",
+            "hex": "#889FAA",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "粉白",
+            "hex": "#EAE5DB",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "赭金",
+            "hex": "#AC8A51",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "干棉罗纹与轻绉褶，不全缎面",
+        "design_en": "A compact ribbed top gives the long pleated skirt room to move. Smoke blue and chalk-white carry the main surfaces. The narrow wrap and small earrings avoid competing with the rhythm of the skirt.",
+        "items": [
+          {
+            "design_item_id": "S08-B-D01",
+            "name_zh": "短袖罗纹上衣",
+            "name_en": "Short-sleeve ribbed top",
+            "construction_zh": "船领，袖口小",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-B-D02",
+            "name_zh": "风琴褶长裙",
+            "name_en": "Accordion-pleated maxi skirt",
+            "construction_zh": "腰平、细褶渐展",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-B-D03",
+            "name_zh": "短针织披层",
+            "name_en": "Short knitted wrap",
+            "construction_zh": "只在前肩单结",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-B-D04",
+            "name_zh": "方头平底鞋",
+            "name_en": "Square-toe flats",
+            "construction_zh": "烟蓝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-B-D05",
+            "name_zh": "细链耳饰",
+            "name_en": "Fine-chain earrings",
+            "construction_zh": "少量赭金",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "窗旁站姿向侧跨一步，让褶线展开；非踮脚训练姿势",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C08-B.png"
+      },
+      {
+        "card_id": "C08-C",
+        "revision": 3,
+        "title_zh": "休息间隙",
+        "title_en": "Between Practices",
+        "silhouette_zh": "长针织背心裙／短袖外层；圆润短长对照",
+        "palette": [
+          {
+            "name_zh": "奶黄",
+            "hex": "#DDD4A6",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "可可",
+            "hex": "#7D675A",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "李紫",
+            "hex": "#785C79",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "厚实罗纹与薄平针分层",
+        "design_en": "A long ribbed dress sits beneath a fine short-sleeved layer. Pale yellow, cocoa and plum replace a compulsory pink palette. Rolling up an outer garment gives rest and preparation a place inside the card.",
+        "items": [
+          {
+            "design_item_id": "S08-C-D01",
+            "name_zh": "罗纹背心长裙",
+            "name_en": "Ribbed sleeveless midi dress",
+            "construction_zh": "直筒、侧步行开口",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-C-D02",
+            "name_zh": "薄短袖罩衫",
+            "name_en": "Fine short-sleeve cover-up",
+            "construction_zh": "宽直，不作大蝴蝶结",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-C-D03",
+            "name_zh": "针织短袜",
+            "name_en": "Knitted ankle socks",
+            "construction_zh": "李紫",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-C-D04",
+            "name_zh": "系带平底鞋",
+            "name_en": "Lace-up flats",
+            "construction_zh": "可可",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S08-C-D05",
+            "name_zh": "扁平软袋",
+            "name_en": "Flat soft pouch",
+            "construction_zh": "奶黄",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "长椅边站姿卷起外衣，表现休息而非演出",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C08-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "Why the Cardigan Ties at the Side",
+      "title_zh": "开衫为什么系在侧边？",
+      "body_en": "Before a dancer looks weightless, she gets warm. There may be a cardigan over a fitted base, a soft layer around the shoulders and something knitted pulled over the ankles. The clothes belong to the work around the performance, not only to the performance itself.\n\nThis is the useful starting point for balletcore. A wrap cardigan can be loosened or removed without pulling it over the head. A close-fitting layer makes the body’s movement easier to see. An extra knitted piece can stay on while the dancer waits. Familiar details have particular jobs.\n\nFashion takes those details elsewhere. A side-tied cardigan works well above high-waisted trousers; a fine wrap can cross a long pleated skirt. The clothes need not all be pink, and the shoes need not have ribbon climbing the leg. A deep berry flat can be a more interesting end to a pale outfit.\n\nThere is also a distinction worth keeping clear. A fashion shoe that resembles a ballet flat is not necessarily suitable for dance training. Appearance does not establish performance. Once that is understood, the wardrobe has room to be enjoyed on its own terms: soft, adjustable and built for a day with pauses in it. Even grace needs a moment to sit down.",
+      "body_zh": "舞者看起来轻盈以前，要先热起来：贴身基础衣外有开衫，肩上有软层，脚踝还可能套着针织物。这些衣服属于表演周围的劳动，而不只属于表演。\n\n这是理解 Balletcore 的好入口。裹身开衫可松可脱，不必从头上套过；贴身层方便看清身体运动；等待时，多一件针织可以继续穿着。熟悉细节各有任务。\n\n时装把这些细节带去别处。侧系开衫可以配高腰裤，细披层可以交叉在长褶裙上。不必全部粉色，也不必鞋带缠到腿上：深莓色平底鞋，也许更能收住一套浅色。\n\n有个区别仍须清楚：外形像芭蕾平底鞋的时装鞋，不一定适合舞蹈训练，外观不能证明性能。明白以后，便可以享受这套衣橱自己的特点——柔软、可调整，适合会停停走走的一天。优雅也需要坐下来一会儿。",
+      "word_count": 208,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "Why is the side-tied cardigan useful in the opening discussion?",
+        "options_en": [
+          "It makes every outfit look more formal.",
+          "It can be adjusted or removed without going over the head.",
+          "It proves that the wearer is ready to perform."
+        ],
+        "answer_index": 1,
+        "evidence_en": "“A wrap cardigan can be loosened or removed without pulling it over the head.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Name a garment you adjust during a day. Explain what changes in its shape as well as in its use.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "weightless",
+        "zh": "仿佛没有重量的"
+      },
+      {
+        "en": "wrap cardigan",
+        "zh": "裹身开衫"
+      },
+      {
+        "en": "close-fitting",
+        "zh": "贴身的"
+      },
+      {
+        "en": "adjustable",
+        "zh": "可调整的"
+      },
+      {
+        "en": "on its own terms",
+        "zh": "按其自身特点"
+      },
+      {
+        "en": "pause",
+        "zh": "间歇"
+      }
+    ],
+    "reading": {
+      "series_id": "S08",
+      "title_zh": "Balletcore：一双舞鞋怎样成为潮流？",
+      "kind": "学术短评",
+      "source": {
+        "url": "https://star.sta.qmul.ac.uk/short-guides/balletcore/",
+        "title": "Balletcore",
+        "publisher": "School of the Arts Review / Queen Mary University of London",
+        "author": "Cat Thy Au",
+        "date": "2026（页面标注年份）",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "Algorithms are central to this fast fashion cascade",
+        "quote_zh": "算法是这条快时尚传播链的关键。"
+      },
+      "guide_en": "Cat Thy Au follows balletcore from designer collections to celebrity images and mass retailers. The guide argues that algorithms help accelerate this cascade. Its critical focus is how trends circulate through commerce, rather than how to dress like a professional dancer.",
+      "guide_zh": "作者追踪设计师、明星与零售商之间的传播链，讨论算法如何加速潮流。",
+      "focus_zh": "这是有立场的短评；可以质疑作者对潮流寿命的判断。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What is the article mainly examining?",
+          "options_en": [
+            "How a trend spreads",
+            "How dance technique develops",
+            "How rehearsal clothes are constructed"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "导读的中心是潮流传播链。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “cascade” mean?",
+          "options_en": [
+            "an individual buyer",
+            "a fabric sample",
+            "a chain of effects spreading onwards"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "结合导读语境，cascade 在这里表示：a chain of effects spreading onwards。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "Which stage of a fashion trend’s journey interests you most: design, celebrity adoption or retail? Why?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What is the article mainly examining?",
+        "options_en": [
+          "How a trend spreads",
+          "How dance technique develops",
+          "How rehearsal clothes are constructed"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读的中心是潮流传播链。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “cascade” mean?",
+        "options_en": [
+          "an individual buyer",
+          "a fabric sample",
+          "a chain of effects spreading onwards"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，cascade 在这里表示：a chain of effects spreading onwards。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which stage of a fashion trend’s journey interests you most: design, celebrity adoption or retail? Why?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S09",
+    "title_zh": "Coquette · 结饰与自主",
+    "title_en": "Coquette · Ornament and Choice",
+    "previous_title_zh": "Coquette 洛可可甜心",
+    "category_zh": "浪漫幻想",
+    "brand_comparisons": [
+      {
+        "name": "Sandy Liang",
+        "analysis_zh": "研究缎带、日常基础衣与城市语境的组合，让少女感成为可被重写的穿法而非年龄身份。",
+        "analysis_en": "Consider ribbons alongside everyday urban clothes without assigning an age identity."
+      },
+      {
+        "name": "Shushu/Tong",
+        "analysis_zh": "比较鲜明领型、蓬量与严谨剪裁如何同时出现，避免只取“可爱”一个形容词。",
+        "analysis_en": "Compare expressive collars and volume with disciplined cutting rather than using only the word cute."
+      },
+      {
+        "name": "Miu Miu",
+        "analysis_zh": "关注规整与不规整、制服与私人物件之间的关系。新设计让系结真正参与闭合与收量。",
+        "analysis_en": "Study tensions between uniform codes and personal choices; give a tie an actual construction role."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C09-A",
+        "revision": 3,
+        "title_zh": "结的用途",
+        "title_en": "A Bow with a Job",
+        "silhouette_zh": "挺衬衫／窄中裙；结作为闭合点",
+        "palette": [
+          {
+            "name_zh": "淡蓝",
+            "hex": "#B8D4DB",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "墨褐",
+            "hex": "#453D3B",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "樱桃",
+            "hex": "#B44450",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "干棉折线、哑皮与小面积缎带",
+        "design_en": "The narrow tie closes a crisp pale-blue shirt above a dark straight skirt. Cherry shoes punctuate the lower edge. Ornament has a visible task, and the wearer adjusts it herself rather than simply displaying it.",
+        "items": [
+          {
+            "design_item_id": "S09-A-D01",
+            "name_zh": "系结领衬衫",
+            "name_en": "Tie-neck shirt",
+            "construction_zh": "前领窄带可拆、肩自然",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-A-D02",
+            "name_zh": "直筒中裙",
+            "name_en": "Straight midi skirt",
+            "construction_zh": "前偏侧开衩、不过度勒胯",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-A-D03",
+            "name_zh": "小方跟鞋",
+            "name_en": "Low block-heel shoes",
+            "construction_zh": "樱桃色",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-A-D04",
+            "name_zh": "扁矩形耳饰",
+            "name_en": "Flat rectangular earrings",
+            "construction_zh": "不堆珍珠",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-A-D05",
+            "name_zh": "短柄手袋",
+            "name_en": "Short-handle bag",
+            "construction_zh": "墨褐平皮",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "书店入口站姿整理领结，手部不盖住前襟",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C09-A.png"
+      },
+      {
+        "card_id": "C09-B",
+        "revision": 3,
+        "title_zh": "严肃的粉色",
+        "title_en": "Pink, Taken Seriously",
+        "silhouette_zh": "长马甲／直宽裤；男性化剪裁与软结",
+        "palette": [
+          {
+            "name_zh": "灰粉",
+            "hex": "#D5ADB4",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "炭黑",
+            "hex": "#33343A",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "冷白",
+            "hex": "#EDEDEC",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "毛精纺与薄缎，粉色不等于蓬裙",
+        "design_en": "A dusty-pink waistcoat and wide trousers build a serious tailored shape. Soft sleeve ties complicate that structure without covering it. The bow becomes a small point of negotiation between firmness and volume.",
+        "items": [
+          {
+            "design_item_id": "S09-B-D01",
+            "name_zh": "长剪裁马甲",
+            "name_en": "Long tailored waistcoat",
+            "construction_zh": "单排扣，前领窄V",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-B-D02",
+            "name_zh": "棉质泡袖衬衫",
+            "name_en": "Cotton puff-sleeve blouse",
+            "construction_zh": "只上臂局部布量，前袖口系结",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-B-D03",
+            "name_zh": "直宽长裤",
+            "name_en": "Straight wide-leg trousers",
+            "construction_zh": "长裤线",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-B-D04",
+            "name_zh": "尖头平底鞋",
+            "name_en": "Pointed flats",
+            "construction_zh": "炭黑",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-B-D05",
+            "name_zh": "小号金属耳钉",
+            "name_en": "Small metal studs",
+            "construction_zh": "冷银",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "白墙前站姿挽袖，肩和裤线完整可见",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C09-B.png"
+      },
+      {
+        "card_id": "C09-C",
+        "revision": 3,
+        "title_zh": "格纹的偏心",
+        "title_en": "Checks Off Centre",
+        "silhouette_zh": "短泡袖连衣裙／窄长系带；上蓬下A",
+        "palette": [
+          {
+            "name_zh": "莓红",
+            "hex": "#A64E67",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "奶油",
+            "hex": "#F0E3BF",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "草绿",
+            "hex": "#6B8554",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "原创小织格、挺棉与薄带",
+        "design_en": "An A-line checked dress uses a side tie to gather real cloth. Untying it releases the silhouette. Berry, cream and green make the outfit lively without requiring every accessory to repeat a ribbon.",
+        "items": [
+          {
+            "design_item_id": "S09-C-D01",
+            "name_zh": "短泡袖A字裙",
+            "name_en": "Puff-sleeve A-line dress",
+            "construction_zh": "自然腰、膝上，偏侧抽结调节",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-C-D02",
+            "name_zh": "抽结窄腰带",
+            "name_en": "Gathering tie belt",
+            "construction_zh": "参与收量，解开后轮廓放松",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-C-D03",
+            "name_zh": "棉质短袜",
+            "name_en": "Cotton ankle socks",
+            "construction_zh": "奶油无蕾丝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-C-D04",
+            "name_zh": "低跟玛丽珍",
+            "name_en": "Low-heel Mary Janes",
+            "construction_zh": "草绿",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S09-C-D05",
+            "name_zh": "单个发结",
+            "name_en": "Single hair bow",
+            "construction_zh": "莓红",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "庭院站姿松开侧结，表现结构而非幼态表情",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels07-09/C09-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "What a Bow Can Do",
+      "title_zh": "蝴蝶结能做什么？",
+      "body_en": "A bow can make a severe white shirt look suddenly less severe. It can also make an already frilly dress feel like one detail too many. The object is the same; the company it keeps changes everything.\n\nCoquette styling is full of these small signals: ribbons, lace edges, narrow straps and little fastenings that ask you to look closely. They can be pleasurable things to wear. The difficulty comes when pleasure turns into a requirement to seem young, sweet or harmless.\n\nThere is more freedom in treating the bow as a choice with a job to do. At the neck, it can close a blouse. At the side, it can gather cloth into a waist. On a sharply cut waistcoat, it can introduce a soft interruption. Untie it and the garment changes again.\n\nThat approach also helps separate contemporary styling from historical shorthand. A ribbon alone does not make a dress Rococo, any more than a collar makes an outfit a school uniform. Specific clothes have specific histories. A modern wearer can enjoy a pale checked dress without being cast as an innocent heroine. Or she can put a dusty-pink waistcoat over wide trousers and let the sweetness stop exactly where she wants it to.",
+      "body_zh": "一个蝴蝶结能让严肃白衬衫突然没那么严肃，也能让本已满是花边的裙子显得多了一处。东西一样，身旁搭什么改变了一切。\n\nCoquette 穿搭有很多这类小信号：缎带、蕾丝边、细肩带，以及请你靠近看的小扣合。穿它们可以很快乐，难处在于快乐何时变成必须显年轻、甜美或无害的要求。\n\n把结当成一项有任务的选择，会自由得多。领前用它闭合衬衫，侧边用它收拢腰部布量，剪裁锋利的马甲上用它制造柔软打断。解开以后，衣服还会再变一次。\n\n这也帮助分清当代穿搭与历史速记。一条缎带不会自动使裙子成为洛可可，正如一个领子不会自动让衣服成为校服；具体衣服有具体历史。今天的人可以享受浅格裙而不扮演天真女主角，也可以把灰粉马甲穿在阔裤上，让甜美精确停在自己想要的位置。",
+      "word_count": 205,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "Why does the writer describe untying a bow?",
+        "options_en": [
+          "To suggest that bows should be removed from contemporary fashion.",
+          "To identify the historical period of the garment.",
+          "To show that the wearer can change the garment through its fastening."
+        ],
+        "answer_index": 2,
+        "evidence_en": "“Untie it and the garment changes again.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe the same ribbon on two different garments. Explain why its effect would change.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "severe",
+        "zh": "严肃利落的"
+      },
+      {
+        "en": "frilly",
+        "zh": "多花边的"
+      },
+      {
+        "en": "company it keeps",
+        "zh": "与它相伴的东西"
+      },
+      {
+        "en": "harmless",
+        "zh": "无害的"
+      },
+      {
+        "en": "gather",
+        "zh": "抽拢布量"
+      },
+      {
+        "en": "cast as",
+        "zh": "被安排扮演"
+      }
+    ],
+    "reading": {
+      "series_id": "S09",
+      "title_zh": "蝴蝶结也能克制：看两套名人造型",
+      "kind": "造型点评",
+      "source": {
+        "url": "https://www.vogue.com/article/coquette-trend-spring-selena-gomez-kendall-jenner",
+        "title": "The Coquette Trend Is Still Thriving for Spring",
+        "publisher": "Vogue",
+        "author": "Christian Allaire",
+        "date": "2024-04-01",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "choosing one frivolous detail",
+        "quote_zh": "选取一个俏皮的细节。"
+      },
+      "guide_en": "Christian Allaire compares Kendall Jenner in Rodarte with Selena Gomez in Oscar de la Renta. Both use bows within relatively pared-back outfits. His argument is that one playful detail can carry coquette style without elaborate decoration everywhere.",
+      "guide_zh": "两套不同品牌的造型都把蝴蝶结作为重点，其余部分较为克制。",
+      "focus_zh": "回原文看图片，判断作者的“克制”是否有说服力。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What connects the two outfits?",
+          "options_en": [
+            "Matching floral prints",
+            "Elaborate layers of decoration",
+            "Bows within restrained styling"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "导读指出共同点是克制搭配中的蝴蝶结。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “pared-back” mean?",
+          "options_en": [
+            "covered in pearls",
+            "reduced to fewer elements",
+            "cut on the bias"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "结合导读语境，pared-back 在这里表示：reduced to fewer elements。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "Where would you place one bow so that it becomes the focus of an outfit?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What connects the two outfits?",
+        "options_en": [
+          "Matching floral prints",
+          "Elaborate layers of decoration",
+          "Bows within restrained styling"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读指出共同点是克制搭配中的蝴蝶结。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “pared-back” mean?",
+        "options_en": [
+          "covered in pearls",
+          "reduced to fewer elements",
+          "cut on the bias"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，pared-back 在这里表示：reduced to fewer elements。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Where would you place one bow so that it becomes the focus of an outfit?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  }
+]

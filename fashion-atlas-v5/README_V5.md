@@ -39,3 +39,12 @@
 9套设计沿用卡片 ID，旧设计保存在 legacy_design_v5。新增图片是统一概念板，非已归位透明服装；现有服装奖励及手调文件不替换。品牌照片按用户展开后才从原站加载，保留图源署名和系列链接；原站不可用时隐藏破图并保留链接。概念板使用无损 WebP，已验证解码像素与生成 PNG 一致。
 
 设计数据：tools/fashion-atlas/design-v2.cjs；同步：node tools/fashion-atlas/apply-design-v2.cjs；重建：node tools/fashion-atlas/build.cjs；检查：node tools/fashion-atlas/test-design.cjs。
+
+
+## 卡面预览
+
+- [普通卡总览](card-art/index.html)
+- [第4—5关品牌参考时尚卡：六张与逐件来源](card-art/fashion-s04-s05/index.html)
+- [暗黑学院时尚卡：三张与品牌来源](card-art/fashion-s06/index.html)
+
+保留普通卡，另增时尚卡。完整提示词和设计清单随各批目录提供；品牌参考照片不收入仓库，仅保留公开来源链接。

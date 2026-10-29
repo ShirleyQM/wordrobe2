@@ -1,0 +1,75 @@
+[
+  {
+    "card_id": "C04-A",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-a27487ef-08e8-4b3c-9724-22e58e0bcfb3.png",
+    "path": "card-art/C04-A.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C04-B",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-b315933c-1d71-47ae-bb7d-02bfb1f62347.png",
+    "path": "card-art/C04-B.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C04-C",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-c68ce439-1cec-4c8e-bc9c-d326b26454da.png",
+    "path": "card-art/C04-C.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C05-A",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-a34834da-7c89-450d-a86a-433009de7544.png",
+    "path": "card-art/C05-A-v2.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept",
+    "revision_note": "修正长裤为墨蓝，与大衣形成连续纵线"
+  },
+  {
+    "card_id": "C05-B",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-d7265d04-8289-458b-ba32-37faa9911a88.png",
+    "path": "card-art/C05-B.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C05-C",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-2c164ee9-fd09-40b5-a933-e81d475d3059.png",
+    "path": "card-art/C05-C.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C06-A",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-6eef2432-2acb-4234-a42f-e046593561c1.png",
+    "path": "card-art/C06-A.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C06-B",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-46409588-45e7-4c67-a0d2-63621adc208b.png",
+    "path": "card-art/C06-B.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  },
+  {
+    "card_id": "C06-C",
+    "source": "/Users/bytedance/.codex/generated_images/01a187da-9de3-7ef3-b1d9-ebac2f6df9a7/exec-6e20e2d1-4715-41b3-8cff-b4526258af45.png",
+    "path": "card-art/C06-C.png",
+    "generation_tool": "built-in image_gen",
+    "visual_review": "全身与鞋履可见；服装轮廓、层次、材质及场景已逐张检查",
+    "status": "illustrated_concept"
+  }
+]

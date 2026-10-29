@@ -1,0 +1,1151 @@
+[
+  {
+    "series_id": "S04",
+    "title_zh": "Cyber Y2K · 复古未来",
+    "title_en": "Cyber Y2K · Yesterday’s Future",
+    "previous_title_zh": "Cyber Y2K 未来千禧",
+    "category_zh": "都市先锋",
+    "brand_comparisons": [
+      {
+        "name": "Courrèges",
+        "analysis_zh": "作为太空时代几何的比较入口，与千禧年服装分开说明。研究硬轮廓与平整表面，而非宣称它属于Y2K起源。",
+        "analysis_en": "Keep space-age geometry separate from millennium references; compare firm outlines and clean surfaces."
+      },
+      {
+        "name": "Diesel",
+        "analysis_zh": "研究丹宁洗水、接缝和金属件如何表现工业感。新版把功能扣点写清，不让“机能”只剩装饰口袋。",
+        "analysis_en": "Study washed denim, seams and hardware; make each fastening legible rather than treating utility as decoration."
+      },
+      {
+        "name": "Blumarine",
+        "analysis_zh": "比较柔软针织、轻薄层次与玩趣装饰，作为对盔甲式未来感的反例。新方案保留轻盈，放弃直接复刻蝴蝶图案。",
+        "analysis_en": "Use light layers and playful softness as an alternative to an armoured future."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C04-A",
+        "revision": 3,
+        "title_zh": "薄膜晨光",
+        "title_en": "Membrane Morning",
+        "silhouette_zh": "半透明长罩衫／窄背心／宽短裤；外长内短",
+        "palette": [
+          {
+            "name_zh": "冰蓝",
+            "hex": "#A8D6E8",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "云白",
+            "hex": "#F2F0E8",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "珊瑚",
+            "hex": "#F27867",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "薄膜感欧根纱不等于塑料，内搭棉哑光",
+        "design_en": "A translucent blue overshirt hangs past an opaque tank and wide shorts. Backlight reveals seams rather than turning the body luminous. Coral is concentrated in a small accessory, letting the layered construction carry the futuristic idea.",
+        "items": [
+          {
+            "design_item_id": "S04-A-D01",
+            "name_zh": "半透明长罩衫",
+            "name_en": "Translucent long overshirt",
+            "construction_zh": "直身及膝、外露结构缝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-A-D02",
+            "name_zh": "方领短背心",
+            "name_en": "Square-neck cropped tank",
+            "construction_zh": "针织常规松量",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-A-D03",
+            "name_zh": "宽腿短裤",
+            "name_en": "Wide-leg shorts",
+            "construction_zh": "膝上，纸袋腰不过分抽皱",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-A-D04",
+            "name_zh": "透明感厚底鞋",
+            "name_en": "Translucent-soled shoes",
+            "construction_zh": "只鞋底透光，鞋面哑白",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-A-D05",
+            "name_zh": "几何手环",
+            "name_en": "Geometric cuff",
+            "construction_zh": "珊瑚单色小面",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "清晨车站步行，逆光只照薄层边缘，身体不发光",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C04-A.png"
+      },
+      {
+        "card_id": "C04-B",
+        "revision": 3,
+        "title_zh": "模块穿行",
+        "title_en": "Modular Transit",
+        "silhouette_zh": "短机能马甲／宽肩衬衫／锥形工装裤",
+        "palette": [
+          {
+            "name_zh": "石墨",
+            "hex": "#3E454B",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "工业黄",
+            "hex": "#D3B33E",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "浅灰",
+            "hex": "#C9CBC8",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "棉尼龙颗粒、哑金属扣与轻微涂层差异",
+        "design_en": "A short pocket vest organises the upper body above tapered cargo trousers. Pale grey separates the graphite layers, while yellow marks a limited number of functional points. Every visible strap must connect to something.",
+        "items": [
+          {
+            "design_item_id": "S04-B-D01",
+            "name_zh": "模块口袋马甲",
+            "name_en": "Modular-pocket vest",
+            "construction_zh": "可视扣合点，止于腰上",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-B-D02",
+            "name_zh": "宽肩短袖衬衫",
+            "name_en": "Broad-shouldered short-sleeve shirt",
+            "construction_zh": "浅灰挺棉，袖口翻折仅表现正面",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-B-D03",
+            "name_zh": "锥形工装裤",
+            "name_en": "Tapered cargo trousers",
+            "construction_zh": "膝部立体褶，侧袋不贴满腿",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-B-D04",
+            "name_zh": "方头系带短靴",
+            "name_en": "Square-toe lace-up boots",
+            "construction_zh": "稳定厚底",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-B-D05",
+            "name_zh": "扁平工具袋",
+            "name_en": "Flat utility pouch",
+            "construction_zh": "黄布、窄带",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "白日换乘通道站姿调整口袋扣件，展示功能细节",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C04-B.png"
+      },
+      {
+        "card_id": "C04-C",
+        "revision": 3,
+        "title_zh": "数字汽水",
+        "title_en": "Digital Soda",
+        "silhouette_zh": "圆肩短夹克／不对称短裙；紧凑几何",
+        "palette": [
+          {
+            "name_zh": "泡泡紫",
+            "hex": "#A48AD0",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "青柠",
+            "hex": "#C8DB52",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "墨紫",
+            "hex": "#40344E",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细罗纹、亮面小片与哑面挺布",
+        "design_en": "A rounded violet jacket sits above one diagonal skirt panel. Chartreuse rib knit creates a bright central plane. The future feels playful and compact, with glossy details confined to small areas rather than every surface.",
+        "items": [
+          {
+            "design_item_id": "S04-C-D01",
+            "name_zh": "圆肩短夹克",
+            "name_en": "Rounded-shoulder cropped jacket",
+            "construction_zh": "弧形袖缝、斜前襟",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-C-D02",
+            "name_zh": "罗纹无袖上衣",
+            "name_en": "Ribbed sleeveless top",
+            "construction_zh": "青柠窄罗纹",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-C-D03",
+            "name_zh": "不对称短裙",
+            "name_en": "Asymmetric mini skirt",
+            "construction_zh": "一片斜盖片、明确扣点",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-C-D04",
+            "name_zh": "厚底便鞋",
+            "name_en": "Platform slip-ons",
+            "construction_zh": "墨紫低光鞋面",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S04-C-D05",
+            "name_zh": "几何耳夹",
+            "name_en": "Geometric ear cuffs",
+            "construction_zh": "少量淡银",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "自动售货机旁侧身取饮料，图形背景不淹没衣服",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C04-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "The Future We Used to Wear",
+      "title_zh": "我们曾经穿过的未来",
+      "body_en": "Why does silver still look futuristic? We have seen it on clothes for so long that it might reasonably look old-fashioned. Yet a pale reflective surface can still suggest a world just ahead of our own.\n\nPart of the answer lies in the future as an image. Clean curves leave out the clutter of everyday life. A smooth surface hides the familiar texture of wool or cotton. Together they can make a jacket look less like something from a wardrobe and more like a designed object.\n\nThe low waists and bright synthetic-looking colours associated with Y2K fashion offer a different kind of future: playful, commercial and slightly impatient. Putting these references together can be enjoyable, but they do not all come from the same moment. A silver shell shape and a pair of low-rise jeans have separate histories.\n\nThere are quieter ways to suggest technology, too. A translucent overshirt shows how the layers fit together. An adjustable pocket changes what a garment can carry. A curved seam makes an ordinary sleeve feel unfamiliar. None needs a flashing screen. The most convincing futuristic detail may be a small change that makes you look twice, rather than a whole outfit announcing that it has arrived from space.",
+      "body_zh": "银色为什么到现在还显得未来？我们见它出现在衣服上那么久，它本来完全可以显得过时，但一块浅色反光表面，仍能暗示一个比当下稍快一步的世界。\n\n部分原因在于未来是一幅被整理过的图像。干净曲线删去日常杂乱，光滑表面藏起熟悉的羊毛或棉纹，两者让夹克更像经过设计的物体，而非衣柜里取出的衣服。\n\n与Y2K相连的低腰和鲜亮化纤感颜色，提供了另一种未来：玩趣、商业化、还有点迫不及待。这些参考放在一起可以很有趣，但并不都来自同一时刻。银色壳形和低腰牛仔有各自的历史。\n\n技术感也有安静的表达。透明罩衫显出层次怎样配合，可调口袋改变能携带什么，弧线接缝让普通袖子有一点陌生。它们都不需要闪屏。最可信的未来细节，也许是让人多看一眼的小改变，而非一整套大声宣布自己来自太空的衣服。",
+      "word_count": 205,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "Why does the writer discuss translucent cloth and an adjustable pocket?",
+        "options_en": [
+          "To show that a futuristic effect can come from small changes in construction.",
+          "To argue that silver surfaces have stopped looking futuristic.",
+          "To show that all futuristic garments need a practical purpose."
+        ],
+        "answer_index": 0,
+        "evidence_en": "“The most convincing futuristic detail may be a small change that makes you look twice.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe a futuristic sleeve without using silver, a screen or a light. Which ordinary feature would you change?",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "reflective",
+        "zh": "反光的"
+      },
+      {
+        "en": "clutter",
+        "zh": "杂乱之物"
+      },
+      {
+        "en": "synthetic",
+        "zh": "化纤的；人工合成的"
+      },
+      {
+        "en": "low-rise",
+        "zh": "低腰的"
+      },
+      {
+        "en": "translucent",
+        "zh": "半透明的"
+      },
+      {
+        "en": "make you look twice",
+        "zh": "让人忍不住再看一眼"
+      }
+    ],
+    "reading": {
+      "series_id": "S04",
+      "title_zh": "Y2K：当年的未来，今天的怀旧",
+      "kind": "时尚回顾",
+      "source": {
+        "url": "https://www.vogue.com/article/y2k-fashion",
+        "title": "Y2K Fashion 101: How the Millennium Started Trending All Over Again",
+        "publisher": "Vogue",
+        "author": "Boutayna Chokrane; Christina Pérez",
+        "date": "2025-01-26",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "fashion is cyclical",
+        "quote_zh": "时尚会循环往复。"
+      },
+      "guide_en": "This overview places Y2K dressing beside the digital excitement and anxiety around the millennium. Its revival remixes a recent past: futuristic references now carry nostalgia. The article offers a broader wardrobe than a single silver, cyber-inspired outfit.",
+      "guide_zh": "这篇回顾把千禧穿衣放回数字时代的兴奋与焦虑中，也解释今天的怀旧。",
+      "focus_zh": "Y2K 的范围比图鉴中 Cyber Y2K 的分类更广。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What makes the revival a paradox?",
+          "options_en": [
+            "Old clothes become wearable technology",
+            "Digital culture removes nostalgia",
+            "Old futuristic ideas now feel nostalgic"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "导读指出，昔日的未来想象如今成了怀旧素材。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “revival” mean?",
+          "options_en": [
+            "a manufacturing fault",
+            "a return to popularity",
+            "a permanent disappearance"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "结合导读语境，revival 在这里表示：a return to popularity。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "What object looks futuristic in an old photograph but nostalgic today? Describe it.",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What makes the revival a paradox?",
+        "options_en": [
+          "Old clothes become wearable technology",
+          "Digital culture removes nostalgia",
+          "Old futuristic ideas now feel nostalgic"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读指出，昔日的未来想象如今成了怀旧素材。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “revival” mean?",
+        "options_en": [
+          "a manufacturing fault",
+          "a return to popularity",
+          "a permanent disappearance"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，revival 在这里表示：a return to popularity。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What object looks futuristic in an old photograph but nostalgic today? Describe it.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S05",
+    "title_zh": "Scandi · 北欧城市日常",
+    "title_en": "Scandi · Everyday Decisions",
+    "previous_title_zh": "Scandi Girl 北欧极简",
+    "category_zh": "清冷高级",
+    "brand_comparisons": [
+      {
+        "name": "Toteme",
+        "analysis_zh": "关注比例的一致性、长外层与窄细节怎样形成日常衣橱。安静不等于没有设计，关键在长度与面料边缘。",
+        "analysis_en": "Compare consistent proportions and quiet material edges; restraint still depends on exact design decisions."
+      },
+      {
+        "name": "Ganni",
+        "analysis_zh": "用鲜明配色、夸张领部与混搭质感检验“北欧只能米色”的想象。新版让格纹和粉色成为结构性大色面。",
+        "analysis_en": "Challenge an all-neutral stereotype through strong colour relationships and contrasting textures."
+      },
+      {
+        "name": "Acne Studios",
+        "analysis_zh": "从丹宁、偏移的比例与城市化表面研究不完全协调的穿法。它与前两者形成比较，不被归成单一北欧制服。",
+        "analysis_en": "Study denim and displaced proportions as another answer to urban dressing."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C05-A",
+        "revision": 3,
+        "title_zh": "精确的早晨",
+        "title_en": "A Precise Morning",
+        "silhouette_zh": "长直大衣／短针织／直裤；细长而不紧",
+        "palette": [
+          {
+            "name_zh": "墨蓝",
+            "hex": "#283E56",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "燕麦",
+            "hex": "#D7CCB6",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "番茄",
+            "hex": "#CF4A38",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细羊毛直面、干爽棉与小面积红色皮",
+        "design_en": "The long navy coat and high-waisted trousers form a continuous line. A cropped oat-coloured knit keeps the waist readable. Tomato-red flats are the single sharp interruption in an otherwise quiet material study.",
+        "items": [
+          {
+            "design_item_id": "S05-A-D01",
+            "name_zh": "无收腰长大衣",
+            "name_en": "Uncinched long coat",
+            "construction_zh": "窄翻领、过膝、肩部自然",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-A-D02",
+            "name_zh": "短身圆领针织",
+            "name_en": "Cropped crew-neck knit",
+            "construction_zh": "落在高腰线",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-A-D03",
+            "name_zh": "高腰直筒裤",
+            "name_en": "High-rise straight trousers",
+            "construction_zh": "前片平整，无夸大褶",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-A-D04",
+            "name_zh": "红色平底鞋",
+            "name_en": "Red leather flats",
+            "construction_zh": "哑面番茄红",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-A-D05",
+            "name_zh": "矩形托特包",
+            "name_en": "Rectangular tote",
+            "construction_zh": "燕麦厚帆布",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "骑车后站姿整理袖口，车是背景道具而非人体遮挡",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C05-A-v2.png"
+      },
+      {
+        "card_id": "C05-B",
+        "revision": 3,
+        "title_zh": "雨前大格纹",
+        "title_en": "Checks Before Rain",
+        "silhouette_zh": "盒型大外套／中长裙；大色块与留白",
+        "palette": [
+          {
+            "name_zh": "青草绿",
+            "hex": "#6B8D55",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "淡粉",
+            "hex": "#E2BCC3",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "棕黑",
+            "hex": "#423B36",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "粗格毛呢与平整轻棉，不统一磨成柔光",
+        "design_en": "Large green checks establish a broad upper volume above a pink cotton skirt. Brown-black shoes anchor the pale lower half. Soft daylight should preserve the rough coat surface instead of smoothing all the fabrics together.",
+        "items": [
+          {
+            "design_item_id": "S05-B-D01",
+            "name_zh": "大格纹盒型外套",
+            "name_en": "Boxy large-check coat",
+            "construction_zh": "宽肩、膝上，原创尺度格纹",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-B-D02",
+            "name_zh": "棉质中长裙",
+            "name_en": "Cotton midi skirt",
+            "construction_zh": "淡粉A形、活动褶",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-B-D03",
+            "name_zh": "条纹短上衣",
+            "name_en": "Striped cropped top",
+            "construction_zh": "低对比细条",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-B-D04",
+            "name_zh": "厚底乐福鞋",
+            "name_en": "Chunky loafers",
+            "construction_zh": "棕黑哑皮",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-B-D05",
+            "name_zh": "长柄布包",
+            "name_en": "Long-handle cloth bag",
+            "construction_zh": "少装饰",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "人行道站姿撑开伞，外套前片与裙摆清楚；散射日光",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C05-B.png"
+      },
+      {
+        "card_id": "C05-C",
+        "revision": 3,
+        "title_zh": "活动的褶线",
+        "title_en": "Pleats in Motion",
+        "silhouette_zh": "短风衣／抽绳及踝裙；轻技术感",
+        "palette": [
+          {
+            "name_zh": "钢蓝",
+            "hex": "#6A8794",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "奶黄",
+            "hex": "#E5DFB0",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "橘红",
+            "hex": "#DC6948",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "技术斜纹、细罗纹与纸感棉",
+        "design_en": "A short steel-blue jacket leaves room for the drawstring skirt to expand below it. Pale yellow rib knit brightens the centre. A step on the stairs makes the skirt’s adjustable volume visible.",
+        "items": [
+          {
+            "design_item_id": "S05-C-D01",
+            "name_zh": "短身风衣",
+            "name_en": "Cropped trench jacket",
+            "construction_zh": "宽袖、无后拖片",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-C-D02",
+            "name_zh": "细罗纹背心",
+            "name_en": "Fine-rib tank",
+            "construction_zh": "奶黄合体",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-C-D03",
+            "name_zh": "抽绳A字长裙",
+            "name_en": "Drawstring A-line maxi skirt",
+            "construction_zh": "侧边调节，膝部留活动量",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-C-D04",
+            "name_zh": "系带运动鞋",
+            "name_en": "Lace-up trainers",
+            "construction_zh": "钢蓝底、橘红鞋带",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S05-C-D05",
+            "name_zh": "折叠软包",
+            "name_en": "Foldable soft bag",
+            "construction_zh": "实用而不伪装性能认证",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "台阶上跨步，裙褶显出活动量，避免三卡都是咖啡杯",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C05-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "The Beige Myth",
+      "title_zh": "不止米色的北欧衣橱",
+      "body_en": "There is a familiar picture of Scandinavian style: a beige coat, a pale sweater and trousers that never seem to crease. It is an attractive picture. It also leaves out quite a lot.\n\nA city wardrobe has to deal with a morning in progress. Someone is cycling to work, carrying shopping or trying to fit a thick jumper under a coat. The resulting clothes may be roomy, layered and practical without being quiet. A large green check can do the job as well as a plain grey surface.\n\nThis is worth remembering when looking at brands grouped under the Scandinavian label. Ganni, Acne Studios and Toteme offer useful comparisons precisely because they should not be expected to supply the same answer. Colour, displaced proportions and restrained lines can all belong in this conversation.\n\nThe question to ask of a simple-looking outfit is where the decisions are hiding. Does the jacket finish above the widest part of the skirt? Is the sleeve wide enough for another layer? Does a red shoe bring the eye back down to the ground? These are small choices with large effects. “Practical” tells us what the clothes need to do. It does not tell us that they have to disappear.",
+      "body_zh": "人们熟悉一幅北欧穿搭图：米色大衣、浅毛衣，还有仿佛从不起皱的裤子。它很好看，也漏掉不少东西。\n\n城市衣橱要应付正在发生的早晨：有人骑车上班、有人拎着购物袋、有人试图在大衣里再塞进厚毛衣。于是衣服可以宽裕、层叠、实用，却不一定安静。大绿格子与纯灰表面一样能完成任务。\n\n看被归入北欧标签的品牌时，这一点尤其值得记住。Ganni、Acne Studios与Toteme有比较价值，恰恰因为不该期待它们交出同一种答案。色彩、错位比例和克制线条都能参与讨论。\n\n面对一套看似简单的衣服，可以问：决定藏在哪里？夹克是否停在裙身最宽处上方？袖子是否容得下另一层？红鞋有没有把视线重新带回地面？这些小选择影响很大。“实用”告诉我们衣服要做什么，却不要求它们消失。",
+      "word_count": 204,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "Why does the writer compare three Scandinavian brands?",
+        "options_en": [
+          "To establish which one provides the most authentic national style.",
+          "To show why the label can contain different design answers.",
+          "To explain why colour is less useful than a neutral palette."
+        ],
+        "answer_index": 1,
+        "evidence_en": "“They should not be expected to supply the same answer.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Look at a plain outfit you own. Identify two decisions about length or volume that make it work.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "crease",
+        "zh": "起皱"
+      },
+      {
+        "en": "roomy",
+        "zh": "宽裕的"
+      },
+      {
+        "en": "displaced",
+        "zh": "移位的；错位的"
+      },
+      {
+        "en": "restrained",
+        "zh": "克制的"
+      },
+      {
+        "en": "jumper",
+        "zh": "毛衣"
+      },
+      {
+        "en": "bring the eye back",
+        "zh": "把视线带回来"
+      }
+    ],
+    "reading": {
+      "series_id": "S05",
+      "title_zh": "认识 Toteme：极简品牌如何建立辨识度？",
+      "kind": "品牌秀评",
+      "source": {
+        "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/toteme",
+        "title": "Toteme Fall 2024 Ready-to-Wear",
+        "publisher": "Vogue",
+        "author": "Amy Verner",
+        "date": "2024-01-23",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "through its accessories, Toteme is proving more distinctive",
+        "quote_zh": "Toteme 通过配饰显得更有辨识度。"
+      },
+      "guide_en": "Amy Verner reviews Toteme’s runway debut after a decade of growth. She finds its long, lean clothes persuasive but notes comparable options elsewhere. Accessories supply distinction. This is a useful example of praise that still identifies a competitive weakness.",
+      "guide_zh": "秀评肯定细长轮廓，也指出类似衣服并不少见；配饰才带来更强辨识度。",
+      "focus_zh": "注意评论如何同时写优点与保留意见。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "Where does Verner locate greater distinction?",
+          "options_en": [
+            "The long, lean silhouette",
+            "Accessories",
+            "The monochrome palette"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "导读与摘录均把辨识度落在配饰上。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “distinctive” mean?",
+          "options_en": [
+            "recognisable as different",
+            "easy to fold",
+            "sold at a discount"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "结合导读语境，distinctive 在这里表示：recognisable as different。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "Can an accessory define a brand more strongly than a coat? Explain your view.",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "Where does Verner locate greater distinction?",
+        "options_en": [
+          "The long, lean silhouette",
+          "Accessories",
+          "The monochrome palette"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读与摘录均把辨识度落在配饰上。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “distinctive” mean?",
+        "options_en": [
+          "recognisable as different",
+          "easy to fold",
+          "sold at a discount"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，distinctive 在这里表示：recognisable as different。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Can an accessory define a brand more strongly than a coat? Explain your view.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S06",
+    "title_zh": "Dark Academia 暗黑学院",
+    "title_en": "Dark Academia",
+    "previous_title_zh": "Dark Academia 暗黑学院",
+    "category_zh": "学院运动",
+    "brand_comparisons": [
+      {
+        "name": "Ralph Lauren",
+        "analysis_zh": "比较学院、运动和生活方式图像如何组织衣橱；把精英生活的理想图像与真实教育经验分开讨论。",
+        "analysis_en": "Separate the idealised lifestyle image from the actual experience of education."
+      },
+      {
+        "name": "Margaret Howell",
+        "analysis_zh": "关注衬衫松量、裤装功能与朴素材质，让读书人拥有可走路、可工作而非只可摆拍的服装。",
+        "analysis_en": "Use functional shirting, practical trousers and unshowy cloth to support activity."
+      },
+      {
+        "name": "Burberry",
+        "analysis_zh": "以外套与格纹的传播为研究入口，不把一种品牌格纹当作学院风必需。新图案全部重新设计。",
+        "analysis_en": "Study outerwear and the circulation of checks without making a proprietary pattern necessary."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C06-A",
+        "revision": 3,
+        "title_zh": "借阅期限",
+        "title_en": "The Due Date",
+        "silhouette_zh": "宽西装／窄针织／宽裤；不收腰直线",
+        "palette": [
+          {
+            "name_zh": "烟棕",
+            "hex": "#756553",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "墨蓝",
+            "hex": "#293B52",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "纸白",
+            "hex": "#E7E1D0",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细格精纺、平针与磨旧皮",
+        "design_en": "A roomy checked blazer and wide trousers make reading clothes that permit movement. The ink-blue turtleneck stays visually quiet. A note at the borrowing desk gives the pockets and satchel an actual purpose.",
+        "items": [
+          {
+            "design_item_id": "S06-A-D01",
+            "name_zh": "宽松格纹西装",
+            "name_en": "Relaxed checked blazer",
+            "construction_zh": "肩线清楚、双开衩概念说明",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-A-D02",
+            "name_zh": "高领薄针织",
+            "name_en": "Fine turtleneck",
+            "construction_zh": "墨蓝不勒颈",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-A-D03",
+            "name_zh": "双褶宽裤",
+            "name_en": "Double-pleated trousers",
+            "construction_zh": "中高腰，裤腿直垂",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-A-D04",
+            "name_zh": "系带皮鞋",
+            "name_en": "Lace-up leather shoes",
+            "construction_zh": "低跟耐行走外观",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-A-D05",
+            "name_zh": "软皮邮差包",
+            "name_en": "Soft leather satchel",
+            "construction_zh": "仅一个可容笔记本主仓",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "借阅台前站姿核对便条，书打开但文字不作图像生成要求",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C06-A.png"
+      },
+      {
+        "card_id": "C06-B",
+        "revision": 3,
+        "title_zh": "共用书桌",
+        "title_en": "The Shared Desk",
+        "silhouette_zh": "短针织夹克／衬衫／宽箱褶中裙",
+        "palette": [
+          {
+            "name_zh": "苔绿",
+            "hex": "#62725A",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "象牙",
+            "hex": "#E9E2CB",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "锈红",
+            "hex": "#A4513B",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "毛粒针织与干棉褶量",
+        "design_en": "A short moss-green knit jacket ends above a box-pleated skirt. The full cotton sleeves remain distinct from the heavier knit. Passing a notebook across a shared desk reveals how the cuffs and waist behave.",
+        "items": [
+          {
+            "design_item_id": "S06-B-D01",
+            "name_zh": "短针织夹克",
+            "name_en": "Cropped knitted jacket",
+            "construction_zh": "直身四扣、双贴袋",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-B-D02",
+            "name_zh": "宽袖衬衫",
+            "name_en": "Full-sleeved shirt",
+            "construction_zh": "前袖口可挽，领型小",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-B-D03",
+            "name_zh": "箱褶中长裙",
+            "name_en": "Box-pleated midi skirt",
+            "construction_zh": "及小腿，褶间负形清楚",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-B-D04",
+            "name_zh": "厚底德比鞋",
+            "name_en": "Chunky Derby shoes",
+            "construction_zh": "锈红哑皮",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-B-D05",
+            "name_zh": "窄皮带",
+            "name_en": "Narrow leather belt",
+            "construction_zh": "稳住腰线，不大金扣",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "书桌旁半站起递笔记，动作展示袖与腰线",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C06-B.png"
+      },
+      {
+        "card_id": "C06-C",
+        "revision": 3,
+        "title_zh": "夜课归途",
+        "title_en": "After the Evening Class",
+        "silhouette_zh": "衬衫式直裙／长针织层；简洁纵线",
+        "palette": [
+          {
+            "name_zh": "墨蓝",
+            "hex": "#263C51",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "灰紫",
+            "hex": "#918697",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "芥黄",
+            "hex": "#BD9C43",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "干爽斜纹、细绒针织与平皮",
+        "design_en": "A straight ink-blue shirt dress is lengthened by a grey-violet cardigan. Mustard appears in a narrow scarf. Waiting for a bus after class replaces the familiar fantasy of an empty private library.",
+        "items": [
+          {
+            "design_item_id": "S06-C-D01",
+            "name_zh": "衬衫式直筒裙",
+            "name_en": "Straight shirt dress",
+            "construction_zh": "小立领、及小腿、双胸袋",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-C-D02",
+            "name_zh": "长开襟针织",
+            "name_en": "Long open-front cardigan",
+            "construction_zh": "灰紫、不贴身",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-C-D03",
+            "name_zh": "低跟短靴",
+            "name_en": "Low-heel ankle boots",
+            "construction_zh": "深蓝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-C-D04",
+            "name_zh": "针织围巾",
+            "name_en": "Knitted scarf",
+            "construction_zh": "芥黄，窄幅",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S06-C-D05",
+            "name_zh": "帆布资料袋",
+            "name_en": "Canvas document bag",
+            "construction_zh": "扁平实用",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "公交站站姿收起笔记，街灯局部照亮，不用哥特古堡",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/C06-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "The Book Is Open",
+      "title_zh": "书，不只是道具",
+      "body_en": "The library is almost too perfect: dark shelves, green lamps and nobody else at the table. A coat hangs over a chair. On the desk sits a book whose title is just difficult enough to be impressive.\n\nIt is easy to see the attraction of dark academia. The aesthetic offers a slower, more concentrated life, expressed through wool, paper and worn wood. In a day broken into notifications, the promise of an uninterrupted afternoon has considerable charm.\n\nThe problem begins when the appearance of learning becomes more important than learning itself. A checked blazer does not make its owner curious. Nor does an expensive room tell us who is welcome inside it. An idealised educational world can be beautiful and exclusive at the same time.\n\nThere is another way to dress the scene. Give the reader a pocket for notes, sleeves she can roll back and shoes she can walk home in. Let someone else share the table. The clothes can still be lovely: a moss-green cardigan over a full skirt, or an ink-blue dress beneath a long knitted layer. The important change is that the book is open. It has become something to use, not something held against the chest as evidence of a personality.",
+      "body_zh": "图书馆完美得有点过头：深书架、绿台灯，同桌没有别人。外套搭在椅上，桌上那本书的标题刚好难到足以让人留下印象。\n\n不难理解暗黑学院审美的吸引力。羊毛、纸张与旧木头许诺一种更慢、更专注的生活。在不断被通知打断的一天里，一个无人打扰的下午，确实很迷人。\n\n问题出现在学习的外观比学习本身更重要时。格纹西装不会使主人自动好奇，昂贵房间也没告诉我们谁有资格走进去。理想化的教育世界可以既美丽，又排外。\n\n场景还可以换种穿法：给读者装便笺的口袋、能挽起的袖子、能走路回家的鞋，让另一个人共用桌子。衣服仍然可以漂亮，苔绿开衫配宽裙，或墨蓝裙外罩长针织。关键是书打开了——它成为被使用的东西，而非抱在胸前证明某种人格的道具。",
+      "word_count": 206,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "What does the open book represent at the end?",
+        "options_en": [
+          "A shift towards a more historically accurate costume.",
+          "A return to a more formal educational setting.",
+          "A shift from displaying an interest to actually taking part in it."
+        ],
+        "answer_index": 2,
+        "evidence_en": "“It has become something to use, not something held against the chest as evidence of a personality.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe one change that would make an idealised study scene feel like a place where people actually work.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "uninterrupted",
+        "zh": "不被打断的"
+      },
+      {
+        "en": "notification",
+        "zh": "通知提醒"
+      },
+      {
+        "en": "exclusive",
+        "zh": "排外的；仅少数可进入的"
+      },
+      {
+        "en": "roll back",
+        "zh": "挽起"
+      },
+      {
+        "en": "worn",
+        "zh": "磨旧的"
+      },
+      {
+        "en": "evidence",
+        "zh": "证据"
+      }
+    ],
+    "reading": {
+      "series_id": "S06",
+      "title_zh": "暗黑学院：从荧幕人物到日常衣橱",
+      "kind": "风格报道",
+      "source": {
+        "url": "https://vogue.sg/dark-academia-style/",
+        "title": "The dark academia trend is returning thanks to Jenna Ortega’s Wednesday Addams",
+        "publisher": "Vogue Singapore",
+        "author": null,
+        "date": null,
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "romanticising the experience of learning",
+        "quote_zh": "把学习的体验浪漫化。"
+      },
+      "guide_en": "Vogue Singapore connects dark academia with Wednesday Addams and a romanticised image of learning. Tweed blazers, pleated skirts and dark colours form its wardrobe. The piece is a styling guide with shopping suggestions, rather than a history of actual academic dress.",
+      "guide_zh": "以 Wednesday 为入口，文章讲粗花呢西装、褶裙和深色配色怎样构成学院想象。",
+      "focus_zh": "原文含购物推荐；读风格描述即可，不需要购买。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "How should this source be read?",
+          "options_en": [
+            "As a contemporary styling guide",
+            "As a history of school uniforms",
+            "As a designer collection review"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "导读说明它是当代搭配指南，而非学术服装史。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “romanticised” mean?",
+          "options_en": [
+            "measured with precision",
+            "washed at high temperature",
+            "presented as more ideal or appealing"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "结合导读语境，romanticised 在这里表示：presented as more ideal or appealing。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "Which detail makes an outfit feel bookish to you, and where does that association come from?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "How should this source be read?",
+        "options_en": [
+          "As a contemporary styling guide",
+          "As a history of school uniforms",
+          "As a designer collection review"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读说明它是当代搭配指南，而非学术服装史。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “romanticised” mean?",
+        "options_en": [
+          "measured with precision",
+          "washed at high temperature",
+          "presented as more ideal or appealing"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，romanticised 在这里表示：presented as more ideal or appealing。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Which detail makes an outfit feel bookish to you, and where does that association come from?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  }
+]

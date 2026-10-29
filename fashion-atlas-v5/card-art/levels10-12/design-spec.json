@@ -1,0 +1,1151 @@
+[
+  {
+    "series_id": "S10",
+    "title_zh": "Boho Chic 波西米亚",
+    "title_en": "Boho Chic",
+    "previous_title_zh": "Boho Chic 波西米亚",
+    "category_zh": "漫游假日",
+    "brand_comparisons": [
+      {
+        "name": "Chloé",
+        "analysis_zh": "研究流动剪裁、轻薄层与皮革之间的对比，不将品牌整体简化成流苏。",
+        "analysis_en": "Compare fluid cut, light layers and leather rather than treating fringe as a complete identity."
+      },
+      {
+        "name": "Etro",
+        "analysis_zh": "用于比较印花、织物和图案叠合。涉及具体纹样来源时需要单独核查，不能用“民族风”代替说明。",
+        "analysis_en": "Study patterned cloth while checking specific motif sources instead of using a vague ethnic label."
+      },
+      {
+        "name": "Isabel Marant",
+        "analysis_zh": "研究较短上装与长下装的日常比例；将工艺感细节与真实产地声明区别开。",
+        "analysis_en": "Study everyday proportions and distinguish craft-like effects from verified provenance."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C10-A",
+        "revision": 3,
+        "title_zh": "靛蓝行走",
+        "title_en": "Walking in Indigo",
+        "silhouette_zh": "短绣衫／长直裙；纹样只占局部",
+        "palette": [
+          {
+            "name_zh": "靛蓝",
+            "hex": "#345A74",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "粉白",
+            "hex": "#E9E0CE",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "陶土",
+            "hex": "#BA7453",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "粗节亚麻、平针刺绣与干爽棉",
+        "design_en": "A short embroidered blouse meets a long panelled skirt. Indigo carries the broad surface, while clay-coloured shoes remain quiet. The embroidery is described by its stitches and location, without an invented cultural origin.",
+        "items": [
+          {
+            "design_item_id": "S10-A-D01",
+            "name_zh": "局部刺绣短衫",
+            "name_en": "Locally embroidered short blouse",
+            "construction_zh": "胸前一条原创几何绣线，未赋文化寓意",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-A-D02",
+            "name_zh": "长直拼片裙",
+            "name_en": "Long straight panel skirt",
+            "construction_zh": "前片纵接缝、后活动量",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-A-D03",
+            "name_zh": "平底皮凉鞋",
+            "name_en": "Flat leather sandals",
+            "construction_zh": "陶土",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-A-D04",
+            "name_zh": "编织细腰带",
+            "name_en": "Narrow woven belt",
+            "construction_zh": "无来源不明图腾",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-A-D05",
+            "name_zh": "素面布袋",
+            "name_en": "Plain cloth bag",
+            "construction_zh": "粉白",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "集市边站姿查看织物，背景不混搭宗教或民族符号",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C10-A.png"
+      },
+      {
+        "card_id": "C10-B",
+        "revision": 3,
+        "title_zh": "藏红花与粉笔",
+        "title_en": "Saffron and Chalk",
+        "silhouette_zh": "短麂皮夹克／阔裤；块面对照",
+        "palette": [
+          {
+            "name_zh": "藏红花",
+            "hex": "#C99637",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "粉笔",
+            "hex": "#E8E0CB",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "深棕",
+            "hex": "#5A453A",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细麂皮绒、干棉与窄织带",
+        "design_en": "A saffron suede jacket ends above chalk-coloured wide trousers. The full cotton sleeves are visible at the cuffs. No fringe is required: short against long and soft nap against dry cloth already provide contrast.",
+        "items": [
+          {
+            "design_item_id": "S10-B-D01",
+            "name_zh": "短麂皮夹克",
+            "name_en": "Cropped suede jacket",
+            "construction_zh": "箱型、贴袋、无整排流苏",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-B-D02",
+            "name_zh": "宽袖棉衬衫",
+            "name_en": "Full-sleeved cotton shirt",
+            "construction_zh": "小开领、前袖口抽褶",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-B-D03",
+            "name_zh": "阔腿长裤",
+            "name_en": "Wide-leg trousers",
+            "construction_zh": "粉白高腰、纵前褶",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-B-D04",
+            "name_zh": "低跟踝靴",
+            "name_en": "Low-heel ankle boots",
+            "construction_zh": "深棕",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-B-D05",
+            "name_zh": "窄织带手环",
+            "name_en": "Narrow woven bracelet",
+            "construction_zh": "原创小格",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "工作室门前跨步，夹克短下摆与裤腿分开读",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C10-B.png"
+      },
+      {
+        "card_id": "C10-C",
+        "revision": 3,
+        "title_zh": "长风里的空隙",
+        "title_en": "Openwork in the Wind",
+        "silhouette_zh": "宽松长裙／短背心；大体积与镂空密度差",
+        "palette": [
+          {
+            "name_zh": "陶红",
+            "hex": "#AD6552",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "海盐",
+            "hex": "#E2DFD1",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "苔绿",
+            "hex": "#6C7757",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "开放针目与平整棉布，镂空来源不编造",
+        "design_en": "A loose clay-coloured dress moves beneath a cropped openwork vest. Its broad hem is not cut into leaves or covered in symbols. The card studies cloth in wind, with craft detail kept specific and localised.",
+        "items": [
+          {
+            "design_item_id": "S10-C-D01",
+            "name_zh": "宽松长袖裙",
+            "name_en": "Loose long-sleeve dress",
+            "construction_zh": "自然肩、低位抽褶、及踝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-C-D02",
+            "name_zh": "镂空短背心",
+            "name_en": "Openwork cropped vest",
+            "construction_zh": "几何针目、独立层",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-C-D03",
+            "name_zh": "系带平底鞋",
+            "name_en": "Tie-fastened flats",
+            "construction_zh": "苔绿",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-C-D04",
+            "name_zh": "细穗耳坠",
+            "name_en": "Fine-fringe earrings",
+            "construction_zh": "短而少",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S10-C-D05",
+            "name_zh": "软织袋",
+            "name_en": "Soft woven bag",
+            "construction_zh": "未声称手工产地",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "田野边步行，长裙摆动，避免“异域部落”布景",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C10-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "Before You Call It Bohemian",
+      "title_zh": "叫它波西米亚之前",
+      "body_en": "The label says “bohemian”. The shirt has embroidery, the skirt is long and the bag has a little fringe. It is easy enough to recognise the mood. It is harder to say whose story the clothes are borrowing.\n\nThat is the weakness of a word which can make many places and techniques sound like one romantic elsewhere. An embroidered blouse, an openwork vest and a woven belt are not interchangeable examples of something vaguely “tribal”. They are different objects, made in different ways, and they may have very different histories.\n\nA useful first step is simply to describe what is visible. Embroidery adds thread to an existing ground. Weaving makes cloth by interlacing threads. Crochet builds a structure from connected loops. Knowing the difference gives you better words and, more importantly, better questions.\n\nIt also makes the styling less predictable. A short suede jacket can work above chalk-coloured wide trousers. An indigo blouse can meet a plain long skirt. A loose dress might need only one openwork layer rather than every craft detail available. Appreciation begins to mean paying attention, not collecting signs of an unnamed culture. If the source of a particular motif matters, find it. A vague sense of travel is not a substitute for a place.",
+      "body_zh": "标签写着“bohemian”。衬衫有刺绣，裙子很长，包上有一点流苏。氛围不难认，难的是说清衣服借用了谁的故事。\n\n这个词的弱点，在于把许多地方与工艺说成同一个浪漫远方。刺绣衬衫、镂空背心和编织腰带不是含糊“部落感”的可互换样本；它们是不同物件，制作方式不同，历史也可能很不一样。\n\n实用的第一步只是描述看见了什么：刺绣在已有底布上加线，织造让线交错成布，钩编通过相连线圈建立结构。知道区别，会得到更准确的词，也得到更好的问题。\n\n搭配因此也不必套路化。短麂皮外套可以配粉白阔裤，靛蓝衬衫可以配素长裙，松裙也许只需要一件镂空层，而非所有工艺一次穿上。欣赏开始意味着认真看，而不是收集某种无名文化的符号。如果某个纹样的来源重要，就去找；模糊的旅行感不能代替一个具体地方。",
+      "word_count": 209,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "What is the purpose of distinguishing embroidery, weaving and crochet?",
+        "options_en": [
+          "To make descriptions and questions more precise.",
+          "To rank the techniques by how traditional they are.",
+          "To decide which technique is the most bohemian."
+        ],
+        "answer_index": 0,
+        "evidence_en": "“Knowing the difference gives you better words and, more importantly, better questions.”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Describe a textured garment without using bohemian, ethnic or tribal. Which specific words become necessary?",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "openwork",
+        "zh": "镂空"
+      },
+      {
+        "en": "interlace",
+        "zh": "交错编织"
+      },
+      {
+        "en": "crochet",
+        "zh": "钩编"
+      },
+      {
+        "en": "ground",
+        "zh": "底布"
+      },
+      {
+        "en": "motif",
+        "zh": "纹样单元"
+      },
+      {
+        "en": "substitute",
+        "zh": "替代品"
+      }
+    ],
+    "reading": {
+      "series_id": "S10",
+      "title_zh": "认识 Chloé：新设计师怎样回应品牌历史？",
+      "kind": "品牌秀评",
+      "source": {
+        "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+        "title": "Chloé Fall 2024 Ready-to-Wear",
+        "publisher": "Vogue",
+        "author": "Sarah Mower",
+        "date": "2024-02-29",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "a balancing act between the romantic, the practical",
+        "quote_zh": "在浪漫与实用之间取得平衡。"
+      },
+      "guide_en": "Sarah Mower reads Chemena Kamali’s Chloé debut through the house’s earlier designers. Light chiffon, capes and boots reconnect archive references with contemporary dressing. Her praise rests on the collection feeling natural, rather than resembling a checklist of brand signatures.",
+      "guide_zh": "评论通过薄纱、披风与长靴，看 Kamali 怎样把品牌档案带回当下。",
+      "focus_zh": "摘录只节选原句一部分；原文还强调 playful。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What does Mower value in the collection?",
+          "options_en": [
+            "A natural reinterpretation of the archive",
+            "A checklist of familiar signatures",
+            "A complete break with the archive"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "导读强调自然的重新演绎，而非逐项复刻。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “archive” mean?",
+          "options_en": [
+            "a shop fitting room",
+            "a seasonal discount",
+            "a collection of historical records or designs"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "结合导读语境，archive 在这里表示：a collection of historical records or designs。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "How could a designer honour a brand’s past without copying an old outfit?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What does Mower value in the collection?",
+        "options_en": [
+          "A natural reinterpretation of the archive",
+          "A checklist of familiar signatures",
+          "A complete break with the archive"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "导读强调自然的重新演绎，而非逐项复刻。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “archive” mean?",
+        "options_en": [
+          "a shop fitting room",
+          "a seasonal discount",
+          "a collection of historical records or designs"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结合导读语境，archive 在这里表示：a collection of historical records or designs。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "How could a designer honour a brand’s past without copying an old outfit?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S11",
+    "title_zh": "Dolce Vita 意式假日",
+    "title_en": "Dolce Vita",
+    "previous_title_zh": "Dolce Vita 意式假日",
+    "category_zh": "漫游假日",
+    "brand_comparisons": [
+      {
+        "name": "Pucci",
+        "analysis_zh": "研究运动中的色块、曲线与印花尺度。新版使用原创图形，不以复制标志性印花制造假日感。",
+        "analysis_en": "Compare colour blocks, curves and print scale in motion, using original graphics."
+      },
+      {
+        "name": "Max Mara",
+        "analysis_zh": "以大衣、裤装与稳定轮廓比较“从容”如何通过剪裁成立，而非依赖度假背景。",
+        "analysis_en": "Study ease through stable tailoring rather than a picturesque holiday setting."
+      },
+      {
+        "name": "Loro Piana",
+        "analysis_zh": "作为材料与低调表面的比较入口；质感需通过纤维与垂坠表达，不能用价格代替描述。",
+        "analysis_en": "Describe fibres, surface and drape rather than using price as a substitute for material analysis."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C11-A",
+        "revision": 3,
+        "title_zh": "采购午餐",
+        "title_en": "Shopping for Lunch",
+        "silhouette_zh": "方领中裙／短衬衫；腰线清楚而可动",
+        "palette": [
+          {
+            "name_zh": "番茄",
+            "hex": "#C84D3C",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "奶白",
+            "hex": "#EEE5CF",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "橄榄",
+            "hex": "#7D8652",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "亚麻纹、干棉与编织物",
+        "design_en": "A tomato-red square-neck dress is softened by a short cream shirt. Olive sandals leave the skirt as the largest colour plane. Putting groceries into a basket makes the holiday image part of ordinary work.",
+        "items": [
+          {
+            "design_item_id": "S11-A-D01",
+            "name_zh": "方领中长裙",
+            "name_en": "Square-neck midi dress",
+            "construction_zh": "宽肩带、腰侧松量、裙身A形",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-A-D02",
+            "name_zh": "短袖结摆衬衫",
+            "name_en": "Tie-hem short-sleeve shirt",
+            "construction_zh": "奶白，前摆轻结",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-A-D03",
+            "name_zh": "低跟皮凉鞋",
+            "name_en": "Low-heel leather sandals",
+            "construction_zh": "橄榄",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-A-D04",
+            "name_zh": "编织提篮",
+            "name_en": "Woven market basket",
+            "construction_zh": "可容实际物品",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-A-D05",
+            "name_zh": "小圈耳饰",
+            "name_en": "Small hoop earrings",
+            "construction_zh": "暖金一点",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "市场外站姿把蔬菜放进提篮，人物承担生活动作",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C11-A.png"
+      },
+      {
+        "card_id": "C11-B",
+        "revision": 3,
+        "title_zh": "车窗与海蓝",
+        "title_en": "Sea Blue by Train",
+        "silhouette_zh": "长衬衫／宽短裤；透气层次",
+        "palette": [
+          {
+            "name_zh": "海蓝",
+            "hex": "#4A8FA3",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "沙白",
+            "hex": "#E8DFC9",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "柠檬",
+            "hex": "#D8C45A",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细亚麻、棉斜纹与丝巾缎光",
+        "design_en": "A long sea-blue shirt crosses above wide pale shorts. A small lemon scarf marks the upper edge. Waiting on a platform, the wearer carries a light bag rather than posing against an invented luxury holiday.",
+        "items": [
+          {
+            "design_item_id": "S11-B-D01",
+            "name_zh": "宽松长衬衫",
+            "name_en": "Loose long shirt",
+            "construction_zh": "过臀，袖子可挽",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-B-D02",
+            "name_zh": "高腰宽短裤",
+            "name_en": "High-rise wide shorts",
+            "construction_zh": "膝上、平前腰",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-B-D03",
+            "name_zh": "细带平底鞋",
+            "name_en": "Strappy flat sandals",
+            "construction_zh": "沙白",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-B-D04",
+            "name_zh": "窄丝巾",
+            "name_en": "Narrow silk scarf",
+            "construction_zh": "原创色块、柠檬点色",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-B-D05",
+            "name_zh": "帆布旅行袋",
+            "name_en": "Canvas travel bag",
+            "construction_zh": "轻装无标志",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "站台站姿提袋等车，不在运行车窗危险摆姿",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C11-B.png"
+      },
+      {
+        "card_id": "C11-C",
+        "revision": 3,
+        "title_zh": "饭后步行",
+        "title_en": "The Walk After Dinner",
+        "silhouette_zh": "无袖针织／垂直长裙；细长松量",
+        "palette": [
+          {
+            "name_zh": "陶粉",
+            "hex": "#C98A7D",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "深棕",
+            "hex": "#5D4C40",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "淡绿",
+            "hex": "#BBC5A1",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "细罗纹、重亚麻与哑皮",
+        "design_en": "A soft coral knit rests above a long brown linen skirt. A pale-green layer can be added as the evening cools. The whole outfit relies on fibre and drape rather than a conspicuous resort print.",
+        "items": [
+          {
+            "design_item_id": "S11-C-D01",
+            "name_zh": "无袖薄针织",
+            "name_en": "Fine sleeveless knit",
+            "construction_zh": "小船领、微松",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-C-D02",
+            "name_zh": "长直亚麻裙",
+            "name_en": "Long straight linen skirt",
+            "construction_zh": "开步余量，纵接缝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-C-D03",
+            "name_zh": "低跟包头鞋",
+            "name_en": "Low-heel closed-toe shoes",
+            "construction_zh": "深棕",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-C-D04",
+            "name_zh": "薄针织披层",
+            "name_en": "Fine knitted wrap",
+            "construction_zh": "淡绿",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S11-C-D05",
+            "name_zh": "小型斜挎包",
+            "name_en": "Small crossbody bag",
+            "construction_zh": "陶粉",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "傍晚街道步行，裙不过度开衩；灯光仍可辨肤色与布色",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C11-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "Linen Has a Crease in It",
+      "title_zh": "亚麻，本来会皱",
+      "body_en": "The photograph promises a very good holiday. There is a basket, a bright scarf and a linen shirt with the sleeves pushed back. Nobody appears to be checking the time.\n\nClothes are remarkably good at suggesting leisure. A loose weave lets a little light through; an open neckline leaves room around the face; a soft fold implies that the wearer has stopped worrying about perfect surfaces. Even the crease in the linen helps. Remove it completely and the shirt may lose part of its appeal.\n\nThe Italian-holiday image often called dolce vita is built from such details. It is a lovely fantasy, although somebody still has to buy lunch, catch the train and carry everything home. Those ordinary tasks are worth bringing back into the picture. They tell us why a basket needs volume, why a skirt needs walking room and why a pair of shoes might reasonably have a low heel.\n\nColour can do more than confirm that the sun is shining. Tomato red makes a broad, cheerful plane; olive keeps it grounded; sea blue cools a pale outfit. Put these colours into clothes that can take part in a day, and the holiday becomes easier to imagine. The scene has acquired something beyond a beautiful view: a person who actually has a life there.",
+      "body_zh": "照片许诺一个很好的假日：提篮、鲜艳丝巾、袖子挽起的亚麻衬衫，似乎没人看时间。\n\n衣服很擅长暗示闲暇。松织纹让一点光穿过，开领在脸旁留空间，软折痕让人觉得穿着者已不再担心表面是否完美。亚麻的皱也有用，全部修掉，衬衫反而可能失去一点魅力。\n\n常被叫作 dolce vita 的意式假日图像，由这类细节建立。幻想很好看，但总有人要买午饭、赶火车、把东西提回家。把普通任务放回画面，很有必要：它们说明提篮为何需要容量，裙子为何需要步行空间，鞋为何可以理直气壮选低跟。\n\n颜色的任务也不只是证明太阳在照。番茄红构成明快大面，橄榄绿压住它，海蓝给浅色降温。让这些颜色进入能参与一天的衣服，假日会更容易想象。场景于是多了一样比美景重要的东西：一个确实在那里生活的人。",
+      "word_count": 216,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "Why does the writer want ordinary tasks brought into the holiday picture?",
+        "options_en": [
+          "They show how travel can replace interest in clothing.",
+          "They explain practical choices in the basket, skirt and shoes.",
+          "They establish that a linen shirt is always the best travel garment."
+        ],
+        "answer_index": 1,
+        "evidence_en": "“They tell us why a basket needs volume, why a skirt needs walking room…”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Choose a holiday photograph and name one practical question it leaves outside the frame.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "leisure",
+        "zh": "闲暇"
+      },
+      {
+        "en": "weave",
+        "zh": "织纹"
+      },
+      {
+        "en": "neckline",
+        "zh": "领口"
+      },
+      {
+        "en": "crease",
+        "zh": "折皱"
+      },
+      {
+        "en": "grounded",
+        "zh": "稳住的；不飘的"
+      },
+      {
+        "en": "walking room",
+        "zh": "步行所需余量"
+      }
+    ],
+    "reading": {
+      "series_id": "S11",
+      "title_zh": "认识 Pucci：印花之外，还有面料与身体",
+      "kind": "品牌与藏品",
+      "source": {
+        "url": "https://fidmmuseum.org/learn/articles/emilio-pucci",
+        "title": "Emilio Pucci",
+        "publisher": "ASU FIDM Museum",
+        "author": null,
+        "date": null,
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "lightweight, easily packed silk jersey dresses",
+        "quote_zh": "轻盈、方便打包的丝质针织连衣裙。"
+      },
+      "guide_en": "The museum explains Pucci through swirling prints and lightweight silk jersey. His dresses followed the body without the rigid understructure of many 1950s designs. Pattern, packing and movement together help explain their appeal to international travellers in the early 1960s.",
+      "guide_zh": "Pucci 的辨识度既来自旋转印花，也来自便携丝质针织与少用硬衬的穿着方式。",
+      "focus_zh": "原文还追溯一件 1964 年长裙的具体图案来源。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What helped make the dresses suitable for travel?",
+          "options_en": [
+            "Rigid support beneath the fabric",
+            "Decoration that resisted movement",
+            "Lightweight fabric that packed easily"
+          ],
+          "answer_index": 2,
+          "explanation_zh": "导读把旅行便利与轻盈、易打包的面料联系起来。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “understructure” mean?",
+          "options_en": [
+            "a printed border",
+            "support hidden beneath the outer fabric",
+            "a shop window"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "结合导读语境，understructure 在这里表示：support hidden beneath the outer fabric。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "What matters most in a travel dress: weight, creasing or movement? Explain your choice.",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What helped make the dresses suitable for travel?",
+        "options_en": [
+          "Rigid support beneath the fabric",
+          "Decoration that resisted movement",
+          "Lightweight fabric that packed easily"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "导读把旅行便利与轻盈、易打包的面料联系起来。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “understructure” mean?",
+        "options_en": [
+          "a printed border",
+          "support hidden beneath the outer fabric",
+          "a shop window"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结合导读语境，understructure 在这里表示：support hidden beneath the outer fabric。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What matters most in a travel dress: weight, creasing or movement? Explain your choice.",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  },
+  {
+    "series_id": "S12",
+    "title_zh": "French New Wave 法国新浪潮",
+    "title_en": "French New Wave",
+    "previous_title_zh": "French New Wave 法国新浪潮",
+    "category_zh": "清冷高级",
+    "brand_comparisons": [
+      {
+        "name": "Saint James",
+        "analysis_zh": "以条纹针织研究图形节奏，不把一件衣服当作整个国家穿衣方式。",
+        "analysis_en": "Study the rhythm of stripes without presenting a garment as a national uniform."
+      },
+      {
+        "name": "A.P.C.",
+        "analysis_zh": "比较日常丹宁、衬衫与简洁剪裁，为电影氛围提供可行动的基础。",
+        "analysis_en": "Use plain daily garments as a basis for movement and scenes."
+      },
+      {
+        "name": "Courrèges",
+        "analysis_zh": "作为几何轮廓的当代比较对象，不将品牌直接等同于新浪潮电影运动。",
+        "analysis_en": "Use geometric shapes as a comparative design reference, not as a synonym for a film movement."
+      }
+    ],
+    "research_status": "V5 public-source guide; V4 design notes retained separately",
+    "cards": [
+      {
+        "card_id": "C12-A",
+        "revision": 3,
+        "title_zh": "转角的条纹",
+        "title_en": "Stripes at the Corner",
+        "silhouette_zh": "短方夹克／窄裤；图形紧凑",
+        "palette": [
+          {
+            "name_zh": "海军蓝",
+            "hex": "#263C53",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "粉白",
+            "hex": "#E6E1D5",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "朱红",
+            "hex": "#CB5140",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "平针条纹、干棉与平皮",
+        "design_en": "A boxy navy jacket frames alternating stripes above cropped trousers. Red shoes add a clear end point. Walking around a street corner changes the stripes from a flat graphic into a moving surface.",
+        "items": [
+          {
+            "design_item_id": "S12-A-D01",
+            "name_zh": "方形短夹克",
+            "name_en": "Boxy cropped jacket",
+            "construction_zh": "小翻领、四方前袋",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-A-D02",
+            "name_zh": "横条圆领衫",
+            "name_en": "Striped crew-neck top",
+            "construction_zh": "原创粗细交替条纹",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-A-D03",
+            "name_zh": "九分窄直裤",
+            "name_en": "Cropped slim-straight trousers",
+            "construction_zh": "踝上、无贴腿皱",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-A-D04",
+            "name_zh": "平底系带鞋",
+            "name_en": "Flat lace-up shoes",
+            "construction_zh": "朱红",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-A-D05",
+            "name_zh": "小软肩包",
+            "name_en": "Small soft shoulder bag",
+            "construction_zh": "海军蓝",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "转角迈步，条纹在身体转动中改变方向",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C12-A.png"
+      },
+      {
+        "card_id": "C12-B",
+        "revision": 3,
+        "title_zh": "不是制服",
+        "title_en": "Not a Uniform",
+        "silhouette_zh": "宽衬衫／高腰工装裤；松而利落",
+        "palette": [
+          {
+            "name_zh": "煤灰",
+            "hex": "#555653",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "浅蓝",
+            "hex": "#BFD2DC",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "芥末",
+            "hex": "#B7A054",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "棉府绸、棉帆布与磨旧皮",
+        "design_en": "A loose pale-blue shirt and high-waisted work trousers describe a character with things to do. Mustard appears in a document bag. The cuffs, pockets and step matter more than a claim of national taste.",
+        "items": [
+          {
+            "design_item_id": "S12-B-D01",
+            "name_zh": "宽袖口衬衫",
+            "name_en": "Wide-cuff shirt",
+            "construction_zh": "浅蓝前袖口可挽",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-B-D02",
+            "name_zh": "高腰宽工装裤",
+            "name_en": "High-waisted wide work trousers",
+            "construction_zh": "大平袋与长直裤线",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-B-D03",
+            "name_zh": "窄腰带",
+            "name_en": "Narrow waist belt",
+            "construction_zh": "煤灰",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-B-D04",
+            "name_zh": "软底德比鞋",
+            "name_en": "Soft-soled Derby shoes",
+            "construction_zh": "低跟",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-B-D05",
+            "name_zh": "帆布资料袋",
+            "name_en": "Canvas document bag",
+            "construction_zh": "芥末点色",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "洗衣店门口站姿取衣，普通街景与动作",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C12-B.png"
+      },
+      {
+        "card_id": "C12-C",
+        "revision": 3,
+        "title_zh": "一件红外套",
+        "title_en": "One Red Coat",
+        "silhouette_zh": "鲜色长外套／直筒裙；大色块与窄内形",
+        "palette": [
+          {
+            "name_zh": "砖红",
+            "hex": "#B84E3E",
+            "target_percent": 60
+          },
+          {
+            "name_zh": "墨黑",
+            "hex": "#2E3034",
+            "target_percent": 30
+          },
+          {
+            "name_zh": "奶白",
+            "hex": "#E8E2D4",
+            "target_percent": 10
+          }
+        ],
+        "surface_study_zh": "轻羊毛、细罗纹与低光皮",
+        "design_en": "A brick-red coat interrupts a dark straight dress. The outfit forms one clear colour plane within an ordinary street. Turning to read a sign gives the image a cinematic action rather than a borrowed film costume.",
+        "items": [
+          {
+            "design_item_id": "S12-C-D01",
+            "name_zh": "单排扣长外套",
+            "name_en": "Single-breasted long coat",
+            "construction_zh": "不过度收腰、及膝",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-C-D02",
+            "name_zh": "直筒无袖裙",
+            "name_en": "Sleeveless column dress",
+            "construction_zh": "墨黑、领口高",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-C-D03",
+            "name_zh": "低跟短靴",
+            "name_en": "Low-heel ankle boots",
+            "construction_zh": "奶白",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-C-D04",
+            "name_zh": "窄框眼镜",
+            "name_en": "Slim-frame glasses",
+            "construction_zh": "道具非身份标记",
+            "type": "design_item",
+            "status": "concept_only"
+          },
+          {
+            "design_item_id": "S12-C-D05",
+            "name_zh": "扁平肩包",
+            "name_en": "Flat shoulder bag",
+            "construction_zh": "砖红",
+            "type": "design_item",
+            "status": "concept_only"
+          }
+        ],
+        "scene_and_action_zh": "过街后回头看路牌，红外套成为电影式画面线索",
+        "illustration_status": "generated_concept_art",
+        "legacy_reference": null,
+        "illustration_path": "card-art/levels10-12/C12-C.png"
+      }
+    ],
+    "legacy_reading_v4": {
+      "title_en": "The Coat Turns the Corner",
+      "title_zh": "转过街角的那件外套",
+      "body_en": "First you see the red coat. A second later, its wearer turns the corner and the pale street behind her fills the frame again. The outfit has done its work in a moment.\n\nFilm makes us look at clothes in fragments. A collar appears before a face; shoes cross a doorway; a sleeve catches on a chair. These glimpses can tell us about a character without stopping the story for a full description. Clothes are part of what happens.\n\nThat is a more interesting lesson to borrow from cinema than a fixed list of supposedly French essentials. Stripes, dark glasses and a little black dress can summon a familiar image, but no small collection of screen references describes a whole country. The character matters as much as the garment.\n\nImagine her with somewhere ordinary to go. A wide shirt fills with air as she walks to the laundry. Cropped trousers leave a clear space above red shoes. A short jacket finishes before the body turns. These details make the clothes legible in motion.\n\nA fashion card can still borrow that sense of a passing moment, even though it is a still image. Give the wearer a destination, and her pose begins to change. She stops being someone who has dressed to represent a style and becomes someone we might like to follow around the next corner.",
+      "body_zh": "先看见红外套。一秒以后，穿它的人转过街角，浅色街道又填满画面。衣服的任务在片刻内完成了。\n\n电影让我们零碎地看衣服：领子先于脸，鞋走过门口，袖子挂到椅边。这些一瞥不用让故事停下，就能告诉我们人物是什么样的人。衣服属于正在发生的事。\n\n比起列一张所谓法国必备单品表，这更值得从电影借用。条纹、墨镜与小黑裙可以唤起熟悉图像，但少数银幕参考无法描述整个国家。人物与衣服同样重要。\n\n设想她要去一个普通地方：宽衬衫在走向洗衣店时鼓起空气，九分裤在红鞋上方留出清楚间隔，短夹克先于身体完成转动。这些细节让衣服在运动中可读。\n\n时装卡虽然静止，也能借来擦身而过的感觉。给人物一个目的地，姿势就开始变化。她不再只是为了代表某种风格而打扮的人，而成为让我们愿意跟到下个转角的人。",
+      "word_count": 226,
+      "status": "original_English_first_draft",
+      "external_citations": [],
+      "citation_status": "pending_external_source_access"
+    },
+    "legacy_questions_v4": [
+      {
+        "type": "reading_inference",
+        "prompt_en": "What does the writer borrow from film?",
+        "options_en": [
+          "A list of garments that establishes a national identity.",
+          "The need to show every garment in a single front view.",
+          "The way clothing helps reveal a character through brief actions."
+        ],
+        "answer_index": 2,
+        "evidence_en": "“These glimpses can tell us about a character without stopping the story…”",
+        "evidence_type": "quotation_from_this_original_reading"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "Write two sentences in which a garment reveals a character through an action. Avoid naming a personality trait.",
+        "assessment": "open",
+        "rubric_zh": "指出具体可观察的细节，并说明判断依据；开放题没有唯一审美答案。"
+      }
+    ],
+    "legacy_vocabulary_v4": [
+      {
+        "en": "frame",
+        "zh": "画面"
+      },
+      {
+        "en": "fragment",
+        "zh": "片段"
+      },
+      {
+        "en": "glimpse",
+        "zh": "一瞥"
+      },
+      {
+        "en": "summon",
+        "zh": "唤起"
+      },
+      {
+        "en": "cropped",
+        "zh": "短截的；九分的"
+      },
+      {
+        "en": "legible",
+        "zh": "清楚可读的"
+      }
+    ],
+    "reading": {
+      "series_id": "S12",
+      "title_zh": "法国新浪潮的衣服，如何被重新制作？",
+      "kind": "服装设计师访谈",
+      "source": {
+        "url": "https://www.wallpaper.com/fashion-beauty/richard-linklater-nouvelle-vague-movie-costumes-interview",
+        "title": "Pascaline Chavanne on her dreamy costumes for new film Nouvelle Vague",
+        "publisher": "Wallpaper*",
+        "author": "Zoe Whitfield",
+        "date": "2026-01-30",
+        "checked_on": "2026-10-29",
+        "verification": "正文已通过公开网页读取",
+        "access_note": "核验时可读取正文；外站访问条件可能变化。",
+        "quote_en": "I counted all the stripes on the dress",
+        "quote_zh": "我数清了裙子上的所有条纹。"
+      },
+      "guide_en": "Costume designer Pascaline Chavanne describes researching Nouvelle Vague, a film about making Breathless. Recreating Jean Seberg’s striped dress involved counting stripes and consulting an original purchase invoice. A seemingly effortless screen wardrobe can depend on unusually meticulous archival work.",
+      "guide_zh": "重现 Seberg 的条纹裙，需要数条纹、查购买发票；随意的银幕感背后是细致研究。",
+      "focus_zh": "讨论的是新片对旧片的重建，并非当年设计师的自述。",
+      "questions": [
+        {
+          "type": "comprehension",
+          "prompt_en": "What supported the costume reconstruction?",
+          "options_en": [
+            "The designer’s personal recollections alone",
+            "Archival evidence",
+            "A contemporary version of the dress"
+          ],
+          "answer_index": 1,
+          "explanation_zh": "导读列出了条纹计数和原始购买发票。",
+          "evidence_basis": "本页英文导读"
+        },
+        {
+          "type": "vocabulary_in_context",
+          "prompt_en": "In this reading, what does “meticulous” mean?",
+          "options_en": [
+            "extremely careful about details",
+            "deliberately unfinished",
+            "quickly forgotten"
+          ],
+          "answer_index": 0,
+          "explanation_zh": "结合导读语境，meticulous 在这里表示：extremely careful about details。",
+          "evidence_basis": "本页英文导读语境"
+        },
+        {
+          "type": "discussion",
+          "prompt_en": "What small detail would you check before recreating an outfit from a film still?",
+          "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+          "assessment": "open"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "type": "comprehension",
+        "prompt_en": "What supported the costume reconstruction?",
+        "options_en": [
+          "The designer’s personal recollections alone",
+          "Archival evidence",
+          "A contemporary version of the dress"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "导读列出了条纹计数和原始购买发票。",
+        "evidence_basis": "本页英文导读"
+      },
+      {
+        "type": "vocabulary_in_context",
+        "prompt_en": "In this reading, what does “meticulous” mean?",
+        "options_en": [
+          "extremely careful about details",
+          "deliberately unfinished",
+          "quickly forgotten"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结合导读语境，meticulous 在这里表示：extremely careful about details。",
+        "evidence_basis": "本页英文导读语境"
+      },
+      {
+        "type": "discussion",
+        "prompt_en": "What small detail would you check before recreating an outfit from a film still?",
+        "rubric_zh": "没有唯一答案。用一个具体服装、材料或视觉细节支持你的判断。",
+        "assessment": "open"
+      }
+    ]
+  }
+]

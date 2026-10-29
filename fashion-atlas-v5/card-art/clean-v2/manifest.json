@@ -1,0 +1,110 @@
+[
+  {
+    "card_id": "C04-A",
+    "path": "card-art/clean-v2/C04-A.png",
+    "action_zh": "侧面快步进站、自然摆臂",
+    "hair_zh": "侧分齐下巴短直发＋珊瑚发夹",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "9ee89a625f0dc39316c80b4e4c662d91f7feafe696b8717c177bc1bfe19ca29d",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C04-B",
+    "path": "card-art/clean-v2/C04-B.png",
+    "action_zh": "正面平视调整口袋扣件",
+    "hair_zh": "利落侧分短精灵头",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "ab8accd0750d48d65b1353e00ecac9ebed4f5bcb76cba5ed9282638b18f9a733",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C04-C",
+    "path": "card-art/clean-v2/C04-C.png",
+    "action_zh": "侧身伸手取饮料",
+    "hair_zh": "高扎分段泡泡马尾",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "926bf05cb7315009d57fee6da6a5f133373663a4bf6872178c8344b68ebe5c5d",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C05-A",
+    "path": "card-art/clean-v2/C05-A.png",
+    "action_zh": "低头核对手表的直立站姿",
+    "hair_zh": "光洁低盘髻",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "1f24f97f7724538a7998e9beb2e16ae26b7f7f2b550784d697fcec121d740aa0",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C05-B",
+    "path": "card-art/clean-v2/C05-B.png",
+    "action_zh": "行走中单手举伞、正视前方",
+    "hair_zh": "耳上短卷发",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "a5c203dc5c166ef01e6f3c49a56c42c3ed908d99edf20917f598835e1175caf2",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C05-C",
+    "path": "card-art/clean-v2/C05-C.png",
+    "action_zh": "侧面登阶、提裙留出步幅",
+    "hair_zh": "高扎单辫马尾",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "4f8bb07f25a910a9e5e2f138abb58755b12826cf44c4205f3ef91a6a91e5e11d",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C06-A",
+    "path": "card-art/clean-v2/C06-A.png",
+    "action_zh": "站在借阅台前低头核对便条",
+    "hair_zh": "低位长辫配整齐刘海",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "f14cf4fbabece0e9788cfd15c6d65960610b780c06e1039e7e78e5403fedf90f",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C06-B",
+    "path": "card-art/clean-v2/C06-B.png",
+    "action_zh": "坐姿转身递笔记、双脚落地",
+    "hair_zh": "双绳结小发髻",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "7dd6ddbdc9b97c8c592ffdeb07d5991c17342a021d507b8aeb129ea724998f6b",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  },
+  {
+    "card_id": "C06-C",
+    "path": "card-art/clean-v2/C06-C.png",
+    "action_zh": "公交站侧面站立、双手合上笔记",
+    "hair_zh": "及肩直发与斜刘海",
+    "generation_tool": "built-in image_gen",
+    "revision": "clean-v2",
+    "width": 887,
+    "height": 1774,
+    "sha256": "a8e278e0f8f51bba0bff851742f9d6613ef0d6476ef76b5cb38cdb113882407a",
+    "visual_review": "已逐张查看头部姿态、发型差异、服装清晰度与全身裁切。"
+  }
+]

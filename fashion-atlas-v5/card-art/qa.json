@@ -1,0 +1,119 @@
+[
+  {
+    "card_id": "C04-A",
+    "file": "C04-A.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "b6ca6eb208a350960c8ac5ba26186116ea535af03a398808d9b7ec4cbe5fb4e5",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C04-B",
+    "file": "C04-B.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "cc360f7a8aceacfbbac04aeec12fe11acd883a5fbcae62124b4e8ca3bbdd6245",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C04-C",
+    "file": "C04-C.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "3d282070f8916204c838c478115a11ecf2bc0e0e10eefde2b17c8f84ae838855",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C05-A",
+    "file": "C05-A-v2.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "3b3bdc4060953fdfcb9a7d463e9e029a4cf8634b8f05da68f1a11871dcd54fd8",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C05-B",
+    "file": "C05-B.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "4cc139f8d5a98eb0d53a16b1d08b0b7f900d6242f8dd78913d74ef928e22dd08",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C05-C",
+    "file": "C05-C.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "e32fa04f174ee804c747a97d965cab0b504acaec7dc25c182295ee939b1d0f8c",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C06-A",
+    "file": "C06-A.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "28ae100d8ce7f60fb0b4167f3b35b6ec15418302ed0bb3d750683adfcd155759",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C06-B",
+    "file": "C06-B.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "4cd6538326b352d209caf1afafd77855254ff5840f50a142ccc089d8e3f7ae84",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  },
+  {
+    "card_id": "C06-C",
+    "file": "C06-C.png",
+    "width": 887,
+    "height": 1774,
+    "sha256": "860d284f318b887443b3fb7321b793504bb23829110ec4f3d2e19975f838ad58",
+    "review": {
+      "full_body_and_shoes_visible": true,
+      "outfit_and_fabric_readable": true,
+      "series_style_consistent": true
+    },
+    "note": "服装配色面积为设计目标，非图像测量值；这是整张插画，不是已拆分的透明服装素材。"
+  }
+]
