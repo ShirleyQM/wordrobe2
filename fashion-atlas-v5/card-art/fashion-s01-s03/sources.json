@@ -1,0 +1,65 @@
+[
+  {
+    "key": "dg",
+    "brand": "Dolce & Gabbana",
+    "season": "2024 秋冬",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
+    "image": "https://assets.vogue.com/photos/65db3d29c1fa6eaddd88979d/master/w_2560%2Cc_limit/00002-dolce-%26-gabbana-fall-2024-ready-to-wear-credit-gorunway.jpg"
+  },
+  {
+    "key": "cavalli",
+    "brand": "Roberto Cavalli",
+    "season": "2024 秋冬",
+    "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/roberto-cavalli",
+    "image": "https://cms.showstudio.com/images/qN9YgcNcY_TGdhv8d9EnebA6JUs%3D/549018/width-640/Roberto_Cavalli_AW24_Womenswear_051.jpg"
+  },
+  {
+    "key": "versace",
+    "brand": "Versace",
+    "season": "2024 秋冬",
+    "url": "https://www.versace.com/us/en/stories/fashion-shows/fw-2024-fashion-show.html",
+    "image": "https://assets.vogue.com/photos/65d9a61a53a821ddad733a32/master/w_1280%2Cc_limit/00001-versace-fall-2024-ready-to-wear-credit-gorunway.jpg"
+  },
+  {
+    "key": "dior",
+    "brand": "Dior Homme / Hedi Slimane",
+    "season": "2005 秋冬",
+    "url": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
+    "image": "https://assets.vogue.com/photos/55c6514908298d8be21ed454/master/w_1280%2Cc_limit/00010m.jpg"
+  },
+  {
+    "key": "aa",
+    "brand": "American Apparel",
+    "season": "Fine Jersey 产品结构研究；非历史广告复刻",
+    "url": "https://retail.americanapparel.com/fine-jersey-crewneck-t-shirt/",
+    "image": "https://cdn11.bigcommerce.com/s-476cfgput4/images/stencil/640x853/products/119/4039/2001-Z36-alt3__86674.1694448161.jpg?c=1"
+  },
+  {
+    "key": "topshop",
+    "brand": "Topshop Unique",
+    "season": "2016 秋冬；后期造型比较，非亚文化起源依据",
+    "url": "https://www.vogue.com/fashion-shows/fall-2016-ready-to-wear/topshop-unique",
+    "image": "https://assets.vogue.com/photos/56c9c8ac05d0ebda742c4bca/master/w_2560%2Cc_limit/_TOP0035.jpg"
+  },
+  {
+    "key": "adidas",
+    "brand": "adidas Originals",
+    "season": "Jersey SS / KC0127 产品结构研究",
+    "url": "https://www.adidas.com.eg/en/jersey-ss/KC0127.html",
+    "image": "https://assets.adidas.com/images/w_1880%2Cf_auto%2Cq_auto/b0d7452088184a7994a94cac52baf0ba_9366/KC0127_01_laydown.jpg"
+  },
+  {
+    "key": "wales",
+    "brand": "Wales Bonner",
+    "season": "2024 春夏",
+    "url": "https://www.vogue.com/fashion-shows/spring-2024-menswear/wales-bonner",
+    "image": "https://images.squarespace-cdn.com/content/v1/5a15ad16b7411ccec818471e/1687980915130-32DQBI1VSER8WWVMG9QC/Kolor%2BMagazine%2BWales%2BBonner%2BSpring%2B2024%2BCollection%2BLook396.jpg"
+  },
+  {
+    "key": "martine",
+    "brand": "Martine Rose",
+    "season": "2026 春夏",
+    "url": "https://www.martine-rose.com/pages/spring-summer-2026",
+    "image": "https://martine-rose.com/cdn/shop/files/Martine_Rose_SS26_4x5_034.jpg?v=1750081795&width=2000"
+  }
+]
