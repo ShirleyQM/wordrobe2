@@ -3,7 +3,7 @@
 const FashionAtlas=(()=>{
  const CARD_KEY='wordrobe-fashion-cards-v1';let ready;
  const originalLoader=loadCourse;
- loadCourse=async function(){const all=await originalLoader();if(!ready)ready=fetch('assets/learning/fashion-lessons.json?v=atlas-design-v2-20261029').then(r=>{if(!r.ok)throw Error(tr('Fashion lessons could not load.','时尚课程载入失败。'));return r.json();}).then(d=>{for(const l of d.levels)if(!all.some(x=>x.id===l.id))all.push(l);return d.levels;}).catch(e=>{ready=null;throw e;});await ready;return all;};
+ loadCourse=async function(){const all=await originalLoader();if(!ready)ready=fetch('assets/learning/fashion-lessons.json?v=atlas-design-v2-20261030-2').then(r=>{if(!r.ok)throw Error(tr('Fashion lessons could not load.','时尚课程载入失败。'));return r.json();}).then(d=>{for(const l of d.levels)if(!all.some(x=>x.id===l.id))all.push(l);return d.levels;}).catch(e=>{ready=null;throw e;});await ready;return all;};
  const cards=()=>{try{return JSON.parse(localStorage.getItem(CARD_KEY)||'{}');}catch(e){return {};}};
  const unlocked=l=>!!journey.completed[l.id];
  const label=i=>I18n.lang()==='en'?i.nameEn:i.name;
