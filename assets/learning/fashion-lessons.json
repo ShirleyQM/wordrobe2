@@ -1,0 +1,2010 @@
+{
+  "version": 1,
+  "upstreamCommit": "8e7faf2f748d9db8eb9fbc39dd826b832d0f38cc",
+  "levels": [
+    {
+      "id": "fashion-atlas-s01",
+      "number": 1,
+      "fashion": true,
+      "readingOptional": true,
+      "seriesId": "S01",
+      "title": "Mob Wife · Presence and Power",
+      "titleZh": "Mob Wife · 都市张扬",
+      "word": "excess · restrained · conspicuous · silhouette · texture · contrast",
+      "words": [
+        {
+          "word": "excess",
+          "definition": "more of something than is needed or usual",
+          "meaning": "过量；铺张",
+          "phrases": [
+            "deliberate excess",
+            "an excess of detail"
+          ],
+          "examples": [
+            {
+              "en": "The stylist used excess to make the simple entrance feel theatrical.",
+              "zh": "造型师用铺张的细节，让普通的入场显得像戏剧。"
+            },
+            {
+              "en": "An excess of jewellery distracted from the shape of the coat.",
+              "zh": "过多珠宝分散了人们对外套轮廓的注意。"
+            }
+          ]
+        },
+        {
+          "word": "restrained",
+          "definition": "controlled and not showing too much decoration or emotion",
+          "meaning": "克制的；简约的",
+          "phrases": [
+            "restrained styling",
+            "a restrained palette"
+          ],
+          "examples": [
+            {
+              "en": "Her restrained styling left the embroidered collar as the only decoration.",
+              "zh": "她的搭配很克制，只有绣花领口作为装饰。"
+            },
+            {
+              "en": "A restrained palette helped the large coat remain the focus.",
+              "zh": "克制的配色让大外套保持视觉重点。"
+            }
+          ]
+        },
+        {
+          "word": "conspicuous",
+          "definition": "easy to notice because it stands out",
+          "meaning": "显眼的",
+          "phrases": [
+            "a conspicuous detail",
+            "conspicuous against"
+          ],
+          "examples": [
+            {
+              "en": "The red bag was conspicuous against the plain grey suit.",
+              "zh": "红色包在普通的灰色套装上非常显眼。"
+            },
+            {
+              "en": "She wanted one conspicuous detail that could be seen across the room.",
+              "zh": "她想要一个在房间另一头也能看见的显眼细节。"
+            }
+          ]
+        },
+        {
+          "word": "silhouette",
+          "definition": "the overall outline or shape of a person or garment",
+          "meaning": "轮廓；廓形",
+          "phrases": [
+            "a broad silhouette",
+            "change the silhouette"
+          ],
+          "examples": [
+            {
+              "en": "The padded shoulders created a broad silhouette.",
+              "zh": "垫肩制造出宽阔的轮廓。"
+            },
+            {
+              "en": "A belt can change the silhouette without changing the fabric.",
+              "zh": "不改变面料，一条腰带也能改变廓形。"
+            }
+          ]
+        },
+        {
+          "word": "texture",
+          "definition": "the way a surface looks or feels",
+          "meaning": "肌理；质感",
+          "phrases": [
+            "a soft texture",
+            "contrast in texture"
+          ],
+          "examples": [
+            {
+              "en": "The soft texture of the coat contrasted with the smooth trousers.",
+              "zh": "外套柔软的质感与平滑的裤子形成对比。"
+            },
+            {
+              "en": "The photograph showed texture clearly enough to suggest how the cloth might feel.",
+              "zh": "照片清楚地呈现肌理，让人仿佛能感受到布料的触感。"
+            }
+          ]
+        },
+        {
+          "word": "contrast",
+          "definition": "a noticeable difference between things placed together",
+          "meaning": "反差；对比",
+          "phrases": [
+            "a sharp contrast",
+            "create contrast"
+          ],
+          "examples": [
+            {
+              "en": "The fluffy coat and narrow trousers created a sharp contrast.",
+              "zh": "毛绒外套与窄腿裤形成鲜明对比。"
+            },
+            {
+              "en": "There was little contrast between the two almost identical fabrics.",
+              "zh": "两块几乎相同的布料之间没有多少反差。"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "fashion-S01-0-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The stylist used _____ to make the simple entrance feel theatrical.",
+          "translation": "造型师用铺张的细节，让普通的入场显得像戏剧。",
+          "options": [
+            "excess",
+            "restrained",
+            "conspicuous"
+          ],
+          "answer": "excess",
+          "explanation": "more of something than is needed or usual",
+          "optionGlosses": {
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-1-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "Her _____ styling left the embroidered collar as the only decoration.",
+          "translation": "她的搭配很克制，只有绣花领口作为装饰。",
+          "options": [
+            "restrained",
+            "excess",
+            "conspicuous"
+          ],
+          "answer": "restrained",
+          "explanation": "controlled and not showing too much decoration or emotion",
+          "optionGlosses": {
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-2-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The red bag was _____ against the plain grey suit.",
+          "translation": "红色包在普通的灰色套装上非常显眼。",
+          "options": [
+            "conspicuous",
+            "excess",
+            "restrained"
+          ],
+          "answer": "conspicuous",
+          "explanation": "easy to notice because it stands out",
+          "optionGlosses": {
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-3-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The padded shoulders created a broad _____.",
+          "translation": "垫肩制造出宽阔的轮廓。",
+          "options": [
+            "silhouette",
+            "excess",
+            "restrained"
+          ],
+          "answer": "silhouette",
+          "explanation": "the overall outline or shape of a person or garment",
+          "optionGlosses": {
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            },
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-4-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The soft _____ of the coat contrasted with the smooth trousers.",
+          "translation": "外套柔软的质感与平滑的裤子形成对比。",
+          "options": [
+            "texture",
+            "excess",
+            "restrained"
+          ],
+          "answer": "texture",
+          "explanation": "the way a surface looks or feels",
+          "optionGlosses": {
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            },
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-5-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The fluffy coat and narrow trousers created a sharp _____.",
+          "translation": "毛绒外套与窄腿裤形成鲜明对比。",
+          "options": [
+            "contrast",
+            "excess",
+            "restrained"
+          ],
+          "answer": "contrast",
+          "explanation": "a noticeable difference between things placed together",
+          "optionGlosses": {
+            "contrast": {
+              "en": "a noticeable difference between things placed together",
+              "zh": "反差；对比"
+            },
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-0-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "An _____ of jewellery distracted from the shape of the coat.",
+          "translation": "过多珠宝分散了人们对外套轮廓的注意。",
+          "options": [
+            "excess",
+            "conspicuous",
+            "silhouette",
+            "texture"
+          ],
+          "answer": "excess",
+          "explanation": "more of something than is needed or usual",
+          "optionGlosses": {
+            "excess": {
+              "en": "more of something than is needed or usual",
+              "zh": "过量；铺张"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            },
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-1-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A _____ palette helped the large coat remain the focus.",
+          "translation": "克制的配色让大外套保持视觉重点。",
+          "options": [
+            "restrained",
+            "conspicuous",
+            "silhouette",
+            "texture"
+          ],
+          "answer": "restrained",
+          "explanation": "controlled and not showing too much decoration or emotion",
+          "optionGlosses": {
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            },
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-2-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "She wanted one _____ detail that could be seen across the room.",
+          "translation": "她想要一个在房间另一头也能看见的显眼细节。",
+          "options": [
+            "conspicuous",
+            "restrained",
+            "silhouette",
+            "texture"
+          ],
+          "answer": "conspicuous",
+          "explanation": "easy to notice because it stands out",
+          "optionGlosses": {
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            },
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-3-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A belt can change the _____ without changing the fabric.",
+          "translation": "不改变面料，一条腰带也能改变廓形。",
+          "options": [
+            "silhouette",
+            "restrained",
+            "conspicuous",
+            "texture"
+          ],
+          "answer": "silhouette",
+          "explanation": "the overall outline or shape of a person or garment",
+          "optionGlosses": {
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-4-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The photograph showed _____ clearly enough to suggest how the cloth might feel.",
+          "translation": "照片清楚地呈现肌理，让人仿佛能感受到布料的触感。",
+          "options": [
+            "texture",
+            "restrained",
+            "conspicuous",
+            "silhouette"
+          ],
+          "answer": "texture",
+          "explanation": "the way a surface looks or feels",
+          "optionGlosses": {
+            "texture": {
+              "en": "the way a surface looks or feels",
+              "zh": "肌理；质感"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            }
+          }
+        },
+        {
+          "id": "fashion-S01-5-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "There was little _____ between the two almost identical fabrics.",
+          "translation": "两块几乎相同的布料之间没有多少反差。",
+          "options": [
+            "contrast",
+            "restrained",
+            "conspicuous",
+            "silhouette"
+          ],
+          "answer": "contrast",
+          "explanation": "a noticeable difference between things placed together",
+          "optionGlosses": {
+            "contrast": {
+              "en": "a noticeable difference between things placed together",
+              "zh": "反差；对比"
+            },
+            "restrained": {
+              "en": "controlled and not showing too much decoration or emotion",
+              "zh": "克制的；简约的"
+            },
+            "conspicuous": {
+              "en": "easy to notice because it stands out",
+              "zh": "显眼的"
+            },
+            "silhouette": {
+              "en": "the overall outline or shape of a person or garment",
+              "zh": "轮廓；廓形"
+            }
+          }
+        }
+      ],
+      "readingQuestions": [],
+      "plan": [
+        {
+          "phase": "card",
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 0
+        },
+        {
+          "phase": "card",
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 1
+        },
+        {
+          "phase": "card",
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 2
+        },
+        {
+          "phase": "card",
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 3
+        },
+        {
+          "phase": "card",
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 4
+        },
+        {
+          "phase": "card",
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 6,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 7,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 8,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 9,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 10,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 11,
+          "mixed": true
+        },
+        {
+          "phase": "reading"
+        }
+      ],
+      "article": {
+        "kind": "learning-adaptation",
+        "title": "Will the Mob Wife Aesthetic Take a Sledgehammer to Quiet Luxury?",
+        "source": {
+          "url": "https://www.elle.com/fashion/trend-reports/a46522520/mob-wife-aesthetic-trend-explained/",
+          "title": "Will the Mob Wife Aesthetic Take a Sledgehammer to Quiet Luxury?",
+          "publisher": "ELLE",
+          "author": "Véronique Hyland",
+          "date": "2024-01-26",
+          "checked_on": "2026-10-29",
+          "verification": "正文已通过公开网页读取",
+          "access_note": "核验时可读取正文；外站访问条件可能变化。",
+          "quote_en": "The hallmark of mob wife style is excess",
+          "quote_zh": "Mob Wife 风格的标志是铺张。"
+        },
+        "publisher": "ELLE",
+        "date": "2024-01-26",
+        "url": "https://www.elle.com/fashion/trend-reports/a46522520/mob-wife-aesthetic-trend-explained/",
+        "paragraphs": [
+          {
+            "en": "ELLE’s Véronique Hyland connects mob-wife dressing with screen archetypes and the rejection of quiet luxury. Her examples favour conspicuous glamour, large hair and animal patterns. This is a commentary on a circulating fashion image, rather than a description of every woman in a particular community.",
+            "zh": "ELLE 作者把这股穿衣风格联系到影视形象与对安静奢华的反应。文章讨论的是流行的时尚形象，并不能用来描述某个群体中的所有女性。"
+          },
+          {
+            "en": "Imagine a styling table with a soft coat, straight trousers and a small bag. First, look at the silhouette: is most of the volume around the shoulders, or does it continue through the legs? Then compare texture. The coat looks soft; the trousers look dry and smooth. That contrast gives each material room to be noticed.",
+            "zh": "想象桌上放着绒毛外套、直筒裤和小包。先观察体积集中在哪里，再看质感的对比：柔软绒毛与干爽平滑的裤料，会让两种材料都更容易被看见。"
+          },
+          {
+            "en": "Now add one conspicuous accent. A small bright bag may do more than three large necklaces. If the coat already suggests excess, try a restrained top underneath. This is a styling exercise, not a rule about how confident people must dress. You can remove the accent, change the proportions, or keep the whole look quiet. Notice which decision changes the outfit most.",
+            "zh": "再加一个显眼的重点。小小的亮色包可能比三条大项链更有效。外套已经很张扬时，内搭可以克制一些。这只是搭配练习，并不是关于自信必须如何穿衣的规定。"
+          }
+        ]
+      },
+      "reward": {
+        "card": {
+          "id": "C01-A",
+          "title": "The Afternoon Appointment",
+          "titleZh": "午后掌事人",
+          "palette": [
+            {
+              "name_zh": "可可",
+              "hex": "#654537",
+              "target_percent": 60
+            },
+            {
+              "name_zh": "奶油",
+              "hex": "#EEE2C6",
+              "target_percent": 30
+            },
+            {
+              "name_zh": "孔雀蓝",
+              "hex": "#187C83",
+              "target_percent": 10
+            }
+          ],
+          "design": "A broad cocoa coat makes space around the shoulders, while a narrow trouser line keeps the lower silhouette quiet. Peacock blue appears only in the clutch. Authority comes from proportion rather than an evening setting.",
+          "designZh": "宽阔的可可色外套在肩部留出空间，窄直裤线让下半身保持克制。孔雀蓝只出现在手拿包上；气场来自比例，而不依赖晚宴场景。",
+          "status": "concept_only"
+        },
+        "items": [
+          {
+            "id": "autumn-pile-jacket-v1",
+            "name": "周末漫游 · 大翻领绒毛短外套",
+            "nameEn": "Weekend Wander · Jacket",
+            "slot": "coat",
+            "image": "/assets/materials/garments/autumn-pile-jacket-v1/front.png",
+            "thumbnail": "/assets/materials/garments/autumn-pile-jacket-v1/sleeve-repaint-v1-thumb.png"
+          },
+          {
+            "id": "campus-04-navy-tailored-trousers",
+            "name": "周末漫游 · 直筒长裤",
+            "nameEn": "Weekend Wander · Trousers",
+            "slot": "bottom",
+            "image": "/assets/materials/garments/campus-04-navy-tailored-trousers/saved/434-50192404e39c/front.png",
+            "thumbnail": "/assets/materials/published/panel-previews/campus-04-navy-tailored-trousers-bc99d45647b6.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fashion-atlas-s02",
+      "number": 2,
+      "fashion": true,
+      "readingOptional": true,
+      "seriesId": "S02",
+      "title": "Indie Sleaze",
+      "titleZh": "Indie Sleaze 独立摇滚",
+      "word": "spontaneous · curated · authentic · revival · worn · improvise",
+      "words": [
+        {
+          "word": "spontaneous",
+          "definition": "happening naturally without being planned in advance",
+          "meaning": "自发的；随性的",
+          "phrases": [
+            "a spontaneous choice",
+            "feel spontaneous"
+          ],
+          "examples": [
+            {
+              "en": "Her spontaneous choice of a borrowed scarf changed the whole outfit.",
+              "zh": "她随手选的借来围巾，改变了整套搭配。"
+            },
+            {
+              "en": "The photograph felt spontaneous because nobody had planned the pose.",
+              "zh": "没有人事先安排姿势，因此照片显得很自然。"
+            }
+          ]
+        },
+        {
+          "word": "curated",
+          "definition": "carefully selected and arranged for a particular purpose",
+          "meaning": "精心挑选并安排的",
+          "phrases": [
+            "a curated image",
+            "a curated selection"
+          ],
+          "examples": [
+            {
+              "en": "The shop presented a curated selection of second-hand jackets.",
+              "zh": "商店展示了一批精心挑选的二手夹克。"
+            },
+            {
+              "en": "Every detail of the curated image had been chosen before the shoot.",
+              "zh": "拍摄前，精心经营的形象中的每个细节都已经选好。"
+            }
+          ]
+        },
+        {
+          "word": "authentic",
+          "definition": "genuine and true to its origin or to a person’s experience",
+          "meaning": "真实的；真诚的",
+          "phrases": [
+            "an authentic expression",
+            "feel authentic"
+          ],
+          "examples": [
+            {
+              "en": "The outfit felt authentic because it reflected the musician’s everyday life.",
+              "zh": "这套衣服贴近音乐人的日常生活，因此显得真实。"
+            },
+            {
+              "en": "She wanted an authentic expression of her taste rather than a copied costume.",
+              "zh": "她想真诚表达自己的品味，而不是复制一套戏服。"
+            }
+          ]
+        },
+        {
+          "word": "revival",
+          "definition": "a return to use, attention or popularity after a quieter period",
+          "meaning": "复兴；重新流行",
+          "phrases": [
+            "a style revival",
+            "a revival of interest"
+          ],
+          "examples": [
+            {
+              "en": "The exhibition prompted a revival of interest in early concert posters.",
+              "zh": "展览让人们重新对早期演出海报产生兴趣。"
+            },
+            {
+              "en": "A style revival brings familiar clothes into a different cultural moment.",
+              "zh": "风格复兴让熟悉的衣服来到不同的文化时刻。"
+            }
+          ]
+        },
+        {
+          "word": "worn",
+          "definition": "showing signs of repeated use",
+          "meaning": "穿旧的；有使用痕迹的",
+          "phrases": [
+            "worn leather",
+            "a worn jacket"
+          ],
+          "examples": [
+            {
+              "en": "The worn leather had softened around the elbows.",
+              "zh": "穿旧的皮革在肘部变得柔软。"
+            },
+            {
+              "en": "She kept the worn jacket because it was comfortable and full of memories.",
+              "zh": "她留下旧夹克，因为它舒适且承载回忆。"
+            }
+          ]
+        },
+        {
+          "word": "improvise",
+          "definition": "to create or do something using what is available without a full plan",
+          "meaning": "即兴发挥；临时搭配",
+          "phrases": [
+            "improvise an outfit",
+            "learn to improvise"
+          ],
+          "examples": [
+            {
+              "en": "We had to improvise an outfit from the clothes already in the suitcase.",
+              "zh": "我们只能用行李箱里已有的衣服临时搭出一套。"
+            },
+            {
+              "en": "The missing belt encouraged her to improvise with a narrow scarf.",
+              "zh": "腰带不见了，她便即兴用细围巾代替。"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "fashion-S02-0-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "Her _____ choice of a borrowed scarf changed the whole outfit.",
+          "translation": "她随手选的借来围巾，改变了整套搭配。",
+          "options": [
+            "spontaneous",
+            "curated",
+            "authentic"
+          ],
+          "answer": "spontaneous",
+          "explanation": "happening naturally without being planned in advance",
+          "optionGlosses": {
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-1-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The shop presented a _____ selection of second-hand jackets.",
+          "translation": "商店展示了一批精心挑选的二手夹克。",
+          "options": [
+            "curated",
+            "spontaneous",
+            "authentic"
+          ],
+          "answer": "curated",
+          "explanation": "carefully selected and arranged for a particular purpose",
+          "optionGlosses": {
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-2-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The outfit felt _____ because it reflected the musician’s everyday life.",
+          "translation": "这套衣服贴近音乐人的日常生活，因此显得真实。",
+          "options": [
+            "authentic",
+            "spontaneous",
+            "curated"
+          ],
+          "answer": "authentic",
+          "explanation": "genuine and true to its origin or to a person’s experience",
+          "optionGlosses": {
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-3-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The exhibition prompted a _____ of interest in early concert posters.",
+          "translation": "展览让人们重新对早期演出海报产生兴趣。",
+          "options": [
+            "revival",
+            "spontaneous",
+            "curated"
+          ],
+          "answer": "revival",
+          "explanation": "a return to use, attention or popularity after a quieter period",
+          "optionGlosses": {
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            },
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-4-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The _____ leather had softened around the elbows.",
+          "translation": "穿旧的皮革在肘部变得柔软。",
+          "options": [
+            "worn",
+            "spontaneous",
+            "curated"
+          ],
+          "answer": "worn",
+          "explanation": "showing signs of repeated use",
+          "optionGlosses": {
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            },
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-5-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "We had to _____ an outfit from the clothes already in the suitcase.",
+          "translation": "我们只能用行李箱里已有的衣服临时搭出一套。",
+          "options": [
+            "improvise",
+            "spontaneous",
+            "curated"
+          ],
+          "answer": "improvise",
+          "explanation": "to create or do something using what is available without a full plan",
+          "optionGlosses": {
+            "improvise": {
+              "en": "to create or do something using what is available without a full plan",
+              "zh": "即兴发挥；临时搭配"
+            },
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-0-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The photograph felt _____ because nobody had planned the pose.",
+          "translation": "没有人事先安排姿势，因此照片显得很自然。",
+          "options": [
+            "spontaneous",
+            "authentic",
+            "revival",
+            "worn"
+          ],
+          "answer": "spontaneous",
+          "explanation": "happening naturally without being planned in advance",
+          "optionGlosses": {
+            "spontaneous": {
+              "en": "happening naturally without being planned in advance",
+              "zh": "自发的；随性的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            },
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-1-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "Every detail of the _____ image had been chosen before the shoot.",
+          "translation": "拍摄前，精心经营的形象中的每个细节都已经选好。",
+          "options": [
+            "curated",
+            "authentic",
+            "revival",
+            "worn"
+          ],
+          "answer": "curated",
+          "explanation": "carefully selected and arranged for a particular purpose",
+          "optionGlosses": {
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            },
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-2-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "She wanted an _____ expression of her taste rather than a copied costume.",
+          "translation": "她想真诚表达自己的品味，而不是复制一套戏服。",
+          "options": [
+            "authentic",
+            "curated",
+            "revival",
+            "worn"
+          ],
+          "answer": "authentic",
+          "explanation": "genuine and true to its origin or to a person’s experience",
+          "optionGlosses": {
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            },
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-3-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A style _____ brings familiar clothes into a different cultural moment.",
+          "translation": "风格复兴让熟悉的衣服来到不同的文化时刻。",
+          "options": [
+            "revival",
+            "curated",
+            "authentic",
+            "worn"
+          ],
+          "answer": "revival",
+          "explanation": "a return to use, attention or popularity after a quieter period",
+          "optionGlosses": {
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-4-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "She kept the _____ jacket because it was comfortable and full of memories.",
+          "translation": "她留下旧夹克，因为它舒适且承载回忆。",
+          "options": [
+            "worn",
+            "curated",
+            "authentic",
+            "revival"
+          ],
+          "answer": "worn",
+          "explanation": "showing signs of repeated use",
+          "optionGlosses": {
+            "worn": {
+              "en": "showing signs of repeated use",
+              "zh": "穿旧的；有使用痕迹的"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            }
+          }
+        },
+        {
+          "id": "fashion-S02-5-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The missing belt encouraged her to _____ with a narrow scarf.",
+          "translation": "腰带不见了，她便即兴用细围巾代替。",
+          "options": [
+            "improvise",
+            "curated",
+            "authentic",
+            "revival"
+          ],
+          "answer": "improvise",
+          "explanation": "to create or do something using what is available without a full plan",
+          "optionGlosses": {
+            "improvise": {
+              "en": "to create or do something using what is available without a full plan",
+              "zh": "即兴发挥；临时搭配"
+            },
+            "curated": {
+              "en": "carefully selected and arranged for a particular purpose",
+              "zh": "精心挑选并安排的"
+            },
+            "authentic": {
+              "en": "genuine and true to its origin or to a person’s experience",
+              "zh": "真实的；真诚的"
+            },
+            "revival": {
+              "en": "a return to use, attention or popularity after a quieter period",
+              "zh": "复兴；重新流行"
+            }
+          }
+        }
+      ],
+      "readingQuestions": [],
+      "plan": [
+        {
+          "phase": "card",
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 0
+        },
+        {
+          "phase": "card",
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 1
+        },
+        {
+          "phase": "card",
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 2
+        },
+        {
+          "phase": "card",
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 3
+        },
+        {
+          "phase": "card",
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 4
+        },
+        {
+          "phase": "card",
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 6,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 7,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 8,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 9,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 10,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 11,
+          "mixed": true
+        },
+        {
+          "phase": "reading"
+        }
+      ],
+      "article": {
+        "kind": "learning-adaptation",
+        "title": "Can We Ever Really Have an Indie-Sleaze Revival? Vogue Fashion Writers Debate",
+        "source": {
+          "url": "https://www.vogue.com/article/indie-sleaze-revival-vogue-fashion-writers-debate",
+          "title": "Can We Ever Really Have an Indie-Sleaze Revival? Vogue Fashion Writers Debate",
+          "publisher": "Vogue",
+          "author": "Christian Allaire; Hannah Jackson",
+          "date": "2025-03-20",
+          "checked_on": "2026-10-29",
+          "verification": "正文已通过公开网页读取",
+          "access_note": "核验时可读取正文；外站访问条件可能变化。",
+          "quote_en": "a curated image is everything",
+          "quote_zh": "精心经营的形象成了一切。"
+        },
+        "publisher": "Vogue",
+        "date": "2025-03-20",
+        "url": "https://www.vogue.com/article/indie-sleaze-revival-vogue-fashion-writers-debate",
+        "paragraphs": [
+          {
+            "en": "Vogue writers Christian Allaire and Hannah Jackson debate whether indie sleaze can return. They recall clothes assembled with little planning and ask what happens when contemporary images are carefully managed. Their conversation leaves room for different views on how a revival might feel.",
+            "zh": "两位 Vogue 作者讨论 Indie Sleaze 能否回归：当代形象经过细致经营，旧日随意拼搭的气质还能保留多少？这是对谈中的不同判断，而非定论。"
+          },
+          {
+            "en": "For our own styling experiment, open a suitcase before a small concert. There is a worn jacket, a plain shirt, a skirt and one scarf. The challenge is to improvise without shopping. Try the scarf as a loose belt, then remove it. Which version seems like an authentic expression of the wearer, rather than a copy of a photograph?",
+            "zh": "我们的搭配实验从演出前的行李箱开始：旧夹克、普通上衣、裙子和围巾。试着不买新东西，即兴搭配。哪个版本更像穿着者自己的表达，而不是对照片的模仿？"
+          },
+          {
+            "en": "A spontaneous choice does not have to be careless. Sleeves still need to move, and shoes still need to fit. Equally, a curated outfit does not have to look stiff. A revival becomes interesting when an old detail meets a present need. Keep the jacket because its softened surface feels good, not because a trend says the exact decade must return.",
+            "zh": "随性的选择不等于不顾舒适；精心安排的搭配也不必僵硬。让旧细节回应今天的需要，复兴才会变得有趣。保留夹克可以是因为穿旧的表面舒服，而不只是为了复刻某个年代。"
+          }
+        ]
+      },
+      "reward": {
+        "card": {
+          "id": "C02-C",
+          "title": "The Borrowed Jacket",
+          "titleZh": "借来的夹克",
+          "palette": [
+            {
+              "name_zh": "烟棕",
+              "hex": "#6F5147",
+              "target_percent": 60
+            },
+            {
+              "name_zh": "钴蓝",
+              "hex": "#315FC2",
+              "target_percent": 30
+            },
+            {
+              "name_zh": "褪粉",
+              "hex": "#CA9C9F",
+              "target_percent": 10
+            }
+          ],
+          "design": "The jacket is visibly more generous than the clothes beneath it. A long cobalt tank crosses the waist of an offset checked skirt. Muted pink socks interrupt the brown leather, making the colour combination slightly unresolved.",
+          "designZh": "宽大的穿旧皮夹克搭配长罗纹背心与不对称裹裙，保留随手借来外套的松弛感；重点是材料使用痕迹与不刻意的层次。",
+          "status": "concept_only"
+        },
+        "items": [
+          {
+            "id": "autumn-leather-overshirt-v1",
+            "name": "慢拍日常 · 贴袋皮衬衫外套",
+            "nameEn": "Slow Days · Shirt",
+            "slot": "coat",
+            "image": "/assets/materials/garments/autumn-leather-overshirt-v1/front.png",
+            "thumbnail": "/assets/materials/garments/autumn-leather-overshirt-v1/sleeve-repaint-v1-thumb.png"
+          },
+          {
+            "id": "runway-washed-straight-jeans",
+            "name": "放学以后 · 水洗直筒牛仔裤",
+            "nameEn": "After School · Denim Trousers",
+            "slot": "bottom",
+            "image": "/assets/materials/garments/runway-washed-straight-jeans/front.png",
+            "thumbnail": "/assets/materials/garments/runway-washed-straight-jeans/thumb.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fashion-atlas-s03",
+      "number": 3,
+      "fashion": true,
+      "readingOptional": true,
+      "seriesId": "S03",
+      "title": "Blokette · Beyond the Stadium",
+      "titleZh": "Blokette · 球衣混搭",
+      "word": "jersey · lace · ribbon · conventional · juxtapose · fluid",
+      "words": [
+        {
+          "word": "jersey",
+          "definition": "a knitted sports shirt, often associated with a team",
+          "meaning": "运动球衣",
+          "phrases": [
+            "a football jersey",
+            "a loose jersey"
+          ],
+          "examples": [
+            {
+              "en": "She wore a football jersey over a narrow satin skirt.",
+              "zh": "她把足球球衣穿在窄长缎面裙外。"
+            },
+            {
+              "en": "The loose jersey left enough room to move her arms freely.",
+              "zh": "宽松球衣给手臂留下充分的活动空间。"
+            }
+          ]
+        },
+        {
+          "word": "lace",
+          "definition": "a delicate fabric with an open decorative pattern",
+          "meaning": "蕾丝",
+          "phrases": [
+            "a lace trim",
+            "delicate lace"
+          ],
+          "examples": [
+            {
+              "en": "A strip of lace softened the edge of the sporty top.",
+              "zh": "一条蕾丝柔化了运动上衣的边缘。"
+            },
+            {
+              "en": "The delicate lace allowed the darker fabric beneath it to show through.",
+              "zh": "透过细致的蕾丝，可以看见下面较深色的布料。"
+            }
+          ]
+        },
+        {
+          "word": "ribbon",
+          "definition": "a narrow strip of fabric used for tying or decoration",
+          "meaning": "缎带；饰带",
+          "phrases": [
+            "a ribbon bow",
+            "tie a ribbon"
+          ],
+          "examples": [
+            {
+              "en": "A narrow ribbon tied the colours of the shoes and shirt together.",
+              "zh": "一条窄饰带将鞋与上衣的颜色联系起来。"
+            },
+            {
+              "en": "She moved the ribbon from her hair to the handle of her bag.",
+              "zh": "她把饰带从头发移到了包柄上。"
+            }
+          ]
+        },
+        {
+          "word": "conventional",
+          "definition": "following established or traditional ways of doing things",
+          "meaning": "传统的；惯常的",
+          "phrases": [
+            "conventional categories",
+            "a conventional outfit"
+          ],
+          "examples": [
+            {
+              "en": "The stylist questioned conventional categories of formal and casual clothing.",
+              "zh": "造型师质疑正式装与休闲装之间的惯常分类。"
+            },
+            {
+              "en": "A conventional outfit was useful for the ceremony, but not required afterwards.",
+              "zh": "典礼时传统搭配很实用，但结束后并不一定要继续穿。"
+            }
+          ]
+        },
+        {
+          "word": "juxtapose",
+          "definition": "to place different things next to each other so their relationship is noticeable",
+          "meaning": "并置；对照放置",
+          "phrases": [
+            "juxtapose two textures",
+            "juxtapose sport and satin"
+          ],
+          "examples": [
+            {
+              "en": "The editor chose to juxtapose a sports shirt with a delicate skirt.",
+              "zh": "编辑选择把运动上衣与精致裙子并置。"
+            },
+            {
+              "en": "We can juxtapose rough and smooth surfaces without making either one disappear.",
+              "zh": "粗糙和平滑的表面可以并置，同时保留各自特点。"
+            }
+          ]
+        },
+        {
+          "word": "fluid",
+          "definition": "able to move or change smoothly rather than stay rigid",
+          "meaning": "流动的；灵活的",
+          "phrases": [
+            "a fluid silhouette",
+            "fluid movement"
+          ],
+          "examples": [
+            {
+              "en": "The skirt formed a fluid line when she walked.",
+              "zh": "她走动时，裙子形成流动的线条。"
+            },
+            {
+              "en": "Their approach to styling was fluid rather than fixed by strict categories.",
+              "zh": "他们的搭配方式灵活，并不被严格分类固定。"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "id": "fashion-S03-0-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "She wore a football _____ over a narrow satin skirt.",
+          "translation": "她把足球球衣穿在窄长缎面裙外。",
+          "options": [
+            "jersey",
+            "lace",
+            "ribbon"
+          ],
+          "answer": "jersey",
+          "explanation": "a knitted sports shirt, often associated with a team",
+          "optionGlosses": {
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-1-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A strip of _____ softened the edge of the sporty top.",
+          "translation": "一条蕾丝柔化了运动上衣的边缘。",
+          "options": [
+            "lace",
+            "jersey",
+            "ribbon"
+          ],
+          "answer": "lace",
+          "explanation": "a delicate fabric with an open decorative pattern",
+          "optionGlosses": {
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-2-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A narrow _____ tied the colours of the shoes and shirt together.",
+          "translation": "一条窄饰带将鞋与上衣的颜色联系起来。",
+          "options": [
+            "ribbon",
+            "jersey",
+            "lace"
+          ],
+          "answer": "ribbon",
+          "explanation": "a narrow strip of fabric used for tying or decoration",
+          "optionGlosses": {
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-3-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The stylist questioned _____ categories of formal and casual clothing.",
+          "translation": "造型师质疑正式装与休闲装之间的惯常分类。",
+          "options": [
+            "conventional",
+            "jersey",
+            "lace"
+          ],
+          "answer": "conventional",
+          "explanation": "following established or traditional ways of doing things",
+          "optionGlosses": {
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            },
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-4-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The editor chose to _____ a sports shirt with a delicate skirt.",
+          "translation": "编辑选择把运动上衣与精致裙子并置。",
+          "options": [
+            "juxtapose",
+            "jersey",
+            "lace"
+          ],
+          "answer": "juxtapose",
+          "explanation": "to place different things next to each other so their relationship is noticeable",
+          "optionGlosses": {
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            },
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-5-0",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The skirt formed a _____ line when she walked.",
+          "translation": "她走动时，裙子形成流动的线条。",
+          "options": [
+            "fluid",
+            "jersey",
+            "lace"
+          ],
+          "answer": "fluid",
+          "explanation": "able to move or change smoothly rather than stay rigid",
+          "optionGlosses": {
+            "fluid": {
+              "en": "able to move or change smoothly rather than stay rigid",
+              "zh": "流动的；灵活的"
+            },
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-0-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The loose _____ left enough room to move her arms freely.",
+          "translation": "宽松球衣给手臂留下充分的活动空间。",
+          "options": [
+            "jersey",
+            "ribbon",
+            "conventional",
+            "juxtapose"
+          ],
+          "answer": "jersey",
+          "explanation": "a knitted sports shirt, often associated with a team",
+          "optionGlosses": {
+            "jersey": {
+              "en": "a knitted sports shirt, often associated with a team",
+              "zh": "运动球衣"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            },
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-1-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "The delicate _____ allowed the darker fabric beneath it to show through.",
+          "translation": "透过细致的蕾丝，可以看见下面较深色的布料。",
+          "options": [
+            "lace",
+            "ribbon",
+            "conventional",
+            "juxtapose"
+          ],
+          "answer": "lace",
+          "explanation": "a delicate fabric with an open decorative pattern",
+          "optionGlosses": {
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            },
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-2-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "She moved the _____ from her hair to the handle of her bag.",
+          "translation": "她把饰带从头发移到了包柄上。",
+          "options": [
+            "ribbon",
+            "lace",
+            "conventional",
+            "juxtapose"
+          ],
+          "answer": "ribbon",
+          "explanation": "a narrow strip of fabric used for tying or decoration",
+          "optionGlosses": {
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            },
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-3-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "A _____ outfit was useful for the ceremony, but not required afterwards.",
+          "translation": "典礼时传统搭配很实用，但结束后并不一定要继续穿。",
+          "options": [
+            "conventional",
+            "lace",
+            "ribbon",
+            "juxtapose"
+          ],
+          "answer": "conventional",
+          "explanation": "following established or traditional ways of doing things",
+          "optionGlosses": {
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-4-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "We can _____ rough and smooth surfaces without making either one disappear.",
+          "translation": "粗糙和平滑的表面可以并置，同时保留各自特点。",
+          "options": [
+            "juxtapose",
+            "lace",
+            "ribbon",
+            "conventional"
+          ],
+          "answer": "juxtapose",
+          "explanation": "to place different things next to each other so their relationship is noticeable",
+          "optionGlosses": {
+            "juxtapose": {
+              "en": "to place different things next to each other so their relationship is noticeable",
+              "zh": "并置；对照放置"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            }
+          }
+        },
+        {
+          "id": "fashion-S03-5-1",
+          "revision": 1,
+          "type": "context",
+          "prompt": "Their approach to styling was _____ rather than fixed by strict categories.",
+          "translation": "他们的搭配方式灵活，并不被严格分类固定。",
+          "options": [
+            "fluid",
+            "lace",
+            "ribbon",
+            "conventional"
+          ],
+          "answer": "fluid",
+          "explanation": "able to move or change smoothly rather than stay rigid",
+          "optionGlosses": {
+            "fluid": {
+              "en": "able to move or change smoothly rather than stay rigid",
+              "zh": "流动的；灵活的"
+            },
+            "lace": {
+              "en": "a delicate fabric with an open decorative pattern",
+              "zh": "蕾丝"
+            },
+            "ribbon": {
+              "en": "a narrow strip of fabric used for tying or decoration",
+              "zh": "缎带；饰带"
+            },
+            "conventional": {
+              "en": "following established or traditional ways of doing things",
+              "zh": "传统的；惯常的"
+            }
+          }
+        }
+      ],
+      "readingQuestions": [],
+      "plan": [
+        {
+          "phase": "card",
+          "wordIndex": 0
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 0
+        },
+        {
+          "phase": "card",
+          "wordIndex": 1
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 1
+        },
+        {
+          "phase": "card",
+          "wordIndex": 2
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 2
+        },
+        {
+          "phase": "card",
+          "wordIndex": 3
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 3
+        },
+        {
+          "phase": "card",
+          "wordIndex": 4
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 4
+        },
+        {
+          "phase": "card",
+          "wordIndex": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 5
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 0,
+          "index": 6,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 1,
+          "index": 7,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 2,
+          "index": 8,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 3,
+          "index": 9,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 4,
+          "index": 10,
+          "mixed": true
+        },
+        {
+          "phase": "quiz",
+          "wordIndex": 5,
+          "index": 11,
+          "mixed": true
+        },
+        {
+          "phase": "reading"
+        }
+      ],
+      "article": {
+        "kind": "learning-adaptation",
+        "title": "What’s the deal with TikTok’s ‘blokette’ aesthetic?",
+        "source": {
+          "url": "https://fashionjournal.com.au/fashion/blokette-aesthetic-tiktok/",
+          "title": "What’s the deal with TikTok’s ‘blokette’ aesthetic?",
+          "publisher": "Fashion Journal",
+          "author": "Ella Katz",
+          "date": "2023-08-14",
+          "checked_on": "2026-10-29",
+          "verification": "正文已通过公开网页读取",
+          "access_note": "核验时可读取正文；外站访问条件可能变化。",
+          "quote_en": "But fashion isn’t just visual. It’s political.",
+          "quote_zh": "时尚不仅关乎视觉，也涉及政治。"
+        },
+        "publisher": "Fashion Journal",
+        "date": "2023-08-14",
+        "url": "https://fashionjournal.com.au/fashion/blokette-aesthetic-tiktok/",
+        "paragraphs": [
+          {
+            "en": "Ella Katz describes blokette through sportswear and coquette details, then questions its relationship with gender categories. Her argument is more critical than a simple celebration of mixing: combining familiar masculine and feminine symbols does not automatically challenge the categories themselves.",
+            "zh": "Ella Katz 从运动装与甜美细节谈起，也质疑这种混搭是否真的改变了性别分类。把两组既有符号放在一起，并不自动意味着打破分类。"
+          },
+          {
+            "en": "At our styling table, place a jersey beside a skirt with a lace edge. Add a ribbon, but do not attach it yet. To juxtapose these pieces is to make their differences visible: knitted sportswear next to an open decorative surface, a broad shape next to a narrow strip of fabric. The contrast can work without erasing either material.",
+            "zh": "在搭配桌上，把球衣放在蕾丝边裙子旁，再放一条还没系上的饰带。并置是让材料之间的区别被看见：针织运动装、镂空装饰表面、宽阔形状与细窄布条。"
+          },
+          {
+            "en": "Try three arrangements. Tie the ribbon to a bag, move it to the waist, then leave it out. Watch whether the skirt keeps a fluid line when the wearer walks. Conventional categories can be a starting point for discussion, but an outfit cannot tell you somebody’s identity. Describe what the garments actually do: how they move, fit and relate to one another.",
+            "zh": "试试把饰带系到包上、移到腰间，再完全取下。观察走动时裙子是否保持流动的线条。传统分类可以成为讨论起点，却不能凭衣服推断一个人的身份；更有用的是描述衣物的活动、合身与相互关系。"
+          }
+        ]
+      },
+      "reward": {
+        "card": {
+          "id": "C03-A",
+          "title": "Terraces and Satin",
+          "titleZh": "看台与缎光",
+          "palette": [
+            {
+              "name_zh": "海军蓝",
+              "hex": "#203963",
+              "target_percent": 60
+            },
+            {
+              "name_zh": "奶白",
+              "hex": "#F0EBDD",
+              "target_percent": 30
+            },
+            {
+              "name_zh": "铜橙",
+              "hex": "#C67B45",
+              "target_percent": 10
+            }
+          ],
+          "design": "A wide navy jersey ends above a long satin skirt. The contrast is between width and length as much as sport and ornament. Copper-orange flats keep the lower edge distinct without adding another decorative layer.",
+          "designZh": "宽阔的海军蓝球衣落在长缎裙上方。反差既来自运动与装饰，也来自宽度与长度。铜橙色平底鞋清楚地收住下缘，不再叠加装饰。",
+          "status": "concept_only"
+        },
+        "items": [
+          {
+            "id": "separate-v1-mustard-polo",
+            "name": "慢拍日常 · 条纹长袖Polo衫",
+            "nameEn": "Slow Days · Striped Polo Shirt",
+            "slot": "top",
+            "image": "/assets/materials/garments/separate-v1-mustard-polo/saved/1227-2a7a1eed1c86/front.png",
+            "thumbnail": "/assets/materials/published/panel-previews/separate-v1-mustard-polo-24e5166c1e30.png"
+          },
+          {
+            "id": "capsule-mermaid-satin",
+            "name": "午后留白 · 斜裁垂坠鱼尾裙",
+            "nameEn": "Afternoon Pause · Skirt",
+            "slot": "bottom",
+            "image": "/assets/materials/garments/capsule-mermaid-satin/mermaid-modern-v2/front.png",
+            "thumbnail": "/assets/materials/garments/capsule-mermaid-satin/mermaid-modern-v2/thumb.png"
+          }
+        ]
+      }
+    }
+  ]
+}

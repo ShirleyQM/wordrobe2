@@ -18,3 +18,15 @@
 重建：python3 scripts/build_v5.py
 
 需要PDF时点击网页的“打印 / 存为 PDF”；本包不混入旧版PDF。
+
+
+## 前三篇游戏关卡
+
+进入 [学习页](../learn.html) 的 Fashion Atlas。S01–S03 各含 6 张单词卡、12 道语境练习、可选的扩展阅读。原文短引不扩抄，新增段落区分来源导读与原创搭配练习。中文释义、例句译文和段落翻译均由界面主动展开。
+
+完成单词与练习即可领取 40 积分、1 张典藏卡和 2 件现有可穿服装；阅读不作为领取条件。典藏卡采用 C01-A、C02-C、C03-A 的原设计身份。服装奖励是从当前展示库选出的灵感搭配，原设计中 concept_only 的服装仍未制作，不冒充已制成素材。
+
+进度沿用 word-atelier-journey-v1，钱包沿用 word-atelier-wallet-v1；卡册为 wordrobe-fashion-cards-v1。关卡使用 fashion-atlas-s01 至 s03 独立 ID。重复回看不重复发积分，服装发放幂等，已有 30 关与手调数据不覆盖。
+
+内容：assets/learning/fashion-lessons.json；控制器：assets/learning/fashion-atlas.js；作者数据及校验：tools/fashion-atlas/。运行 node tools/fashion-atlas/build.cjs 重建三关，运行 node tools/fashion-atlas/test.cjs 验证奖励与可选阅读。
+
