@@ -12,7 +12,7 @@ const artDeliverySync=require('./art-delivery-sync.cjs')(root);
 const garmentDeletions=require('./garment-deletions.cjs')(root);
 const wardrobePolicy=require('./wardrobe-policy.cjs')(root);
 const {canonicalURL}=require('./asset-paths.cjs');
-const types = {'.woff2':'font/woff2','.ttf':'font/ttf','.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.png':'image/png','.json':'application/json; charset=utf-8','.txt':'text/plain; charset=utf-8','.zip':'application/zip'};
+const types = {'.woff2':'font/woff2','.ttf':'font/ttf','.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.webp':'image/webp','.png':'image/png','.json':'application/json; charset=utf-8','.txt':'text/plain; charset=utf-8','.zip':'application/zip'};
 const server=http.createServer(async(req,res)=>{
   let pathname;try{pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);}catch(e){res.writeHead(400);res.end();return;}
   if(await learningRoute(req,res,pathname))return;
@@ -27,7 +27,7 @@ const server=http.createServer(async(req,res)=>{
   if(await wardrobeRoute(req,res,pathname))return;
   pathname=canonicalURL(root,pathname);
   const file=path.resolve(root,'.'+(pathname==='/'?'/index.html':pathname));
-  const allowedAsset=file.startsWith(path.join(root,'assets')+path.sep)&&['.png','.html','.json','.js','.txt','.css','.zip','.woff2','.ttf'].includes(path.extname(file));
+  const allowedAsset=file.startsWith(path.join(root,'assets')+path.sep)&&['.webp','.png','.html','.json','.js','.txt','.css','.zip','.woff2','.ttf'].includes(path.extname(file));
   if(!file.startsWith(root+path.sep)||!allowedAsset&&!['index.html','mobile.html','materials.html','learn.html','style.css','app.js','gre-data.js','print.html','print.css','print.js'].includes(path.basename(file))){res.writeHead(404);res.end('Not found');return;}
   let stat;try{stat=fs.statSync(file);}catch(e){res.writeHead(404);res.end('Not found');return;}
   const etag='"'+stat.size.toString(16)+'-'+Math.trunc(stat.mtimeMs).toString(16)+'"';
