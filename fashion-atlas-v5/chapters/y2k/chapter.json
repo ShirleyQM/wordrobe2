@@ -2,7 +2,7 @@
   "id": "y2k-complete-v1",
   "title": "Cyber Y2K · 记忆里的未来",
   "audience": "建议 B1 起；B1–B2 的时尚主题阅读原型，尚未进行学习者分级测试。",
-  "minutes": 29,
+  "minutes": 35,
   "words": [
     {
       "id": "silhouette",
@@ -468,7 +468,7 @@
   "levels": [
     {
       "id": 1,
-      "title": "轮廓与光",
+      "title": "轨道静默 · 从单品学轮廓",
       "goal": "学会描述形状、贴合与光泽。",
       "new_words": [
         "silhouette",
@@ -482,7 +482,7 @@
       ],
       "review_words": [],
       "text_id": null,
-      "minutes": 4,
+      "minutes": 6,
       "reward_card": null,
       "questions": [
         {
@@ -498,8 +498,12 @@
           "word_ids": [
             "silhouette"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q1"
+          "evidence": "单品说明：立领几何短裙、银色方头长靴；对应词条与例句",
+          "id": "y2k-l1-q1",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-boots"
+          ]
         },
         {
           "type": "meaning",
@@ -514,8 +518,12 @@
           "word_ids": [
             "metallic"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q2"
+          "evidence": "单品说明：银色方头长靴、银色月牙包；对应词条与例句",
+          "id": "y2k-l1-q2",
+          "item_ids": [
+            "orbital-boots",
+            "orbital-bag"
+          ]
         },
         {
           "type": "meaning",
@@ -531,8 +539,11 @@
             "structured",
             "fitted"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q3"
+          "evidence": "单品说明：立领几何短裙；对应词条与例句",
+          "id": "y2k-l1-q3",
+          "item_ids": [
+            "orbital-dress"
+          ]
         },
         {
           "type": "cloze",
@@ -547,8 +558,11 @@
           "word_ids": [
             "translucent"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q4"
+          "evidence": "单品说明：冰蓝透明肩罩；对应词条与例句",
+          "id": "y2k-l1-q4",
+          "item_ids": [
+            "orbital-cape"
+          ]
         },
         {
           "type": "cloze",
@@ -564,8 +578,13 @@
             "contrast",
             "texture"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q5"
+          "evidence": "单品说明：冰蓝透明肩罩、银色方头长靴、银色月牙包；对应词条与例句",
+          "id": "y2k-l1-q5",
+          "item_ids": [
+            "orbital-cape",
+            "orbital-boots",
+            "orbital-bag"
+          ]
         },
         {
           "type": "spelling",
@@ -576,10 +595,21 @@
           "word_ids": [
             "geometric"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l1-q6"
+          "evidence": "单品说明：立领几何短裙、银色月牙包；对应词条与例句",
+          "id": "y2k-l1-q6",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-bag"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "orbital-dress",
+        "orbital-cape",
+        "orbital-boots",
+        "orbital-bag"
+      ],
+      "learning_mode": "item-led"
     },
     {
       "id": 2,
@@ -615,7 +645,12 @@
             "geometric"
           ],
           "evidence": "t1 P1",
-          "id": "y2k-l2-q1"
+          "id": "y2k-l2-q1",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-boots",
+            "orbital-bag"
+          ]
         },
         {
           "type": "reading",
@@ -633,7 +668,12 @@
             "metallic"
           ],
           "evidence": "t1 P2",
-          "id": "y2k-l2-q2"
+          "id": "y2k-l2-q2",
+          "item_ids": [
+            "orbital-cape",
+            "orbital-boots",
+            "orbital-bag"
+          ]
         },
         {
           "type": "reading",
@@ -647,7 +687,13 @@
           "explanation": "P3 明确区分视觉未来感与技术功能。",
           "word_ids": [],
           "evidence": "t1 P3",
-          "id": "y2k-l2-q3"
+          "id": "y2k-l2-q3",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-cape",
+            "orbital-boots",
+            "orbital-bag"
+          ]
         },
         {
           "type": "meaning",
@@ -664,7 +710,11 @@
             "silhouette"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l2-q4"
+          "id": "y2k-l2-q4",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-boots"
+          ]
         },
         {
           "type": "cloze",
@@ -680,7 +730,10 @@
             "structured"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l2-q5"
+          "id": "y2k-l2-q5",
+          "item_ids": [
+            "orbital-dress"
+          ]
         },
         {
           "type": "meaning",
@@ -696,13 +749,24 @@
             "geometric"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l2-q6"
+          "id": "y2k-l2-q6",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-bag"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "orbital-dress",
+        "orbital-cape",
+        "orbital-boots",
+        "orbital-bag"
+      ],
+      "learning_mode": "item-led"
     },
     {
       "id": 3,
-      "title": "丹宁的表面",
+      "title": "失真频段 · 从单品学丹宁",
       "goal": "分清洗水、做旧、毛边与接缝。",
       "new_words": [
         "layered",
@@ -716,7 +780,7 @@
       ],
       "review_words": [],
       "text_id": null,
-      "minutes": 4,
+      "minutes": 6,
       "reward_card": null,
       "questions": [
         {
@@ -733,8 +797,11 @@
             "distressed",
             "denim"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q1"
+          "evidence": "单品说明：宽肩短丹宁夹克；对应词条与例句",
+          "id": "y2k-l3-q1",
+          "item_ids": [
+            "frequency-jacket"
+          ]
         },
         {
           "type": "meaning",
@@ -749,8 +816,12 @@
           "word_ids": [
             "hardware"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q2"
+          "evidence": "单品说明：斜腰头阔腿裤、银黑厚底鞋；对应词条与例句",
+          "id": "y2k-l3-q2",
+          "item_ids": [
+            "frequency-trousers",
+            "frequency-shoes"
+          ]
         },
         {
           "type": "meaning",
@@ -766,8 +837,12 @@
             "oversized",
             "layered"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q3"
+          "evidence": "单品说明：宽肩短丹宁夹克、紫色青柠边背心；对应词条与例句",
+          "id": "y2k-l3-q3",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-vest"
+          ]
         },
         {
           "type": "cloze",
@@ -782,8 +857,12 @@
           "word_ids": [
             "washed"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q4"
+          "evidence": "单品说明：宽肩短丹宁夹克、斜腰头阔腿裤；对应词条与例句",
+          "id": "y2k-l3-q4",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-trousers"
+          ]
         },
         {
           "type": "cloze",
@@ -798,8 +877,11 @@
           "word_ids": [
             "frayed"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q5"
+          "evidence": "单品说明：宽肩短丹宁夹克；对应词条与例句",
+          "id": "y2k-l3-q5",
+          "item_ids": [
+            "frequency-jacket"
+          ]
         },
         {
           "type": "spelling",
@@ -810,10 +892,20 @@
           "word_ids": [
             "seam"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l3-q6"
+          "evidence": "单品说明：斜腰头阔腿裤；对应词条与例句",
+          "id": "y2k-l3-q6",
+          "item_ids": [
+            "frequency-trousers"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "frequency-jacket",
+        "frequency-trousers",
+        "frequency-vest",
+        "frequency-shoes"
+      ],
+      "learning_mode": "item-led"
     },
     {
       "id": 4,
@@ -850,7 +942,11 @@
             "layered"
           ],
           "evidence": "t2 P1",
-          "id": "y2k-l4-q1"
+          "id": "y2k-l4-q1",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-vest"
+          ]
         },
         {
           "type": "reading",
@@ -867,7 +963,11 @@
             "frayed"
           ],
           "evidence": "t2 P2",
-          "id": "y2k-l4-q2"
+          "id": "y2k-l4-q2",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-trousers"
+          ]
         },
         {
           "type": "reading",
@@ -881,7 +981,13 @@
           "explanation": "P3 说明道具是故事线索，不是年代证据。",
           "word_ids": [],
           "evidence": "t2 P3",
-          "id": "y2k-l4-q3"
+          "id": "y2k-l4-q3",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-trousers",
+            "frequency-vest",
+            "frequency-shoes"
+          ]
         },
         {
           "type": "meaning",
@@ -897,7 +1003,11 @@
             "hardware"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l4-q4"
+          "id": "y2k-l4-q4",
+          "item_ids": [
+            "frequency-trousers",
+            "frequency-shoes"
+          ]
         },
         {
           "type": "cloze",
@@ -913,7 +1023,10 @@
             "seam"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l4-q5"
+          "id": "y2k-l4-q5",
+          "item_ids": [
+            "frequency-trousers"
+          ]
         },
         {
           "type": "meaning",
@@ -929,13 +1042,23 @@
             "denim"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l4-q6"
+          "id": "y2k-l4-q6",
+          "item_ids": [
+            "frequency-jacket"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "frequency-jacket",
+        "frequency-trousers",
+        "frequency-vest",
+        "frequency-shoes"
+      ],
+      "learning_mode": "item-led"
     },
     {
       "id": 5,
-      "title": "液态回声 · 柔软未来",
+      "title": "液态回声 · 从单品学垂褶",
       "goal": "把流动、透明和不对称说清楚。",
       "new_words": [
         "fluid",
@@ -949,7 +1072,7 @@
       ],
       "review_words": [],
       "text_id": "t3",
-      "minutes": 6,
+      "minutes": 7,
       "reward_card": null,
       "questions": [
         {
@@ -966,8 +1089,13 @@
             "fluid",
             "sheer"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l5-q1"
+          "evidence": "单品说明：不对称抽褶短裙、薄纱袖与镂空袖套、金属紫厚底凉鞋；对应词条与例句",
+          "id": "y2k-l5-q1",
+          "item_ids": [
+            "echo-dress",
+            "echo-sleeves",
+            "echo-sandals"
+          ]
         },
         {
           "type": "meaning",
@@ -982,8 +1110,11 @@
           "word_ids": [
             "draped"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l5-q2"
+          "evidence": "单品说明：不对称抽褶短裙；对应词条与例句",
+          "id": "y2k-l5-q2",
+          "item_ids": [
+            "echo-dress"
+          ]
         },
         {
           "type": "meaning",
@@ -998,8 +1129,11 @@
           "word_ids": [
             "iridescent"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l5-q3"
+          "evidence": "单品说明：银色小包与双结发髻；对应词条与例句",
+          "id": "y2k-l5-q3",
+          "item_ids": [
+            "echo-accessories"
+          ]
         },
         {
           "type": "cloze",
@@ -1015,8 +1149,11 @@
             "revival",
             "nostalgia"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l5-q4"
+          "evidence": "单品说明：银色小包与双结发髻；对应词条与例句",
+          "id": "y2k-l5-q4",
+          "item_ids": [
+            "echo-accessories"
+          ]
         },
         {
           "type": "spelling",
@@ -1027,8 +1164,11 @@
           "word_ids": [
             "asymmetric"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l5-q5"
+          "evidence": "单品说明：不对称抽褶短裙；对应词条与例句",
+          "id": "y2k-l5-q5",
+          "item_ids": [
+            "echo-dress"
+          ]
         },
         {
           "type": "reading",
@@ -1044,9 +1184,19 @@
             "iridescent"
           ],
           "evidence": "t3 P2",
-          "id": "y2k-l5-q6"
+          "id": "y2k-l5-q6",
+          "item_ids": [
+            "echo-accessories"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "echo-dress",
+        "echo-sleeves",
+        "echo-sandals",
+        "echo-accessories"
+      ],
+      "learning_mode": "item-led"
     },
     {
       "id": 6,
@@ -1080,7 +1230,7 @@
         "proportion"
       ],
       "text_id": "t4",
-      "minutes": 5,
+      "minutes": 6,
       "reward_card": "S04-F03",
       "questions": [
         {
@@ -1098,7 +1248,10 @@
             "nostalgia"
           ],
           "evidence": "t4 P1",
-          "id": "y2k-l6-q1"
+          "id": "y2k-l6-q1",
+          "item_ids": [
+            "echo-accessories"
+          ]
         },
         {
           "type": "reading",
@@ -1116,7 +1269,11 @@
             "seam"
           ],
           "evidence": "t4 P2",
-          "id": "y2k-l6-q2"
+          "id": "y2k-l6-q2",
+          "item_ids": [
+            "frequency-jacket",
+            "frequency-trousers"
+          ]
         },
         {
           "type": "reading",
@@ -1133,7 +1290,11 @@
             "draped"
           ],
           "evidence": "t4 P2",
-          "id": "y2k-l6-q3"
+          "id": "y2k-l6-q3",
+          "item_ids": [
+            "echo-dress",
+            "echo-sandals"
+          ]
         },
         {
           "type": "reading",
@@ -1147,7 +1308,21 @@
           "explanation": "P3 指出设计是新的，颜色与廓形不同；共同点是对记忆中未来的再诠释。",
           "word_ids": [],
           "evidence": "t4 P3",
-          "id": "y2k-l6-q4"
+          "id": "y2k-l6-q4",
+          "item_ids": [
+            "orbital-dress",
+            "orbital-cape",
+            "orbital-boots",
+            "orbital-bag",
+            "frequency-jacket",
+            "frequency-trousers",
+            "frequency-vest",
+            "frequency-shoes",
+            "echo-dress",
+            "echo-sleeves",
+            "echo-sandals",
+            "echo-accessories"
+          ]
         },
         {
           "type": "cloze",
@@ -1163,7 +1338,11 @@
             "proportion"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l6-q5"
+          "id": "y2k-l6-q5",
+          "item_ids": [
+            "echo-dress",
+            "echo-sandals"
+          ]
         },
         {
           "type": "spelling",
@@ -1175,9 +1354,27 @@
             "sheer"
           ],
           "evidence": "词卡例句",
-          "id": "y2k-l6-q6"
+          "id": "y2k-l6-q6",
+          "item_ids": [
+            "echo-sleeves"
+          ]
         }
-      ]
+      ],
+      "item_ids": [
+        "orbital-dress",
+        "orbital-cape",
+        "orbital-boots",
+        "orbital-bag",
+        "frequency-jacket",
+        "frequency-trousers",
+        "frequency-vest",
+        "frequency-shoes",
+        "echo-dress",
+        "echo-sleeves",
+        "echo-sandals",
+        "echo-accessories"
+      ],
+      "learning_mode": "item-led"
     }
   ],
   "economy": {
@@ -1197,6 +1394,486 @@
       6
     ],
     "replay": "只保留各关最佳正确数；XP按最佳成绩差额补发。",
-    "mastery": "单词页可查看学习状态；“题中答对”只表示关联题曾独立答对，不宣称长期掌握。"
-  }
+    "mastery": "单词页可查看学习状态；“题中答对”只表示关联题曾独立答对，不宣称长期掌握。",
+    "item_practice": "12道单品随堂练习，答后解释，可重复，不加XP或星级；36道关卡题沿用原计分。"
+  },
+  "extension_words": [
+    {
+      "id": "cropped",
+      "en": "cropped",
+      "pos": "adj.",
+      "zh": "短款、衣长截短的",
+      "collocation": "a cropped denim jacket",
+      "example": "A cropped jacket ends above the waist.",
+      "translation": "短款夹克在腰线上方结束。"
+    },
+    {
+      "id": "waistband",
+      "en": "waistband",
+      "pos": "n.",
+      "zh": "腰头",
+      "collocation": "an angled waistband",
+      "example": "The waistband sits across the hips.",
+      "translation": "腰头横跨胯部。"
+    },
+    {
+      "id": "wide-leg",
+      "en": "wide-leg",
+      "pos": "adj.",
+      "zh": "阔腿的",
+      "collocation": "wide-leg trousers",
+      "example": "Wide-leg trousers add volume below the waist.",
+      "translation": "阔腿裤在腰部以下增加体积。"
+    },
+    {
+      "id": "platform sole",
+      "en": "platform sole",
+      "pos": "n. phrase",
+      "zh": "厚底鞋底",
+      "collocation": "a thick platform sole",
+      "example": "The platform sole adds height below the foot.",
+      "translation": "厚底在脚下增加高度。"
+    },
+    {
+      "id": "hem",
+      "en": "hem",
+      "pos": "n.",
+      "zh": "下摆边缘",
+      "collocation": "an asymmetric hem",
+      "example": "One side of the hem is longer.",
+      "translation": "下摆的一侧更长。"
+    },
+    {
+      "id": "neckline",
+      "en": "neckline",
+      "pos": "n.",
+      "zh": "领口线条",
+      "collocation": "a high neckline",
+      "example": "The high neckline frames the neck.",
+      "translation": "高领线条围绕颈部。"
+    },
+    {
+      "id": "buckle",
+      "en": "buckle",
+      "pos": "n.",
+      "zh": "搭扣",
+      "collocation": "a metal buckle",
+      "example": "The buckle fastens the waistband.",
+      "translation": "搭扣扣住腰头。"
+    },
+    {
+      "id": "knit",
+      "en": "knit",
+      "pos": "n. / adj.",
+      "zh": "针织物；针织的",
+      "collocation": "an open knit sleeve",
+      "example": "The open knit sleeve has visible gaps.",
+      "translation": "镂空针织袖有可见空隙。"
+    }
+  ],
+  "items": [
+    {
+      "id": "orbital-dress",
+      "card_id": "S04-F01",
+      "name_zh": "立领几何短裙",
+      "name_en": "Geometric high-neck mini dress",
+      "reference_brand": "Courrèges",
+      "reference_scope_zh": "参考2024秋冬系列的包裹轮廓；重设衣长、领口和分割线。",
+      "body_en": "The fitted mini dress creates a narrow silhouette. Its high neckline and geometric panels give the bodice a structured appearance. Fitted describes how closely it follows the body; structured describes how clearly the shape is held.",
+      "body_zh": "贴体短裙构成窄长廓形，高领与几何拼片让衣身呈现明确结构。fitted 强调贴体程度，structured 强调保形的结构感。",
+      "focus_zh": "先看全身外轮廓，再看领口和拼片；不要把“贴身”与“有结构”当成同义词。",
+      "word_ids": [
+        "silhouette",
+        "fitted",
+        "geometric",
+        "structured",
+        "neckline",
+        "hem"
+      ],
+      "hotspot": {
+        "x": 51,
+        "y": 37
+      },
+      "practice": {
+        "id": "orbital-dress-practice",
+        "prompt": "Which phrase describes the dress’s overall outline?",
+        "answer": "a fitted silhouette",
+        "options": [
+          "a frayed hem",
+          "a fitted silhouette",
+          "a washed finish"
+        ],
+        "explanation": "silhouette 指整体廓形，fitted 描述贴体。"
+      },
+      "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
+    },
+    {
+      "id": "orbital-cape",
+      "card_id": "S04-F01",
+      "name_zh": "冰蓝透明肩罩",
+      "name_en": "Translucent blue capelet",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "肩罩为原创外层，增加几何边缘与轻薄层次。",
+      "body_en": "The translucent capelet lets light pass through, so the arms remain partly visible. Its light texture contrasts with the solid-looking boots. Here, contrast comes from different surface effects rather than strongly different colours.",
+      "body_zh": "半透明肩罩让光线穿过，手臂仍部分可见。轻薄质感与靴子较实的表面形成对比；这里的 contrast 来自表面效果，而非强烈色差。",
+      "focus_zh": "看肩罩与手臂重叠的位置，观察透光与不透光的差别。",
+      "word_ids": [
+        "translucent",
+        "texture",
+        "contrast"
+      ],
+      "hotspot": {
+        "x": 25,
+        "y": 27
+      },
+      "practice": {
+        "id": "orbital-cape-practice",
+        "prompt": "The arm remains partly visible because the capelet is ___.",
+        "answer": "translucent",
+        "options": [
+          "translucent",
+          "oversized",
+          "washed"
+        ],
+        "explanation": "透光并保留部分身体可见度，对应 translucent。"
+      },
+      "source_url": null
+    },
+    {
+      "id": "orbital-boots",
+      "card_id": "S04-F01",
+      "name_zh": "银色方头长靴",
+      "name_en": "Metallic square-toe boots",
+      "reference_brand": "Courrèges",
+      "reference_scope_zh": "参考修长靴筒比例；银色、方头和跟型重新设计。",
+      "body_en": "The metallic boots reflect light from a smooth surface. Their long shafts extend the silhouette below the short dress. Metallic describes a visual finish; it does not mean the entire boot is made from solid metal.",
+      "body_zh": "金属光泽长靴从光滑表面反光，长靴筒延伸了短裙下方的廓形。metallic 描述视觉表面，不等于整只靴子由实心金属制成。",
+      "focus_zh": "观察靴筒上的亮暗条带，与肩罩的透光作对比。",
+      "word_ids": [
+        "metallic",
+        "silhouette",
+        "texture"
+      ],
+      "hotspot": {
+        "x": 56,
+        "y": 78
+      },
+      "practice": {
+        "id": "orbital-boots-practice",
+        "prompt": "Does “metallic boots” prove that the boots are solid metal?",
+        "answer": "No. It describes their visual finish.",
+        "options": [
+          "Yes. It names their full composition.",
+          "No. It describes their visual finish.",
+          "Yes. Every reflective material is metal."
+        ],
+        "explanation": "metallic 在这里是表面视觉效果，不能据此断定成分。"
+      },
+      "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
+    },
+    {
+      "id": "orbital-bag",
+      "card_id": "S04-F01",
+      "name_zh": "银色月牙包",
+      "name_en": "Silver crescent bag",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "月牙包及发饰为原创几何配件。",
+      "body_en": "The small bag repeats the curved lines of the outfit without adding a large new shape. Its metallic surface connects it to the boots. Repetition can hold a look together, while a contrast in texture keeps the pieces from becoming identical.",
+      "body_zh": "小包重复整套的弧线，不新增大体积；金属光泽与长靴呼应。重复可以让造型统一，而质感对比让各件不至于完全相同。",
+      "focus_zh": "看小包与长靴的相似表面，再比较包与肩罩的差别。",
+      "word_ids": [
+        "geometric",
+        "metallic",
+        "contrast",
+        "texture"
+      ],
+      "hotspot": {
+        "x": 21,
+        "y": 57
+      },
+      "practice": {
+        "id": "orbital-bag-practice",
+        "prompt": "What connects the bag visually to the boots?",
+        "answer": "a metallic surface",
+        "options": [
+          "the same garment length",
+          "loose threads along an edge",
+          "a metallic surface"
+        ],
+        "explanation": "两者以金属光泽呼应，衣长和毛边不是这里的联系。"
+      },
+      "source_url": null
+    },
+    {
+      "id": "frequency-jacket",
+      "card_id": "S04-F02",
+      "name_zh": "宽肩短丹宁夹克",
+      "name_en": "Cropped washed-denim jacket",
+      "reference_brand": "Diesel",
+      "reference_scope_zh": "参考2024秋冬洗水丹宁与宽肩语言；长外层改为短款并重画拼片。",
+      "body_en": "The cropped denim jacket has oversized shoulders and a washed finish. Pale areas describe the surface treatment. A distressed effect can suggest wear, but washed denim does not necessarily have a frayed edge: frayed specifically means loose threads along an edge.",
+      "body_zh": "短丹宁夹克采用宽肩和洗水表面，浅色区域体现处理效果。distressed 可以表示做旧，但 washed 不一定带 frayed 毛边；frayed 特指边缘松散的线头。",
+      "focus_zh": "本图重点是深浅洗水与肩部体积，不把浅色区域说成破洞，也不凭空描述毛边。",
+      "word_ids": [
+        "cropped",
+        "denim",
+        "oversized",
+        "washed",
+        "distressed",
+        "frayed"
+      ],
+      "hotspot": {
+        "x": 42,
+        "y": 26
+      },
+      "practice": {
+        "id": "frequency-jacket-practice",
+        "prompt": "Which detail is clearly used to describe this jacket?",
+        "answer": "oversized shoulders and a washed finish",
+        "options": [
+          "a transparent knitted body",
+          "oversized shoulders and a washed finish",
+          "a long fluid train"
+        ],
+        "explanation": "介绍明确指出宽肩和洗水；没有说它有透明针织衣身或长拖尾。"
+      },
+      "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
+    },
+    {
+      "id": "frequency-trousers",
+      "card_id": "S04-F02",
+      "name_zh": "斜腰头阔腿裤",
+      "name_en": "Wide-leg trousers with an angled waistband",
+      "reference_brand": "Diesel",
+      "reference_scope_zh": "参考丹宁套装，新增斜腰头与弧形裤腿分割。",
+      "body_en": "The wide-leg trousers carry more volume than the short jacket. An angled waistband and curved seams guide the eye across the hips and down the legs. The buckle is hardware: a small metal fastening, not a type of fabric.",
+      "body_zh": "阔腿裤承担比短夹克更大的体积。斜腰头与弧形接缝引导视线经过胯部并向下移动；buckle 是 hardware 金属配件，不是一种布料。",
+      "focus_zh": "从腰头一路看向裤脚，跟随弧形接缝理解版型。",
+      "word_ids": [
+        "wide-leg",
+        "waistband",
+        "seam",
+        "buckle",
+        "hardware",
+        "washed"
+      ],
+      "hotspot": {
+        "x": 61,
+        "y": 67
+      },
+      "practice": {
+        "id": "frequency-trousers-practice",
+        "prompt": "Which detail joins the fabric panels along the leg?",
+        "answer": "a curved seam",
+        "options": [
+          "a platform sole",
+          "a sheer sleeve",
+          "a curved seam"
+        ],
+        "explanation": "seam 是布片相接的接缝；鞋底与袖子不是裤腿分割。"
+      },
+      "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
+    },
+    {
+      "id": "frequency-vest",
+      "card_id": "S04-F02",
+      "name_zh": "紫色青柠边背心",
+      "name_en": "Fitted lilac vest with lime trim",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "背心为原创内层，用轻薄色块平衡重丹宁。",
+      "body_en": "The fitted vest sits close to the body under the oversized jacket. This layered outfit uses a small, bright inner piece to balance the heavier denim. The contrast is about fit, colour and texture at the same time.",
+      "body_zh": "贴体背心位于宽大夹克内侧。层叠造型用小而明亮的内层平衡较重的丹宁，同时在贴合度、颜色与肌理上形成对比。",
+      "focus_zh": "比较背心与夹克的宽窄，理解 layered 不只是“多穿一件”。",
+      "word_ids": [
+        "fitted",
+        "layered",
+        "contrast",
+        "texture"
+      ],
+      "hotspot": {
+        "x": 51,
+        "y": 36
+      },
+      "practice": {
+        "id": "frequency-vest-practice",
+        "prompt": "Why does the fitted vest work with the oversized jacket?",
+        "answer": "It creates a contrast in fit and volume.",
+        "options": [
+          "It creates a contrast in fit and volume.",
+          "It hides every denim surface.",
+          "It makes both pieces equally wide."
+        ],
+        "explanation": "贴体内层与宽大外层形成体积和贴合度的对照。"
+      },
+      "source_url": null
+    },
+    {
+      "id": "frequency-shoes",
+      "card_id": "S04-F02",
+      "name_zh": "银黑厚底鞋",
+      "name_en": "Silver-and-black platform shoes",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "鞋履为原创方头厚底；播放器同为原创道具。",
+      "body_en": "A thick platform sole gives the shoes visual weight below the wide trousers. The metallic toe area echoes the outfit’s hardware. The sole belongs to the shoe’s structure, while metallic describes a surface effect.",
+      "body_zh": "厚底在阔腿裤下方增加视觉重量，鞋头金属光泽呼应服装配件。sole 属于鞋的结构，metallic 则描述表面效果。",
+      "focus_zh": "把“厚底的形状”与“银色反光的表面”分开描述。",
+      "word_ids": [
+        "platform sole",
+        "metallic",
+        "hardware",
+        "contrast"
+      ],
+      "hotspot": {
+        "x": 70,
+        "y": 91
+      },
+      "practice": {
+        "id": "frequency-shoes-practice",
+        "prompt": "“Platform sole” describes ___, while “metallic” describes ___.",
+        "answer": "shoe structure / surface effect",
+        "options": [
+          "fabric colour / garment length",
+          "shoe structure / surface effect",
+          "historical date / brand name"
+        ],
+        "explanation": "厚底是结构，金属光泽是表面效果。"
+      },
+      "source_url": null
+    },
+    {
+      "id": "echo-dress",
+      "card_id": "S04-F03",
+      "name_zh": "不对称抽褶短裙",
+      "name_en": "Asymmetric draped mini dress",
+      "reference_brand": "Blumarine",
+      "reference_scope_zh": "参考2023春夏流动轮廓；紫色、单侧袖与短裙比例重新设计。",
+      "body_en": "The lilac dress is draped around the body, and its asymmetric hem extends on one side. The fabric looks fluid because the folds continue into a moving tail. The short front and longer side create a deliberate proportion rather than a cutting mistake.",
+      "body_zh": "淡紫裙以垂褶围绕身体，不对称下摆在一侧延长。褶皱延伸成流动裙尾；前短侧长是有意的比例设计，并非裁剪失误。",
+      "focus_zh": "顺着腰部褶皱看到侧边裙尾，再比较左右长度。",
+      "word_ids": [
+        "draped",
+        "asymmetric",
+        "hem",
+        "fluid",
+        "proportion"
+      ],
+      "hotspot": {
+        "x": 51,
+        "y": 45
+      },
+      "practice": {
+        "id": "echo-dress-practice",
+        "prompt": "What makes the hem asymmetric?",
+        "answer": "One side extends farther than the other.",
+        "options": [
+          "One side extends farther than the other.",
+          "The fabric is made of denim.",
+          "Both sides have exactly the same length."
+        ],
+        "explanation": "asymmetric 指左右不对称，这里体现在下摆长度差。"
+      },
+      "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
+    },
+    {
+      "id": "echo-sleeves",
+      "card_id": "S04-F03",
+      "name_zh": "薄纱袖与镂空袖套",
+      "name_en": "Sheer sleeve and open-knit arm layer",
+      "reference_brand": "Blumarine（系列延伸参考）",
+      "reference_scope_zh": "薄纱与镂空语言来自系列研究；独立袖套为重新组合。",
+      "body_en": "One arm is covered by a sheer sleeve; the other uses an open knit layer with visible gaps. Both reveal part of the arm, but their textures are different. Sheer describes the transparent effect, while knit names a textile construction.",
+      "body_zh": "一侧手臂覆轻薄透视袖，另一侧是带可见空隙的镂空针织层。两者都露出部分手臂，肌理却不同；sheer 描述透视效果，knit 指针织结构。",
+      "focus_zh": "看两侧袖层怎样露出手臂，不把所有透视面料都叫针织。",
+      "word_ids": [
+        "sheer",
+        "knit",
+        "texture",
+        "contrast"
+      ],
+      "hotspot": {
+        "x": 74,
+        "y": 37
+      },
+      "practice": {
+        "id": "echo-sleeves-practice",
+        "prompt": "Do “sheer” and “knit” describe exactly the same property?",
+        "answer": "No. One is a visual effect; the other is textile construction.",
+        "options": [
+          "No. One is a visual effect; the other is textile construction.",
+          "Yes. Both mean a very long hem.",
+          "Yes. Both always mean metal."
+        ],
+        "explanation": "透视是视觉属性，针织是织物结构，不能互相替代。"
+      },
+      "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
+    },
+    {
+      "id": "echo-sandals",
+      "card_id": "S04-F03",
+      "name_zh": "金属紫厚底凉鞋",
+      "name_en": "Metallic lilac platform sandals",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "凉鞋的厚底、踝带与色彩为原创设计。",
+      "body_en": "The metallic sandals add a firm base below the fluid skirt. Their platform soles change the proportion of the lower body, while the narrow straps leave the feet visible. The contrast between heavy soles and light fabric is a design choice.",
+      "body_zh": "金属光泽凉鞋在流动裙摆下形成稳定基座，厚底改变下半身比例，细带露出脚部。重鞋底与轻布料的对比是一种设计选择。",
+      "focus_zh": "比较脚下厚底的重量感与身侧薄纱的轻盈。",
+      "word_ids": [
+        "metallic",
+        "platform sole",
+        "fluid",
+        "contrast",
+        "proportion"
+      ],
+      "hotspot": {
+        "x": 49,
+        "y": 86
+      },
+      "practice": {
+        "id": "echo-sandals-practice",
+        "prompt": "Which contrast does the description emphasise?",
+        "answer": "heavy soles and light fabric",
+        "options": [
+          "two equally transparent soles",
+          "heavy soles and light fabric",
+          "two identical denim jackets"
+        ],
+        "explanation": "介绍强调厚底与轻薄裙料的重量感对比。"
+      },
+      "source_url": null
+    },
+    {
+      "id": "echo-accessories",
+      "card_id": "S04-F03",
+      "name_zh": "银色小包与双结发髻",
+      "name_en": "Silver mini bag and double-bun hairstyle",
+      "reference_brand": "原创搭配",
+      "reference_scope_zh": "小包、发髻和发饰为原创；不作为品牌原款或历史穿着记录。",
+      "body_en": "The small silver bag and playful hair styling can suggest nostalgia, but they do not prove a date. A revival means a style returns to popularity; nostalgia is a feeling about the past. The background has an iridescent effect, but the silver bag is described here only as metallic.",
+      "body_zh": "银色小包与活泼发型可以暗示怀旧，却不能证明年代。revival 是风格重新流行，nostalgia 是对过去的感受。背景有虹彩效果，这只银包在这里仅描述为 metallic 金属光泽。",
+      "focus_zh": "观察包、发饰与背景，区分情绪联想、趋势变化和真实可见的表面。",
+      "word_ids": [
+        "nostalgia",
+        "revival",
+        "iridescent",
+        "metallic"
+      ],
+      "hotspot": {
+        "x": 29,
+        "y": 27
+      },
+      "practice": {
+        "id": "echo-accessories-practice",
+        "prompt": "Which sentence is supported by this description?",
+        "answer": "The scene may evoke nostalgia, but it does not prove a historical date.",
+        "options": [
+          "The scene may evoke nostalgia, but it does not prove a historical date.",
+          "Every silver object must change colour with the viewing angle.",
+          "The bag proves the exact outfit was worn in 2000."
+        ],
+        "explanation": "怀旧是联想，不是年代证据；银色反光也不自动等于虹彩变色。"
+      },
+      "source_url": null
+    }
+  ],
+  "revision": "item-led-v2"
 }

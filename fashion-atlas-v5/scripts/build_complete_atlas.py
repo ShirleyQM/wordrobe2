@@ -57,7 +57,7 @@ for s in content['series']:
  sid=s['series_id'];ctx=contexts.get(sid,{});title=ctx.get('title_zh',s['title_zh']);ds=[x for x in arts if x['row']['series_id']==sid];brands=' / '.join(dict.fromkeys(x['source']['brand']for x in ds));search=title+' '+s['title_en']+' '+brands+' '+sid
  intro=ctx.get('intro_zh')or ds[0].get('atmosphere_zh')or'结合三张卡的剪裁、材质和配色，对照下方品牌系列与阅读。'
  output+=['<section class="series" id="'+sid+'" data-search="'+e(search)+'"><header class="series-header"><div class="series-number">'+sid[1:]+'</div><div><h2>'+e(title)+'</h2>'+para(brands,'brand-line')+para(intro)+'<p class="series-nav"><a href="#'+sid+'-reading">读文章与做题</a> · <a href="#directory">关卡目录</a></p></div></header>']
- if sid=='S04':output+=['<aside class="scene-note"><b>完整学习章节已上线</b><p>6个小关 · 24个词 · 4篇完整课文 · 36题 · 通关收集这三张卡。</p><a href="chapters/y2k/index.html">进入 Y2K 完整章节</a></aside>']
+ if sid=='S04':output+=['<aside class="scene-note"><b>完整学习章节已上线</b><p>6个小关 · 12件单品教学 · 24个核心词＋8个拓展词 · 12道随堂题＋36道关卡题 · 通关收集这三张卡。</p><a href="chapters/y2k/index.html">进入 Y2K 完整章节</a></aside>']
  if ctx.get('scene_zh'):output+=[para(ctx['scene_zh'],'scene-note')]
  output+=['<div class="looks">'+''.join(render_card(x,sid)for x in ds)+'</div>']
  ords=[x for x in ordinary if x.get('series_id')==sid or x.get('card_id','')[1:3]==sid[1:]]
