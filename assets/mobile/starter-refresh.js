@@ -1,0 +1,6 @@
+'use strict';
+(()=>{
+ async function wearStarter(){const ids=WordrobeStarter.outfitIds||WordrobeStarter.ids,rows=ids.map(item).filter(Boolean);if(!rows.some(i=>i.slot==='top')||!rows.some(i=>i.slot==='bottom')||!rows.some(i=>i.slot==='shoes')){toast('新手单品仍在载入，请稍后重试');return;}const b=document.getElementById('new-starter-look');if(b)b.disabled=true;try{await PlayerEconomy.grantStarter(catalog);if(rows.some(i=>!PlayerEconomy.owns(i.id)))throw Error('新手搭配尚未完整到账，请刷新后重试');window.LookLab?.checkpoint();const basics=Object.fromEntries(Object.entries(state.equipped).filter(([slot])=>['bra','briefs'].includes(slot)));state.equipped={...basics};for(const row of rows)state.equipped[row.slot]=row.id;state.equipped=MobileEquipment.normalize(state.equipped,item);window.MobilePreview?.clear();persist();render();toast(I18n.lang()==='en'?'Starter look applied':'已换上新手搭配，可撤销恢复');}catch(e){toast(e.message);}finally{if(b)b.disabled=false;}}
+ const previous=render;render=function(){previous();if(tab!=='clothes')return;const host=document.querySelector('#atelier-actions');if(!host||host.hidden)return;const button=document.createElement('button');button.id='new-starter-look';button.textContent=I18n.lang()==='en'?'Starter look':'新手搭配';button.onclick=wearStarter;host.prepend(button);};
+ if(catalog.length)render();
+})();
