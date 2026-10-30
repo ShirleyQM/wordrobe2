@@ -1,0 +1,19 @@
+{
+  "id": "ivory-shell",
+  "name": "象牙短内搭",
+  "slot": "top",
+  "card": "S28-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1211,
+    1299
+  ],
+  "sha256": "7fb734ef052276cb3a66f2789f1a867338903883786bf1a86090daca689ed39c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

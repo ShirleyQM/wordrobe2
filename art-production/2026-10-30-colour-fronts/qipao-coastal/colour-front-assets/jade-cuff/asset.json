@@ -1,0 +1,19 @@
+{
+  "id": "jade-cuff",
+  "name": "金色腕饰",
+  "slot": "bracelet",
+  "card": "S28-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "3ff0a433244626dace8a0d43f2b309f748fa6733744daf08622493e86c622bd2",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

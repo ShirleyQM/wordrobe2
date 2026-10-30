@@ -1,0 +1,26 @@
+{
+  "id": "frequency-chunky-toes",
+  "name": "银黑方头厚底鞋头",
+  "slot": "shoes",
+  "card": "S04-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "43257f13e0e0f7c1971d2bfcc27aa4ec79b8d41a6c5e91d8cd493ca2a45223eb",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "metallic-leather-rubber",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

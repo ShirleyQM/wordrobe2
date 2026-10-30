@@ -1,0 +1,19 @@
+{
+  "id": "navy-cocoon-cardigan",
+  "name": "海军蓝茧形针织",
+  "slot": "outerwear",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "fe60c6097d8d68d53b025e86e13ff413f4b09d9d3998812addb5bfa7e2226e98",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

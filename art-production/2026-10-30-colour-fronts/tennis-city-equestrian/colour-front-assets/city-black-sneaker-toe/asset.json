@@ -1,0 +1,24 @@
+{
+  "id": "city-black-sneaker-toe",
+  "name": "黑色运动鞋头",
+  "slot": "shoes",
+  "card": "S20-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1244,
+    1264
+  ],
+  "sha256": "62b3a17de285297b0487241828bf59d001ac8b3213d752bc1325a37e3d8a7d2e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "technical-mesh",
+  "brandReference": "Onitsuka Tiger",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

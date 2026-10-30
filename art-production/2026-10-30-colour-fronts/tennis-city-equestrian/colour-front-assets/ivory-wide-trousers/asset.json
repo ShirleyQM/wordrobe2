@@ -1,0 +1,25 @@
+{
+  "id": "ivory-wide-trousers",
+  "name": "象牙阔腿裤（复用）",
+  "slot": "bottom",
+  "card": "S20-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "1a5c9ca86feab94706ee3bc09c44d914bfae91c47ceb717c36832054be24f97e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-wool-suiting",
+  "brandReference": "BEAMS BOY",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/ivory-wide-trousers"
+}

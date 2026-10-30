@@ -1,0 +1,24 @@
+{
+  "id": "riding-butter-knit",
+  "name": "奶油细针织内搭",
+  "slot": "top",
+  "card": "S15-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1246,
+    1262
+  ],
+  "sha256": "43509712672435746cd59da22b5de4978666d0fceafaf023224ed436c22507db",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-wool-knit",
+  "brandReference": "Hermès",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-front-pleat-panel",
+  "name": "象牙前褶叠裙片",
+  "slot": "waist-accessory",
+  "card": "S22-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "b40ae800290b19eac561d95df2ec1dfd09dbf5533613616611f8d29e50ed6923",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "crisp-cotton",
+  "brandReference": "Lacoste",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

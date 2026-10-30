@@ -1,0 +1,26 @@
+{
+  "id": "orbit-blue-capelet",
+  "name": "冰蓝透明肩罩",
+  "slot": "shoulder-accessory",
+  "card": "S04-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "ec77621455e7be7b4d37544429abacaaed6ae521427f1cf2614c845cec212ee0",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "translucent-organza",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

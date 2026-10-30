@@ -1,0 +1,19 @@
+{
+  "id": "vermilion-pearl-earrings",
+  "name": "朱砂午后·长方珍珠耳饰",
+  "slot": "jewelry",
+  "card": "S11-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "58b38b29d2c0a1027af446f9f6e07ca1005c2e13fa29bb2cdcd8d431aa24a13c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

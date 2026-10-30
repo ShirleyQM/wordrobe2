@@ -1,0 +1,19 @@
+{
+  "id": "coral-linen-dress",
+  "name": "陶土风帆亚麻裙",
+  "slot": "dress",
+  "card": "S26-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "b325275fd148b71a462428ba7e7c64168f67f49e403acc8f32b9174e14bd119a",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

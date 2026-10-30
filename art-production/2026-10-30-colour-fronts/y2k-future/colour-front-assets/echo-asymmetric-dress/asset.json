@@ -1,0 +1,26 @@
+{
+  "id": "echo-asymmetric-dress",
+  "name": "丁香非对称流动裙",
+  "slot": "dress",
+  "card": "S04-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "f54324ba07eb8a4ac3ae91baff9e13b49289c2502220d2c647f097f865b35a2e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "jersey-and-sheer-chiffon",
+  "brandReference": "Blumarine",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+  "referenceScope": "参考抽褶、流动下摆与叠层，短裙、单袖、丁香配色和月牙扣原创重组。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

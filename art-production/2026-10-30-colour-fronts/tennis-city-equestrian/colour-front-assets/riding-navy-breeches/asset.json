@@ -1,0 +1,24 @@
+{
+  "id": "riding-navy-breeches",
+  "name": "海军蓝骑装长裤",
+  "slot": "bottom",
+  "card": "S15-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "bbafec3754cef8930f3fd2af1c400b4f8dc3c773cd629b17cf5d7c387191038b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "stretch-riding-twill",
+  "brandReference": "Ralph Lauren",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

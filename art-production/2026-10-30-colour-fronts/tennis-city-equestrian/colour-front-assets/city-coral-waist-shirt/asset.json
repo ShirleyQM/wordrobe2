@@ -1,0 +1,24 @@
+{
+  "id": "city-coral-waist-shirt",
+  "name": "珊瑚衬衫系腰前片",
+  "slot": "waist-accessory",
+  "card": "S20-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1243,
+    1266
+  ],
+  "sha256": "387b09309571331b79a275a1f426020fc98ca6205e0254f78bdc83ff257a9655",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-poplin",
+  "brandReference": "BEAMS BOY",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

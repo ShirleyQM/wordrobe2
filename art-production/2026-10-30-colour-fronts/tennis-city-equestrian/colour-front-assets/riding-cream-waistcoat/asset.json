@@ -1,0 +1,24 @@
+{
+  "id": "riding-cream-waistcoat",
+  "name": "奶油修身骑装背心",
+  "slot": "outerwear",
+  "card": "S15-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1142,
+    1378
+  ],
+  "sha256": "9d450b0e1c4f06be36060c352a617eb0541857513818d91ab92a37978fe52681",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "wool-gabardine",
+  "brandReference": "Ralph Lauren",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

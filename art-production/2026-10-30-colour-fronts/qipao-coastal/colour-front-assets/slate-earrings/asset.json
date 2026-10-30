@@ -1,0 +1,19 @@
+{
+  "id": "slate-earrings",
+  "name": "银色几何耳饰",
+  "slot": "earrings",
+  "card": "S28-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "d15d3f2ca17f8b31163ef8b91a2f462e2107fd3d4d8723f0c5d3b5f602c2544c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-green-trousers",
+  "name": "常青棉尼龙长裤",
+  "slot": "bottom",
+  "card": "S22-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "7789925aa2e71b4b536aed482b951f8dc08bea7a0b3e9298ac54261b3efa90ba",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-nylon",
+  "brandReference": "Lacoste",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

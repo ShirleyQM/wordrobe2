@@ -1,0 +1,19 @@
+{
+  "id": "vermilion-cutwork-jacket",
+  "name": "朱红镂纹短外套",
+  "slot": "outerwear",
+  "card": "S28-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "b3efe19586aa5114bc816fa6066abcc76ee1dada147bb2dc692c50f4386b3dba",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

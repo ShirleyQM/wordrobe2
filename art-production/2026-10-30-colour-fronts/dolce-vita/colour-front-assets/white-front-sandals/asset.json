@@ -1,0 +1,19 @@
+{
+  "id": "white-front-sandals",
+  "name": "柠檬海湾·白色凉鞋",
+  "slot": "shoes",
+  "card": "S11-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "493d5d3dbbdfc508c3f20dc667e9917ef5eb642700ba76ba27564295fa7bdf1c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

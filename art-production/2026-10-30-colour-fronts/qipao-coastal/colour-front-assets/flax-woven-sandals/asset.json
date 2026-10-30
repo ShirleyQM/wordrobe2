@@ -1,0 +1,19 @@
+{
+  "id": "flax-woven-sandals",
+  "name": "浅麻编织凉鞋",
+  "slot": "shoes",
+  "card": "S26-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "de4d5d05b7a93ea0ad23fb3735024c420c2bdde6ccc7b4d80d5604fb6bb1e667",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,556 @@
+{
+  "status": "local-art-only",
+  "items": [
+    {
+      "id": "flax-woven-sandals",
+      "name": "浅麻编织凉鞋",
+      "slot": "shoes",
+      "card": "S26-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "de4d5d05b7a93ea0ad23fb3735024c420c2bdde6ccc7b4d80d5604fb6bb1e667",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "sky-earrings",
+      "name": "银色贝光耳饰",
+      "slot": "earrings",
+      "card": "S26-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "6ce1d716a331aa8db69480de4d5c40d008ffb0e58276812e45f0d58488d66246",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "sky-linen-tunic",
+      "name": "天蓝宽肩衬裙",
+      "slot": "top",
+      "card": "S26-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c2c249dde81a7bb954d51506525376a2c6985e5b43db38f8ec61c2c4985479f3",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "sky-metal-barrette",
+      "name": "银色长辫发扣",
+      "slot": "hair-accessory",
+      "card": "S26-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "3937ebc46189e93aabd99576a5fd16e107e96b75b047930ecd16027a9670b893",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "white-barrel-trousers",
+      "name": "白色弧线裤",
+      "slot": "bottom",
+      "card": "S26-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1f49ad247eb2ea68aa9e12f4632b56701a3999371cf5982050980624cd868db2",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "cream-rib-skirt",
+      "name": "奶油罗纹长裙",
+      "slot": "bottom",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "42779fd89a4744c8be5d0259d3f534240700bfbdb625f1cbb10466ed4c514c4b",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "navy-cocoon-cardigan",
+      "name": "海军蓝茧形针织",
+      "slot": "outerwear",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "fe60c6097d8d68d53b025e86e13ff413f4b09d9d3998812addb5bfa7e2226e98",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "navy-cuff",
+      "name": "暖金窄腕饰",
+      "slot": "bracelet",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "5b92ae33792d59866ffa16687d4fbe23bcba6406494849fd2974696eff830e27",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "navy-earrings",
+      "name": "暖金水滴耳饰",
+      "slot": "earrings",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e6b0f9d10745335e71cb6bc3315318381690f5e6a2713c91a8232b3986502549",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "navy-mules",
+      "name": "海军蓝低跟穆勒",
+      "slot": "shoes",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "60ed3973f173b39edeac20c27a1d286f2bdce4f942a3a1516e4d0b8fa2009098",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "rust-wrap-sash",
+      "name": "铁锈色腰带",
+      "slot": "belt",
+      "card": "S26-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f5366b607147b22589ba828506d8936063db2124db2814817d73ff36193ac125",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ceramic-earrings",
+      "name": "瓷白卵石耳坠",
+      "slot": "earrings",
+      "card": "S26-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1244,
+        1264
+      ],
+      "sha256": "f65a7e67d65e226868d510eaaab33d7cf5e99de198df10ffa3e1967095856f55",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "coral-gold-cuff",
+      "name": "浅金宽腕饰",
+      "slot": "bracelet",
+      "card": "S26-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1240,
+        1269
+      ],
+      "sha256": "afa68feba2bfd575f4fee3bdcb665f4013cf918e1187c50ac19310e98f65e589",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "coral-linen-dress",
+      "name": "陶土风帆亚麻裙",
+      "slot": "dress",
+      "card": "S26-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b325275fd148b71a462428ba7e7c64168f67f49e403acc8f32b9174e14bd119a",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ivory-espadrilles",
+      "name": "象牙编织渔夫鞋",
+      "slot": "shoes",
+      "card": "S26-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "fe507d510404b1bf716621b9cc9a30d2a902146f20a5f164d7d33a99a824d96e",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "jade-cuff",
+      "name": "金色腕饰",
+      "slot": "bracelet",
+      "card": "S28-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "3ff0a433244626dace8a0d43f2b309f748fa6733744daf08622493e86c622bd2",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "jade-earrings",
+      "name": "玉色金边耳坠",
+      "slot": "earrings",
+      "card": "S28-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "0756b837148dae6bc5ae9f08bd03aa4b0c6636289b1334c985eccba3d6e732d5",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "jade-pointed-flats",
+      "name": "黑色尖头平底鞋",
+      "slot": "shoes",
+      "card": "S28-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "94bf4f0688455fbecec7cd53ad3249180f1e2be1b9f08f1c8771fdb82457c615",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "jade-qipao",
+      "name": "玉绿斜襟旗袍",
+      "slot": "dress",
+      "card": "S28-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "946081b8cd5bc81e0aa1e0e2d188ed29c1722493080aecfb70a3095347815413",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "black-sculptural-loafers",
+      "name": "黑色雕塑乐福鞋",
+      "slot": "shoes",
+      "card": "S28-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f180d1bd9e88dcf204da610033dbafa22fb3b10dc5e1ed9cef57b81f8cce1a9e",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ivory-shell",
+      "name": "象牙短内搭",
+      "slot": "top",
+      "card": "S28-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1211,
+        1299
+      ],
+      "sha256": "7fb734ef052276cb3a66f2789f1a867338903883786bf1a86090daca689ed39c",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ivory-wide-trousers",
+      "name": "象牙阔腿裤",
+      "slot": "bottom",
+      "card": "S28-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1a5c9ca86feab94706ee3bc09c44d914bfae91c47ceb717c36832054be24f97e",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "vermilion-cutwork-jacket",
+      "name": "朱红镂纹短外套",
+      "slot": "outerwear",
+      "card": "S28-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "b3efe19586aa5114bc816fa6066abcc76ee1dada147bb2dc692c50f4386b3dba",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "vermilion-earrings",
+      "name": "朱红珍珠耳饰",
+      "slot": "earrings",
+      "card": "S28-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "a6818527ed7516d9b62b1f3b35b975fc4f9f8c1ccd0af4f4b1249007d8325f64",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ivory-slim-trousers",
+      "name": "冷白九分裤",
+      "slot": "bottom",
+      "card": "S28-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        887,
+        1774
+      ],
+      "sha256": "b430eaa3361399cb55be24eb507dddd5e230177989af953992fc3c42337224d8",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "slate-earrings",
+      "name": "银色几何耳饰",
+      "slot": "earrings",
+      "card": "S28-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "d15d3f2ca17f8b31163ef8b91a2f462e2107fd3d4d8723f0c5d3b5f602c2544c",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "slate-hairpin",
+      "name": "银色盘发簪",
+      "slot": "hair-accessory",
+      "card": "S28-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "5b137da3d6e57023cde76413992045a007f5fdca1ae3db6fcfc5afd72fc59a97",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "slate-wrap-coat",
+      "name": "石蓝裹身长衣",
+      "slot": "dress",
+      "card": "S28-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ca7348edcca9d792f4a0d951a332e9b48ec91cc25cdb5a33bb7121392a8bb478",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "umber-square-shoes",
+      "name": "深棕方头鞋",
+      "slot": "shoes",
+      "card": "S28-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "90ad391b6dc7d1bc929fe61a059e0778dd7d81e888aaed229d23d15e1645cdc6",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    }
+  ]
+}

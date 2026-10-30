@@ -1,0 +1,24 @@
+{
+  "id": "riding-black-boot-fronts",
+  "name": "黑色骑靴正面",
+  "slot": "shoes",
+  "card": "S15-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "2f5fc4072d3f92a8a13d84f70a2c72f825145168f70367af64eac6ad40d0d01f",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "riding-leather",
+  "brandReference": "Hermès",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

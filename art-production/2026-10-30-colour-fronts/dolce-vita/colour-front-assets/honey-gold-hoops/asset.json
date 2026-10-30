@@ -1,0 +1,19 @@
+{
+  "id": "honey-gold-hoops",
+  "name": "蜂蜜色航线·椭圆金耳环",
+  "slot": "jewelry",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "38a308e7738e76748134b711b972bea4c0c28cbe74181fca09dde0f01048603b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

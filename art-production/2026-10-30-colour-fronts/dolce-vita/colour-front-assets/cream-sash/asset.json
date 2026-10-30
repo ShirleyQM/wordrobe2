@@ -1,0 +1,19 @@
+{
+  "id": "cream-sash",
+  "name": "朱砂午后·腰带",
+  "slot": "jewelry",
+  "card": "S11-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    939,
+    1676
+  ],
+  "sha256": "3771724af8626c23d5912fc8f1b4bf20ae10f606ffdeb4e011b5548b5cebd0ae",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

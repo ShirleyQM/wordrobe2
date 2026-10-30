@@ -1,0 +1,24 @@
+{
+  "id": "tennis-wrap-shorts",
+  "name": "象牙斜叠短裤",
+  "slot": "bottom",
+  "card": "S22-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1164,
+    1351
+  ],
+  "sha256": "1dd1bf76a8977a86b718fcc896854a2013dfa2e465ff9d922a7bb0b95654bab5",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-twill",
+  "brandReference": "Sporty & Rich",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

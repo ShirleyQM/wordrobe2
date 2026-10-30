@@ -1,0 +1,19 @@
+{
+  "id": "ivory-slim-trousers",
+  "name": "冷白九分裤",
+  "slot": "bottom",
+  "card": "S28-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    887,
+    1774
+  ],
+  "sha256": "b430eaa3361399cb55be24eb507dddd5e230177989af953992fc3c42337224d8",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

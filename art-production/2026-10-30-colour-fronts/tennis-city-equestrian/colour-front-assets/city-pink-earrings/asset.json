@@ -1,0 +1,24 @@
+{
+  "id": "city-pink-earrings",
+  "name": "粉银几何耳饰",
+  "slot": "earrings",
+  "card": "S20-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "ff60523f30106dee92a11485dd03cd1d7c0f9b316f9761a90ec923b41c1a3994",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "enamel-silver",
+  "brandReference": "Issey Miyake",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

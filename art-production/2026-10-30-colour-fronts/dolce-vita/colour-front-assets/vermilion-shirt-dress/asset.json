@@ -1,0 +1,19 @@
+{
+  "id": "vermilion-shirt-dress",
+  "name": "朱砂午后·衬衫裙",
+  "slot": "dress",
+  "card": "S11-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    939,
+    1676
+  ],
+  "sha256": "63e5708dcb6ddebcc43f116a996797bcbe565ec30abe44f7ff2e2bec6f19ea99",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

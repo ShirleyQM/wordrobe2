@@ -1,0 +1,19 @@
+{
+  "id": "slate-wrap-coat",
+  "name": "石蓝裹身长衣",
+  "slot": "dress",
+  "card": "S28-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "ca7348edcca9d792f4a0d951a332e9b48ec91cc25cdb5a33bb7121392a8bb478",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

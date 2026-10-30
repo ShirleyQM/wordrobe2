@@ -1,0 +1,19 @@
+{
+  "id": "olive-front-sandals",
+  "name": "朱砂午后·橄榄绿凉鞋",
+  "slot": "shoes",
+  "card": "S11-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "b222ce4e7a2237c7b725aff71e55d76db253b39dca9ad3781ad6074601a8deea",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-stripe-socks",
+  "name": "细条纹网球袜",
+  "slot": "socks",
+  "card": "S22-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "540ddde19b1e2103050c7a047c45534387241cb484b37ee4ba79ffbd5413e2ae",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-knit",
+  "brandReference": "Fila",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-pearl-studs",
+  "name": "丁香珍珠耳钉",
+  "slot": "earrings",
+  "card": "S22-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1218,
+    1291
+  ],
+  "sha256": "87f8868c79c0562b4d6f5a30d4d2b5ceb4ed9b266c593ce81b7f84ab6dfdf45b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "pearl",
+  "brandReference": "Sporty & Rich",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

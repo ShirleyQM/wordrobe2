@@ -1,0 +1,19 @@
+{
+  "id": "rust-wrap-sash",
+  "name": "铁锈色腰带",
+  "slot": "belt",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "f5366b607147b22589ba828506d8936063db2124db2814817d73ff36193ac125",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

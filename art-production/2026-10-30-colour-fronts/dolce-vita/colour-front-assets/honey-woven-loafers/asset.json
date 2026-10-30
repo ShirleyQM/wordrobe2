@@ -1,0 +1,19 @@
+{
+  "id": "honey-woven-loafers",
+  "name": "蜂蜜色航线·编织便鞋",
+  "slot": "shoes",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "6f10b1c6def17311ab50fec78b5ddd7f4a7021aef5b476e74e1c0aa88faca217",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-ivory-polo",
+  "name": "象牙罗纹Polo",
+  "slot": "top",
+  "card": "S22-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1224,
+    1285
+  ],
+  "sha256": "cb74e62617381de855a8cefa67cf76ae4c1b77265ac9120bad81875a7acb3c07",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-rib-cotton",
+  "brandReference": "Lacoste",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "batch": "dolce-vita",
+    "items": 15,
+    "cardIds": [
+      "S11-F01",
+      "S11-F02",
+      "S11-F03"
+    ],
+    "status": "colour-art-only-unfitted",
+    "index": "dolce-vita/colour-front-assets/asset-index.json"
+  },
+  {
+    "batch": "qipao-coastal",
+    "items": 29,
+    "cardIds": [
+      "S26-F01",
+      "S26-F02",
+      "S26-F03",
+      "S28-F01",
+      "S28-F02",
+      "S28-F03"
+    ],
+    "status": "colour-art-only-unfitted",
+    "index": "qipao-coastal/colour-front-assets/asset-index.json"
+  },
+  {
+    "batch": "tennis-city-equestrian",
+    "items": 38,
+    "cardIds": [
+      "S15-F01",
+      "S15-F02",
+      "S15-F03",
+      "S20-F01",
+      "S20-F02",
+      "S20-F03",
+      "S22-F01",
+      "S22-F02",
+      "S22-F03"
+    ],
+    "status": "colour-art-only-unfitted",
+    "index": "tennis-city-equestrian/colour-front-assets/asset-index.json"
+  },
+  {
+    "batch": "y2k-future",
+    "items": 14,
+    "cardIds": [
+      "S04-F01",
+      "S04-F02",
+      "S04-F03"
+    ],
+    "status": "colour-art-only-unfitted",
+    "index": "y2k-future/colour-front-assets/asset-index.json"
+  }
+]

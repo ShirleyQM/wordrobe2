@@ -1,0 +1,38 @@
+[
+  {
+    "card": "S22-F02",
+    "id": "tennis-white-toe",
+    "reason": "与S22-F01同版型球鞋，复用白色鞋头，不重复制作橙白配色"
+  },
+  {
+    "card": "S22-F03",
+    "id": "tennis-white-toe",
+    "reason": "同低帮球鞋结构，沿用现有鞋头，不另做丁香配色"
+  },
+  {
+    "card": "S22-F03",
+    "id": "tennis-ivory-polo",
+    "reason": "象牙Polo内搭相同版型，沿用S22-F01"
+  },
+  {
+    "card": "S20-F01",
+    "id": "ivory-wide-trousers",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "象牙宽褶阔裤与现代旗袍已有版型重复，直接复用"
+  },
+  {
+    "card": "S15-F02",
+    "id": "riding-black-boot-fronts",
+    "reason": "与S15-F01相同长骑靴版型，复用黑色，不另画栗色"
+  },
+  {
+    "card": "S15-F03",
+    "id": "riding-black-boot-fronts",
+    "reason": "与S15-F01共用骑靴版型"
+  },
+  {
+    "card": "S15-F02",
+    "id": "riding-gold-studs",
+    "reason": "同金色小耳钉复用"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "city-white-nylon-jacket",
+  "name": "白色尼龙短外套",
+  "slot": "outerwear",
+  "card": "S20-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "7f749b67d154b6136b8f4d2dbe3218245040e831c83bbf3c8be742c37e94d179",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "crinkled-nylon",
+  "brandReference": "Onitsuka Tiger",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

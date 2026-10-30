@@ -1,0 +1,19 @@
+{
+  "id": "jade-qipao",
+  "name": "玉绿斜襟旗袍",
+  "slot": "dress",
+  "card": "S28-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "946081b8cd5bc81e0aa1e0e2d188ed29c1722493080aecfb70a3095347815413",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

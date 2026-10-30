@@ -1,0 +1,26 @@
+{
+  "id": "orbit-silver-boot-fronts",
+  "name": "银色方头靴前片",
+  "slot": "shoes",
+  "card": "S04-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "19f8fc970169c345072f79ff737efd241e5549933da184de7fc0be165c4c6490",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "satin-metallic-leather",
+  "brandReference": "Courrèges",
+  "sourceUrl": "https://www.courreges.com/fr/page/collection-fall-winter-2024",
+  "referenceScope": "参考修长贴腿靴比例，方头、银色与正面缝线原创重组。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

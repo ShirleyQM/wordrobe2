@@ -1,0 +1,24 @@
+{
+  "id": "riding-black-tights",
+  "name": "黑色不透连裤袜",
+  "slot": "tights",
+  "card": "S15-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "d5987ae95f42f69bb6d5f58f4821eb0f4f43f1443b4fb2d2a2a535ace3554be6",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "opaque-matte-knit",
+  "brandReference": "Burberry",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

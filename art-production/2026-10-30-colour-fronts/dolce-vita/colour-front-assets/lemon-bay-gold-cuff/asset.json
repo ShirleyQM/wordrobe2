@@ -1,0 +1,19 @@
+{
+  "id": "lemon-bay-gold-cuff",
+  "name": "柠檬海湾·金色腕饰",
+  "slot": "jewelry",
+  "card": "S11-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "b7f374309e7c21540438638cf55b5060b83ed6927d88f70d8110a3a963b7f4bc",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tennis-burgundy-shoulder-knit",
+  "name": "酒红肩搭针织",
+  "slot": "shoulder-accessory",
+  "card": "S22-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "d736514aead2a5cc7a0b7498c27b87d518d122457473d11b38e9e55f68fa7e8b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-knit",
+  "brandReference": "Sporty & Rich",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

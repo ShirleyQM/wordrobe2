@@ -1,0 +1,24 @@
+{
+  "id": "city-silver-square-toe",
+  "name": "银色方头鞋前片",
+  "slot": "shoes",
+  "card": "S20-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "e6417959e4fb991fb9d2d1b7282cd1a262d459c692fab0d66a810e5f8071a556",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "metallic-leather",
+  "brandReference": "Issey Miyake",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

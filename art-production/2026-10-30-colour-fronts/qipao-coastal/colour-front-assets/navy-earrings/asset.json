@@ -1,0 +1,19 @@
+{
+  "id": "navy-earrings",
+  "name": "暖金水滴耳饰",
+  "slot": "earrings",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "e6b0f9d10745335e71cb6bc3315318381690f5e6a2713c91a8232b3986502549",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

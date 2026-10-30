@@ -1,0 +1,24 @@
+{
+  "id": "tennis-silver-studs",
+  "name": "球场银色耳钉",
+  "slot": "earrings",
+  "card": "S22-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "e5d95329175710089cd28337a960ca7dd16c3423c78823b48327d4052ebf78e2",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "Fila",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

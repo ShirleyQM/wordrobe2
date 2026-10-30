@@ -1,0 +1,24 @@
+{
+  "id": "city-striped-top",
+  "name": "珊瑚海军条纹上衣",
+  "slot": "top",
+  "card": "S20-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1223,
+    1286
+  ],
+  "sha256": "4bba7ba2d2f1a1fbaf028351d2004c6fbe1f02bf61b3ca2aa73bbdcaffb2701b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-jersey",
+  "brandReference": "BEAMS BOY",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

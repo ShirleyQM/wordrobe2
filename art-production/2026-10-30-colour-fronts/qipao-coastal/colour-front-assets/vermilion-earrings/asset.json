@@ -1,0 +1,19 @@
+{
+  "id": "vermilion-earrings",
+  "name": "朱红珍珠耳饰",
+  "slot": "earrings",
+  "card": "S28-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "a6818527ed7516d9b62b1f3b35b975fc4f9f8c1ccd0af4f4b1249007d8325f64",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

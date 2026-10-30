@@ -1,0 +1,19 @@
+{
+  "id": "jade-pointed-flats",
+  "name": "黑色尖头平底鞋",
+  "slot": "shoes",
+  "card": "S28-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "94bf4f0688455fbecec7cd53ad3249180f1e2be1b9f08f1c8771fdb82457c615",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

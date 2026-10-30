@@ -1,0 +1,19 @@
+{
+  "id": "sky-metal-barrette",
+  "name": "银色长辫发扣",
+  "slot": "hair-accessory",
+  "card": "S26-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "3937ebc46189e93aabd99576a5fd16e107e96b75b047930ecd16027a9670b893",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

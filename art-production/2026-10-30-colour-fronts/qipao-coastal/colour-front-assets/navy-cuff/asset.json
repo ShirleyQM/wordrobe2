@@ -1,0 +1,19 @@
+{
+  "id": "navy-cuff",
+  "name": "暖金窄腕饰",
+  "slot": "bracelet",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "5b92ae33792d59866ffa16687d4fbe23bcba6406494849fd2974696eff830e27",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

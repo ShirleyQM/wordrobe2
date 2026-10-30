@@ -1,0 +1,19 @@
+{
+  "id": "slate-hairpin",
+  "name": "银色盘发簪",
+  "slot": "hair-accessory",
+  "card": "S28-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "5b137da3d6e57023cde76413992045a007f5fdca1ae3db6fcfc5afd72fc59a97",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "riding-gold-studs",
+  "name": "骑装金色耳钉",
+  "slot": "earrings",
+  "card": "S15-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "0d3f3d4caca28e1f9d636bce33448b218d9712e563df9462b16523eb0a623d2d",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "gold",
+  "brandReference": "Hermès",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

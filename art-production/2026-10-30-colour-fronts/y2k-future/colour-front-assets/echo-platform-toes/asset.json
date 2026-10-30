@@ -1,0 +1,26 @@
+{
+  "id": "echo-platform-toes",
+  "name": "丁香银带厚底鞋头",
+  "slot": "shoes",
+  "card": "S04-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "926e85f1f7ffbf66a6b2c55c5ff0cd90d73e22e748ae051985b4a852181737b4",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "metallic-lilac-leather",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

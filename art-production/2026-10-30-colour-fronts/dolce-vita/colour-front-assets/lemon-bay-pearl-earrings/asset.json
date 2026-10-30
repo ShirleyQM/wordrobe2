@@ -1,0 +1,19 @@
+{
+  "id": "lemon-bay-pearl-earrings",
+  "name": "柠檬海湾·椭圆珍珠耳饰",
+  "slot": "jewelry",
+  "card": "S11-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "de1c5369ebe19e4d49d31ec602f37440adf9793887d6de6dcbc077a47b7c2463",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

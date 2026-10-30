@@ -1,0 +1,290 @@
+{
+  "status": "local-art-only",
+  "items": [
+    {
+      "id": "lemon-bay-dress",
+      "name": "柠檬海湾·几何领长裙",
+      "slot": "dress",
+      "card": "S11-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        980,
+        1604
+      ],
+      "sha256": "a48d1f46138ebfe8c5b09b24cae229d4bd7cd5651bf02e822edc17bda2e4b2d5",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "white-front-sandals",
+      "name": "柠檬海湾·白色凉鞋",
+      "slot": "shoes",
+      "card": "S11-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "493d5d3dbbdfc508c3f20dc667e9917ef5eb642700ba76ba27564295fa7bdf1c",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "vermilion-shirt-dress",
+      "name": "朱砂午后·衬衫裙",
+      "slot": "dress",
+      "card": "S11-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        939,
+        1676
+      ],
+      "sha256": "63e5708dcb6ddebcc43f116a996797bcbe565ec30abe44f7ff2e2bec6f19ea99",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "cream-sash",
+      "name": "朱砂午后·腰带",
+      "slot": "jewelry",
+      "card": "S11-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        939,
+        1676
+      ],
+      "sha256": "3771724af8626c23d5912fc8f1b4bf20ae10f606ffdeb4e011b5548b5cebd0ae",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "olive-front-sandals",
+      "name": "朱砂午后·橄榄绿凉鞋",
+      "slot": "shoes",
+      "card": "S11-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "b222ce4e7a2237c7b725aff71e55d76db253b39dca9ad3781ad6074601a8deea",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "honey-long-vest",
+      "name": "蜂蜜色航线·长马甲",
+      "slot": "coat",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        939,
+        1676
+      ],
+      "sha256": "3c8caca802e8c92c1eff676aa2a672444bce5dcba07458cb77ce38da42242291",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "ivory-ribbed-top",
+      "name": "蜂蜜色航线·针织背心",
+      "slot": "top",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        980,
+        1604
+      ],
+      "sha256": "68aa768c89a4598df97f1a0cb42164516c28ff490c3258cbdb8a51a6faa434e1",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "navy-tailored-shorts",
+      "name": "蜂蜜色航线·短裤",
+      "slot": "bottom",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        939,
+        1675
+      ],
+      "sha256": "534606364e83684e924de1efb03914639ef76de45d8cc2017622158ee8439867",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "honey-woven-loafers",
+      "name": "蜂蜜色航线·编织便鞋",
+      "slot": "shoes",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "6f10b1c6def17311ab50fec78b5ddd7f4a7021aef5b476e74e1c0aa88faca217",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "lemon-bay-pearl-earrings",
+      "name": "柠檬海湾·椭圆珍珠耳饰",
+      "slot": "jewelry",
+      "card": "S11-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "de1c5369ebe19e4d49d31ec602f37440adf9793887d6de6dcbc077a47b7c2463",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "lemon-bay-gold-cuff",
+      "name": "柠檬海湾·金色腕饰",
+      "slot": "jewelry",
+      "card": "S11-F01",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "b7f374309e7c21540438638cf55b5060b83ed6927d88f70d8110a3a963b7f4bc",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "vermilion-pearl-earrings",
+      "name": "朱砂午后·长方珍珠耳饰",
+      "slot": "jewelry",
+      "card": "S11-F02",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "58b38b29d2c0a1027af446f9f6e07ca1005c2e13fa29bb2cdcd8d431aa24a13c",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "honey-gold-hoops",
+      "name": "蜂蜜色航线·椭圆金耳环",
+      "slot": "jewelry",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "38a308e7738e76748134b711b972bea4c0c28cbe74181fca09dde0f01048603b",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "honey-chain-bracelet",
+      "name": "蜂蜜色航线·链式手镯",
+      "slot": "jewelry",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "ddb6598cdb3a827fdffc662e13a08e773bd8dab7ee3b7e982dd216a62a560abe",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    },
+    {
+      "id": "honey-braid-cuffs",
+      "name": "蜂蜜色航线·编发金扣",
+      "slot": "jewelry",
+      "card": "S11-F03",
+      "front": "colour-front.png",
+      "back": "back.png",
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "4c631d7ba0a0eedda9ef5a03d30dd8846361423e160f656e0b2f1302ce1abfad",
+      "trueTransparency": true,
+      "backTransparent": true,
+      "recolor": false,
+      "status": "local-colour-front-art",
+      "wearingTest": "not-requested",
+      "runtimeValidated": false
+    }
+  ]
+}

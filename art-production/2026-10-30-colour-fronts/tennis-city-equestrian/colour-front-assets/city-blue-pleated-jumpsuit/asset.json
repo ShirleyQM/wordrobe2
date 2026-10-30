@@ -1,0 +1,24 @@
+{
+  "id": "city-blue-pleated-jumpsuit",
+  "name": "电蓝细褶连身裤",
+  "slot": "jumpsuit",
+  "card": "S20-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "78b19463e0dade8ee3b7c8ce8cd8f23ec0bb2421a45b8781e8559f72238c0847",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "micropleated-fabric",
+  "brandReference": "Issey Miyake",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

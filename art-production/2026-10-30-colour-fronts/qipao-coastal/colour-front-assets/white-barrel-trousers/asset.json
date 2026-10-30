@@ -1,0 +1,19 @@
+{
+  "id": "white-barrel-trousers",
+  "name": "白色弧线裤",
+  "slot": "bottom",
+  "card": "S26-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "1f49ad247eb2ea68aa9e12f4632b56701a3999371cf5982050980624cd868db2",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

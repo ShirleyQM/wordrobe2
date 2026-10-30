@@ -1,0 +1,24 @@
+{
+  "id": "city-black-gold-earrings",
+  "name": "黑金几何耳钉",
+  "slot": "earrings",
+  "card": "S20-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "170b2b1691b78d19edf61def75ff5569f27fab02a17259768473d758f4423f94",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "enamel-gold",
+  "brandReference": "Onitsuka Tiger",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

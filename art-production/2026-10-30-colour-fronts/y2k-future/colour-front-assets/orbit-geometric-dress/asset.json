@@ -1,0 +1,26 @@
+{
+  "id": "orbit-geometric-dress",
+  "name": "冰白弧线几何短裙",
+  "slot": "dress",
+  "card": "S04-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "def0f9fa27f7a1eb37efbeddb0a79d11b6ef39950e35fccae1c7f7569a5e4a6f",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "bonded-jersey",
+  "brandReference": "Courrèges",
+  "sourceUrl": "https://www.courreges.com/fr/page/collection-fall-winter-2024",
+  "referenceScope": "参考光洁包裹与长线比例，重新设计立领、短裙与弧线分割。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

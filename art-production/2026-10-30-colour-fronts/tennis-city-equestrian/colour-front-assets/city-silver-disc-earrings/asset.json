@@ -1,0 +1,24 @@
+{
+  "id": "city-silver-disc-earrings",
+  "name": "唱片银圆耳饰",
+  "slot": "earrings",
+  "card": "S20-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1210,
+    1300
+  ],
+  "sha256": "90604176bd4ebc908517a81ebeffe516763b0799f48da4e17ff73e3db4b99bdf",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "BEAMS BOY",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

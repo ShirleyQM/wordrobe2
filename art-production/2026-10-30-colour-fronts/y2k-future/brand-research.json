@@ -1,0 +1,116 @@
+[
+  {
+    "id": "S04-F01",
+    "title": "轨道静默",
+    "brand": "Courrèges",
+    "source": {
+      "brand": "Courrèges",
+      "url": "https://www.courreges.com/fr/page/collection-fall-winter-2024",
+      "photo_source_url": "https://assets.vogue.com/photos/65df84ba697a2547f6aa9e13/master/w_2560%2Cc_limit/00006-courreges-fall-2024-ready-to-wear-credit-brand.jpg",
+      "season": "2024 秋冬"
+    },
+    "detail": "CYBER Y2K retro future editorial, unified silver/ice-blue/lilac palette with sparse electric lime. Adult woman with precise glossy black geometric chin bob, silver front panel and blunt micro-fringe. Upright head, chin level, frontal symmetrical planted stance feet apart, arms relaxed slightly away from body, aloof direct gaze. Original ice-white bonded jersey sculptural sleeveless mini dress with a sculpted crescent standing neckline rather than a hood; one asymmetric curved hip overlay and thin ice-blue seam channels. An abbreviated translucent ice-blue capelet only across shoulders with geometric slit openings, silver satin-finish fitted knee boots with square toes, one small rigid crescent bag in right hand. Scene: empty retro-futurist transit observation deck, curved glass wall and pale orbital light ring, cool clean dusk, not a space suit. Reinterpret reference's smooth wrapping and boots by changing length, neckline, seams, accessories and colour; no copied side buttons.",
+    "items": [
+      {
+        "item_zh": "立领几何短裙",
+        "reference_brand": "Courrèges",
+        "transformation_zh": "参考光洁包裹轮廓；连帽长裙改成立领短裙，重新画弧形分割与斜盖片。",
+        "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
+      },
+      {
+        "item_zh": "冰蓝透明肩罩",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "为短裙增加外层空间，几何边缘与整组透明材质呼应。",
+        "source_url": null
+      },
+      {
+        "item_zh": "银色方头长靴",
+        "reference_brand": "Courrèges",
+        "transformation_zh": "参考修长贴腿靴的比例；改成银色方头、厚跟和独立筒口。",
+        "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
+      },
+      {
+        "item_zh": "月牙包、发饰与耳饰",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "自定几何形状，不复刻品牌包型与标识。",
+        "source_url": null
+      }
+    ]
+  },
+  {
+    "id": "S04-F02",
+    "title": "失真频段",
+    "brand": "Diesel",
+    "source": {
+      "brand": "Diesel",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel",
+      "photo_source_url": "https://otonamuse.jp/collection/48626/diesel-f24-047/",
+      "season": "2024 秋冬"
+    },
+    "detail": "CYBER Y2K retro future editorial with the same ice-blue/lilac/silver palette and tiny lime accents. Adult woman with wet slicked-back short black wolf cut, two thin braided temple strands, silver ear cuffs. Head NOT tilted sideways: neck vertical, slight forward nod as she looks at compact silver music player in one hand; other hand hooked into trouser pocket. Strong stance with one boot on a low concrete ledge, shoulders level and stable. Original silver-blue acid-washed DENIM bolero jacket with broad angular shoulders, cropped rib-length, curved utilitarian seams and raw controlled seam edges; a lilac opaque fitted jersey tank with small lime edge binding; radically low-slung wide DENIM flares with curved double-panel knee inserts and diagonal fastening waistband, no logos, no decorative straps unconnected. Square-toed chunky silver-black boots fully visible under flared hems. Scene: late-night elevated station concourse with cool blue glass and a blurred violet waveform installation; uncluttered and editorial, no readable text. Translate reference's tonal washed denim and oversized shoulders into entirely new cropped-top/low-rise flare proportions, not a copied long denim coat.",
+    "items": [
+      {
+        "item_zh": "宽肩短丹宁夹克",
+        "reference_brand": "Diesel",
+        "transformation_zh": "参考同色洗水丹宁与宽肩；长外套缩为短夹克，重画弧形拼片。",
+        "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
+      },
+      {
+        "item_zh": "低腰斜扣阔腿裤",
+        "reference_brand": "Diesel",
+        "transformation_zh": "参考成套洗水牛仔；新增斜腰头与膝部曲线分割，改变腰位和裤腿量感。",
+        "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
+      },
+      {
+        "item_zh": "紫色青柠边背心",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "为重丹宁增加轻薄、明亮的内层。",
+        "source_url": null
+      },
+      {
+        "item_zh": "银黑厚底鞋、耳机线与播放器",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "以千禧年便携音乐设备强化主题，鞋履自定方头厚底。",
+        "source_url": null
+      }
+    ]
+  },
+  {
+    "id": "S04-F03",
+    "title": "液态回声",
+    "brand": "Blumarine",
+    "source": {
+      "brand": "Blumarine",
+      "url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+      "photo_source_url": "https://assets.vogue.com/photos/632cc6a406377e01c5304729/master/w_2560%2Cc_limit/00009-blumarine-spring-2023-ready-to-wear-credit-gorunway.jpg",
+      "season": "2023 春夏"
+    },
+    "detail": "CYBER Y2K soft retro-future, shared ice-blue/silver/lilac palette. Adult woman with two high sculptural compact hair knots, two long poker-straight side sections, thin silver hair hoops. Walking laterally in a long deliberate editorial stride, upright head looking forward not back, no head cant, arms swinging naturally and separated. Original lilac asymmetric jersey mini dress over opaque lilac short lining: gathered diagonally at one hip with a flat custom silver crescent clasp, long narrow rippling side panel to calf, one long flared sleeve while other shoulder has a broad secure strap. Add detachable fine openwork ice-blue knit arm warmer on bare arm, small silver shoulder bag, metallic lilac platform sandals with ankle straps, both sandals visible. No butterfly, rose, cross, brand logos or seashell bra. Scene: empty chrome-and-glass rooftop sound pavilion with cool translucent aqua panels, violet sunset reflected on floor, same coherent future atmosphere as transit cards but different place. Reference 2 informs jersey drape, asymmetric flowing hems and dress-over-layering only; entirely change green sleeveless dress over flared trousers into lilac one-sleeve shorter layered silhouette.",
+    "items": [
+      {
+        "item_zh": "不对称抽褶短裙",
+        "reference_brand": "Blumarine",
+        "transformation_zh": "参考抽褶、流动下摆与轻薄叠层；重设紫色、单侧袖、短裙比例及月牙扣。",
+        "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
+      },
+      {
+        "item_zh": "冰蓝镂空袖套",
+        "reference_brand": "Blumarine（系列延伸研究）",
+        "transformation_zh": "参考该系列镂空针织语言，转成独立袖套；不是所附绿色造型中的单品。",
+        "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
+      },
+      {
+        "item_zh": "金属紫厚底凉鞋",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "厚底与踝带为本卡自定，未标作品牌原款。",
+        "source_url": null
+      },
+      {
+        "item_zh": "小银包、双结发髻与银发饰",
+        "reference_brand": "原创搭配",
+        "transformation_zh": "用直线长发与小几何件衔接整组未来气氛。",
+        "source_url": null
+      }
+    ]
+  }
+]

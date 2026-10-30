@@ -1,0 +1,19 @@
+{
+  "id": "navy-tailored-shorts",
+  "name": "蜂蜜色航线·短裤",
+  "slot": "bottom",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    939,
+    1675
+  ],
+  "sha256": "534606364e83684e924de1efb03914639ef76de45d8cc2017622158ee8439867",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

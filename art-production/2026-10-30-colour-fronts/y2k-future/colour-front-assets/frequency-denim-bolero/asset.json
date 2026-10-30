@@ -1,0 +1,26 @@
+{
+  "id": "frequency-denim-bolero",
+  "name": "银蓝洗水牛仔短夹克",
+  "slot": "outerwear",
+  "card": "S04-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "3e0ad56aeee5fa955d78b303b7fc7fb6ce6d8c53625b707ac77588836bb69791",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "acid-wash-denim",
+  "brandReference": "Diesel",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel",
+  "referenceScope": "参考洗水丹宁与宽肩；重新设计短夹克和弧形分割。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

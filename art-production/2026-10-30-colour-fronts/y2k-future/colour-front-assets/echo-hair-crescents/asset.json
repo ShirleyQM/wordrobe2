@@ -1,0 +1,26 @@
+{
+  "id": "echo-hair-crescents",
+  "name": "银色双弧发夹",
+  "slot": "hair-accessory",
+  "card": "S04-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "5d87b31178165ae946e9d15d029d0c3144f4d59803562d13d8da1c95f764ed94",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

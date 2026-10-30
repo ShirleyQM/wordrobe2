@@ -1,0 +1,26 @@
+{
+  "id": "orbit-rectangular-earrings",
+  "name": "轨道银框耳饰",
+  "slot": "earrings",
+  "card": "S04-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "b842a807391bc8c071cfb3315b09225ec202e22bbe3f8bc8d4c9f096348d4c72",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

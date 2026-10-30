@@ -1,0 +1,19 @@
+{
+  "id": "honey-braid-cuffs",
+  "name": "蜂蜜色航线·编发金扣",
+  "slot": "jewelry",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "4c631d7ba0a0eedda9ef5a03d30dd8846361423e160f656e0b2f1302ce1abfad",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

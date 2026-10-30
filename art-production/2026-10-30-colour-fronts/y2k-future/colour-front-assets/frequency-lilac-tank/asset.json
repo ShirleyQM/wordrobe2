@@ -1,0 +1,26 @@
+{
+  "id": "frequency-lilac-tank",
+  "name": "丁香荧边短背心",
+  "slot": "top",
+  "card": "S04-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "73d42fb448c2c3d31efdb5dfb31b1b9263ff7f674dfcb920c55102aeaed7f277",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "compact-cotton-jersey",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "honey-chain-bracelet",
+  "name": "蜂蜜色航线·链式手镯",
+  "slot": "jewelry",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "ddb6598cdb3a827fdffc662e13a08e773bd8dab7ee3b7e982dd216a62a560abe",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

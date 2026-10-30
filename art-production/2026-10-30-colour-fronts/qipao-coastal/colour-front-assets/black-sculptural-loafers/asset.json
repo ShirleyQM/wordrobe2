@@ -1,0 +1,19 @@
+{
+  "id": "black-sculptural-loafers",
+  "name": "黑色雕塑乐福鞋",
+  "slot": "shoes",
+  "card": "S28-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "f180d1bd9e88dcf204da610033dbafa22fb3b10dc5e1ed9cef57b81f8cce1a9e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

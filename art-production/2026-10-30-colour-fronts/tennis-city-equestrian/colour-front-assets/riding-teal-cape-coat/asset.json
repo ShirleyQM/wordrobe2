@@ -1,0 +1,24 @@
+{
+  "id": "riding-teal-cape-coat",
+  "name": "深青骑装斗篷",
+  "slot": "outerwear",
+  "card": "S15-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "042b4232d923789adc509c6014389715a7da886f9535ecb790f445d1e67a0118",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "felted-wool",
+  "brandReference": "Burberry",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

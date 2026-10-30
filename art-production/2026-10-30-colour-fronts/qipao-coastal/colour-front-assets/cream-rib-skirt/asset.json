@@ -1,0 +1,19 @@
+{
+  "id": "cream-rib-skirt",
+  "name": "奶油罗纹长裙",
+  "slot": "bottom",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "42779fd89a4744c8be5d0259d3f534240700bfbdb625f1cbb10466ed4c514c4b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

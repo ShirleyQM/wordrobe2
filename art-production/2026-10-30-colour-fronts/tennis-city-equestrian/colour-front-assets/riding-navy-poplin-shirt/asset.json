@@ -1,0 +1,24 @@
+{
+  "id": "riding-navy-poplin-shirt",
+  "name": "海军蓝长袖衬衫",
+  "slot": "top",
+  "card": "S15-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "138a7c7deec0bba54a046a7f29eaaa9dec3e66715c2fe950c8c4562552a75b0a",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-poplin",
+  "brandReference": "Ralph Lauren",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

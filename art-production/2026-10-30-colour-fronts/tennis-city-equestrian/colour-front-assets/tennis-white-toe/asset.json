@@ -1,0 +1,24 @@
+{
+  "id": "tennis-white-toe",
+  "name": "白色球鞋鞋头",
+  "slot": "shoes",
+  "card": "S22-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "8d85eb45bc3788ac84f7b0584fe319c8e93fc87d32f11358481d6828136c7232",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "leather-rubber",
+  "brandReference": "Lacoste",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

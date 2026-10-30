@@ -1,0 +1,24 @@
+{
+  "id": "tennis-green-coat",
+  "name": "常青翻领短外套",
+  "slot": "outerwear",
+  "card": "S22-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "e0ccd54e55c089aeaa932b009c89b44abff5eec790a84c9217cdb98f6f508a0a",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-nylon",
+  "brandReference": "Lacoste",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,1 @@
+Existing approved-colour-front item reused byte-for-byte. No new image generation. Original prompt is preserved in the source batch.

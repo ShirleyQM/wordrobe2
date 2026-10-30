@@ -1,0 +1,24 @@
+{
+  "id": "tennis-apricot-polo",
+  "name": "杏橘珠地Polo",
+  "slot": "top",
+  "card": "S22-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1225,
+    1284
+  ],
+  "sha256": "e59015770505721021efd4b30879ef8f8762877fa84494059a80c124fba8f950",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-pique",
+  "brandReference": "Fila",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

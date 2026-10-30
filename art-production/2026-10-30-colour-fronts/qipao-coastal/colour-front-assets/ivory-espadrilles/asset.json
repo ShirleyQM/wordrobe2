@@ -1,0 +1,19 @@
+{
+  "id": "ivory-espadrilles",
+  "name": "象牙编织渔夫鞋",
+  "slot": "shoes",
+  "card": "S26-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "fe507d510404b1bf716621b9cc9a30d2a902146f20a5f164d7d33a99a824d96e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

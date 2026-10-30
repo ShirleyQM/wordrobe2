@@ -1,0 +1,19 @@
+{
+  "id": "lemon-bay-dress",
+  "name": "柠檬海湾·几何领长裙",
+  "slot": "dress",
+  "card": "S11-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    980,
+    1604
+  ],
+  "sha256": "a48d1f46138ebfe8c5b09b24cae229d4bd7cd5651bf02e822edc17bda2e4b2d5",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

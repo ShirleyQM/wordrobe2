@@ -1,0 +1,19 @@
+{
+  "id": "ceramic-earrings",
+  "name": "瓷白卵石耳坠",
+  "slot": "earrings",
+  "card": "S26-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1244,
+    1264
+  ],
+  "sha256": "f65a7e67d65e226868d510eaaab33d7cf5e99de198df10ffa3e1967095856f55",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

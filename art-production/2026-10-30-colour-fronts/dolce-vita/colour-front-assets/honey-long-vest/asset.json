@@ -1,0 +1,19 @@
+{
+  "id": "honey-long-vest",
+  "name": "蜂蜜色航线·长马甲",
+  "slot": "coat",
+  "card": "S11-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    939,
+    1676
+  ],
+  "sha256": "3c8caca802e8c92c1eff676aa2a672444bce5dcba07458cb77ce38da42242291",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "riding-oat-corduroy-culottes",
+  "name": "燕麦灯芯绒裙裤",
+  "slot": "bottom",
+  "card": "S15-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "843403db07a71c3997fa67d87f69e5fef4663ccc7ac0efeae4290e5340c71424",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "wide-wale-corduroy",
+  "brandReference": "Burberry",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

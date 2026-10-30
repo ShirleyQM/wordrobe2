@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lemon-bay-dress",
+    "name": "柠檬海湾·几何领长裙",
+    "slot": "dress",
+    "card": "S11-F01",
+    "path": "colour-front-assets/lemon-bay-dress/colour-front.png",
+    "prompt": "Create a production-ready coloured 2D dress-up garment asset, ONE SINGLE GARMENT ONLY, exact 939x1676 transparent PNG full-body coordinate canvas. Image1 is the fixed body placement reference ONLY, image2 is clothing design/material reference ONLY. ONE turquoise ankle-length sleeveless column dress. Lemon yellow and ivory triangular sunburst geometric yoke across chest, small turquoise crew neck, fitted waist, softly draped jersey, cascading turquoise/lemon/ivory FRONT sash falling from viewer-right hip. Main dress hem y1545, not dragging. Shoulder ends x350 and589 y322, bust sides315..625 y445, waist368..570 y620, hips330..609 y780. Keep arms completely free. Sunburst is flat colour-blocked front fabric, not a rear collar ring. Make the jersey fine, matte and luxurious. Match image1 frontal fixed pose and proportions; do not copy the card pose. Render clean refined semi-realistic anime fashion game fabric, fine edges, readable material, controlled shading. Strictly ONLY front-visible fabric. All neck openings, arm gaps, exposed waist and spaces outside garment truly transparent. ABSOLUTELY NO back pieces: no rear collar ring, no rear waist rim, no sleeve cuff inside/back rim, no lining, no underside, no rear hem. Never paint flesh, body outlines, mannequin, face, hair, legs, underwear, hands, shoes, bag, text, logos, checkerboard, cast ground shadow or background. This is the final full-colour garment; no recolour layers needed. Use full-body anchor placement specified, NOT a garment filling entire canvas."
+  },
+  {
+    "id": "white-front-sandals",
+    "name": "柠檬海湾·白色凉鞋",
+    "slot": "shoes",
+    "card": "S11-F01",
+    "path": "colour-front-assets/white-front-sandals/colour-front.png",
+    "prompt": "Production final coloured 2D dress-up asset, ONE PAIR of white flat leather open-toe sandals fitted to the front-facing reference feet, both symmetrically positioned and pointing directly FORWARD, neither rotated sideways. Two broad interlocking front straps and slim tan sole. Only visible uppers and front-visible sole edges; transparent everywhere skin/toes would be visible. NO feet, toes, legs, rear heel straps, footbed visible through empty shoes, floating back rims, shadows or floor. Keep empty strap gaps truly transparent. Pair coordinate target x375..460 and480..570, y1550..1660. Image1 FIXED FRONTAL BODY shape/pose reference only. Image2 design/material reference only; NEVER take its camera angle, seated pose or walking stance. Create exactly one clothing item or one footwear pair on a truly TRANSPARENT PNG 939x1676 canvas. Clean refined semi-realistic anime game art with readable woven/knit/leather material and restrained shading. All parts must face camera straight on. No typography, logos, body, mannequin, skin, hair, underwear, other clothes, hangers or checkerboard. No rear pieces of any kind. Do not paint sleeve interiors or rear waistband. Preserve intended proportional shape; no recolour layering required.\n\nWORN-FRONT REVISION: Precise-object-edit. Transparent coloured dress-up overlay asset. REBUILD AS WORN FRONT TOE OVERLAYS, not product shoes. Keep only the left and right front-facing TOE CAP / FRONT VAMP material that a straight-on standing character would show. Two small broad rounded trapezoidal curved material pieces, side-by-side. Camera at ankle height straight FRONT, absolutely NOT overhead. Delete ALL empty shoe cavities, insoles, heel parts, back walls, rear straps, ring-shaped openings and full-length footprint. No complete empty shoes. The back/top edge of each toe overlay is a clean shallow cutout with no interior, rear rim or connecting strap. Match existing shoe colour and material. Sandals keep ONLY the visible broad front strap over the toes, no whole footbed. No skin, feet, toes or mannequin. True transparent around and between the two overlays. Preserve refined clean semi-realistic anime game linework and controlled shading. No background, ground shadow, text, person, skin, face, hair, mannequin or additional clothes. This is worn FRONT-visible material only, never a hollow product. Preserve genuine alpha."
+  },
+  {
+    "id": "vermilion-shirt-dress",
+    "name": "朱砂午后·衬衫裙",
+    "slot": "dress",
+    "card": "S11-F02",
+    "path": "colour-front-assets/vermilion-shirt-dress/colour-front.png",
+    "prompt": "EDIT image1 ONLY, preserve its exact 939x1676 transparent canvas, garment placement, red cotton appearance, waist y570 and entire skirt unchanged. Reference2 is fixed body coordinates only; reference3 shows fitting defect at shoulders. Repair the red dress FRONT shoulders: extend front-visible red cotton upwards from the current shoulder top to fit reference2 shoulders x350..590,y322..365, covering the exposed shoulder slopes and blue underwear straps seen in reference3, using real continuous red cotton with correct seams, not flat patches. Raise outer shoulder seams about55px while maintaining current collar neck hole and waist. Remove all sleeve cuff INNER/BACK-facing triangular faces; each sleeve must end in ONE front fabric edge with transparent empty space immediately below; no elliptical interior, no rear cuff fold. Front collar lapels remain; no rear neck collar ring. Keep all other fabric and pose fixed; do not paint body, skin, hands, blue underwear or any other garments. Only transparent red garment. No recolour layers, text or background."
+  },
+  {
+    "id": "cream-sash",
+    "name": "朱砂午后·腰带",
+    "slot": "jewelry",
+    "card": "S11-F02",
+    "path": "colour-front-assets/cream-sash/colour-front.png",
+    "prompt": "Edit the provided garment asset only. Cream linen tied waist sash. Make it a FLAT FRONT-ONLY strip hugging the waist, no rear belt segment, back waist rim, elliptical opening, top/side wall or inside lining. Knot is a shallow front fabric knot. Two hanging tails are single front cloth surfaces with soft folds, no curled-back triangles or underside facets. Preserve cream colour and fine weave; do not make an empty loop or a product lying open. Deliver only the garment, fully coloured, precisely FRONT FACING on true transparent PNG background. Preserve canvas and overall scale. NO mannequin, body, skin, head, hands, other clothes, text, checkerboard or ground shadow. No back piece of any kind. This is an opaque flat wearable FRONT layer; shadow on front fabric is allowed, visible interiors are forbidden."
+  },
+  {
+    "id": "olive-front-sandals",
+    "name": "朱砂午后·橄榄绿凉鞋",
+    "slot": "shoes",
+    "card": "S11-F02",
+    "path": "colour-front-assets/olive-front-sandals/colour-front.png",
+    "prompt": "EDIT the isolated olive sandal pair image. Keep exact canvas, colours, front-facing orientation, scale and placement. Delete ONLY both curved rear heel arcs at the TOP of each sandal. They are forbidden back pieces. Keep the straight horizontal front ankle bands with gold buckle and the two crossing front foot straps, and thin front sole edges. Make removed rear arcs truly transparent, no replacement heel strap or interior. No footbed, skin, feet, mannequin or background. Deliver only the FRONT-VISIBLE shoe pieces. All remaining straps must keep real leather texture and precise edges.\n\nWORN-FRONT REVISION: Precise-object-edit. Transparent coloured dress-up overlay asset. REBUILD AS WORN FRONT TOE OVERLAYS, not product shoes. Keep only the left and right front-facing TOE CAP / FRONT VAMP material that a straight-on standing character would show. Two small broad rounded trapezoidal curved material pieces, side-by-side. Camera at ankle height straight FRONT, absolutely NOT overhead. Delete ALL empty shoe cavities, insoles, heel parts, back walls, rear straps, ring-shaped openings and full-length footprint. No complete empty shoes. The back/top edge of each toe overlay is a clean shallow cutout with no interior, rear rim or connecting strap. Match existing shoe colour and material. Sandals keep ONLY the visible broad front strap over the toes, no whole footbed. No skin, feet, toes or mannequin. True transparent around and between the two overlays. Preserve refined clean semi-realistic anime game linework and controlled shading. No background, ground shadow, text, person, skin, face, hair, mannequin or additional clothes. This is worn FRONT-visible material only, never a hollow product. Preserve genuine alpha."
+  },
+  {
+    "id": "honey-long-vest",
+    "name": "蜂蜜色航线·长马甲",
+    "slot": "coat",
+    "card": "S11-F03",
+    "path": "colour-front-assets/honey-long-vest/colour-front.png",
+    "prompt": "Edit the provided garment asset only. Honey linen sleeveless long vest. Keep TWO front cloth panels with gently draped front lapels, but remove EVERY inside-facing/back/lining panel, thick rolled return, rear armhole rim and rear collar or waist connection. It must feel like fabric lying flush against a body, not a hollow floating tube. Central opening entirely transparent. Preserve original golden linen, long hem and full frontal symmetry. Front lapel folds may show only the same front outer cloth, no separate interior surface. Deliver only the garment, fully coloured, precisely FRONT FACING on true transparent PNG background. Preserve canvas and overall scale. NO mannequin, body, skin, head, hands, other clothes, text, checkerboard or ground shadow. No back piece of any kind. This is an opaque flat wearable FRONT layer; shadow on front fabric is allowed, visible interiors are forbidden."
+  },
+  {
+    "id": "ivory-ribbed-top",
+    "name": "蜂蜜色航线·针织背心",
+    "slot": "top",
+    "card": "S11-F03",
+    "path": "colour-front-assets/ivory-ribbed-top/colour-front.png",
+    "prompt": "Edit the provided garment asset only. Ivory ribbed fitted tank top. Remove every inner facing and rear/inside surface along square neckline and strap openings: one thin front cloth edge only. Shoulder straps must feel flush on a body, no thick inward beige sidewalls, empty neck rim, rear neckline band, back shoulder strap or rear waist. Keep flat frontal fitted form, fine ivory rib knit, original proportions and colour. No shading that resembles hollow garment interiors. Deliver only the garment, fully coloured, precisely FRONT FACING on true transparent PNG background. Preserve canvas and overall scale. NO mannequin, body, skin, head, hands, other clothes, text, checkerboard or ground shadow. No back piece of any kind. This is an opaque flat wearable FRONT layer; shadow on front fabric is allowed, visible interiors are forbidden."
+  },
+  {
+    "id": "navy-tailored-shorts",
+    "name": "蜂蜜色航线·短裤",
+    "slot": "bottom",
+    "card": "S11-F03",
+    "path": "colour-front-assets/navy-tailored-shorts/colour-front.png",
+    "prompt": "Production final coloured 2D dress-up asset, ONE pair of navy tailored high-waist mid-thigh shorts, front waistband only, gold front button, tailored pleats, two distinct trouser legs and natural transparent gap between legs, cuff FRONT edge only, NO rear waist oval or rim, NO inside trouser cuffs. Perfectly frontal, legs parallel, not a walking pose. No vest, top, underwear or skin. Body target waist y640, hips y780, hems y950. Image1 FIXED FRONTAL BODY shape/pose reference only. Image2 design/material reference only; NEVER take its camera angle, seated pose or walking stance. Create exactly one clothing item or one footwear pair on a truly TRANSPARENT PNG 939x1676 canvas. Clean refined semi-realistic anime game art with readable woven/knit/leather material and restrained shading. All parts must face camera straight on. No typography, logos, body, mannequin, skin, hair, underwear, other clothes, hangers or checkerboard. No rear pieces of any kind. Do not paint sleeve interiors or rear waistband. Preserve intended proportional shape; no recolour layering required."
+  },
+  {
+    "id": "honey-woven-loafers",
+    "name": "蜂蜜色航线·编织便鞋",
+    "slot": "shoes",
+    "card": "S11-F03",
+    "path": "colour-front-assets/honey-woven-loafers/colour-front.png",
+    "prompt": "Production final coloured 2D dress-up asset, ONE PAIR of honey-gold woven leather low loafers, closed toe, tiny plain gold snaffle on uppers, fine diagonal basketweave. Both shoes perfectly FRONT FACING with toes forward, matching reference1 feet stance, not walking or side view. Only front visible shoe uppers and sole edges, no visible rear heel lining/cavity or back shoe parts. No foot, skin, legs, body, socks, background or shadows. Target front foot anchor pair x375..460 and480..570 y1550..1660. Image1 FIXED FRONTAL BODY shape/pose reference only. Image2 design/material reference only; NEVER take its camera angle, seated pose or walking stance. Create exactly one clothing item or one footwear pair on a truly TRANSPARENT PNG 939x1676 canvas. Clean refined semi-realistic anime game art with readable woven/knit/leather material and restrained shading. All parts must face camera straight on. No typography, logos, body, mannequin, skin, hair, underwear, other clothes, hangers or checkerboard. No rear pieces of any kind. Do not paint sleeve interiors or rear waistband. Preserve intended proportional shape; no recolour layering required.\n\nWORN-FRONT REVISION: Precise-object-edit. Transparent coloured dress-up overlay asset. REBUILD AS WORN FRONT TOE OVERLAYS, not product shoes. Keep only the left and right front-facing TOE CAP / FRONT VAMP material that a straight-on standing character would show. Two small broad rounded trapezoidal curved material pieces, side-by-side. Camera at ankle height straight FRONT, absolutely NOT overhead. Delete ALL empty shoe cavities, insoles, heel parts, back walls, rear straps, ring-shaped openings and full-length footprint. No complete empty shoes. The back/top edge of each toe overlay is a clean shallow cutout with no interior, rear rim or connecting strap. Match existing shoe colour and material. Sandals keep ONLY the visible broad front strap over the toes, no whole footbed. No skin, feet, toes or mannequin. True transparent around and between the two overlays. Preserve refined clean semi-realistic anime game linework and controlled shading. No background, ground shadow, text, person, skin, face, hair, mannequin or additional clothes. This is worn FRONT-visible material only, never a hollow product. Preserve genuine alpha."
+  },
+  {
+    "id": "lemon-bay-pearl-earrings",
+    "name": "柠檬海湾·椭圆珍珠耳饰",
+    "slot": "jewelry",
+    "card": "S11-F01",
+    "path": "colour-front-assets/lemon-bay-pearl-earrings/colour-front.png",
+    "prompt": "Precise transparent cutout edit of this existing earring pair. Remove ALL diffuse golden glow, haze, aura, bloom and coloured background surrounding each earring, including the space INSIDE the hoop openings and between the pair. Those pixels must be fully transparent alpha=0, not dark, golden or semi-transparent fog. Keep ONLY the physical front-facing pearl, metal bezel/stud and linking ring surfaces exactly as drawn, with crisp natural antialiased edges. Keep shape, size, position and front-facing orientation unchanged. No rear clasps, hooks, pins, ears, skin, body, shadow or background. Metal may have local highlights ON its solid surface, but must not emit light outside its physical silhouette. Deliver true transparent PNG clean game sprite, not a glowing product advertising picture."
+  },
+  {
+    "id": "lemon-bay-gold-cuff",
+    "name": "柠檬海湾·金色腕饰",
+    "slot": "jewelry",
+    "card": "S11-F01",
+    "path": "colour-front-assets/lemon-bay-gold-cuff/colour-front.png",
+    "prompt": "Create a clean production-ready 2D fashion dress-up accessory asset. ONE broad polished warm gold wrist cuff front surface matching the first card. A shallow gently curved rectangular band shown FRONT ON, with three subtle straight facets and restrained highlight, not an ellipse. ONLY front visible metal face; no back half, open circular hole, interior wall, underside, wrist or skin. Feels flush on a wrist. Reference card supplies accessory DESIGN ONLY; ignore its figure pose and perspective. Fine semi-realistic anime game rendering with precise edges, readable pearl/leather/metal materials, restrained luxurious highlights. Truly transparent PNG, item centred with generous transparent margin, separate parts never touching. No person, mannequin, body, skin, hair, other clothes, bag, backdrop, text, logo, checkerboard or cast shadow. Coloured final art; no recolour layers. Every visible part faces camera directly. No rear pieces."
+  },
+  {
+    "id": "vermilion-pearl-earrings",
+    "name": "朱砂午后·长方珍珠耳饰",
+    "slot": "jewelry",
+    "card": "S11-F02",
+    "path": "colour-front-assets/vermilion-pearl-earrings/colour-front.png",
+    "prompt": "Precise transparent cutout edit of this existing earring pair. Remove ALL diffuse golden glow, haze, aura, bloom and coloured background surrounding each earring, including the space INSIDE the hoop openings and between the pair. Those pixels must be fully transparent alpha=0, not dark, golden or semi-transparent fog. Keep ONLY the physical front-facing pearl, metal bezel/stud and linking ring surfaces exactly as drawn, with crisp natural antialiased edges. Keep shape, size, position and front-facing orientation unchanged. No rear clasps, hooks, pins, ears, skin, body, shadow or background. Metal may have local highlights ON its solid surface, but must not emit light outside its physical silhouette. Deliver true transparent PNG clean game sprite, not a glowing product advertising picture."
+  },
+  {
+    "id": "honey-gold-hoops",
+    "name": "蜂蜜色航线·椭圆金耳环",
+    "slot": "jewelry",
+    "card": "S11-F03",
+    "path": "colour-front-assets/honey-gold-hoops/colour-front.png",
+    "prompt": "Precise transparent cutout edit of this existing earring pair. Remove ALL diffuse golden glow, haze, aura, bloom and coloured background surrounding each earring, including the space INSIDE the hoop openings and between the pair. Those pixels must be fully transparent alpha=0, not dark, golden or semi-transparent fog. Keep ONLY the physical front-facing pearl, metal bezel/stud and linking ring surfaces exactly as drawn, with crisp natural antialiased edges. Keep shape, size, position and front-facing orientation unchanged. No rear clasps, hooks, pins, ears, skin, body, shadow or background. Metal may have local highlights ON its solid surface, but must not emit light outside its physical silhouette. Deliver true transparent PNG clean game sprite, not a glowing product advertising picture."
+  },
+  {
+    "id": "honey-chain-bracelet",
+    "name": "蜂蜜色航线·链式手镯",
+    "slot": "jewelry",
+    "card": "S11-F03",
+    "path": "colour-front-assets/honey-chain-bracelet/colour-front.png",
+    "prompt": "Create a clean production-ready 2D fashion dress-up accessory asset. ONE chunky honey-amber and gold link bracelet FRONT segment matching third card wrist ornament. Front elevation of four broad connected softly rectangular links lying as a gently curved horizontal front strip. Only FRONT visible gold/amber faces, flush-on-wrist appearance; NO rear bracelet segment, hollow cylinder, ellipse, inside wall, wrist or skin. Reference card supplies accessory DESIGN ONLY; ignore its figure pose and perspective. Fine semi-realistic anime game rendering with precise edges, readable pearl/leather/metal materials, restrained luxurious highlights. Truly transparent PNG, item centred with generous transparent margin, separate parts never touching. No person, mannequin, body, skin, hair, other clothes, bag, backdrop, text, logo, checkerboard or cast shadow. Coloured final art; no recolour layers. Every visible part faces camera directly. No rear pieces."
+  },
+  {
+    "id": "honey-braid-cuffs",
+    "name": "蜂蜜色航线·编发金扣",
+    "slot": "jewelry",
+    "card": "S11-F03",
+    "path": "colour-front-assets/honey-braid-cuffs/colour-front.png",
+    "prompt": "Create a clean production-ready 2D fashion dress-up accessory asset. ONE matching PAIR of tiny warm gold decorative braid cuffs matching the third card hair ties. Two shallow front-facing ribbed rectangular bands with a subtle chevron engraving, equal size, separately spaced. Front metal surface ONLY, not cylindrical tubes: no hair, braid, skin, rear wall or inner cavity. Reference card supplies accessory DESIGN ONLY; ignore its figure pose and perspective. Fine semi-realistic anime game rendering with precise edges, readable pearl/leather/metal materials, restrained luxurious highlights. Truly transparent PNG, item centred with generous transparent margin, separate parts never touching. No person, mannequin, body, skin, hair, other clothes, bag, backdrop, text, logo, checkerboard or cast shadow. Coloured final art; no recolour layers. Every visible part faces camera directly. No rear pieces."
+  }
+]

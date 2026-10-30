@@ -1,0 +1,19 @@
+{
+  "id": "jade-earrings",
+  "name": "玉色金边耳坠",
+  "slot": "earrings",
+  "card": "S28-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "0756b837148dae6bc5ae9f08bd03aa4b0c6636289b1334c985eccba3d6e732d5",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

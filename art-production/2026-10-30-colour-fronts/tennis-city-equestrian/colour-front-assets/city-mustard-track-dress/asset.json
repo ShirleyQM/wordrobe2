@@ -1,0 +1,24 @@
+{
+  "id": "city-mustard-track-dress",
+  "name": "芥黄运动拉链裙",
+  "slot": "dress",
+  "card": "S20-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "8f9b22e2e3fb4ed5bd3c79c4b8730b6510645c3f820c7e26b4651e3fb8e473a1",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "technical-jersey",
+  "brandReference": "Onitsuka Tiger",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

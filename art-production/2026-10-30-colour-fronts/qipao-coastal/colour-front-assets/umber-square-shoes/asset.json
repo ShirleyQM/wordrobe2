@@ -1,0 +1,19 @@
+{
+  "id": "umber-square-shoes",
+  "name": "深棕方头鞋",
+  "slot": "shoes",
+  "card": "S28-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "90ad391b6dc7d1bc929fe61a059e0778dd7d81e888aaed229d23d15e1645cdc6",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

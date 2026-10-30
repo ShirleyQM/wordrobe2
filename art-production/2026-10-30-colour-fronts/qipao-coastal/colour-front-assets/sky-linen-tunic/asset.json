@@ -1,0 +1,19 @@
+{
+  "id": "sky-linen-tunic",
+  "name": "天蓝宽肩衬裙",
+  "slot": "top",
+  "card": "S26-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "c2c249dde81a7bb954d51506525376a2c6985e5b43db38f8ec61c2c4985479f3",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

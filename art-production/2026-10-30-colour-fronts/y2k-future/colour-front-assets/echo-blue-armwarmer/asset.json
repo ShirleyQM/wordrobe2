@@ -1,0 +1,26 @@
+{
+  "id": "echo-blue-armwarmer",
+  "name": "冰蓝镂空袖套",
+  "slot": "arm-accessory",
+  "card": "S04-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1086,
+    1448
+  ],
+  "sha256": "b8746476653c0d7ba50ce67c3f4a4bd6e7ee275d1b9ec9ebac3bdfeaa7976b05",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "openwork-knit",
+  "brandReference": "Blumarine（系列延伸研究）",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+  "referenceScope": "参考系列镂空针织语言转成独立袖套，非所附绿色造型中的单品。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

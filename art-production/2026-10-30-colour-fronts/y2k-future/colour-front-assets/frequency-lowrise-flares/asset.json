@@ -1,0 +1,26 @@
+{
+  "id": "frequency-lowrise-flares",
+  "name": "低腰双片牛仔喇叭裤",
+  "slot": "bottom",
+  "card": "S04-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "83d7b54dcd214998dd7f430faa4a3495363b539e5a2254432bf61401252c7a52",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "acid-wash-denim",
+  "brandReference": "Diesel",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel",
+  "referenceScope": "参考成套洗水牛仔，低腰斜扣与双片膝部结构重新设计。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

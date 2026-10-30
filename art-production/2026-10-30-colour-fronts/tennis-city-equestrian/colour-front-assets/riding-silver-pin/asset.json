@@ -1,0 +1,24 @@
+{
+  "id": "riding-silver-pin",
+  "name": "银色斗篷别针",
+  "slot": "brooch",
+  "card": "S15-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "48b43cae44c638d914eaa3a3159e719da05fc4ac6aa4a427b2e9bdef4ec54a18",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "Burberry",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

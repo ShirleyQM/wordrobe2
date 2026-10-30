@@ -1,0 +1,19 @@
+{
+  "id": "navy-mules",
+  "name": "海军蓝低跟穆勒",
+  "slot": "shoes",
+  "card": "S26-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "60ed3973f173b39edeac20c27a1d286f2bdce4f942a3a1516e4d0b8fa2009098",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "S28-F01",
+    "brand": "Shanghai Tang",
+    "title": "玉色折枝",
+    "detail": "Jade-green silk-jacquard calf qipao-inspired dress with an original low stand collar, offset curved front fastening and broad petal cap sleeve, restrained black geometric branch jacquard placed only at shoulder and hem, black flat pointed shoes. Rework collar, seam and original pattern without dragons or copied motifs.",
+    "source": {
+      "key": "shanghaitang",
+      "brand": "Shanghai Tang",
+      "url": "https://www.farfetch.com/eg/shopping/women/shanghai-tang-floral-lattice-silk-qipao-dress-item-25596835.aspx",
+      "image": "https://cdn-images.farfetch-contents.com/25/59/68/35/25596835_55616860_1000.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://cdn.shanghaitang.com/women/clothing/qipaos-cheongsams",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：立领、贴体长线与低对比暗纹。颜色、长度、分割和搭配重新设计。"
+  },
+  {
+    "id": "S28-F02",
+    "brand": "Shiatzy Chen",
+    "title": "朱红折领",
+    "detail": "Vermilion structured cropped box jacket with a crisp modest standing collar and original diagonal cutwork panels over opaque ivory lining, ivory very wide full-length tailored trousers and black low sculptural shoes. Transfer researched embroidery/clean tailoring into a fresh jacket-and-trouser qipao vocabulary, no copied chain belt.",
+    "source": {
+      "key": "shiatzy",
+      "brand": "Shiatzy Chen",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/shiatzy-chen",
+      "image": "https://assets.vogue.com/photos/651ae3253161bd07cc46f5d5/master/w_1280%2Cc_limit/00001-shiatzy-chen-spring-2024-ready-to-wear-credit-brand.JPG",
+      "title": "Shiatzy Chen Spring 2024 Ready-to-Wear Collection | Vogue",
+      "season": "spring-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：局部装饰表面与清晰实色剪裁。颜色、长度、分割和搭配重新设计。"
+  },
+  {
+    "id": "S28-F03",
+    "brand": "Uma Wang",
+    "title": "石蓝叠影",
+    "detail": "Slate-blue dense silk-wool long wrapped coat dress with a folded high neckline, a broad asymmetrically draped umber side panel and long straight sleeves, ivory narrow ankle trousers peeking under front opening, dark brown squared low shoes. Restrained layered volume and diagonal wrap, original panel architecture.",
+    "source": {
+      "key": "uma",
+      "brand": "Uma Wang",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/uma-wang",
+      "image": "https://assets.vogue.com/photos/65e1ba866223a1b8e4aa4909/master/w_1280%2Cc_limit/00001-uma-wang-fall-2024-ready-to-wear-credit-gorunway.jpg",
+      "title": "Uma Wang Fall 2024 Ready-to-Wear Collection | Vogue",
+      "season": "fall-2024-ready-to-wear",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：折领、长短裹身面与对角线。颜色、长度、分割和搭配重新设计。"
+  },
+  {
+    "id": "S26-F01",
+    "brand": "Eileen Fisher",
+    "title": "天蓝空隙",
+    "detail": "Sky-blue linen oversized sleeveless long shirt tunic with a wide folded square collar, two large side slits and asymmetric long front tab, white sculptural barrel ankle trousers, natural woven flat sandals. Redesign relaxed linen into shoulder geometry and curved lower volume, not plain shirt-and-pants.",
+    "source": {
+      "key": "eileen",
+      "brand": "Eileen Fisher",
+      "url": "https://www.eileenfisherpress.com/may-2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/66e88917546bfc1aad9122b4/b3626ae1-ca83-4d04-a829-fe52b9efc951/26m5-PR-Lookbook--Linen-HP.jpg",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.eileenfisherpress.com/may-2026",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：宽裕亚麻感平面与松量。颜色、长度、分割和搭配重新设计。"
+  },
+  {
+    "id": "S26-F02",
+    "brand": "Jenni Kayne",
+    "title": "海军蓝软岛",
+    "detail": "Deep navy very cropped cashmere-like cocoon cardigan with oversized balloon elbows and one low original asymmetric button, cream rib ankle column skirt with a broad rust waistband wrap, navy low suede mules. Recompose short soft knit versus long column and changed closure, no exact product copy.",
+    "source": {
+      "key": "jenni",
+      "brand": "Jenni Kayne",
+      "url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+      "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/cropped-cashmere-cocoon-cardigan-oatmeal-02_720x.jpg?v=1749684515",
+      "season": "公开系列／产品与造型研究；具体系列见来源",
+      "photo_source_url": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+      "status": "downloaded"
+    },
+    "reference_scope_zh": "参考图中可观察：短茧形针织、V领和软袖量。颜色、长度、分割和搭配重新设计。"
+  },
+  {
+    "id": "S26-F03",
+    "brand": "Loro Piana",
+    "title": "陶土风帆",
+    "detail": "船领折袖亚麻中裙，斜向腰缝与风帆形裙摆；象牙编织鞋、瓷白耳坠、浅金腕饰。",
+    "source": {
+      "brand": "Loro Piana",
+      "url": "https://us.loropiana.com/en/woman/dresses/adriel-dress-FAQ5829_L0F2.html",
+      "scope": "linen material and relaxed long line only"
+    },
+    "reference_scope_zh": "原图仅研究亚麻材质；廓形、配色与细节原创重组。"
+  }
+]

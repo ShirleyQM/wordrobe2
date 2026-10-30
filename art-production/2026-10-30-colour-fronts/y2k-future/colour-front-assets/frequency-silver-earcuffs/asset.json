@@ -1,0 +1,26 @@
+{
+  "id": "frequency-silver-earcuffs",
+  "name": "银色折线耳骨夹",
+  "slot": "earrings",
+  "card": "S04-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "6c2d73e771863359593f66ea918e7e8bf5f56b43c6adc229eefbae1fc5e6fb42",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}
