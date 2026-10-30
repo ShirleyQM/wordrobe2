@@ -1,0 +1,2 @@
+'use strict';
+(()=>{if(window.parent===window)return;const back=()=>window.parent.postMessage({type:'wordrobe:return-to-wardrobe'},location.origin);document.addEventListener('click',e=>{const a=e.target.closest('a[href]');if(a&&new URL(a.href).origin===location.origin&&new URL(a.href).pathname.endsWith('/mobile.html')){e.preventDefault();e.stopImmediatePropagation();back();}},true);window.addEventListener('wallet-updated',()=>window.parent.postMessage({type:'wordrobe:learning-reward'},location.origin));})();

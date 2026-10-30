@@ -15,7 +15,7 @@ const main=document.querySelector('#content'),wm=Object.fromEntries([...D.words,
 function save(){try{localStorage.setItem(KEY,JSON.stringify(state));}catch{toast('Progress could not be saved.');}}
 function p(s,cls=''){return '<p class="'+cls+'">'+esc(s)+'</p>'}
 function btn(label,action,extra=''){return '<button data-action="'+action+'" '+extra+'>'+label+'</button>'}
-function focusMain(){window.scrollTo(0,0);}
+function focusMain(){if(document.documentElement.classList.contains('embedded-learning'))main.scrollTo({top:0});else window.scrollTo(0,0);}
 function header(){document.body.classList.add('native-y2k');document.body.classList.remove('section-learning');main.setAttribute('data-no-i18n','');main.onclick=null;main.onsubmit=null;document.querySelector('#nav').hidden=false;document.querySelectorAll('#nav [data-view]').forEach(b=>b.classList.toggle('active',b.dataset.view==='words'));document.querySelector('#points').innerHTML=PointsUI(PlayerEconomy.balance());}
 function word(w){return '<article class="word"><h3 class="en">'+esc(w.en)+'</h3>'+p(w.collocation,'en phrase')+p(w.example,'en')+'<details class="translation"><summary>中文释义</summary>'+p(w.pos+' '+w.zh)+p(w.translation)+'</details></article>';}
 function source(ids){return '<div class="sources">'+D.sources.filter(s=>ids.includes(s.id)).map(s=>'<a target="_blank" rel="noopener noreferrer" href="'+esc(s.url)+'">'+esc(s.brand==='Y2K 背景阅读'?'Vogue · Y2K':s.brand)+' ↗</a>').join('')+'</div>';}
