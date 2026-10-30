@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "default": "silver-studio",
+  "generator": "built-in image_gen",
+  "art_direction_zh": "低对比、低饱和，中间留空，场景装饰放边缘；人物和衣服保持原始色彩，不增加前景遮挡。",
+  "scenes": [
+    {
+      "id": "silver-studio",
+      "title_zh": "银蓝摄影棚",
+      "image": "silver-studio.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "7091509c801e9cc4e9509f298347e7310cda44c70039b1ccbd6f0b6f9aa6b299",
+      "prompt": "Create ONE empty background asset for a mobile fashion dress-up game, portrait 9:16 ratio. Clean semi-realistic illustration with controlled smooth tonal shading, subtle architectural precision, quiet fashion editorial art direction. A refined very quiet silver-blue fashion photography studio. Matte blue-grey seamless cyclorama wall and floor; just one narrow translucent acrylic panel along the extreme left edge, a soft rectangular light reflection near the right edge. Background remains mid-light grey-blue, NOT pure white. No equipment in the center. COMPOSITION: camera fixed front-on for a standing full-body fashion character to be composited later in the CENTRAL 45% of the image, from 8% to 92% height. That full central area must remain empty and calm, low local contrast; all recognizable objects kept to extreme outer 20% margins and background. No central pedestal, no central sculpture, no dramatic horizon across the figure. Floor transition about lower 23% of frame, front-on level verticals, natural shallow depth, soft plausible ground plane. Background detail and contrast deliberately understated, no bright focal point, no saturated accent, no legible text or logos, no people, no model, no clothing, no mannequin, no furniture blocking central standing area. Keep a soft neutral lighting base suitable for many coloured outfits. The finished background should support the outfit and never compete with the character. No interface, no border, no typography."
+    },
+    {
+      "id": "midnight-runway",
+      "title_zh": "午夜秀场",
+      "image": "midnight-runway.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "38e44436517f36f5707f711d41a51c056e2266d24525e0e4b6ae7f02d2947038",
+      "prompt": "Create ONE empty background asset for a mobile fashion dress-up game, portrait 9:16 ratio. Clean semi-realistic illustration with controlled smooth tonal shading, subtle architectural precision, quiet fashion editorial art direction. A restrained midnight runway presentation space, muted graphite and smoky violet, NOT pitch black. Broad very gentle ceiling spotlight illuminating an empty matte runway floor; a few barely discernible empty bench silhouettes only at the distant extreme sides. The central wall is softly illuminated mid-dark graphite, even and uncluttered. No visible beams, no rows of dramatic spotlights. COMPOSITION: camera fixed front-on for a standing full-body fashion character to be composited later in the CENTRAL 45% of the image, from 8% to 92% height. That full central area must remain empty and calm, low local contrast; all recognizable objects kept to extreme outer 20% margins and background. No central pedestal, no central sculpture, no dramatic horizon across the figure. Floor transition about lower 23% of frame, front-on level verticals, natural shallow depth, soft plausible ground plane. Background detail and contrast deliberately understated, no bright focal point, no saturated accent, no legible text or logos, no people, no model, no clothing, no mannequin, no furniture blocking central standing area. Keep a soft neutral lighting base suitable for many coloured outfits. The finished background should support the outfit and never compete with the character. No interface, no border, no typography."
+    },
+    {
+      "id": "rain-street",
+      "title_zh": "雨后街拍",
+      "image": "rain-street.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "05772f055c6d9496c6c837952c72f3056f11c79fa5eff235cbddd4c2a7042d5d",
+      "prompt": "Create ONE empty background asset for a mobile fashion dress-up game, portrait 9:16 ratio. Clean semi-realistic illustration with controlled smooth tonal shading, subtle architectural precision, quiet fashion editorial art direction. An understated London-inspired quiet side street just after rain. Soft desaturated blue-grey overcast daylight, damp pavement, faint warm café-window reflection at extreme left, indistinct dark brick and narrow shop windows at the outer edges. Open softly defocused central area in muted grey; no landmark, no car, no bus, no people, no active rain streaks, no strong puddle mirror. COMPOSITION: camera fixed front-on for a standing full-body fashion character to be composited later in the CENTRAL 45% of the image, from 8% to 92% height. That full central area must remain empty and calm, low local contrast; all recognizable objects kept to extreme outer 20% margins and background. No central pedestal, no central sculpture, no dramatic horizon across the figure. Floor transition about lower 23% of frame, front-on level verticals, natural shallow depth, soft plausible ground plane. Background detail and contrast deliberately understated, no bright focal point, no saturated accent, no legible text or logos, no people, no model, no clothing, no mannequin, no furniture blocking central standing area. Keep a soft neutral lighting base suitable for many coloured outfits. The finished background should support the outfit and never compete with the character. No interface, no border, no typography."
+    },
+    {
+      "id": "gallery-evening",
+      "title_zh": "艺术开幕夜",
+      "image": "gallery-evening.png",
+      "width": 941,
+      "height": 1672,
+      "sha256": "3910013d0273d65b39e10739b80a7f9a4c967a90fbc614ecdda60fbacf9bdbd6",
+      "prompt": "Create ONE empty background asset for a mobile fashion dress-up game, portrait 9:16 ratio. Clean semi-realistic illustration with controlled smooth tonal shading, subtle architectural precision, quiet fashion editorial art direction. A minimal contemporary art-gallery reception space in dusty clay pink, muted warm grey and charcoal. An empty matte stone floor; a small dark abstract sculpture on a low plinth at the far left edge, one thin tinted-glass panel at the far right edge. Large very quiet central wall, indirect diffuse gallery lighting. Not a palace, not a marble luxury lobby, no ornate arches. COMPOSITION: camera fixed front-on for a standing full-body fashion character to be composited later in the CENTRAL 45% of the image, from 8% to 92% height. That full central area must remain empty and calm, low local contrast; all recognizable objects kept to extreme outer 20% margins and background. No central pedestal, no central sculpture, no dramatic horizon across the figure. Floor transition about lower 23% of frame, front-on level verticals, natural shallow depth, soft plausible ground plane. Background detail and contrast deliberately understated, no bright focal point, no saturated accent, no legible text or logos, no people, no model, no clothing, no mannequin, no furniture blocking central standing area. Keep a soft neutral lighting base suitable for many coloured outfits. The finished background should support the outfit and never compete with the character. No interface, no border, no typography."
+    }
+  ]
+}
