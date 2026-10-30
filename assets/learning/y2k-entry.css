@@ -29,3 +29,5 @@
 .native-y2k .native-samples{margin-top:24px;font-size:12px}
 .native-y2k .native-samples summary{min-height:44px;padding:10px 0}
 @media(max-width:360px){.native-y2k .question-context{font-size:19px}.native-y2k .reader-tools{gap:8px}}
+
+.native-y2k #content .lesson-actions{position:static;inset:auto;transform:none;z-index:auto;padding:0;background:transparent;box-shadow:none}
