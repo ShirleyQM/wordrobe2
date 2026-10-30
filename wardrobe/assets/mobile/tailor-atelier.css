@@ -1,0 +1,62 @@
+/* Tailor shares the main game's atelier palette, typography and selection language. */
+:root{--tailor-corners:linear-gradient(var(--mark),var(--mark)) left top/6px 1px no-repeat,linear-gradient(var(--mark),var(--mark)) left top/1px 6px no-repeat,linear-gradient(var(--mark),var(--mark)) right top/6px 1px no-repeat,linear-gradient(var(--mark),var(--mark)) right top/1px 6px no-repeat,linear-gradient(var(--mark),var(--mark)) left bottom/6px 1px no-repeat,linear-gradient(var(--mark),var(--mark)) left bottom/1px 6px no-repeat,linear-gradient(var(--mark),var(--mark)) right bottom/6px 1px no-repeat,linear-gradient(var(--mark),var(--mark)) right bottom/1px 6px no-repeat}
+.mobile-app[data-tab=tailor] .closet{flex-basis:var(--drawer-height,60%);height:var(--drawer-height,60%)}
+.mobile-app[data-tab=tailor] #items{gap:10px;padding:5px 14px 8px}
+.mobile-app[data-tab=tailor] .tailor-garments{gap:8px;height:82px;min-height:82px;padding-bottom:4px;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.mobile-app[data-tab=tailor] .tailor-garments>.item{width:78px;flex-basis:78px;height:76px;padding:4px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.mobile-app[data-tab=tailor] .tailor-garments>.item img{height:52px!important;flex:0 0 52px}
+.mobile-app[data-tab=tailor] .tailor-garments>.item>span{display:none}
+.mobile-app[data-tab=tailor] .tailor-garments small{display:block;height:16px;font-size:10px;line-height:16px;color:var(--muted)}
+.mobile-app[data-tab=tailor] .tailor-tools{gap:12px}
+.mobile-app .tailor-sidebar{width:51px;flex-basis:51px;gap:8px;border-right:1px solid var(--line);padding:0 6px 0 0}
+.mobile-app .tailor-sidebar button{position:relative;min-height:54px;gap:4px;padding:7px 0;border:0;border-radius:0;background:none;color:var(--muted);font-size:11px}
+.mobile-app .tailor-sidebar button[aria-selected=true]{background:none;color:var(--ink);border:0}
+.mobile-app .tailor-sidebar button[aria-selected=true]:after{content:'';position:absolute;left:0;top:10px;bottom:10px;width:2px;background:var(--mark)}
+.mobile-app .tailor-sidebar svg{width:17px;height:17px;stroke-width:1.5}
+.mobile-app #tailor-tab-panel{padding-right:3px;scrollbar-color:var(--line) transparent}
+.mobile-app #tailor-tab-panel>strong{font-size:12px;font-weight:400;color:var(--ink)}
+.mobile-app #tailor-tab-panel #tailor-status{font-size:10px;line-height:1.6;margin:4px 0 9px;color:var(--muted)}
+.mobile-app .tailor-presets{gap:7px;margin-bottom:12px}
+.mobile-app .tailor-presets button{position:relative;gap:5px;padding:5px 2px;min-height:46px;border:0;background:none;color:var(--muted);font-size:9px}
+.mobile-app .tailor-presets i{width:24px;height:24px;border:0;border-radius:0;box-shadow:none}
+.mobile-app .tailor-presets button[aria-pressed=true]{color:var(--ink)}
+.mobile-app .tailor-presets button[aria-pressed=true] i{outline:0}
+.mobile-app .tailor-presets button[aria-pressed=true]:after{content:'';position:absolute;inset:0;pointer-events:none;background:var(--tailor-corners)}
+.mobile-app .tailor-color{gap:7px;font-size:11px;color:var(--muted)}
+.mobile-app .tailor-color input{height:32px;border:0;border-radius:0;background:var(--line);padding:3px}
+.mobile-app .tailor-search{min-height:32px;padding:7px 8px;border:0;border-bottom:1px solid var(--line);border-radius:0;background:var(--paper);color:var(--ink);font-size:11px;outline-offset:-2px}
+.mobile-app .tailor-patterns{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;max-height:142px;scrollbar-width:thin;scrollbar-color:var(--line) transparent;padding:1px}
+.mobile-app .tailor-patterns button{position:relative;min-height:62px;padding:4px;border:0;border-radius:0;background:color-mix(in srgb,var(--line) 38%,var(--paper));color:var(--muted)}
+.mobile-app .tailor-patterns img{height:42px}
+.mobile-app .tailor-patterns span{font-size:9px}
+.mobile-app .tailor-patterns button[aria-pressed=true]{outline:0;background:color-mix(in srgb,var(--line) 38%,var(--paper))}
+.mobile-app .tailor-patterns button[aria-pressed=true]:after{content:'';position:absolute;inset:1px;pointer-events:none;background:var(--tailor-corners)}
+.mobile-app #tailor-layout{padding-top:7px}
+.mobile-app #tailor-layout label{min-height:31px;font-size:10px;color:var(--muted)}
+.mobile-app #tailor-layout input{accent-color:var(--mark)}
+.mobile-app #tailor-footer{gap:8px;padding:8px 14px max(9px,env(safe-area-inset-bottom));border-top:1px solid var(--line);background:#f3efeb}
+.mobile-app #tailor-footer button{border:0;border-radius:0;min-height:40px;font-size:11px;box-shadow:none;color:var(--ink)}
+.mobile-app #tailor-footer svg{width:16px;height:16px}
+.mobile-app #tailor-footer .tailor-reset{flex-basis:35px;width:35px;background:none;color:var(--muted)}
+.mobile-app #tailor-footer .tailor-draft-save{background:var(--line)}
+.mobile-app #tailor-footer .tailor-save{background:var(--accent);color:var(--ink)}
+.mobile-app #tailor-footer .tailor-save:disabled{background:var(--accent);opacity:.4;color:var(--ink)}
+.mobile-app .tailor-unlock-item{border:0;border-radius:0;background:var(--accent);color:var(--ink);font-size:11px}
+.mobile-app .tailor-gate{padding:14px 0;gap:9px}
+.mobile-app .demo-tabs button{border:0;border-radius:0;background:none;color:var(--muted);font-size:11px;position:relative}
+.mobile-app .demo-tabs button[aria-pressed=true]{background:none;color:var(--ink)}
+.mobile-app .demo-tabs button[aria-pressed=true]:after{content:'';position:absolute;bottom:2px;left:10px;right:10px;height:1px;background:var(--mark)}
+.mobile-app .demo-caption{font-size:11px;color:var(--muted)}
+.mobile-app .tailor-unlock-row>button{border:0;border-radius:0;background:var(--accent);color:var(--ink);font-size:11px}
+body #tailor-name-dialog,body #purchase-dialog{border:1px solid var(--line);border-radius:0;background:var(--paper);color:var(--ink);box-shadow:none}
+body #tailor-name-dialog h2{font-size:18px;font-weight:400}
+body #tailor-name-dialog input{border:0;border-bottom:1px solid var(--line);border-radius:0;background:color-mix(in srgb,var(--line) 30%,var(--paper));color:var(--ink);font-size:13px}
+body #tailor-name-dialog button{border:0;border-radius:0;color:var(--ink);background:var(--line);font-size:12px}
+body #tailor-name-dialog button[type=submit],body #purchase-content button{border:0;border-radius:0;background:var(--accent);color:var(--ink)}
+body #tailor-name-dialog .tailor-name-error{color:var(--mark)}
+body:has(.qa-banner){padding:0}
+body:has(.qa-banner) .mobile-app{height:calc(100dvh - 27px);min-height:520px}
+body .qa-banner{height:27px;padding:6px 8px;background:var(--paper);color:var(--muted);font-size:10px;border-bottom:1px solid var(--line)}
+body .qa-banner button{color:var(--mark);margin-left:8px}
+@media(max-height:700px){.mobile-app[data-tab=tailor] .tailor-garments{height:69px;min-height:69px}.mobile-app[data-tab=tailor] .tailor-garments>.item{height:64px}.mobile-app[data-tab=tailor] .tailor-garments>.item img{height:43px!important;flex-basis:43px}.mobile-app[data-tab=tailor] .tailor-garments small{display:block}.mobile-app #tailor-footer{padding-top:6px;padding-bottom:6px}}
+@media(max-width:360px){.mobile-app .tailor-tools{gap:8px}.mobile-app .tailor-sidebar{width:45px;flex-basis:45px}.mobile-app .tailor-presets{gap:4px}.mobile-app .tailor-presets button{font-size:8px}.mobile-app #tailor-footer{gap:6px;padding-left:10px;padding-right:10px}}

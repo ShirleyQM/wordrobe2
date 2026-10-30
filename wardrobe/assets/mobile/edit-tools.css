@@ -1,0 +1,12 @@
+/* Shared hair / garment editor controls. */
+.mobile-app .edit-toolbar,.mobile-app #tailor-footer.edit-toolbar{display:flex;align-items:center;justify-content:flex-end;gap:10px;flex:0 0 auto;padding:7px 14px max(8px,env(safe-area-inset-bottom));border-top:1px solid var(--line);background:#f3efeb;min-height:49px}
+.mobile-app .edit-toolbar .edit-tool,.mobile-app #tailor-footer.edit-toolbar .edit-tool{position:relative;display:inline-flex;align-items:center;justify-content:center;flex:0 0 42px;width:42px;height:34px;min-height:34px;margin:0;padding:8px;border:0;border-radius:0;background:none;color:var(--ink);box-shadow:none}
+.mobile-app .edit-toolbar .edit-tool-primary,.mobile-app #tailor-footer.edit-toolbar .edit-tool-primary{background:var(--accent)}
+.mobile-app .edit-toolbar svg{width:18px;height:18px}.edit-tool-label{position:absolute!important;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.edit-tool-count{position:absolute;right:0;top:0;font-size:8px;color:var(--mark)}
+#edit-drafts-dialog{width:min(380px,calc(100vw - 32px));padding:20px;border:1px solid var(--line);border-radius:0;background:var(--paper);color:var(--ink)}
+#edit-drafts-dialog::backdrop{background:#46414866}.edit-sheet-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.edit-sheet-heading h2{font-size:18px;font-weight:400;margin:0}.edit-sheet-heading button,.edit-draft-current{display:flex;align-items:center;justify-content:center;gap:8px;padding:10px;border:0;border-radius:0;background:none;color:var(--ink)}
+#edit-drafts-dialog svg{width:18px;height:18px;flex:none}.edit-draft-current{width:100%;margin:16px 0;background:var(--accent);font-size:12px}.edit-draft-list{max-height:48dvh;overflow:auto}.edit-draft-row{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:10px 0;border:0;border-bottom:1px solid var(--line);background:none;color:var(--ink)}.edit-draft-row img{width:48px;height:48px;object-fit:contain}.edit-draft-row i{width:28px;height:28px;flex:none}.edit-draft-row>span{flex:1;font-size:12px}.edit-draft-row small{font-size:10px;color:var(--muted)}
+
+/* Preview panning uses transforms; browser focus must never scroll this viewport. */
+.mobile-app .stage{overflow:clip}
+

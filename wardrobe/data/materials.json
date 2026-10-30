@@ -293,7 +293,7 @@
       "kind": "clothes",
       "name": "初晴 · 套头连帽卫衣",
       "nameEn": "First Light · Sweatshirt",
-      "thumbnail": "assets/materials/published/panel-previews/tops-hoodie-pullover-d238ee9030af.png",
+      "thumbnail": "assets/materials/published/fittings-tops-hoodie-pullover-2270-thumb.png",
       "visible": true
     },
     {
@@ -317,7 +317,7 @@
       "kind": "clothes",
       "name": "周末漫游 · 半拉链卫衣",
       "nameEn": "Weekend Wander · Sweatshirt",
-      "thumbnail": "assets/materials/published/panel-previews/tops-sweatshirt-halfzip-005dc230438c.png",
+      "thumbnail": "assets/materials/published/fittings-tops-sweatshirt-halfzip-2268-thumb.png",
       "visible": true
     },
     {
@@ -389,7 +389,7 @@
       "kind": "clothes",
       "name": "风的序曲 · 水手领上衣 · 含领结",
       "nameEn": "Wind Prelude · Top",
-      "thumbnail": "assets/materials/published/panel-previews/campus-01-blue-sailor-top-aa35d86318e7.png",
+      "thumbnail": "assets/materials/garments/campus-01-blue-sailor-top/saved/314-2986fef949d1/cuff-refinement-v2-thumb.png",
       "visible": true
     },
     {
@@ -485,7 +485,7 @@
       "kind": "clothes",
       "name": "轻舞 · 衬衫 · 含领带",
       "nameEn": "Soft Waltz · Shirt",
-      "thumbnail": "assets/materials/published/panel-previews/campus-04-navy-tailored-shirt-tie-8a321c97b39a.png",
+      "thumbnail": "assets/materials/garments/campus-04-navy-tailored-shirt-tie/saved/277-c517bd6a05e2/cuff-refinement-v2-thumb.png",
       "visible": true
     },
     {
@@ -821,8 +821,8 @@
       "kind": "clothes",
       "name": "晨间序曲 · 荷叶短袖衬衫",
       "nameEn": "Morning Prelude · Shirt",
-      "thumbnail": "assets/materials/published/panel-previews/top-v1-blue-ruffle-85cde4ba3768.png",
-      "visible": false
+      "thumbnail": "assets/materials/published/fittings-top-v1-blue-ruffle-2287-thumb.png",
+      "visible": true
     },
     {
       "id": "top-v1-peach-peplum",
@@ -917,7 +917,7 @@
       "kind": "clothes",
       "name": "放学以后 · 经典圆领 T 恤",
       "nameEn": "After School · T-Shirt",
-      "thumbnail": "assets/materials/sources/cotton-tee-hd-fitted-v4/regular/thumb.png",
+      "thumbnail": "assets/materials/garments/cotton-tee-regular-v3/material-repairs/clean-basic-tees-v5/thumb.png",
       "visible": true
     },
     {
@@ -925,7 +925,7 @@
       "kind": "clothes",
       "name": "花园手记 · 斜肩 T 恤",
       "nameEn": "Garden Notes · T-Shirt",
-      "thumbnail": "assets/materials/published/fittings-cotton-tee-asymmetric-v3-1799-thumb.png",
+      "thumbnail": "assets/materials/garments/cotton-tee-asymmetric-v3/material-repairs/clean-basic-tees-v5/thumb.png",
       "visible": true
     },
     {
@@ -933,7 +933,7 @@
       "kind": "clothes",
       "name": "慢拍日常 · 短款 T 恤",
       "nameEn": "Slow Days · T-Shirt",
-      "thumbnail": "assets/materials/sources/cotton-tee-hd-fitted-v4/cropped/thumb.png",
+      "thumbnail": "assets/materials/garments/cotton-tee-cropped-v3/material-repairs/clean-basic-tees-v5/thumb.png",
       "visible": true
     },
     {
@@ -941,7 +941,7 @@
       "kind": "clothes",
       "name": "雨后小巷 · 合身 T 恤",
       "nameEn": "After the Rain · T-Shirt",
-      "thumbnail": "assets/materials/sources/cotton-tee-hd-fitted-v4/fitted/thumb.png",
+      "thumbnail": "assets/materials/garments/cotton-tee-fitted-v3/material-repairs/clean-basic-tees-v5/thumb.png",
       "visible": true
     },
     {
@@ -949,7 +949,7 @@
       "kind": "clothes",
       "name": "轻舞 · 一字肩 T 恤",
       "nameEn": "Soft Waltz · Off-Shoulder T-Shirt",
-      "thumbnail": "assets/materials/sources/cotton-tee-hd-fitted-v4/offshoulder/thumb.png",
+      "thumbnail": "assets/materials/garments/cotton-tee-offshoulder-v3/material-repairs/clean-basic-tees-v5/thumb.png",
       "visible": true
     },
     {
@@ -1517,7 +1517,7 @@
       "kind": "clothes",
       "name": "旧书店 · 低胸比基尼上装",
       "nameEn": "Old Bookshop · Bikini Top",
-      "thumbnail": "assets/materials/published/fittings-lowcut-bikini-top-v1-1754-thumb.png",
+      "thumbnail": "assets/materials/published/fittings-lowcut-bikini-top-v1-2330-thumb.png",
       "visible": true
     },
     {
@@ -1574,7 +1574,7 @@
       "name": "雨后小巷 · 水洗半拉链休闲卫衣",
       "nameEn": "After the Rain · Sweatshirt",
       "thumbnail": "assets/materials/garments/cool-sweat-halfzip/thumb.png",
-      "visible": false
+      "visible": true
     },
     {
       "id": "cool-sweat-dropshoulder",
@@ -1605,8 +1605,8 @@
       "kind": "clothes",
       "name": "晚风小调 · 斜摆拼接不规则卫衣",
       "nameEn": "Evening Breeze · Sweatshirt",
-      "thumbnail": "assets/materials/garments/cool-sweat-asymmetric/thumb.png",
-      "visible": false
+      "thumbnail": "assets/materials/published/fittings-cool-sweat-asymmetric-2356-thumb.png",
+      "visible": true
     },
     {
       "id": "mermaid-cowl-cami",
@@ -1645,7 +1645,7 @@
       "kind": "clothes",
       "name": "初晴 · 花园刺绣吊带裙",
       "nameEn": "First Light · Embellished Cami Dress",
-      "thumbnail": "assets/materials/garments/dress-garden/regenerated/57dc7609-24bb-4116-a8f4-482c54be8206/display.png",
+      "thumbnail": "assets/materials/published/fittings-dress-garden-2234-thumb.png",
       "visible": true
     },
     {
@@ -1653,7 +1653,7 @@
       "kind": "clothes",
       "name": "花园手记 · 夜幕蕾丝吊带长裙",
       "nameEn": "Garden Notes · Lace Cami Dress",
-      "thumbnail": "assets/materials/garments/dress-noir-lace/thumb.png",
+      "thumbnail": "assets/materials/garments/dress-noir-lace/thumb.png?occlusion=calf-v1",
       "visible": false
     },
     {
@@ -1661,7 +1661,7 @@
       "kind": "clothes",
       "name": "周末漫游 · 金叶裹褶吊带长裙",
       "nameEn": "Weekend Wander · Cami Dress",
-      "thumbnail": "assets/materials/garments/dress-emerald/thumb.png",
+      "thumbnail": "assets/materials/garments/dress-emerald/thumb.png?occlusion=calf-v1",
       "visible": false
     },
     {
@@ -1709,7 +1709,7 @@
       "kind": "clothes",
       "name": "雨后小巷 · 系带盖袖衬衫",
       "nameEn": "After the Rain · Shirt",
-      "thumbnail": "assets/materials/garments/runway-white-ribbon-cap/regenerated/6ab86fd4-dc95-46e5-9a0b-2dcf29234dcc/display.png",
+      "thumbnail": "assets/materials/published/fittings-runway-white-ribbon-cap-2348-thumb.png",
       "visible": true
     },
     {
@@ -2173,7 +2173,7 @@
       "kind": "clothes",
       "name": "星光序曲 · 饰边微喇牛仔裤",
       "nameEn": "Starlit Prelude · Denim Trousers",
-      "thumbnail": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2034-thumb.png",
+      "thumbnail": "assets/materials/published/fittings-autumn-trimmed-jeans-v1-2266-thumb.png",
       "visible": true
     },
     {
@@ -2950,7 +2950,7 @@
       "name": "花园手记 · 小高领抽褶长袖衫",
       "nameEn": "Garden Notes · Top",
       "thumbnail": "assets/materials/published/fittings-layered-ruched-top-v1-2086-thumb.png",
-      "visible": false
+      "visible": true
     },
     {
       "id": "layered-utility-wrap-v1",
@@ -3413,7 +3413,7 @@
       "kind": "clothes",
       "name": "风的序曲 · 侧扣圆领针织衫",
       "nameEn": "Wind Prelude · Knit Top",
-      "thumbnail": "assets/materials/published/fittings-kg-scoop-knit-v1-2231-thumb.png",
+      "thumbnail": "assets/materials/published/fittings-kg-scoop-knit-v1-2245-thumb.png",
       "visible": true
     },
     {
@@ -3534,7 +3534,7 @@
       "name": "午后留白 · 翻领短袖针织衫",
       "nameEn": "Afternoon Pause · Knit Top",
       "thumbnail": "assets/materials/garments/kg-mockneck-knit-v1/natural-outline-v1-thumb.png",
-      "visible": false
+      "visible": true
     },
     {
       "id": "kg-knit-armwarmers-v1",
@@ -3581,7 +3581,7 @@
       "kind": "clothes",
       "name": "课间来信 · 运动宽肩带内衣",
       "nameEn": "Between Classes · Bra",
-      "thumbnail": "assets/materials/garments/everyday-sport-bra/thumb.png",
+      "thumbnail": "assets/materials/published/fittings-everyday-sport-bra-2327-thumb.png",
       "visible": true
     },
     {
@@ -3597,7 +3597,7 @@
       "kind": "clothes",
       "name": "初晴 · 罗纹棉布内衣",
       "nameEn": "First Light · Knit Bra",
-      "thumbnail": "assets/materials/garments/everyday-rib-bra/thumb.png",
+      "thumbnail": "assets/materials/garments/everyday-rib-bra/shoulder-curve-20261025/current-thumb.png",
       "visible": true
     },
     {
@@ -3613,7 +3613,7 @@
       "kind": "clothes",
       "name": "初晴 · 平纹棉布内衣",
       "nameEn": "First Light · Bra",
-      "thumbnail": "assets/materials/garments/everyday-cotton-bra/thumb.png",
+      "thumbnail": "assets/materials/published/fittings-everyday-cotton-bra-2305-thumb.png",
       "visible": true
     },
     {
@@ -3629,7 +3629,7 @@
       "kind": "clothes",
       "name": "放学以后 · 花叶蕾丝内衣",
       "nameEn": "After School · Lace Bra",
-      "thumbnail": "assets/materials/garments/everyday-lace-bra/thumb.png",
+      "thumbnail": "assets/materials/published/fittings-everyday-lace-bra-2307-thumb.png",
       "visible": true
     },
     {
@@ -3645,7 +3645,7 @@
       "kind": "clothes",
       "name": "午后留白 · 无痕薄杯内衣",
       "nameEn": "Afternoon Pause · Bra",
-      "thumbnail": "assets/materials/garments/everyday-seamless-bra/thumb.png",
+      "thumbnail": "assets/materials/published/fittings-everyday-seamless-bra-2250-thumb.png",
       "visible": true
     },
     {
@@ -3661,7 +3661,7 @@
       "kind": "clothes",
       "name": "花园手记 · 无肩带内衣",
       "nameEn": "Garden Notes · Bandeau",
-      "thumbnail": "assets/materials/garments/everyday-bandeau-bra/thumb.png",
+      "thumbnail": "assets/materials/published/fittings-everyday-bandeau-bra-2336-thumb.png",
       "visible": true
     },
     {
@@ -3670,6 +3670,86 @@
       "name": "夜航来信 · 无肩带内裤",
       "nameEn": "Night Letters · Bandeau",
       "thumbnail": "assets/materials/garments/everyday-bandeau-briefs/thumb.png",
+      "visible": true
+    },
+    {
+      "id": "botanical-watercolor-gown-v1",
+      "kind": "clothes",
+      "name": "街角咖啡 · 花溪披风大摆礼裙",
+      "nameEn": "Corner Café · Dress",
+      "thumbnail": "assets/materials/garments/botanical-watercolor-gown-v1/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "botanical-wine-lace-dress-v1",
+      "kind": "clothes",
+      "name": "秘密花园 · 绛莓花网挂脖裙",
+      "nameEn": "Secret Garden · Dress",
+      "thumbnail": "assets/materials/garments/botanical-wine-lace-dress-v1/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "botanical-petal-mini-v1",
+      "kind": "clothes",
+      "name": "夜航来信 · 蜜桃花瓣露肩裙",
+      "nameEn": "Night Letters · Off-Shoulder Dress",
+      "thumbnail": "assets/materials/garments/botanical-petal-mini-v1/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "botanical-leaf-gown-v1",
+      "kind": "clothes",
+      "name": "初晴 · 花叶露肩拖尾礼裙",
+      "nameEn": "First Light · Off-Shoulder Dress",
+      "thumbnail": "assets/materials/garments/botanical-leaf-gown-v1/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "printed-87396232-969e-4b4a-8e07-799a3d556445",
+      "kind": "clothes",
+      "name": "电影散场 · 花枝印花 · 经典圆领 T 恤 · 典藏款",
+      "nameEn": "After the Film · T-Shirt Edition",
+      "thumbnail": "assets/materials/garments/printed-87396232-969e-4b4a-8e07-799a3d556445/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7",
+      "kind": "clothes",
+      "name": "晨间序曲 · 花枝印花 · 经典圆领 T 恤 · 典藏款",
+      "nameEn": "Morning Prelude · T-Shirt Edition",
+      "thumbnail": "assets/materials/garments/printed-0f4ff8c3-d34f-41d4-ae32-7c7230bf74b7/thumb.png",
+      "visible": false
+    },
+    {
+      "id": "fresh-gingham-roundcup-v1",
+      "kind": "clothes",
+      "name": "雨后小巷 · 格纹圆杯",
+      "nameEn": "After the Rain · Plaid Bra",
+      "thumbnail": "assets/materials/garments/fresh-gingham-roundcup-v1/fitted-art-repairs/fitted-underwear-hd-v1/thumb.png",
+      "visible": true
+    },
+    {
+      "id": "fresh-square-cami-v1",
+      "kind": "clothes",
+      "name": "旧书店 · 格纹方领背心",
+      "nameEn": "Old Bookshop · Plaid Tank Top",
+      "thumbnail": "assets/materials/garments/fresh-square-cami-v1/fitted-art-repairs/fitted-underwear-hd-v1/thumb.png",
+      "visible": true
+    },
+    {
+      "id": "fresh-botanical-bustier-v1",
+      "kind": "clothes",
+      "name": "电影散场 · 叶语刺绣小束身",
+      "nameEn": "After the Film · Embellished Bra",
+      "thumbnail": "assets/materials/published/fittings-fresh-botanical-bustier-v1-2398-thumb.png",
+      "visible": true
+    },
+    {
+      "id": "fresh-ribbon-ruffle-v1",
+      "kind": "clothes",
+      "name": "月下散步 · 桃雾丝带荷叶杯",
+      "nameEn": "Moonlit Walk · Bra",
+      "thumbnail": "assets/materials/garments/fresh-ribbon-ruffle-v1/fitted-art-repairs/fitted-underwear-hd-v1/thumb.png",
       "visible": true
     },
     {
@@ -4009,6 +4089,55 @@
       "visible": true
     },
     {
+      "id": "hair:front:49",
+      "kind": "front",
+      "name": "晴岚后梳半束·前发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/swept-half/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:50",
+      "kind": "front",
+      "name": "水纹低束·前发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/sleek-low/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:51",
+      "kind": "front",
+      "name": "绒结双低髻·前发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/twin-low/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:52",
+      "kind": "front",
+      "name": "露额中分",
+      "thumbnail": "assets/materials/characters/hair-open-forehead-v11/items/center/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:53",
+      "kind": "front",
+      "name": "露额全后梳",
+      "thumbnail": "assets/materials/characters/hair-open-forehead-v11/items/swept-back/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:54",
+      "kind": "front",
+      "name": "露额三七分",
+      "thumbnail": "assets/materials/characters/hair-open-forehead-v11/items/side-37/front-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:front:55",
+      "kind": "front",
+      "name": "默认贴头露额",
+      "thumbnail": "assets/materials/characters/hair-default-base-v12/master-gray.png",
+      "visible": false
+    },
+    {
       "id": "hair:back:01",
       "kind": "back",
       "name": "晨风直发",
@@ -4289,53 +4418,88 @@
       "visible": true
     },
     {
+      "id": "hair:back:41",
+      "kind": "back",
+      "name": "晴岚后梳半束·后发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/swept-half/back-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:back:42",
+      "kind": "back",
+      "name": "水纹低束·后发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/sleek-low/back-master-gray.png",
+      "visible": false
+    },
+    {
+      "id": "hair:back:43",
+      "kind": "back",
+      "name": "绒结双低髻·后发",
+      "thumbnail": "assets/materials/characters/hair-no-bangs-v10/items/twin-low/back-master-gray.png",
+      "visible": false
+    },
+    {
       "id": "face:unified-face",
       "kind": "face",
       "name": "原始脸",
-      "thumbnail": "assets/materials/characters/face-variants-v1/original-head-neckless.png",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/unified-face/head-hd.png",
       "visible": true
     },
     {
       "id": "face:cool",
       "kind": "face",
       "name": "清冷杏眼",
-      "thumbnail": "assets/materials/characters/face-variants-v1/cool/head-hd.png",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/cool/head-hd.png",
       "visible": true
     },
     {
       "id": "face:gentle",
       "kind": "face",
       "name": "柔和圆眼",
-      "thumbnail": "assets/materials/characters/face-variants-v1/gentle/head-hd.png",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/gentle/head-hd.png",
       "visible": true
     },
     {
       "id": "face:poised",
       "kind": "face",
       "name": "成熟长眼",
-      "thumbnail": "assets/materials/characters/face-variants-v2/poised/head-hd.png",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/poised/head-hd.png",
       "visible": true
     },
     {
       "id": "face:slender",
       "kind": "face",
       "name": "素净小杏眼",
-      "thumbnail": "assets/materials/characters/face-variants-v2/slender/head-hd.png?rev=natural-eyes-2",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/slender/head-hd.png",
       "visible": true
     },
     {
       "id": "face:soft-small",
       "kind": "face",
       "name": "柔和细眼",
-      "thumbnail": "assets/materials/characters/face-variants-v2/soft-small/head-hd.png?rev=natural-eyes-2",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/soft-small/head-hd.png",
       "visible": true
     },
     {
       "id": "face:sharp-small",
       "kind": "face",
       "name": "清爽单眼皮",
-      "thumbnail": "assets/materials/characters/face-variants-v2/sharp-small/head-hd.png?rev=natural-eyes-2",
+      "thumbnail": "assets/materials/characters/face-regenerated-v7/sharp-small/head-hd.png",
       "visible": true
+    },
+    {
+      "id": "face:pure-black",
+      "kind": "face",
+      "name": "清纯·黑瞳",
+      "thumbnail": "assets/materials/characters/face-pure-v8/pure-black/head-hd.png",
+      "visible": false
+    },
+    {
+      "id": "face:pure-brown",
+      "kind": "face",
+      "name": "清纯·棕瞳",
+      "thumbnail": "assets/materials/characters/face-pure-v8/pure-brown/head-hd.png",
+      "visible": false
     },
     {
       "id": "face:real-natural",
