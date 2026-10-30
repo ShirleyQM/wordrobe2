@@ -468,7 +468,7 @@
   "levels": [
     {
       "id": 1,
-      "title": "轨道静默 · 从单品学轮廓",
+      "title": "Orbital Silence · Shape",
       "goal": "学会描述形状、贴合与光泽。",
       "new_words": [
         "silhouette",
@@ -487,12 +487,12 @@
       "questions": [
         {
           "type": "meaning",
-          "prompt": "“silhouette” 描述服装的什么？",
-          "answer": "整体廓形",
+          "prompt": "What does “silhouette” describe?",
+          "answer": "The overall outline",
           "options": [
-            "品牌商标",
-            "整体廓形",
-            "缝线颜色"
+            "A brand logo",
+            "The overall outline",
+            "The colour of the stitching"
           ],
           "explanation": "silhouette 是整体外形，不是局部标识。",
           "word_ids": [
@@ -503,11 +503,17 @@
           "item_ids": [
             "orbital-dress",
             "orbital-boots"
+          ],
+          "prompt_zh": "“silhouette” 描述服装的什么？",
+          "options_zh": [
+            "品牌商标",
+            "整体廓形",
+            "缝线颜色"
           ]
         },
         {
           "type": "meaning",
-          "prompt": "Which word means “有金属光泽的”?",
+          "prompt": "Which word describes a surface with a metal-like shine?",
           "answer": "metallic",
           "options": [
             "geometric",
@@ -523,16 +529,17 @@
           "item_ids": [
             "orbital-boots",
             "orbital-bag"
-          ]
+          ],
+          "prompt_zh": "Which word means “有金属光泽的”?"
         },
         {
           "type": "meaning",
-          "prompt": "“structured” 与 “fitted” 的区别是什么？",
-          "answer": "前者强调保形结构，后者强调贴体程度",
+          "prompt": "How do “structured” and “fitted” differ?",
+          "answer": "One describes shape retention; the other describes closeness to the body.",
           "options": [
-            "前者强调保形结构，后者强调贴体程度",
-            "两者都表示非常宽大",
-            "两者都只描述颜色"
+            "One describes shape retention; the other describes closeness to the body.",
+            "Both describe a very loose fit.",
+            "Both describe colour only."
           ],
           "explanation": "衣服可有结构但不贴身；两种属性不能混为一谈。",
           "word_ids": [
@@ -543,6 +550,12 @@
           "id": "y2k-l1-q3",
           "item_ids": [
             "orbital-dress"
+          ],
+          "prompt_zh": "“structured” 与 “fitted” 的区别是什么？",
+          "options_zh": [
+            "前者强调保形结构，后者强调贴体程度",
+            "两者都表示非常宽大",
+            "两者都只描述颜色"
           ]
         },
         {
@@ -588,7 +601,7 @@
         },
         {
           "type": "spelling",
-          "prompt": "拼写：几何形的（g 开头）",
+          "prompt": "Spell the word: based on shapes such as lines and circles. Starts with g.",
           "answer": "geometric",
           "options": [],
           "explanation": "几何形的 = geometric。",
@@ -600,7 +613,8 @@
           "item_ids": [
             "orbital-dress",
             "orbital-bag"
-          ]
+          ],
+          "prompt_zh": "拼写：几何形的（g 开头）"
         }
       ],
       "item_ids": [
@@ -609,11 +623,12 @@
         "orbital-boots",
         "orbital-bag"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "轨道静默 · 从单品学轮廓"
     },
     {
       "id": 2,
-      "title": "轨道静默 · 读图",
+      "title": "Orbital Silence · Reading",
       "goal": "用三段课文解释材质对比。",
       "new_words": [],
       "review_words": [
@@ -697,12 +712,12 @@
         },
         {
           "type": "meaning",
-          "prompt": "“fitted silhouette” 最合适的解释是：",
-          "answer": "贴体的整体廓形",
+          "prompt": "What is a “fitted silhouette”?",
+          "answer": "An overall outline that follows the body",
           "options": [
-            "宽大且无形的表面",
-            "贴体的整体廓形",
-            "起毛的接缝"
+            "A wide, shapeless surface",
+            "An overall outline that follows the body",
+            "A seam with loose threads"
           ],
           "explanation": "fitted 描述贴合程度，silhouette 描述全身外形。",
           "word_ids": [
@@ -714,6 +729,12 @@
           "item_ids": [
             "orbital-dress",
             "orbital-boots"
+          ],
+          "prompt_zh": "“fitted silhouette” 最合适的解释是：",
+          "options_zh": [
+            "宽大且无形的表面",
+            "贴体的整体廓形",
+            "起毛的接缝"
           ]
         },
         {
@@ -737,12 +758,12 @@
         },
         {
           "type": "meaning",
-          "prompt": "在 “geometric neckline” 中，geometric 修饰什么？",
-          "answer": "领口的形状",
+          "prompt": "What does “geometric” describe in “geometric neckline”?",
+          "answer": "The shape of the neckline",
           "options": [
-            "面料的耐水性",
-            "穿着者的年龄",
-            "领口的形状"
+            "The fabric’s water resistance",
+            "The wearer’s age",
+            "The shape of the neckline"
           ],
           "explanation": "geometric 描述几何形状，与年龄或防护性能无关。",
           "word_ids": [
@@ -753,6 +774,12 @@
           "item_ids": [
             "orbital-dress",
             "orbital-bag"
+          ],
+          "prompt_zh": "在 “geometric neckline” 中，geometric 修饰什么？",
+          "options_zh": [
+            "面料的耐水性",
+            "穿着者的年龄",
+            "领口的形状"
           ]
         }
       ],
@@ -762,11 +789,12 @@
         "orbital-boots",
         "orbital-bag"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "轨道静默 · 读图"
     },
     {
       "id": 3,
-      "title": "失真频段 · 从单品学丹宁",
+      "title": "Distorted Frequency · Denim",
       "goal": "分清洗水、做旧、毛边与接缝。",
       "new_words": [
         "layered",
@@ -785,12 +813,12 @@
       "questions": [
         {
           "type": "meaning",
-          "prompt": "“distressed denim” 指什么？",
-          "answer": "经过刻意做旧的丹宁",
+          "prompt": "What is “distressed denim”?",
+          "answer": "Denim with deliberately worn areas",
           "options": [
-            "刚缝好的丝绸",
-            "完全透明的塑料",
-            "经过刻意做旧的丹宁"
+            "Newly sewn silk",
+            "Completely transparent plastic",
+            "Denim with deliberately worn areas"
           ],
           "explanation": "distressed 在服装中描述人为旧感；denim 是丹宁。",
           "word_ids": [
@@ -801,6 +829,12 @@
           "id": "y2k-l3-q1",
           "item_ids": [
             "frequency-jacket"
+          ],
+          "prompt_zh": "“distressed denim” 指什么？",
+          "options_zh": [
+            "刚缝好的丝绸",
+            "完全透明的塑料",
+            "经过刻意做旧的丹宁"
           ]
         },
         {
@@ -825,12 +859,12 @@
         },
         {
           "type": "meaning",
-          "prompt": "“oversized” 和 “layered” 分别强调什么？",
-          "answer": "体积偏大与多层叠穿",
+          "prompt": "What do “oversized” and “layered” describe?",
+          "answer": "Extra volume and multiple clothing layers",
           "options": [
-            "褪色与破洞",
-            "柔软与透明",
-            "体积偏大与多层叠穿"
+            "Fading and holes",
+            "Softness and transparency",
+            "Extra volume and multiple clothing layers"
           ],
           "explanation": "oversized 是尺寸／体积关系，layered 是衣层关系。",
           "word_ids": [
@@ -842,6 +876,12 @@
           "item_ids": [
             "frequency-jacket",
             "frequency-vest"
+          ],
+          "prompt_zh": "“oversized” 和 “layered” 分别强调什么？",
+          "options_zh": [
+            "褪色与破洞",
+            "柔软与透明",
+            "体积偏大与多层叠穿"
           ]
         },
         {
@@ -885,7 +925,7 @@
         },
         {
           "type": "spelling",
-          "prompt": "拼写：缝合两片布料的接缝（s 开头）",
+          "prompt": "Spell the word: a line where two pieces of fabric are joined. Starts with s.",
           "answer": "seam",
           "options": [],
           "explanation": "接缝 = seam。",
@@ -896,7 +936,8 @@
           "id": "y2k-l3-q6",
           "item_ids": [
             "frequency-trousers"
-          ]
+          ],
+          "prompt_zh": "拼写：缝合两片布料的接缝（s 开头）"
         }
       ],
       "item_ids": [
@@ -905,11 +946,12 @@
         "frequency-vest",
         "frequency-shoes"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "失真频段 · 从单品学丹宁"
     },
     {
       "id": 4,
-      "title": "失真频段 · 读图",
+      "title": "Distorted Frequency · Reading",
       "goal": "通过衣长和体积描述比例。",
       "new_words": [],
       "review_words": [
@@ -991,12 +1033,12 @@
         },
         {
           "type": "meaning",
-          "prompt": "The buckle is “hardware”. 这里 hardware 指：",
-          "answer": "服装金属配件",
+          "prompt": "The buckle is “hardware”. What does hardware mean here?",
+          "answer": "Metal garment details",
           "options": [
-            "电脑软件",
-            "服装金属配件",
-            "布料褶皱"
+            "Computer software",
+            "Metal garment details",
+            "Folds in fabric"
           ],
           "explanation": "同一英文词在服装语境中有具体含义。",
           "word_ids": [
@@ -1007,6 +1049,12 @@
           "item_ids": [
             "frequency-trousers",
             "frequency-shoes"
+          ],
+          "prompt_zh": "The buckle is “hardware”. 这里 hardware 指：",
+          "options_zh": [
+            "电脑软件",
+            "服装金属配件",
+            "布料褶皱"
           ]
         },
         {
@@ -1030,12 +1078,12 @@
         },
         {
           "type": "meaning",
-          "prompt": "“denim” 是：",
-          "answer": "一种布料",
+          "prompt": "What is denim?",
+          "answer": "A type of fabric",
           "options": [
-            "一种布料",
-            "一种扣子",
-            "一种发型"
+            "A type of fabric",
+            "A type of button",
+            "A hairstyle"
           ],
           "explanation": "denim 是牛仔布／丹宁。",
           "word_ids": [
@@ -1045,6 +1093,12 @@
           "id": "y2k-l4-q6",
           "item_ids": [
             "frequency-jacket"
+          ],
+          "prompt_zh": "“denim” 是：",
+          "options_zh": [
+            "一种布料",
+            "一种扣子",
+            "一种发型"
           ]
         }
       ],
@@ -1054,11 +1108,12 @@
         "frequency-vest",
         "frequency-shoes"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "失真频段 · 读图"
     },
     {
       "id": 5,
-      "title": "液态回声 · 从单品学垂褶",
+      "title": "Liquid Echo · Drape",
       "goal": "把流动、透明和不对称说清楚。",
       "new_words": [
         "fluid",
@@ -1077,12 +1132,12 @@
       "questions": [
         {
           "type": "meaning",
-          "prompt": "“fluid” 和 “sheer” 分别描述什么？",
-          "answer": "流动垂坠感与透视效果",
+          "prompt": "What do “fluid” and “sheer” describe?",
+          "answer": "Flowing movement and a see-through effect",
           "options": [
-            "结构硬度与尺寸",
-            "历史年代与品牌价格",
-            "流动垂坠感与透视效果"
+            "Structural stiffness and size",
+            "Historical date and brand price",
+            "Flowing movement and a see-through effect"
           ],
           "explanation": "fluid 关乎垂坠流动，sheer 关乎轻薄透视。",
           "word_ids": [
@@ -1095,16 +1150,22 @@
             "echo-dress",
             "echo-sleeves",
             "echo-sandals"
+          ],
+          "prompt_zh": "“fluid” 和 “sheer” 分别描述什么？",
+          "options_zh": [
+            "结构硬度与尺寸",
+            "历史年代与品牌价格",
+            "流动垂坠感与透视效果"
           ]
         },
         {
           "type": "meaning",
-          "prompt": "“draped” 描述怎样的造型方式？",
-          "answer": "让布料形成垂褶",
+          "prompt": "What does “draped” describe?",
+          "answer": "Arranging fabric into folds",
           "options": [
-            "把所有接缝去掉",
-            "让布料形成垂褶",
-            "只在布上印字"
+            "Removing every seam",
+            "Arranging fabric into folds",
+            "Printing words on fabric"
           ],
           "explanation": "draped 是通过悬垂、收拢布料塑形。",
           "word_ids": [
@@ -1114,6 +1175,12 @@
           "id": "y2k-l5-q2",
           "item_ids": [
             "echo-dress"
+          ],
+          "prompt_zh": "“draped” 描述怎样的造型方式？",
+          "options_zh": [
+            "把所有接缝去掉",
+            "让布料形成垂褶",
+            "只在布上印字"
           ]
         },
         {
@@ -1157,7 +1224,7 @@
         },
         {
           "type": "spelling",
-          "prompt": "拼写：不对称的（a 开头）",
+          "prompt": "Spell the word: having unequal sides. Starts with a.",
           "answer": "asymmetric",
           "options": [],
           "explanation": "不对称的 = asymmetric。",
@@ -1168,7 +1235,8 @@
           "id": "y2k-l5-q5",
           "item_ids": [
             "echo-dress"
-          ]
+          ],
+          "prompt_zh": "拼写：不对称的（a 开头）"
         },
         {
           "type": "reading",
@@ -1196,11 +1264,12 @@
         "echo-sandals",
         "echo-accessories"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "液态回声 · 从单品学垂褶"
     },
     {
       "id": 6,
-      "title": "编辑终考 · 三种未来",
+      "title": "Three Futures · Final",
       "goal": "用证据比较三张卡，完成整节。",
       "new_words": [],
       "review_words": [
@@ -1346,7 +1415,7 @@
         },
         {
           "type": "spelling",
-          "prompt": "拼写：轻薄透视的（s 开头，5 个字母）",
+          "prompt": "Spell the word: light and see-through. Starts with s; five letters.",
           "answer": "sheer",
           "options": [],
           "explanation": "轻薄透视的 = sheer。",
@@ -1357,7 +1426,8 @@
           "id": "y2k-l6-q6",
           "item_ids": [
             "echo-sleeves"
-          ]
+          ],
+          "prompt_zh": "拼写：轻薄透视的（s 开头，5 个字母）"
         }
       ],
       "item_ids": [
@@ -1374,7 +1444,8 @@
         "echo-sandals",
         "echo-accessories"
       ],
-      "learning_mode": "item-led"
+      "learning_mode": "item-led",
+      "title_zh": "编辑终考 · 三种未来"
     }
   ],
   "economy": {
