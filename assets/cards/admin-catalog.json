@@ -1103,9 +1103,13 @@
       },
       "front": "/assets/materials/card-production/atlas-all-20261030/production/wrap-knit-cardigan/soft/front.png",
       "defaultVisible": false,
-      "sourceCard": "S01-F01",
+      "sourceCard": "C08-A",
       "sourceCollection": "atlas-all-20261030",
-      "productionStatus": "后台待调整"
+      "productionStatus": "后台待调整",
+      "sourceCards": [
+        "C08-A",
+        "S08-F01"
+      ]
     },
     {
       "id": "atlas-wrap-knit-cardigan-fine-v1",
@@ -1131,9 +1135,13 @@
       },
       "front": "/assets/materials/card-production/atlas-all-20261030/production/wrap-knit-cardigan/fine/front.png",
       "defaultVisible": false,
-      "sourceCard": "S01-F01",
+      "sourceCard": "C08-A",
       "sourceCollection": "atlas-all-20261030",
-      "productionStatus": "后台待调整"
+      "productionStatus": "后台待调整",
+      "sourceCards": [
+        "C08-A",
+        "S08-F01"
+      ]
     },
     {
       "id": "atlas-preview-runway-black-rib-shell",
@@ -1353,3 +1361,4 @@
     }
   ]
 }
+
