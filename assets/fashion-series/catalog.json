@@ -1,0 +1,4864 @@
+{
+  "version": 1,
+  "series": [
+    {
+      "id": "S01",
+      "nameZh": "都市张扬",
+      "nameEn": "Mob Wife",
+      "order": 3,
+      "cardIds": [
+        "S01-F01",
+        "S01-F02",
+        "S01-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S02",
+      "nameZh": "独立摇滚",
+      "nameEn": "Indie Sleaze",
+      "order": 2,
+      "cardIds": [
+        "S02-F01",
+        "S02-F02",
+        "S02-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S03",
+      "nameZh": "球衣混搭",
+      "nameEn": "Blokette",
+      "order": 1,
+      "cardIds": [
+        "S03-F01",
+        "S03-F02",
+        "S03-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S04",
+      "nameZh": "复古未来",
+      "nameEn": "Cyber Y2K",
+      "order": 0,
+      "cardIds": [
+        "S04-F01",
+        "S04-F02",
+        "S04-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": true,
+      "lessonCount": 6,
+      "status": "lesson_ready"
+    },
+    {
+      "id": "S05",
+      "nameZh": "北欧城市日常",
+      "nameEn": "Scandi",
+      "order": 105,
+      "cardIds": [
+        "S05-F01",
+        "S05-F02",
+        "S05-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S06",
+      "nameZh": "暗黑学院",
+      "nameEn": "Dark Academia",
+      "order": 106,
+      "cardIds": [
+        "S06-F01",
+        "S06-F02",
+        "S06-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S07",
+      "nameZh": "森林精灵",
+      "nameEn": "Fairycore",
+      "order": 107,
+      "cardIds": [
+        "S07-F01",
+        "S07-F02",
+        "S07-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S08",
+      "nameZh": "芭蕾缪斯",
+      "nameEn": "Balletcore",
+      "order": 108,
+      "cardIds": [
+        "S08-F01",
+        "S08-F02",
+        "S08-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S09",
+      "nameZh": "结饰与自主",
+      "nameEn": "Coquette",
+      "order": 109,
+      "cardIds": [
+        "S09-F01",
+        "S09-F02",
+        "S09-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S10",
+      "nameZh": "波西米亚",
+      "nameEn": "Boho Chic",
+      "order": 110,
+      "cardIds": [
+        "S10-F01",
+        "S10-F02",
+        "S10-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S11",
+      "nameZh": "意式假日",
+      "nameEn": "Dolce Vita",
+      "order": 4,
+      "cardIds": [
+        "S11-F01",
+        "S11-F02",
+        "S11-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S12",
+      "nameZh": "法国新浪潮",
+      "nameEn": "French New Wave",
+      "order": 112,
+      "cardIds": [
+        "S12-F01",
+        "S12-F02",
+        "S12-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S13",
+      "nameZh": "九十年代超模",
+      "nameEn": "90s Supermodel",
+      "order": 113,
+      "cardIds": [
+        "S13-F01",
+        "S13-F02",
+        "S13-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S14",
+      "nameZh": "几何与节拍",
+      "nameEn": "Art Deco",
+      "order": 114,
+      "cardIds": [
+        "S14-F01",
+        "S14-F02",
+        "S14-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S15",
+      "nameZh": "马术语汇",
+      "nameEn": "Equestrian",
+      "order": 9,
+      "cardIds": [
+        "S15-F01",
+        "S15-F02",
+        "S15-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S16",
+      "nameZh": "暗夜玫瑰",
+      "nameEn": "Dark Romance",
+      "order": 116,
+      "cardIds": [
+        "S16-F01",
+        "S16-F02",
+        "S16-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S17",
+      "nameZh": "雕塑服装",
+      "nameEn": "Sculptural Fashion",
+      "order": 117,
+      "cardIds": [
+        "S17-F01",
+        "S17-F02",
+        "S17-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S18",
+      "nameZh": "书写日常",
+      "nameEn": "Poetcore",
+      "order": 118,
+      "cardIds": [
+        "S18-F01",
+        "S18-F02",
+        "S18-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S19",
+      "nameZh": "香港影像与街头",
+      "nameEn": "Hong Kong Cinema",
+      "order": 119,
+      "cardIds": [
+        "S19-F01",
+        "S19-F02",
+        "S19-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S20",
+      "nameZh": "City Pop",
+      "nameEn": "City Pop",
+      "order": 8,
+      "cardIds": [
+        "S20-F01",
+        "S20-F02",
+        "S20-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S21",
+      "nameZh": "机车波西米亚",
+      "nameEn": "Moto Boho",
+      "order": 121,
+      "cardIds": [
+        "S21-F01",
+        "S21-F02",
+        "S21-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S22",
+      "nameZh": "网球俱乐部",
+      "nameEn": "Tennis Club",
+      "order": 7,
+      "cardIds": [
+        "S22-F01",
+        "S22-F02",
+        "S22-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S23",
+      "nameZh": "雪后度假",
+      "nameEn": "Après Ski",
+      "order": 123,
+      "cardIds": [
+        "S23-F01",
+        "S23-F02",
+        "S23-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S24",
+      "nameZh": "口袋与功能",
+      "nameEn": "Utility",
+      "order": 124,
+      "cardIds": [
+        "S24-F01",
+        "S24-F02",
+        "S24-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S25",
+      "nameZh": "人鱼梦境",
+      "nameEn": "Mermaidcore",
+      "order": 125,
+      "cardIds": [
+        "S25-F01",
+        "S25-F02",
+        "S25-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S26",
+      "nameZh": "海边日常",
+      "nameEn": "Coastal Ease",
+      "order": 6,
+      "cardIds": [
+        "S26-F01",
+        "S26-F02",
+        "S26-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S27",
+      "nameZh": "黑天鹅后台",
+      "nameEn": "Ballet Noir",
+      "order": 127,
+      "cardIds": [
+        "S27-F01",
+        "S27-F02",
+        "S27-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S28",
+      "nameZh": "现代旗袍",
+      "nameEn": "Modern Qipao",
+      "order": 5,
+      "cardIds": [
+        "S28-F01",
+        "S28-F02",
+        "S28-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S29",
+      "nameZh": "雨后伦敦",
+      "nameEn": "Après Rain",
+      "order": 129,
+      "cardIds": [
+        "S29-F01",
+        "S29-F02",
+        "S29-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S30",
+      "nameZh": "歌剧院之夜",
+      "nameEn": "Opera Night",
+      "order": 130,
+      "cardIds": [
+        "S30-F01",
+        "S30-F02",
+        "S30-F03"
+      ],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonReady": false,
+      "lessonCount": 0,
+      "status": "planned"
+    }
+  ],
+  "cards": [
+    {
+      "id": "S01-F01",
+      "seriesId": "S01",
+      "titleZh": "鎏金主场",
+      "title": "A Gilded Entrance",
+      "brand": "Dolce & Gabbana",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S01-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S01-F01.png"
+      },
+      "pieceIds": [
+        "mob-black-creased-trousers",
+        "mob-black-doublebreast-vest",
+        "mob-black-opera-gloves",
+        "mob-espresso-faux-fur-cape",
+        "mob-opaque-lace-shell",
+        "mob-wide-square-earrings",
+        "jade-pointed-flats",
+        "coral-gold-cuff"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S01-F02",
+      "seriesId": "S01",
+      "titleZh": "石榴夜宴",
+      "title": "The Garnet Supper",
+      "brand": "Roberto Cavalli",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/roberto-cavalli",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S01-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S01-F02.png"
+      },
+      "pieceIds": [
+        "mob-black-satin-shawl",
+        "mob-oxblood-bias-dress",
+        "jade-pointed-flats",
+        "mob-wide-square-earrings",
+        "mob-black-opera-gloves"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S01-F03",
+      "seriesId": "S01",
+      "titleZh": "锋芒入席",
+      "title": "An Entrance with an Edge",
+      "brand": "Versace",
+      "sourceUrl": "https://www.versace.com/us/en/stories/fashion-shows/fw-2024-fashion-show.html",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S01-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S01-F03.png"
+      },
+      "pieceIds": [
+        "mob-oxblood-hourglass-jacket",
+        "ivory-shell",
+        "riding-black-wrap-skirt",
+        "riding-black-tights",
+        "riding-black-boot-fronts",
+        "mob-wide-square-earrings",
+        "coral-gold-cuff"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S02-F01",
+      "seriesId": "S02",
+      "titleZh": "最后一首安可",
+      "title": "One Last Encore",
+      "brand": "Dior Homme / Hedi Slimane",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S02-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S02-F01.png"
+      },
+      "pieceIds": [
+        "indie-black-zip-trousers",
+        "indie-charcoal-long-blazer",
+        "indie-chelsea-boot-fronts",
+        "indie-ivory-crew-tee",
+        "indie-ivory-cuff-fronts",
+        "indie-skinny-scarf",
+        "tennis-silver-studs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S02-F02",
+      "seriesId": "S02",
+      "titleZh": "闪光灯余温",
+      "title": "After the Flash",
+      "brand": "American Apparel",
+      "sourceUrl": "https://retail.americanapparel.com/fine-jersey-crewneck-t-shirt/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S02-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S02-F02.png"
+      },
+      "pieceIds": [
+        "indie-black-wrist-cuff",
+        "indie-silver-sequin-skirt",
+        "indie-washed-charcoal-tee",
+        "riding-black-tights",
+        "indie-chelsea-boot-fronts"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S02-F03",
+      "seriesId": "S02",
+      "titleZh": "借来的凌晨",
+      "title": "Borrowed After Midnight",
+      "brand": "Topshop Unique",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2016-ready-to-wear/topshop-unique",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S02-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S02-F03.png"
+      },
+      "pieceIds": [
+        "indie-black-leather-bomber",
+        "indie-cobalt-velvet-wrap-skirt",
+        "indie-long-rib-tank",
+        "riding-black-tights",
+        "indie-chelsea-boot-fronts",
+        "tennis-silver-studs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S03-F01",
+      "seriesId": "S03",
+      "titleZh": "看台上的缎光",
+      "title": "Satin in the Stands",
+      "brand": "adidas Originals",
+      "sourceUrl": "https://www.adidas.com.eg/en/jersey-ss/KC0127.html",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S03-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S03-F01.png"
+      },
+      "pieceIds": [
+        "blokette-blue-bias-skirt",
+        "blokette-burgundy-jersey",
+        "blokette-ivory-ribbon-clips",
+        "tennis-white-toe"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S03-F02",
+      "seriesId": "S03",
+      "titleZh": "织入加时赛",
+      "title": "Woven into Extra Time",
+      "brand": "Wales Bonner",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-menswear/wales-bonner",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S03-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S03-F02.png"
+      },
+      "pieceIds": [
+        "blokette-jacquard-skipper",
+        "city-navy-canvas-toe",
+        "ivory-wide-trousers",
+        "blokette-ivory-ribbon-clips"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S03-F03",
+      "seriesId": "S03",
+      "titleZh": "终场换一面",
+      "title": "After the Final Whistle",
+      "brand": "Martine Rose",
+      "sourceUrl": "https://www.martine-rose.com/pages/spring-summer-2026",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S03-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s01-s03/S03-F03.png"
+      },
+      "pieceIds": [
+        "blokette-cream-knee-socks",
+        "blokette-ivory-nylon-longcoat",
+        "blokette-sky-broad-jersey",
+        "city-black-sneaker-toe",
+        "tennis-navy-skort-front",
+        "blokette-ivory-ribbon-clips"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S04-F01",
+      "seriesId": "S04",
+      "titleZh": "轨道静默",
+      "title": "Orbital Silence",
+      "brand": "Courrèges",
+      "sourceUrl": "https://www.courreges.com/fr/page/collection-fall-winter-2024",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S04-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S04-F01.png"
+      },
+      "pieceIds": [
+        "orbit-blue-capelet",
+        "orbit-geometric-dress",
+        "orbit-rectangular-earrings",
+        "orbit-silver-boot-fronts",
+        "sky-metal-barrette"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": "y2k-l2",
+      "lessonReady": true,
+      "unlockLevel": 2,
+      "garments": [],
+      "tier": "ordinary",
+      "price": 0,
+      "status": "lesson_ready"
+    },
+    {
+      "id": "S04-F02",
+      "seriesId": "S04",
+      "titleZh": "失真频段",
+      "title": "Distorted Frequency",
+      "brand": "Diesel",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S04-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S04-F02.png"
+      },
+      "pieceIds": [
+        "frequency-chunky-toes",
+        "frequency-denim-bolero",
+        "frequency-lilac-tank",
+        "frequency-lowrise-flares",
+        "frequency-silver-earcuffs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": "y2k-l4",
+      "lessonReady": true,
+      "unlockLevel": 4,
+      "garments": [],
+      "tier": "ordinary",
+      "price": 0,
+      "status": "lesson_ready"
+    },
+    {
+      "id": "S04-F03",
+      "seriesId": "S04",
+      "titleZh": "液态回声",
+      "title": "Liquid Echo",
+      "brand": "Blumarine",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S04-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S04-F03.png"
+      },
+      "pieceIds": [
+        "echo-asymmetric-dress",
+        "echo-blue-armwarmer",
+        "echo-hair-crescents",
+        "echo-platform-toes"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": "y2k-l6",
+      "lessonReady": true,
+      "unlockLevel": 6,
+      "garments": [],
+      "tier": "ordinary",
+      "price": 0,
+      "status": "lesson_ready"
+    },
+    {
+      "id": "S05-F01",
+      "seriesId": "S05",
+      "titleZh": "风的折线",
+      "title": "A Fold in the Wind",
+      "brand": "Toteme",
+      "sourceUrl": "https://toteme.com/pages/fall-winter-24-collection",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S05-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S05-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S05-F02",
+      "seriesId": "S05",
+      "titleZh": "城市切片",
+      "title": "City in Layers",
+      "brand": "Ganni",
+      "sourceUrl": "https://luxferity.com/brand/ganni/news/ganni-present-new-fall-winter-2024-collection-copenhagen-nostalgia",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S05-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S05-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S05-F03",
+      "seriesId": "S05",
+      "titleZh": "偏移坐标",
+      "title": "Displaced Coordinates",
+      "brand": "Acne Studios",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/acne-studios",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S05-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s04-s05/S05-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S06-F01",
+      "seriesId": "S06",
+      "titleZh": "禁书目录",
+      "title": "The Forbidden Index",
+      "brand": "Ralph Lauren",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S06-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s06/S06-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S06-F02",
+      "seriesId": "S06",
+      "titleZh": "午夜辩论",
+      "title": "The Midnight Disputation",
+      "brand": "Margaret Howell",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S06-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s06/S06-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S06-F03",
+      "seriesId": "S06",
+      "titleZh": "雨廊来信",
+      "title": "Letters Through the Rain",
+      "brand": "Burberry",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S06-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s06/S06-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S07-F01",
+      "seriesId": "S07",
+      "titleZh": "月蓝蝶影",
+      "title": "Moths in Moon Blue",
+      "brand": "Rodarte",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S07-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S07-F01-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S07-F02",
+      "seriesId": "S07",
+      "titleZh": "赤陶孢子",
+      "title": "Terracotta Spores",
+      "brand": "Simone Rocha",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S07-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S07-F02-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S07-F03",
+      "seriesId": "S07",
+      "titleZh": "青柠露珠",
+      "title": "Citron Dew",
+      "brand": "Needle & Thread",
+      "sourceUrl": "https://www.farfetch.com/om/shopping/women/needle-thread-floral-embroidered-dress-item-30432588.aspx",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S07-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S07-F03-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S08-F01",
+      "seriesId": "S08",
+      "titleZh": "蓝调热身",
+      "title": "Warming Up in Blue",
+      "brand": "SoftSeoul",
+      "sourceUrl": "https://softseoul.com/product/double-off-shoulder-knitbaby-blue/4450/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S08-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S08-F01-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S08-F02",
+      "seriesId": "S08",
+      "titleZh": "覆盆子间奏",
+      "title": "Raspberry Interlude",
+      "brand": "The Barnnet",
+      "sourceUrl": "https://the-barnnet.com/sub/project.html",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S08-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S08-F02-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S08-F03",
+      "seriesId": "S08",
+      "titleZh": "黄油色散场",
+      "title": "A Butter-Yellow Exit",
+      "brand": "Rockfish Weatherwear",
+      "sourceUrl": "https://rockfish-weatherwear.co.kr/category/all-season/476/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S08-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s08-v2/S08-F03-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S09-F01",
+      "seriesId": "S09",
+      "titleZh": "结的决定权",
+      "title": "The Choice of a Knot",
+      "brand": "Sandy Liang",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/sandy-liang",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S09-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s09/S09-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S09-F02",
+      "seriesId": "S09",
+      "titleZh": "严肃的粉色",
+      "title": "Pink with Conviction",
+      "brand": "Shushu/Tong",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/shanghai-spring-2024/shushutong",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S09-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s09/S09-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S09-F03",
+      "seriesId": "S09",
+      "titleZh": "秩序偏一寸",
+      "title": "A Small Shift in Order",
+      "brand": "Miu Miu",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/miu-miu",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S09-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s07-s09/S09-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S10-F01",
+      "seriesId": "S10",
+      "titleZh": "沙色回旋",
+      "title": "Sand in Rotation",
+      "brand": "Chloé",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S10-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S10-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S10-F02",
+      "seriesId": "S10",
+      "titleZh": "蓝印旅人",
+      "title": "Blue-Print Traveller",
+      "brand": "Etro",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/etro",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S10-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S10-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S10-F03",
+      "seriesId": "S10",
+      "titleZh": "莓色流苏",
+      "title": "Berry Fringe",
+      "brand": "Isabel Marant",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S10-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S10-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S11-F01",
+      "seriesId": "S11",
+      "titleZh": "柠檬海湾",
+      "title": "Lemon Bay",
+      "brand": "Pucci",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/emilio-pucci",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S11-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S11-F01.png"
+      },
+      "pieceIds": [
+        "lemon-bay-dress",
+        "white-front-sandals",
+        "lemon-bay-pearl-earrings",
+        "lemon-bay-gold-cuff"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S11-F02",
+      "seriesId": "S11",
+      "titleZh": "朱砂午后",
+      "title": "Vermilion Afternoon",
+      "brand": "Max Mara",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/max-mara",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S11-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S11-F02.png"
+      },
+      "pieceIds": [
+        "vermilion-shirt-dress",
+        "cream-sash",
+        "olive-front-sandals",
+        "vermilion-pearl-earrings"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S11-F03",
+      "seriesId": "S11",
+      "titleZh": "蜂蜜色航线",
+      "title": "A Honey-Coloured Route",
+      "brand": "Loro Piana",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/loro-piana",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S11-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S11-F03.png"
+      },
+      "pieceIds": [
+        "honey-long-vest",
+        "ivory-ribbed-top",
+        "navy-tailored-shorts",
+        "honey-woven-loafers",
+        "honey-gold-hoops",
+        "honey-chain-bracelet",
+        "honey-braid-cuffs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S12-F01",
+      "seriesId": "S12",
+      "titleZh": "红裙的跳切",
+      "title": "The Red-Skirt Cut",
+      "brand": "Saint James",
+      "sourceUrl": "https://www.musinsa.com/products/4758641",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S12-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S12-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S12-F02",
+      "seriesId": "S12",
+      "titleZh": "靛蓝双重奏",
+      "title": "Indigo Duet",
+      "brand": "A.P.C.",
+      "sourceUrl": "https://models.com/work/apc-fw-23",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S12-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S12-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S12-F03",
+      "seriesId": "S12",
+      "titleZh": "黄油色字幕",
+      "title": "Butter-Yellow Subtitles",
+      "brand": "Courrèges",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/courreges",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S12-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s10-s12/S12-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S13-F01",
+      "seriesId": "S13",
+      "titleZh": "香槟色镜头",
+      "title": "Champagne on Camera",
+      "brand": "Calvin Klein",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/calvin-klein-collection/slideshow/details",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S13-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S13-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S13-F02",
+      "seriesId": "S13",
+      "titleZh": "钴蓝主光",
+      "title": "Cobalt Key Light",
+      "brand": "Versace",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-1995-ready-to-wear/versace",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S13-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S13-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S13-F03",
+      "seriesId": "S13",
+      "titleZh": "白噪低频",
+      "title": "White Noise",
+      "brand": "Helmut Lang",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-1998-ready-to-wear/helmut-lang",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S13-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S13-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S14-F01",
+      "seriesId": "S14",
+      "titleZh": "孔雀扇面",
+      "title": "The Peacock Fan",
+      "brand": "Jeanne Lanvin 历史作品",
+      "sourceUrl": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S14-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S14-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S14-F02",
+      "seriesId": "S14",
+      "titleZh": "银幕的垂线",
+      "title": "Silver-Screen Lines",
+      "brand": "Ralph Lauren",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S14-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S14-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S14-F03",
+      "seriesId": "S14",
+      "titleZh": "石榴节拍",
+      "title": "Garnet Rhythm",
+      "brand": "Gucci",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/gucci",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S14-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S14-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S15-F01",
+      "seriesId": "S15",
+      "titleZh": "栗色缰线",
+      "title": "Chestnut Reins",
+      "brand": "Hermès",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/hermes",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S15-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S15-F01.png"
+      },
+      "pieceIds": [
+        "riding-black-boot-fronts",
+        "riding-black-wrap-skirt",
+        "riding-burgundy-leather-jacket",
+        "riding-butter-knit",
+        "riding-gold-studs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S15-F02",
+      "seriesId": "S15",
+      "titleZh": "奶油色骑迹",
+      "title": "Cream-Coloured Tracks",
+      "brand": "Ralph Lauren",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S15-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S15-F02.png"
+      },
+      "pieceIds": [
+        "riding-cream-waistcoat",
+        "riding-navy-breeches",
+        "riding-navy-poplin-shirt",
+        "riding-black-boot-fronts",
+        "riding-gold-studs"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S15-F03",
+      "seriesId": "S15",
+      "titleZh": "绿松石的风",
+      "title": "A Teal Wind",
+      "brand": "Burberry",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S15-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s13-s15/S15-F03.png"
+      },
+      "pieceIds": [
+        "riding-black-tights",
+        "riding-oat-corduroy-culottes",
+        "riding-silver-pin",
+        "riding-teal-cape-coat",
+        "riding-black-boot-fronts"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S16-F01",
+      "seriesId": "S16",
+      "titleZh": "黑羽写意",
+      "title": "Ink-Black Feathers",
+      "brand": "Ann Demeulemeester",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ann-demeulemeester",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S16-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S16-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S16-F02",
+      "seriesId": "S16",
+      "titleZh": "酒红刀锋",
+      "title": "An Oxblood Edge",
+      "brand": "Alexander McQueen",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/alexander-mcqueen",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S16-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S16-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S16-F03",
+      "seriesId": "S16",
+      "titleZh": "夜绿花房",
+      "title": "The Night-Green House",
+      "brand": "Simone Rocha",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S16-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S16-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S17-F01",
+      "seriesId": "S17",
+      "titleZh": "蓝色涡线",
+      "title": "A Blue Vortex",
+      "brand": "Issey Miyake",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S17-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S17-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S17-F02",
+      "seriesId": "S17",
+      "titleZh": "潮汐骨架",
+      "title": "Tidal Framework",
+      "brand": "Iris van Herpen",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2023-couture/iris-van-herpen/slideshow/collection",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S17-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S17-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S17-F03",
+      "seriesId": "S17",
+      "titleZh": "玫红负形",
+      "title": "Fuchsia Negative Space",
+      "brand": "Comme des Garçons",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/comme-des-garcons",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S17-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S17-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S18-F01",
+      "seriesId": "S18",
+      "titleZh": "苔绿边注",
+      "title": "Moss Marginalia",
+      "brand": "Margaret Howell",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S18-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S18-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S18-F02",
+      "seriesId": "S18",
+      "titleZh": "赭石书页",
+      "title": "Ochre Pages",
+      "brand": "Sea New York",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/sea",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S18-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S18-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S18-F03",
+      "seriesId": "S18",
+      "titleZh": "紫色删改",
+      "title": "Lavender Revisions",
+      "brand": "Sézane",
+      "sourceUrl": "https://www.whowhatwear.com/fashion/shopping/sezane-gaspard-cardigan",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S18-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s16-s18/S18-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S19-F01",
+      "seriesId": "S19",
+      "titleZh": "霓虹底片",
+      "title": "A Neon Negative",
+      "brand": "Levi’s",
+      "sourceUrl": "https://www.levi.com/US/en_US/clothing/women/jeans/straight/501-90s-lightweight-womens-jeans/p/A84210017",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S19-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S19-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S19-F02",
+      "seriesId": "S19",
+      "titleZh": "青绿电车",
+      "title": "The Jade Tram",
+      "brand": "Giordano Ladies",
+      "sourceUrl": "https://www.giordanoladies.com/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S19-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S19-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S19-F03",
+      "seriesId": "S19",
+      "titleZh": "紫李转角",
+      "title": "Plum Around the Corner",
+      "brand": "Vivienne Westwood",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/vivienne-westwood",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S19-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S19-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S20-F01",
+      "seriesId": "S20",
+      "titleZh": "珊瑚唱片",
+      "title": "Coral Records",
+      "brand": "BEAMS BOY",
+      "sourceUrl": "https://www.beams.co.jp/special/beamsboy/22ss/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S20-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S20-F01.png"
+      },
+      "pieceIds": [
+        "city-coral-waist-shirt",
+        "city-navy-canvas-toe",
+        "city-silver-disc-earrings",
+        "city-striped-top",
+        "ivory-wide-trousers"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S20-F02",
+      "seriesId": "S20",
+      "titleZh": "蓝调合成器",
+      "title": "A Blue Synthesizer",
+      "brand": "Issey Miyake",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/issey-miyake",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S20-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S20-F02.png"
+      },
+      "pieceIds": [
+        "city-blue-pleated-jumpsuit",
+        "city-pink-earrings",
+        "city-pink-fold-jacket",
+        "city-silver-square-toe"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S20-F03",
+      "seriesId": "S20",
+      "titleZh": "黄昏高频",
+      "title": "Sunset Frequency",
+      "brand": "Onitsuka Tiger",
+      "sourceUrl": "https://models.com/work/onitsuka-tiger-onitsuka-tiger-fw-24-show",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S20-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S20-F03.png"
+      },
+      "pieceIds": [
+        "city-black-gold-earrings",
+        "city-black-sneaker-toe",
+        "city-mustard-track-dress",
+        "city-white-nylon-jacket"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S21-F01",
+      "seriesId": "S21",
+      "titleZh": "紫雾引擎",
+      "title": "A Lavender Engine",
+      "brand": "AllSaints",
+      "sourceUrl": "https://www.next.co.uk/style/su455819/ag7285",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S21-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S21-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S21-F02",
+      "seriesId": "S21",
+      "titleZh": "咖啡色尘途",
+      "title": "Coffee-Coloured Roads",
+      "brand": "Chloé",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/chloe",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S21-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S21-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S21-F03",
+      "seriesId": "S21",
+      "titleZh": "铁锈花边",
+      "title": "Rust and Lace",
+      "brand": "Isabel Marant",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/isabel-marant",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S21-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s19-s21/S21-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S22-F01",
+      "seriesId": "S22",
+      "titleZh": "常青边线",
+      "title": "The Evergreen Line",
+      "brand": "Lacoste",
+      "sourceUrl": "https://www.vogue.fr/article/lacoste-pelagia-kolotouros-automne-hiver-2024-2025",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S22-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S22-F01.png"
+      },
+      "pieceIds": [
+        "tennis-front-pleat-panel",
+        "tennis-green-coat",
+        "tennis-green-trousers",
+        "tennis-ivory-polo",
+        "tennis-white-toe"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S22-F02",
+      "seriesId": "S22",
+      "titleZh": "橘色抢七",
+      "title": "Orange Tie-Break",
+      "brand": "Fila",
+      "sourceUrl": "https://fila.com.sg/collections/womens-dresses-skirts",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S22-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S22-F02.png"
+      },
+      "pieceIds": [
+        "tennis-apricot-polo",
+        "tennis-navy-skort-front",
+        "tennis-silver-studs",
+        "tennis-stripe-socks",
+        "tennis-white-toe"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S22-F03",
+      "seriesId": "S22",
+      "titleZh": "丁香休赛日",
+      "title": "A Lilac Rest Day",
+      "brand": "Sporty & Rich",
+      "sourceUrl": "https://sportyandrich.com/pages/tennis-drop-ss24",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S22-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S22-F03.png"
+      },
+      "pieceIds": [
+        "tennis-burgundy-shoulder-knit",
+        "tennis-lilac-cardigan",
+        "tennis-pearl-studs",
+        "tennis-wrap-shorts",
+        "tennis-white-toe",
+        "tennis-ivory-polo"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S23-F01",
+      "seriesId": "S23",
+      "titleZh": "白色雪脊",
+      "title": "The White Ridge",
+      "brand": "Moncler Grenoble",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/moncler-grenoble",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S23-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S23-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S23-F02",
+      "seriesId": "S23",
+      "titleZh": "红色雪线",
+      "title": "The Red Snow Line",
+      "brand": "Bogner",
+      "sourceUrl": "https://www.bogner.com/en-us/p/bogner-sport-ski-look-ellya-light-blue/look-915411.html",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S23-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S23-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S23-F03",
+      "seriesId": "S23",
+      "titleZh": "蓝色回转",
+      "title": "Blue Turns",
+      "brand": "Perfect Moment",
+      "sourceUrl": "https://lindaneve.com.br/product/macacao-perfect-moment-nova-star",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S23-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S23-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S24-F01",
+      "seriesId": "S24",
+      "titleZh": "沙丘口袋",
+      "title": "Dune Pockets",
+      "brand": "Banana Republic 早期档案",
+      "sourceUrl": "https://www.secretfanbase.com/banana/a-rare-look-banana-republic-catalogs-1978-1983/",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S24-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S24-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S24-F02",
+      "seriesId": "S24",
+      "titleZh": "蓝墨折页",
+      "title": "A Blue-Ink Fold",
+      "brand": "Max Mara",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/max-mara",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S24-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S24-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S24-F03",
+      "seriesId": "S24",
+      "titleZh": "酒渍工作室",
+      "title": "The Wine-Stained Studio",
+      "brand": "Ralph Lauren",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S24-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s22-s24/S24-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S25-F01",
+      "seriesId": "S25",
+      "titleZh": "青潮塑形",
+      "title": "Tide-Shaped",
+      "brand": "Di Petsa",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/di-petsa",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S25-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S25-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S25-F02",
+      "seriesId": "S25",
+      "titleZh": "珊瑚潮汐",
+      "title": "Coral Tides",
+      "brand": "Blumarine",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S25-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S25-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S25-F03",
+      "seriesId": "S25",
+      "titleZh": "珍珠断奏",
+      "title": "A Pearl Syncopation",
+      "brand": "Cult Gaia",
+      "sourceUrl": "https://cultgaia.com/products/blythe-dress-off-white",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S25-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S25-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S26-F01",
+      "seriesId": "S26",
+      "titleZh": "天蓝空隙",
+      "title": "Sky-Blue Space",
+      "brand": "Eileen Fisher",
+      "sourceUrl": "https://www.eileenfisherpress.com/may-2026",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S26-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S26-F01.png"
+      },
+      "pieceIds": [
+        "flax-woven-sandals",
+        "sky-earrings",
+        "sky-linen-tunic",
+        "sky-metal-barrette",
+        "white-barrel-trousers"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S26-F02",
+      "seriesId": "S26",
+      "titleZh": "海军蓝软岛",
+      "title": "The Navy Soft Island",
+      "brand": "Jenni Kayne",
+      "sourceUrl": "https://www.jennikayne.com/products/cropped-cashmere-cocoon-cardigan-oatmeal",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S26-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S26-F02.png"
+      },
+      "pieceIds": [
+        "cream-rib-skirt",
+        "navy-cocoon-cardigan",
+        "navy-cuff",
+        "navy-earrings",
+        "navy-mules",
+        "rust-wrap-sash"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S26-F03",
+      "seriesId": "S26",
+      "titleZh": "陶土风帆",
+      "title": "Terracotta Sails",
+      "brand": "Loro Piana",
+      "sourceUrl": "https://us.loropiana.com/en/woman/dresses/adriel-dress-FAQ5829_L0F2.html",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S26-F03.webp",
+        "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/S26-F03-v2.png"
+      },
+      "pieceIds": [
+        "ceramic-earrings",
+        "coral-gold-cuff",
+        "coral-linen-dress",
+        "ivory-espadrilles"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S27-F01",
+      "seriesId": "S27",
+      "titleZh": "黑紫幕帘",
+      "title": "Black-Violet Curtains",
+      "brand": "Rodarte",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S27-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S27-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S27-F02",
+      "seriesId": "S27",
+      "titleZh": "暗红排练",
+      "title": "A Dark-Red Rehearsal",
+      "brand": "Simone Rocha",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S27-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S27-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S27-F03",
+      "seriesId": "S27",
+      "titleZh": "象牙色返场",
+      "title": "An Ivory Return",
+      "brand": "Repetto",
+      "sourceUrl": "https://repetto.com/en/collections/sophia-ballerina",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S27-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s25-s27/S27-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S28-F01",
+      "seriesId": "S28",
+      "titleZh": "玉色折枝",
+      "title": "Jade Branches",
+      "brand": "Shanghai Tang",
+      "sourceUrl": "https://www.farfetch.com/eg/shopping/women/shanghai-tang-floral-lattice-silk-qipao-dress-item-25596835.aspx",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S28-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S28-F01.png"
+      },
+      "pieceIds": [
+        "jade-cuff",
+        "jade-earrings",
+        "jade-pointed-flats",
+        "jade-qipao"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S28-F02",
+      "seriesId": "S28",
+      "titleZh": "朱红折领",
+      "title": "Vermilion Folds",
+      "brand": "Shiatzy Chen",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/shiatzy-chen",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S28-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S28-F02.png"
+      },
+      "pieceIds": [
+        "black-sculptural-loafers",
+        "ivory-shell",
+        "ivory-wide-trousers",
+        "vermilion-cutwork-jacket",
+        "vermilion-earrings"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S28-F03",
+      "seriesId": "S28",
+      "titleZh": "石蓝叠影",
+      "title": "Slate-Blue Layers",
+      "brand": "Uma Wang",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/uma-wang",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S28-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S28-F03.png"
+      },
+      "pieceIds": [
+        "ivory-slim-trousers",
+        "slate-earrings",
+        "slate-hairpin",
+        "slate-wrap-coat",
+        "umber-square-shoes"
+      ],
+      "artReady": true,
+      "outfitArtReady": true,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "art_ready"
+    },
+    {
+      "id": "S29-F01",
+      "seriesId": "S29",
+      "titleZh": "黄铜雨檐",
+      "title": "A Brass Rain Eave",
+      "brand": "Mackintosh",
+      "sourceUrl": "https://bshop-inc.com/shop/ec/item/view/shop_product_id/40289",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S29-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S29-F01-rain-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S29-F02",
+      "seriesId": "S29",
+      "titleZh": "紫酒雨幕",
+      "title": "Wine-Coloured Rain",
+      "brand": "Burberry",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/burberry-prorsum",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S29-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S29-F02-rain-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S29-F03",
+      "seriesId": "S29",
+      "titleZh": "蓝色雨痕",
+      "title": "Blue Rain Marks",
+      "brand": "Margaret Howell",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/margaret-howell",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S29-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S29-F03-rain-v2.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S30-F01",
+      "seriesId": "S30",
+      "titleZh": "银紫序曲",
+      "title": "A Silver-Lilac Overture",
+      "brand": "Armani Privé",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-couture/armani-prive",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S30-F01.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S30-F01.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S30-F02",
+      "seriesId": "S30",
+      "titleZh": "玫红安可",
+      "title": "A Magenta Encore",
+      "brand": "Valentino",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-couture/valentino",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S30-F02.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S30-F02.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    },
+    {
+      "id": "S30-F03",
+      "seriesId": "S30",
+      "titleZh": "深蓝终章",
+      "title": "The Midnight Finale",
+      "brand": "Elie Saab",
+      "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-couture/elie-saab",
+      "art": {
+        "layout": "single",
+        "url": "/assets/fashion-series/previews/cards/S30-F03.webp",
+        "sourceImage": "/fashion-atlas-v5/card-art/fashion-s28-s30/S30-F03.png"
+      },
+      "pieceIds": [],
+      "artReady": true,
+      "outfitArtReady": false,
+      "lessonId": null,
+      "lessonReady": false,
+      "unlockLevel": null,
+      "garments": [],
+      "tier": "collectible",
+      "price": 0,
+      "status": "planned"
+    }
+  ],
+  "pieces": [
+    {
+      "id": "honey-long-vest",
+      "nameZh": "蜂蜜色航线·长马甲",
+      "nameEn": "Honey long vest",
+      "slot": "coat",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/honey-long-vest.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-long-vest/colour-front.png"
+    },
+    {
+      "id": "ivory-ribbed-top",
+      "nameZh": "蜂蜜色航线·针织背心",
+      "nameEn": "Ivory ribbed top",
+      "slot": "top",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ivory-ribbed-top.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/ivory-ribbed-top/colour-front.png"
+    },
+    {
+      "id": "navy-tailored-shorts",
+      "nameZh": "蜂蜜色航线·短裤",
+      "nameEn": "Navy tailored shorts",
+      "slot": "bottom",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/navy-tailored-shorts.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/navy-tailored-shorts/colour-front.png"
+    },
+    {
+      "id": "honey-woven-loafers",
+      "nameZh": "蜂蜜色航线·编织便鞋",
+      "nameEn": "Honey woven loafers",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/honey-woven-loafers.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-woven-loafers/colour-front.png"
+    },
+    {
+      "id": "honey-gold-hoops",
+      "nameZh": "蜂蜜色航线·椭圆金耳环",
+      "nameEn": "Honey gold hoops",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/honey-gold-hoops.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-gold-hoops/colour-front.png"
+    },
+    {
+      "id": "honey-chain-bracelet",
+      "nameZh": "蜂蜜色航线·链式手镯",
+      "nameEn": "Honey chain bracelet",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/honey-chain-bracelet.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-chain-bracelet/colour-front.png"
+    },
+    {
+      "id": "honey-braid-cuffs",
+      "nameZh": "蜂蜜色航线·编发金扣",
+      "nameEn": "Honey braid cuffs",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/honey-braid-cuffs.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-braid-cuffs/colour-front.png"
+    },
+    {
+      "id": "vermilion-shirt-dress",
+      "nameZh": "朱砂午后·衬衫裙",
+      "nameEn": "Vermilion shirt dress",
+      "slot": "dress",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/vermilion-shirt-dress.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-shirt-dress/colour-front.png"
+    },
+    {
+      "id": "cream-sash",
+      "nameZh": "朱砂午后·腰带",
+      "nameEn": "Cream sash",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/cream-sash.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/cream-sash/colour-front.png"
+    },
+    {
+      "id": "olive-front-sandals",
+      "nameZh": "朱砂午后·橄榄绿凉鞋",
+      "nameEn": "Olive front sandals",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/olive-front-sandals.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/olive-front-sandals/colour-front.png"
+    },
+    {
+      "id": "vermilion-pearl-earrings",
+      "nameZh": "朱砂午后·长方珍珠耳饰",
+      "nameEn": "Vermilion pearl earrings",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/vermilion-pearl-earrings.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-pearl-earrings/colour-front.png"
+    },
+    {
+      "id": "lemon-bay-dress",
+      "nameZh": "柠檬海湾·几何领长裙",
+      "nameEn": "Lemon bay dress",
+      "slot": "dress",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/lemon-bay-dress.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-dress/colour-front.png"
+    },
+    {
+      "id": "white-front-sandals",
+      "nameZh": "柠檬海湾·白色凉鞋",
+      "nameEn": "White front sandals",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/white-front-sandals.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/white-front-sandals/colour-front.png"
+    },
+    {
+      "id": "lemon-bay-pearl-earrings",
+      "nameZh": "柠檬海湾·椭圆珍珠耳饰",
+      "nameEn": "Lemon bay pearl earrings",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/lemon-bay-pearl-earrings.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-pearl-earrings/colour-front.png"
+    },
+    {
+      "id": "lemon-bay-gold-cuff",
+      "nameZh": "柠檬海湾·金色腕饰",
+      "nameEn": "Lemon bay gold cuff",
+      "slot": "jewelry",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/lemon-bay-gold-cuff.webp",
+      "seriesIds": [
+        "S11"
+      ],
+      "cardIds": [
+        "S11-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-gold-cuff/colour-front.png"
+    },
+    {
+      "id": "black-sculptural-loafers",
+      "nameZh": "黑色雕塑乐福鞋",
+      "nameEn": "Black sculptural loafers",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/black-sculptural-loafers.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/black-sculptural-loafers/colour-front.png"
+    },
+    {
+      "id": "ivory-shell",
+      "nameZh": "象牙短内搭",
+      "nameEn": "Ivory shell",
+      "slot": "top",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ivory-shell.webp",
+      "seriesIds": [
+        "S28",
+        "S01"
+      ],
+      "cardIds": [
+        "S28-F02",
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-shell/colour-front.png"
+    },
+    {
+      "id": "ivory-wide-trousers",
+      "nameZh": "象牙阔腿裤",
+      "nameEn": "Ivory wide trousers",
+      "slot": "bottom",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ivory-wide-trousers.webp",
+      "seriesIds": [
+        "S28",
+        "S20",
+        "S03"
+      ],
+      "cardIds": [
+        "S28-F02",
+        "S20-F01",
+        "S03-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-wide-trousers/colour-front.png"
+    },
+    {
+      "id": "vermilion-cutwork-jacket",
+      "nameZh": "朱红镂纹短外套",
+      "nameEn": "Vermilion cutwork jacket",
+      "slot": "outerwear",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/vermilion-cutwork-jacket.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-cutwork-jacket/colour-front.png"
+    },
+    {
+      "id": "vermilion-earrings",
+      "nameZh": "朱红珍珠耳饰",
+      "nameEn": "Vermilion earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/vermilion-earrings.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-earrings/colour-front.png"
+    },
+    {
+      "id": "jade-cuff",
+      "nameZh": "金色腕饰",
+      "nameEn": "Jade cuff",
+      "slot": "bracelet",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/jade-cuff.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-cuff/colour-front.png"
+    },
+    {
+      "id": "jade-earrings",
+      "nameZh": "玉色金边耳坠",
+      "nameEn": "Jade earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/jade-earrings.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-earrings/colour-front.png"
+    },
+    {
+      "id": "jade-pointed-flats",
+      "nameZh": "黑色尖头平底鞋",
+      "nameEn": "Jade pointed flats",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/jade-pointed-flats.webp",
+      "seriesIds": [
+        "S28",
+        "S01"
+      ],
+      "cardIds": [
+        "S28-F01",
+        "S01-F01",
+        "S01-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-pointed-flats/colour-front.png"
+    },
+    {
+      "id": "jade-qipao",
+      "nameZh": "玉绿斜襟旗袍",
+      "nameEn": "Jade qipao",
+      "slot": "dress",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/jade-qipao.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-qipao/colour-front.png"
+    },
+    {
+      "id": "cream-rib-skirt",
+      "nameZh": "奶油罗纹长裙",
+      "nameEn": "Cream rib skirt",
+      "slot": "bottom",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/cream-rib-skirt.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/cream-rib-skirt/colour-front.png"
+    },
+    {
+      "id": "navy-cocoon-cardigan",
+      "nameZh": "海军蓝茧形针织",
+      "nameEn": "Navy cocoon cardigan",
+      "slot": "outerwear",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/navy-cocoon-cardigan.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cocoon-cardigan/colour-front.png"
+    },
+    {
+      "id": "navy-cuff",
+      "nameZh": "暖金窄腕饰",
+      "nameEn": "Navy cuff",
+      "slot": "bracelet",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/navy-cuff.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cuff/colour-front.png"
+    },
+    {
+      "id": "navy-earrings",
+      "nameZh": "暖金水滴耳饰",
+      "nameEn": "Navy earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/navy-earrings.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-earrings/colour-front.png"
+    },
+    {
+      "id": "navy-mules",
+      "nameZh": "海军蓝低跟穆勒",
+      "nameEn": "Navy mules",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/navy-mules.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-mules/colour-front.png"
+    },
+    {
+      "id": "rust-wrap-sash",
+      "nameZh": "铁锈色腰带",
+      "nameEn": "Rust wrap sash",
+      "slot": "belt",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/rust-wrap-sash.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/rust-wrap-sash/colour-front.png"
+    },
+    {
+      "id": "ivory-slim-trousers",
+      "nameZh": "冷白九分裤",
+      "nameEn": "Ivory slim trousers",
+      "slot": "bottom",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ivory-slim-trousers.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-slim-trousers/colour-front.png"
+    },
+    {
+      "id": "slate-earrings",
+      "nameZh": "银色几何耳饰",
+      "nameEn": "Slate earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/slate-earrings.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-earrings/colour-front.png"
+    },
+    {
+      "id": "slate-hairpin",
+      "nameZh": "银色盘发簪",
+      "nameEn": "Slate hairpin",
+      "slot": "hair-accessory",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/slate-hairpin.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-hairpin/colour-front.png"
+    },
+    {
+      "id": "slate-wrap-coat",
+      "nameZh": "石蓝裹身长衣",
+      "nameEn": "Slate wrap coat",
+      "slot": "dress",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/slate-wrap-coat.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-wrap-coat/colour-front.png"
+    },
+    {
+      "id": "umber-square-shoes",
+      "nameZh": "深棕方头鞋",
+      "nameEn": "Umber square shoes",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/umber-square-shoes.webp",
+      "seriesIds": [
+        "S28"
+      ],
+      "cardIds": [
+        "S28-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/umber-square-shoes/colour-front.png"
+    },
+    {
+      "id": "ceramic-earrings",
+      "nameZh": "瓷白卵石耳坠",
+      "nameEn": "Ceramic earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ceramic-earrings.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ceramic-earrings/colour-front.png"
+    },
+    {
+      "id": "coral-gold-cuff",
+      "nameZh": "浅金宽腕饰",
+      "nameEn": "Coral gold cuff",
+      "slot": "bracelet",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/coral-gold-cuff.webp",
+      "seriesIds": [
+        "S26",
+        "S01"
+      ],
+      "cardIds": [
+        "S26-F03",
+        "S01-F01",
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-gold-cuff/colour-front.png"
+    },
+    {
+      "id": "coral-linen-dress",
+      "nameZh": "陶土风帆亚麻裙",
+      "nameEn": "Coral linen dress",
+      "slot": "dress",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/coral-linen-dress.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-linen-dress/colour-front.png"
+    },
+    {
+      "id": "ivory-espadrilles",
+      "nameZh": "象牙编织渔夫鞋",
+      "nameEn": "Ivory espadrilles",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/ivory-espadrilles.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-espadrilles/colour-front.png"
+    },
+    {
+      "id": "flax-woven-sandals",
+      "nameZh": "浅麻编织凉鞋",
+      "nameEn": "Flax woven sandals",
+      "slot": "shoes",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/flax-woven-sandals.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/flax-woven-sandals/colour-front.png"
+    },
+    {
+      "id": "sky-earrings",
+      "nameZh": "银色贝光耳饰",
+      "nameEn": "Sky earrings",
+      "slot": "earrings",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/sky-earrings.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-earrings/colour-front.png"
+    },
+    {
+      "id": "sky-linen-tunic",
+      "nameZh": "天蓝宽肩衬裙",
+      "nameEn": "Sky linen tunic",
+      "slot": "top",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/sky-linen-tunic.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-linen-tunic/colour-front.png"
+    },
+    {
+      "id": "sky-metal-barrette",
+      "nameZh": "银色长辫发扣",
+      "nameEn": "Sky metal barrette",
+      "slot": "hair-accessory",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/sky-metal-barrette.webp",
+      "seriesIds": [
+        "S26",
+        "S04"
+      ],
+      "cardIds": [
+        "S26-F01",
+        "S04-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-metal-barrette/colour-front.png"
+    },
+    {
+      "id": "white-barrel-trousers",
+      "nameZh": "白色弧线裤",
+      "nameEn": "White barrel trousers",
+      "slot": "bottom",
+      "fabric": "",
+      "image": "/assets/fashion-series/previews/pieces/white-barrel-trousers.webp",
+      "seriesIds": [
+        "S26"
+      ],
+      "cardIds": [
+        "S26-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/white-barrel-trousers/colour-front.png"
+    },
+    {
+      "id": "riding-black-boot-fronts",
+      "nameZh": "黑色骑靴正面",
+      "nameEn": "Riding black boot fronts",
+      "slot": "shoes",
+      "fabric": "riding-leather",
+      "image": "/assets/fashion-series/previews/pieces/riding-black-boot-fronts.webp",
+      "seriesIds": [
+        "S15",
+        "S01"
+      ],
+      "cardIds": [
+        "S15-F01",
+        "S15-F02",
+        "S15-F03",
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-boot-fronts/colour-front.png"
+    },
+    {
+      "id": "riding-black-wrap-skirt",
+      "nameZh": "黑色骑褶裹裙",
+      "nameEn": "Riding black wrap skirt",
+      "slot": "bottom",
+      "fabric": "dense-wool",
+      "image": "/assets/fashion-series/previews/pieces/riding-black-wrap-skirt.webp",
+      "seriesIds": [
+        "S15",
+        "S01"
+      ],
+      "cardIds": [
+        "S15-F01",
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-wrap-skirt/colour-front.png"
+    },
+    {
+      "id": "riding-burgundy-leather-jacket",
+      "nameZh": "栗酒红骑装皮衣",
+      "nameEn": "Riding burgundy leather jacket",
+      "slot": "outerwear",
+      "fabric": "supple-leather",
+      "image": "/assets/fashion-series/previews/pieces/riding-burgundy-leather-jacket.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-burgundy-leather-jacket/colour-front.png"
+    },
+    {
+      "id": "riding-butter-knit",
+      "nameZh": "奶油细针织内搭",
+      "nameEn": "Riding butter knit",
+      "slot": "top",
+      "fabric": "fine-wool-knit",
+      "image": "/assets/fashion-series/previews/pieces/riding-butter-knit.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-butter-knit/colour-front.png"
+    },
+    {
+      "id": "riding-gold-studs",
+      "nameZh": "骑装金色耳钉",
+      "nameEn": "Riding gold studs",
+      "slot": "earrings",
+      "fabric": "gold",
+      "image": "/assets/fashion-series/previews/pieces/riding-gold-studs.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F01",
+        "S15-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-gold-studs/colour-front.png"
+    },
+    {
+      "id": "riding-cream-waistcoat",
+      "nameZh": "奶油修身骑装背心",
+      "nameEn": "Riding cream waistcoat",
+      "slot": "outerwear",
+      "fabric": "wool-gabardine",
+      "image": "/assets/fashion-series/previews/pieces/riding-cream-waistcoat.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-cream-waistcoat/colour-front.png"
+    },
+    {
+      "id": "riding-navy-breeches",
+      "nameZh": "海军蓝骑装长裤",
+      "nameEn": "Riding navy breeches",
+      "slot": "bottom",
+      "fabric": "stretch-riding-twill",
+      "image": "/assets/fashion-series/previews/pieces/riding-navy-breeches.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-breeches/colour-front.png"
+    },
+    {
+      "id": "riding-navy-poplin-shirt",
+      "nameZh": "海军蓝长袖衬衫",
+      "nameEn": "Riding navy poplin shirt",
+      "slot": "top",
+      "fabric": "fine-poplin",
+      "image": "/assets/fashion-series/previews/pieces/riding-navy-poplin-shirt.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-poplin-shirt/colour-front.png"
+    },
+    {
+      "id": "riding-black-tights",
+      "nameZh": "黑色不透连裤袜",
+      "nameEn": "Riding black tights",
+      "slot": "tights",
+      "fabric": "opaque-matte-knit",
+      "image": "/assets/fashion-series/previews/pieces/riding-black-tights.webp",
+      "seriesIds": [
+        "S15",
+        "S01",
+        "S02"
+      ],
+      "cardIds": [
+        "S15-F03",
+        "S01-F03",
+        "S02-F02",
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-tights/colour-front.png"
+    },
+    {
+      "id": "riding-oat-corduroy-culottes",
+      "nameZh": "燕麦灯芯绒裙裤",
+      "nameEn": "Riding oat corduroy culottes",
+      "slot": "bottom",
+      "fabric": "wide-wale-corduroy",
+      "image": "/assets/fashion-series/previews/pieces/riding-oat-corduroy-culottes.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-oat-corduroy-culottes/colour-front.png"
+    },
+    {
+      "id": "riding-silver-pin",
+      "nameZh": "银色斗篷别针",
+      "nameEn": "Riding silver pin",
+      "slot": "brooch",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/riding-silver-pin.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-silver-pin/colour-front.png"
+    },
+    {
+      "id": "riding-teal-cape-coat",
+      "nameZh": "深青骑装斗篷",
+      "nameEn": "Riding teal cape coat",
+      "slot": "outerwear",
+      "fabric": "felted-wool",
+      "image": "/assets/fashion-series/previews/pieces/riding-teal-cape-coat.webp",
+      "seriesIds": [
+        "S15"
+      ],
+      "cardIds": [
+        "S15-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-teal-cape-coat/colour-front.png"
+    },
+    {
+      "id": "city-coral-waist-shirt",
+      "nameZh": "珊瑚衬衫系腰前片",
+      "nameEn": "City coral waist shirt",
+      "slot": "waist-accessory",
+      "fabric": "cotton-poplin",
+      "image": "/assets/fashion-series/previews/pieces/city-coral-waist-shirt.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-coral-waist-shirt/colour-front.png"
+    },
+    {
+      "id": "city-navy-canvas-toe",
+      "nameZh": "海军蓝帆布鞋头",
+      "nameEn": "City navy canvas toe",
+      "slot": "shoes",
+      "fabric": "canvas-rubber",
+      "image": "/assets/fashion-series/previews/pieces/city-navy-canvas-toe.webp",
+      "seriesIds": [
+        "S20",
+        "S03"
+      ],
+      "cardIds": [
+        "S20-F01",
+        "S03-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-navy-canvas-toe/colour-front.png"
+    },
+    {
+      "id": "city-silver-disc-earrings",
+      "nameZh": "唱片银圆耳饰",
+      "nameEn": "City silver disc earrings",
+      "slot": "earrings",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/city-silver-disc-earrings.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-disc-earrings/colour-front.png"
+    },
+    {
+      "id": "city-striped-top",
+      "nameZh": "珊瑚海军条纹上衣",
+      "nameEn": "City striped top",
+      "slot": "top",
+      "fabric": "cotton-jersey",
+      "image": "/assets/fashion-series/previews/pieces/city-striped-top.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-striped-top/colour-front.png"
+    },
+    {
+      "id": "city-blue-pleated-jumpsuit",
+      "nameZh": "电蓝细褶连身裤",
+      "nameEn": "City blue pleated jumpsuit",
+      "slot": "jumpsuit",
+      "fabric": "micropleated-fabric",
+      "image": "/assets/fashion-series/previews/pieces/city-blue-pleated-jumpsuit.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-blue-pleated-jumpsuit/colour-front.png"
+    },
+    {
+      "id": "city-pink-earrings",
+      "nameZh": "粉银几何耳饰",
+      "nameEn": "City pink earrings",
+      "slot": "earrings",
+      "fabric": "enamel-silver",
+      "image": "/assets/fashion-series/previews/pieces/city-pink-earrings.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-earrings/colour-front.png"
+    },
+    {
+      "id": "city-pink-fold-jacket",
+      "nameZh": "樱粉折纸短外套",
+      "nameEn": "City pink fold jacket",
+      "slot": "outerwear",
+      "fabric": "structured-cotton",
+      "image": "/assets/fashion-series/previews/pieces/city-pink-fold-jacket.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-fold-jacket/colour-front.png"
+    },
+    {
+      "id": "city-silver-square-toe",
+      "nameZh": "银色方头鞋前片",
+      "nameEn": "City silver square toe",
+      "slot": "shoes",
+      "fabric": "metallic-leather",
+      "image": "/assets/fashion-series/previews/pieces/city-silver-square-toe.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-square-toe/colour-front.png"
+    },
+    {
+      "id": "city-black-gold-earrings",
+      "nameZh": "黑金几何耳钉",
+      "nameEn": "City black gold earrings",
+      "slot": "earrings",
+      "fabric": "enamel-gold",
+      "image": "/assets/fashion-series/previews/pieces/city-black-gold-earrings.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-gold-earrings/colour-front.png"
+    },
+    {
+      "id": "city-black-sneaker-toe",
+      "nameZh": "黑色运动鞋头",
+      "nameEn": "City black sneaker toe",
+      "slot": "shoes",
+      "fabric": "technical-mesh",
+      "image": "/assets/fashion-series/previews/pieces/city-black-sneaker-toe.webp",
+      "seriesIds": [
+        "S20",
+        "S03"
+      ],
+      "cardIds": [
+        "S20-F03",
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-sneaker-toe/colour-front.png"
+    },
+    {
+      "id": "city-mustard-track-dress",
+      "nameZh": "芥黄运动拉链裙",
+      "nameEn": "City mustard track dress",
+      "slot": "dress",
+      "fabric": "technical-jersey",
+      "image": "/assets/fashion-series/previews/pieces/city-mustard-track-dress.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-mustard-track-dress/colour-front.png"
+    },
+    {
+      "id": "city-white-nylon-jacket",
+      "nameZh": "白色尼龙短外套",
+      "nameEn": "City white nylon jacket",
+      "slot": "outerwear",
+      "fabric": "crinkled-nylon",
+      "image": "/assets/fashion-series/previews/pieces/city-white-nylon-jacket.webp",
+      "seriesIds": [
+        "S20"
+      ],
+      "cardIds": [
+        "S20-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-white-nylon-jacket/colour-front.png"
+    },
+    {
+      "id": "tennis-front-pleat-panel",
+      "nameZh": "象牙前褶叠裙片",
+      "nameEn": "Tennis front pleat panel",
+      "slot": "waist-accessory",
+      "fabric": "crisp-cotton",
+      "image": "/assets/fashion-series/previews/pieces/tennis-front-pleat-panel.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-front-pleat-panel/colour-front.png"
+    },
+    {
+      "id": "tennis-green-coat",
+      "nameZh": "常青翻领短外套",
+      "nameEn": "Tennis green coat",
+      "slot": "outerwear",
+      "fabric": "cotton-nylon",
+      "image": "/assets/fashion-series/previews/pieces/tennis-green-coat.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-coat/colour-front.png"
+    },
+    {
+      "id": "tennis-green-trousers",
+      "nameZh": "常青棉尼龙长裤",
+      "nameEn": "Tennis green trousers",
+      "slot": "bottom",
+      "fabric": "cotton-nylon",
+      "image": "/assets/fashion-series/previews/pieces/tennis-green-trousers.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-trousers/colour-front.png"
+    },
+    {
+      "id": "tennis-ivory-polo",
+      "nameZh": "象牙罗纹Polo",
+      "nameEn": "Tennis ivory polo",
+      "slot": "top",
+      "fabric": "fine-rib-cotton",
+      "image": "/assets/fashion-series/previews/pieces/tennis-ivory-polo.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F01",
+        "S22-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-ivory-polo/colour-front.png"
+    },
+    {
+      "id": "tennis-white-toe",
+      "nameZh": "白色球鞋鞋头",
+      "nameEn": "Tennis white toe",
+      "slot": "shoes",
+      "fabric": "leather-rubber",
+      "image": "/assets/fashion-series/previews/pieces/tennis-white-toe.webp",
+      "seriesIds": [
+        "S22",
+        "S03"
+      ],
+      "cardIds": [
+        "S22-F01",
+        "S22-F02",
+        "S22-F03",
+        "S03-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-white-toe/colour-front.png"
+    },
+    {
+      "id": "tennis-apricot-polo",
+      "nameZh": "杏橘珠地Polo",
+      "nameEn": "Tennis apricot polo",
+      "slot": "top",
+      "fabric": "cotton-pique",
+      "image": "/assets/fashion-series/previews/pieces/tennis-apricot-polo.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-apricot-polo/colour-front.png"
+    },
+    {
+      "id": "tennis-navy-skort-front",
+      "nameZh": "海军蓝百褶裙",
+      "nameEn": "Tennis navy skort front",
+      "slot": "bottom",
+      "fabric": "crisp-technical-twill",
+      "image": "/assets/fashion-series/previews/pieces/tennis-navy-skort-front.webp",
+      "seriesIds": [
+        "S22",
+        "S03"
+      ],
+      "cardIds": [
+        "S22-F02",
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-navy-skort-front/colour-front.png"
+    },
+    {
+      "id": "tennis-silver-studs",
+      "nameZh": "球场银色耳钉",
+      "nameEn": "Tennis silver studs",
+      "slot": "earrings",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/tennis-silver-studs.webp",
+      "seriesIds": [
+        "S22",
+        "S02"
+      ],
+      "cardIds": [
+        "S22-F02",
+        "S02-F01",
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-silver-studs/colour-front.png"
+    },
+    {
+      "id": "tennis-stripe-socks",
+      "nameZh": "细条纹网球袜",
+      "nameEn": "Tennis stripe socks",
+      "slot": "socks",
+      "fabric": "cotton-knit",
+      "image": "/assets/fashion-series/previews/pieces/tennis-stripe-socks.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-stripe-socks/colour-front.png"
+    },
+    {
+      "id": "tennis-burgundy-shoulder-knit",
+      "nameZh": "酒红肩搭针织",
+      "nameEn": "Tennis burgundy shoulder knit",
+      "slot": "shoulder-accessory",
+      "fabric": "cotton-knit",
+      "image": "/assets/fashion-series/previews/pieces/tennis-burgundy-shoulder-knit.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-burgundy-shoulder-knit/colour-front.png"
+    },
+    {
+      "id": "tennis-lilac-cardigan",
+      "nameZh": "丁香华夫格短衫",
+      "nameEn": "Tennis lilac cardigan",
+      "slot": "outerwear",
+      "fabric": "waffle-knit",
+      "image": "/assets/fashion-series/previews/pieces/tennis-lilac-cardigan.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-lilac-cardigan/colour-front.png"
+    },
+    {
+      "id": "tennis-pearl-studs",
+      "nameZh": "丁香珍珠耳钉",
+      "nameEn": "Tennis pearl studs",
+      "slot": "earrings",
+      "fabric": "pearl",
+      "image": "/assets/fashion-series/previews/pieces/tennis-pearl-studs.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-pearl-studs/colour-front.png"
+    },
+    {
+      "id": "tennis-wrap-shorts",
+      "nameZh": "象牙斜叠短裤",
+      "nameEn": "Tennis wrap shorts",
+      "slot": "bottom",
+      "fabric": "cotton-twill",
+      "image": "/assets/fashion-series/previews/pieces/tennis-wrap-shorts.webp",
+      "seriesIds": [
+        "S22"
+      ],
+      "cardIds": [
+        "S22-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-wrap-shorts/colour-front.png"
+    },
+    {
+      "id": "orbit-blue-capelet",
+      "nameZh": "冰蓝透明肩罩",
+      "nameEn": "Orbit blue capelet",
+      "slot": "shoulder-accessory",
+      "fabric": "translucent-organza",
+      "image": "/assets/fashion-series/previews/pieces/orbit-blue-capelet.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-blue-capelet/colour-front.png"
+    },
+    {
+      "id": "orbit-geometric-dress",
+      "nameZh": "冰白弧线几何短裙",
+      "nameEn": "Orbit geometric dress",
+      "slot": "dress",
+      "fabric": "bonded-jersey",
+      "image": "/assets/fashion-series/previews/pieces/orbit-geometric-dress.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-geometric-dress/colour-front.png"
+    },
+    {
+      "id": "orbit-rectangular-earrings",
+      "nameZh": "轨道银框耳饰",
+      "nameEn": "Orbit rectangular earrings",
+      "slot": "earrings",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/orbit-rectangular-earrings.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-rectangular-earrings/colour-front.png"
+    },
+    {
+      "id": "orbit-silver-boot-fronts",
+      "nameZh": "银色方头靴前片",
+      "nameEn": "Orbit silver boot fronts",
+      "slot": "shoes",
+      "fabric": "satin-metallic-leather",
+      "image": "/assets/fashion-series/previews/pieces/orbit-silver-boot-fronts.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-silver-boot-fronts/colour-front.png"
+    },
+    {
+      "id": "frequency-chunky-toes",
+      "nameZh": "银黑方头厚底鞋头",
+      "nameEn": "Frequency chunky toes",
+      "slot": "shoes",
+      "fabric": "metallic-leather-rubber",
+      "image": "/assets/fashion-series/previews/pieces/frequency-chunky-toes.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-chunky-toes/colour-front.png"
+    },
+    {
+      "id": "frequency-denim-bolero",
+      "nameZh": "银蓝洗水牛仔短夹克",
+      "nameEn": "Frequency denim bolero",
+      "slot": "outerwear",
+      "fabric": "acid-wash-denim",
+      "image": "/assets/fashion-series/previews/pieces/frequency-denim-bolero.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-denim-bolero/colour-front.png"
+    },
+    {
+      "id": "frequency-lilac-tank",
+      "nameZh": "丁香荧边短背心",
+      "nameEn": "Frequency lilac tank",
+      "slot": "top",
+      "fabric": "compact-cotton-jersey",
+      "image": "/assets/fashion-series/previews/pieces/frequency-lilac-tank.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lilac-tank/colour-front.png"
+    },
+    {
+      "id": "frequency-lowrise-flares",
+      "nameZh": "低腰双片牛仔喇叭裤",
+      "nameEn": "Frequency lowrise flares",
+      "slot": "bottom",
+      "fabric": "acid-wash-denim",
+      "image": "/assets/fashion-series/previews/pieces/frequency-lowrise-flares.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lowrise-flares/colour-front.png"
+    },
+    {
+      "id": "frequency-silver-earcuffs",
+      "nameZh": "银色折线耳骨夹",
+      "nameEn": "Frequency silver earcuffs",
+      "slot": "earrings",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/frequency-silver-earcuffs.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-silver-earcuffs/colour-front.png"
+    },
+    {
+      "id": "echo-asymmetric-dress",
+      "nameZh": "丁香非对称流动裙",
+      "nameEn": "Echo asymmetric dress",
+      "slot": "dress",
+      "fabric": "jersey-and-sheer-chiffon",
+      "image": "/assets/fashion-series/previews/pieces/echo-asymmetric-dress.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-asymmetric-dress/colour-front.png"
+    },
+    {
+      "id": "echo-blue-armwarmer",
+      "nameZh": "冰蓝镂空袖套",
+      "nameEn": "Echo blue armwarmer",
+      "slot": "arm-accessory",
+      "fabric": "openwork-knit",
+      "image": "/assets/fashion-series/previews/pieces/echo-blue-armwarmer.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-blue-armwarmer/colour-front.png"
+    },
+    {
+      "id": "echo-hair-crescents",
+      "nameZh": "银色双弧发夹",
+      "nameEn": "Echo hair crescents",
+      "slot": "hair-accessory",
+      "fabric": "silver",
+      "image": "/assets/fashion-series/previews/pieces/echo-hair-crescents.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-hair-crescents/colour-front.png"
+    },
+    {
+      "id": "echo-platform-toes",
+      "nameZh": "丁香银带厚底鞋头",
+      "nameEn": "Echo platform toes",
+      "slot": "shoes",
+      "fabric": "metallic-lilac-leather",
+      "image": "/assets/fashion-series/previews/pieces/echo-platform-toes.webp",
+      "seriesIds": [
+        "S04"
+      ],
+      "cardIds": [
+        "S04-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-platform-toes/colour-front.png"
+    },
+    {
+      "id": "mob-black-creased-trousers",
+      "nameZh": "黑色窄直礼服裤",
+      "nameEn": "Mob black creased trousers",
+      "slot": "bottom",
+      "fabric": "wool-gabardine",
+      "image": "/assets/fashion-series/previews/pieces/mob-black-creased-trousers.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-creased-trousers/colour-front.png"
+    },
+    {
+      "id": "mob-black-doublebreast-vest",
+      "nameZh": "黑缎领双排扣马甲",
+      "nameEn": "Mob black doublebreast vest",
+      "slot": "outerwear",
+      "fabric": "wool-and-satin",
+      "image": "/assets/fashion-series/previews/pieces/mob-black-doublebreast-vest.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-doublebreast-vest/colour-front.png"
+    },
+    {
+      "id": "mob-black-opera-gloves",
+      "nameZh": "黑绒长手套",
+      "nameEn": "Mob black opera gloves",
+      "slot": "gloves",
+      "fabric": "velvet",
+      "image": "/assets/fashion-series/previews/pieces/mob-black-opera-gloves.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01",
+        "S01-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-opera-gloves/colour-front.png"
+    },
+    {
+      "id": "mob-espresso-faux-fur-cape",
+      "nameZh": "浓咖仿皮草短披",
+      "nameEn": "Mob espresso faux fur cape",
+      "slot": "outerwear",
+      "fabric": "faux-fur",
+      "image": "/assets/fashion-series/previews/pieces/mob-espresso-faux-fur-cape.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-espresso-faux-fur-cape/colour-front.png"
+    },
+    {
+      "id": "mob-opaque-lace-shell",
+      "nameZh": "黑色不透蕾纹内搭",
+      "nameEn": "Mob opaque lace shell",
+      "slot": "top",
+      "fabric": "opaque-lace-pattern-knit",
+      "image": "/assets/fashion-series/previews/pieces/mob-opaque-lace-shell.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-opaque-lace-shell/colour-front.png"
+    },
+    {
+      "id": "mob-wide-square-earrings",
+      "nameZh": "古金宽方耳饰",
+      "nameEn": "Mob wide square earrings",
+      "slot": "earrings",
+      "fabric": "antique-gold",
+      "image": "/assets/fashion-series/previews/pieces/mob-wide-square-earrings.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F01",
+        "S01-F02",
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-wide-square-earrings/colour-front.png"
+    },
+    {
+      "id": "mob-black-satin-shawl",
+      "nameZh": "黑缎低披肩前片",
+      "nameEn": "Mob black satin shawl",
+      "slot": "shoulder-accessory",
+      "fabric": "satin",
+      "image": "/assets/fashion-series/previews/pieces/mob-black-satin-shawl.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-satin-shawl/colour-front.png"
+    },
+    {
+      "id": "mob-oxblood-bias-dress",
+      "nameZh": "石榴单肩斜裁长裙",
+      "nameEn": "Mob oxblood bias dress",
+      "slot": "dress",
+      "fabric": "bias-silk",
+      "image": "/assets/fashion-series/previews/pieces/mob-oxblood-bias-dress.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-bias-dress/colour-front.png"
+    },
+    {
+      "id": "mob-oxblood-hourglass-jacket",
+      "nameZh": "酒红锐肩收腰外套",
+      "nameEn": "Mob oxblood hourglass jacket",
+      "slot": "outerwear",
+      "fabric": "structured-wool",
+      "image": "/assets/fashion-series/previews/pieces/mob-oxblood-hourglass-jacket.webp",
+      "seriesIds": [
+        "S01"
+      ],
+      "cardIds": [
+        "S01-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-hourglass-jacket/colour-front.png"
+    },
+    {
+      "id": "indie-black-zip-trousers",
+      "nameZh": "黑色拉链窄裤",
+      "nameEn": "Indie black zip trousers",
+      "slot": "bottom",
+      "fabric": "stretch-cotton-twill",
+      "image": "/assets/fashion-series/previews/pieces/indie-black-zip-trousers.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-zip-trousers/colour-front.png"
+    },
+    {
+      "id": "indie-charcoal-long-blazer",
+      "nameZh": "窄肩炭黑长西装",
+      "nameEn": "Indie charcoal long blazer",
+      "slot": "outerwear",
+      "fabric": "fine-charcoal-wool",
+      "image": "/assets/fashion-series/previews/pieces/indie-charcoal-long-blazer.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-charcoal-long-blazer/colour-front.png"
+    },
+    {
+      "id": "indie-chelsea-boot-fronts",
+      "nameZh": "旧黑切尔西短靴前片",
+      "nameEn": "Indie chelsea boot fronts",
+      "slot": "shoes",
+      "fabric": "worn-leather",
+      "image": "/assets/fashion-series/previews/pieces/indie-chelsea-boot-fronts.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01",
+        "S02-F02",
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-chelsea-boot-fronts/colour-front.png"
+    },
+    {
+      "id": "indie-ivory-crew-tee",
+      "nameZh": "素象牙贴身T恤",
+      "nameEn": "Indie ivory crew tee",
+      "slot": "top",
+      "fabric": "fine-cotton-jersey",
+      "image": "/assets/fashion-series/previews/pieces/indie-ivory-crew-tee.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-crew-tee/colour-front.png"
+    },
+    {
+      "id": "indie-ivory-cuff-fronts",
+      "nameZh": "象牙长袖口前片",
+      "nameEn": "Indie ivory cuff fronts",
+      "slot": "arm-accessory",
+      "fabric": "cotton-poplin",
+      "image": "/assets/fashion-series/previews/pieces/indie-ivory-cuff-fronts.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-cuff-fronts/colour-front.png"
+    },
+    {
+      "id": "indie-skinny-scarf",
+      "nameZh": "黑色细长围巾前片",
+      "nameEn": "Indie skinny scarf",
+      "slot": "neck-accessory",
+      "fabric": "silk",
+      "image": "/assets/fashion-series/previews/pieces/indie-skinny-scarf.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-skinny-scarf/colour-front.png"
+    },
+    {
+      "id": "indie-black-wrist-cuff",
+      "nameZh": "旧黑双扣腕带",
+      "nameEn": "Indie black wrist cuff",
+      "slot": "bracelet",
+      "fabric": "worn-leather",
+      "image": "/assets/fashion-series/previews/pieces/indie-black-wrist-cuff.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-wrist-cuff/colour-front.png"
+    },
+    {
+      "id": "indie-silver-sequin-skirt",
+      "nameZh": "细银片斜扣短裙",
+      "nameEn": "Indie silver sequin skirt",
+      "slot": "bottom",
+      "fabric": "micro-sequins",
+      "image": "/assets/fashion-series/previews/pieces/indie-silver-sequin-skirt.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-silver-sequin-skirt/colour-front.png"
+    },
+    {
+      "id": "indie-washed-charcoal-tee",
+      "nameZh": "水洗炭灰宽T恤",
+      "nameEn": "Indie washed charcoal tee",
+      "slot": "top",
+      "fabric": "washed-cotton-jersey",
+      "image": "/assets/fashion-series/previews/pieces/indie-washed-charcoal-tee.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-washed-charcoal-tee/colour-front.png"
+    },
+    {
+      "id": "indie-black-leather-bomber",
+      "nameZh": "洗旧皮飞行夹克",
+      "nameEn": "Indie black leather bomber",
+      "slot": "outerwear",
+      "fabric": "washed-leather-shearling",
+      "image": "/assets/fashion-series/previews/pieces/indie-black-leather-bomber.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-leather-bomber/colour-front.png"
+    },
+    {
+      "id": "indie-cobalt-velvet-wrap-skirt",
+      "nameZh": "钴黑系结绒面短裙",
+      "nameEn": "Indie cobalt velvet wrap skirt",
+      "slot": "bottom",
+      "fabric": "velvet",
+      "image": "/assets/fashion-series/previews/pieces/indie-cobalt-velvet-wrap-skirt.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-cobalt-velvet-wrap-skirt/colour-front.png"
+    },
+    {
+      "id": "indie-long-rib-tank",
+      "nameZh": "象牙长罗纹背心",
+      "nameEn": "Indie long rib tank",
+      "slot": "top",
+      "fabric": "fine-rib-knit",
+      "image": "/assets/fashion-series/previews/pieces/indie-long-rib-tank.webp",
+      "seriesIds": [
+        "S02"
+      ],
+      "cardIds": [
+        "S02-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-long-rib-tank/colour-front.png"
+    },
+    {
+      "id": "blokette-blue-bias-skirt",
+      "nameZh": "雾蓝斜裁缎裙",
+      "nameEn": "Blokette blue bias skirt",
+      "slot": "bottom",
+      "fabric": "bias-satin",
+      "image": "/assets/fashion-series/previews/pieces/blokette-blue-bias-skirt.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-blue-bias-skirt/colour-front.png"
+    },
+    {
+      "id": "blokette-burgundy-jersey",
+      "nameZh": "酒红弧线宽球衣",
+      "nameEn": "Blokette burgundy jersey",
+      "slot": "top",
+      "fabric": "jacquard-sport-jersey",
+      "image": "/assets/fashion-series/previews/pieces/blokette-burgundy-jersey.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F01"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-burgundy-jersey/colour-front.png"
+    },
+    {
+      "id": "blokette-ivory-ribbon-clips",
+      "nameZh": "象牙几何结发夹",
+      "nameEn": "Blokette ivory ribbon clips",
+      "slot": "hair-accessory",
+      "fabric": "grosgrain-ribbon",
+      "image": "/assets/fashion-series/previews/pieces/blokette-ivory-ribbon-clips.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F01",
+        "S03-F02",
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-ribbon-clips/colour-front.png"
+    },
+    {
+      "id": "blokette-jacquard-skipper",
+      "nameZh": "疏格针织短Polo",
+      "nameEn": "Blokette jacquard skipper",
+      "slot": "top",
+      "fabric": "cotton-jacquard-knit",
+      "image": "/assets/fashion-series/previews/pieces/blokette-jacquard-skipper.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F02"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-jacquard-skipper/colour-front.png"
+    },
+    {
+      "id": "blokette-cream-knee-socks",
+      "nameZh": "奶油色块长袜",
+      "nameEn": "Blokette cream knee socks",
+      "slot": "socks",
+      "fabric": "cotton-rib-knit",
+      "image": "/assets/fashion-series/previews/pieces/blokette-cream-knee-socks.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-cream-knee-socks/colour-front.png"
+    },
+    {
+      "id": "blokette-ivory-nylon-longcoat",
+      "nameZh": "米白轻尼龙长外层",
+      "nameEn": "Blokette ivory nylon longcoat",
+      "slot": "outerwear",
+      "fabric": "translucent-nylon",
+      "image": "/assets/fashion-series/previews/pieces/blokette-ivory-nylon-longcoat.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-nylon-longcoat/colour-front.png"
+    },
+    {
+      "id": "blokette-sky-broad-jersey",
+      "nameZh": "雾蓝宽肩球衣",
+      "nameEn": "Blokette sky broad jersey",
+      "slot": "top",
+      "fabric": "technical-jersey",
+      "image": "/assets/fashion-series/previews/pieces/blokette-sky-broad-jersey.webp",
+      "seriesIds": [
+        "S03"
+      ],
+      "cardIds": [
+        "S03-F03"
+      ],
+      "status": "art_ready",
+      "wearable": false,
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-sky-broad-jersey/colour-front.png"
+    }
+  ]
+}

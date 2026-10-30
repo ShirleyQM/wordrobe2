@@ -1,0 +1,62 @@
+/* Finished work first, inside the existing mobile wardrobe and learning shells. */
+.mobile-app .main-tabs{padding-top:0;padding-bottom:0;min-height:44px}
+.mobile-app .main-tabs button{min-height:44px;min-width:44px;padding:8px 3px}
+.mobile-app.cards-open .stage{display:none!important}
+.mobile-app.cards-open .closet{flex:1 1 0;min-height:0;height:auto!important;border-radius:0;box-shadow:none;overflow:hidden}
+.mobile-app.cards-open .main-tabs{flex:0 0 auto}
+.mobile-app.cards-open #drawer-handle,.mobile-app.cards-open #atelier-actions{display:none!important}
+.mobile-app.cards-open #save-look,.mobile-app.cards-open #face-motion-toggle{display:none!important}
+.mobile-app.cards-open #items{flex:1 1 0;min-height:0;overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain}
+.collection-panel{padding:4px 0 24px}
+.collection-panel .collection-roadmap-link{min-height:44px;min-width:100px;font-size:11px;color:#817783;text-align:right;padding:6px 0}
+.collection-filters{gap:10px;justify-content:space-between;flex-wrap:wrap;top:0;padding:2px 0 8px;background:#f8f6f3}
+.collection-filters button{min-height:44px;min-width:44px;font-size:12px}
+.collection-series{margin:16px 0 28px}
+.collection-series-heading{display:flex;flex-direction:column;gap:3px;margin-bottom:10px}
+.collection-series-heading h3{font-size:16px;font-weight:500;margin:0}
+.collection-series-heading small,.collection-card-origin,.collection-waiting,.collection-design-source{color:#817783;font-size:11px;line-height:1.6}
+.collection-card-origin{margin:6px 0 12px}
+.collection-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px 9px}
+.collection-card{padding:0!important}
+.collection-card .collection-art-single{aspect-ratio:1/2;object-fit:cover;border-radius:5px}
+.collection-card strong{font-size:12px;line-height:1.5;overflow-wrap:anywhere}
+.collection-card small{font-size:10px;color:#817783;overflow-wrap:anywhere}
+.collection-scope{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:12px}
+.collection-scope button,.collection-panel [data-card-back],.collection-panel [data-card-clear]{min-height:44px;padding:8px!important}
+.collection-pending{border-top:1px solid #ded7d2;margin-top:24px}
+.collection-pending>summary{min-height:56px;cursor:pointer;padding:13px 0;line-height:1.6;font-size:13px}
+.collection-pending>summary small{display:block;margin-left:17px;color:#817783;font-size:11px}
+.collection-pending-list{display:flex;flex-direction:column;gap:4px;padding-top:6px}
+.collection-pending-list>button{display:flex;align-items:center;gap:12px;text-align:left;min-height:70px;width:100%;padding:6px 0!important;border-bottom:1px solid #e6e0dc}
+.collection-pending-list img{width:30px;height:60px;object-fit:cover;border-radius:3px;flex:none}
+.collection-pending-list>button>span:nth-child(2){flex:1;min-width:0}
+.collection-pending-list strong,.collection-pending-list small{display:block;font-weight:400;line-height:1.7;overflow-wrap:anywhere}
+.collection-pending-list small{font-size:11px;color:#817783}
+.collection-panel>.collection-art-single{max-width:210px;max-height:380px;object-fit:contain}
+.collection-garments{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 8px}
+.collection-garments button{width:100%;min-width:0;text-align:left;padding:5px 0!important}
+.collection-garments button:disabled{opacity:1;cursor:default}
+.collection-garments img{width:100%;height:95px;object-fit:contain}
+.collection-garments span{font-size:11px;line-height:1.55;overflow-wrap:anywhere}
+.collection-garments small{font-size:10px;color:#817783;line-height:1.55;margin-top:4px}
+.collection-panel [data-card-study],.collection-panel [data-card-redeem]{min-height:44px;width:100%;margin-top:18px}
+.card-product-wrap>.card-garment-link{min-height:28px;line-height:1.5;padding:4px 0;overflow-wrap:anywhere}
+.card-product-wrap{display:flex;flex-direction:column}
+.card-product-wrap>.item{height:auto;flex:1 1 auto}
+.card-product-wrap>.card-garment-link{min-height:44px;flex:0 0 auto}
+.collection-empty{padding:24px 0;line-height:1.8;color:#817783}
+.native-series-intro{margin:4px 0 14px;color:#817783;font-size:12px;line-height:1.8}
+.native-y2k .native-tools{margin:8px 0 14px}
+.native-y2k .native-tools{flex-wrap:wrap}
+.native-y2k .native-tools button{min-height:44px;padding:8px 14px}
+.native-y2k .level-list button>span:nth-child(2){min-width:0}
+.native-y2k .level-list button small{display:block;color:#817783;font-size:11px;margin-top:3px}
+.native-y2k .level-list strong{line-height:1.6;overflow-wrap:anywhere}
+.native-course-list,.native-upcoming{margin-top:22px;border-top:1px solid #ded7d2}
+.native-course-list>summary,.native-upcoming>summary{min-height:52px;padding:14px 0;font-size:13px;line-height:1.7;cursor:pointer}
+.native-upcoming>p{font-size:12px;color:#817783;line-height:1.8}
+.native-series-row{width:100%;min-height:52px;text-align:left;display:flex;gap:12px;align-items:center;justify-content:space-between;padding:10px 0;border:0;border-bottom:1px solid #e6e0dc;background:none;color:inherit}
+.native-series-row span{min-width:0;font-size:13px}
+.native-series-row small{display:block;color:#817783;font-size:11px;line-height:1.7}
+@media(max-width:360px){.collection-grid{gap:12px 7px}.collection-card strong{font-size:11px}.collection-filters{gap:4px}.collection-filters button{font-size:11px}.collection-garments img{height:80px}}
+@media(prefers-reduced-motion:reduce){.collection-panel *{scroll-behavior:auto!important}}
