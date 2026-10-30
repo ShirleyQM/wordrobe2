@@ -1,1 +1,245 @@
-{"version":1,"cards":{}}
+{
+  "version": 1,
+  "cards": {
+    "S01-F01": [
+      "colour-jade-pointed-flats",
+      "colour-coral-gold-cuff"
+    ],
+    "S01-F02": [
+      "colour-jade-pointed-flats"
+    ],
+    "S01-F03": [
+      "colour-ivory-shell",
+      "colour-riding-black-wrap-skirt",
+      "colour-riding-black-tights",
+      "colour-riding-black-boot-fronts",
+      "colour-coral-gold-cuff"
+    ],
+    "S02-F01": [
+      "colour-tennis-silver-studs"
+    ],
+    "S02-F02": [
+      "colour-riding-black-tights"
+    ],
+    "S02-F03": [
+      "colour-riding-black-tights",
+      "colour-tennis-silver-studs"
+    ],
+    "S03-F01": [
+      "colour-tennis-white-toe"
+    ],
+    "S03-F02": [
+      "colour-city-navy-canvas-toe",
+      "colour-ivory-wide-trousers"
+    ],
+    "S03-F03": [
+      "colour-city-black-sneaker-toe",
+      "colour-tennis-navy-skort-front"
+    ],
+    "S04-F01": [
+      "colour-orbit-blue-capelet",
+      "colour-orbit-geometric-dress",
+      "colour-orbit-rectangular-earrings",
+      "colour-orbit-silver-boot-fronts",
+      "colour-sky-metal-barrette"
+    ],
+    "S04-F02": [
+      "colour-frequency-chunky-toes",
+      "colour-frequency-denim-bolero",
+      "colour-frequency-lilac-tank",
+      "colour-frequency-lowrise-flares",
+      "colour-frequency-silver-earcuffs"
+    ],
+    "S04-F03": [
+      "colour-echo-asymmetric-dress",
+      "colour-echo-blue-armwarmer",
+      "colour-echo-hair-crescents",
+      "colour-echo-platform-toes"
+    ],
+    "S05-F01": [],
+    "S05-F02": [],
+    "S05-F03": [],
+    "S06-F01": [],
+    "S06-F02": [],
+    "S06-F03": [],
+    "S07-F01": [],
+    "S07-F02": [],
+    "S07-F03": [],
+    "S08-F01": [],
+    "S08-F02": [],
+    "S08-F03": [],
+    "S09-F01": [],
+    "S09-F02": [],
+    "S09-F03": [],
+    "S10-F01": [],
+    "S10-F02": [],
+    "S10-F03": [],
+    "S11-F01": [
+      "colour-lemon-bay-dress",
+      "colour-white-front-sandals",
+      "colour-lemon-bay-pearl-earrings",
+      "colour-lemon-bay-gold-cuff"
+    ],
+    "S11-F02": [
+      "colour-vermilion-shirt-dress",
+      "colour-cream-sash",
+      "colour-olive-front-sandals",
+      "colour-vermilion-pearl-earrings"
+    ],
+    "S11-F03": [
+      "colour-honey-long-vest",
+      "colour-ivory-ribbed-top",
+      "colour-navy-tailored-shorts",
+      "colour-honey-woven-loafers",
+      "colour-honey-gold-hoops",
+      "colour-honey-chain-bracelet",
+      "colour-honey-braid-cuffs"
+    ],
+    "S12-F01": [],
+    "S12-F02": [],
+    "S12-F03": [],
+    "S13-F01": [],
+    "S13-F02": [],
+    "S13-F03": [],
+    "S14-F01": [],
+    "S14-F02": [],
+    "S14-F03": [],
+    "S15-F01": [
+      "colour-riding-black-boot-fronts",
+      "colour-riding-black-wrap-skirt",
+      "colour-riding-burgundy-leather-jacket",
+      "colour-riding-butter-knit",
+      "colour-riding-gold-studs"
+    ],
+    "S15-F02": [
+      "colour-riding-cream-waistcoat",
+      "colour-riding-navy-breeches",
+      "colour-riding-navy-poplin-shirt",
+      "colour-riding-black-boot-fronts",
+      "colour-riding-gold-studs"
+    ],
+    "S15-F03": [
+      "colour-riding-black-tights",
+      "colour-riding-oat-corduroy-culottes",
+      "colour-riding-silver-pin",
+      "colour-riding-teal-cape-coat",
+      "colour-riding-black-boot-fronts"
+    ],
+    "S16-F01": [],
+    "S16-F02": [],
+    "S16-F03": [],
+    "S17-F01": [],
+    "S17-F02": [],
+    "S17-F03": [],
+    "S18-F01": [],
+    "S18-F02": [],
+    "S18-F03": [],
+    "S19-F01": [],
+    "S19-F02": [],
+    "S19-F03": [],
+    "S20-F01": [
+      "colour-city-coral-waist-shirt",
+      "colour-city-navy-canvas-toe",
+      "colour-city-silver-disc-earrings",
+      "colour-city-striped-top",
+      "colour-ivory-wide-trousers"
+    ],
+    "S20-F02": [
+      "colour-city-blue-pleated-jumpsuit",
+      "colour-city-pink-earrings",
+      "colour-city-pink-fold-jacket",
+      "colour-city-silver-square-toe"
+    ],
+    "S20-F03": [
+      "colour-city-black-gold-earrings",
+      "colour-city-black-sneaker-toe",
+      "colour-city-mustard-track-dress",
+      "colour-city-white-nylon-jacket"
+    ],
+    "S21-F01": [],
+    "S21-F02": [],
+    "S21-F03": [],
+    "S22-F01": [
+      "colour-tennis-front-pleat-panel",
+      "colour-tennis-green-coat",
+      "colour-tennis-green-trousers",
+      "colour-tennis-ivory-polo",
+      "colour-tennis-white-toe"
+    ],
+    "S22-F02": [
+      "colour-tennis-apricot-polo",
+      "colour-tennis-navy-skort-front",
+      "colour-tennis-silver-studs",
+      "colour-tennis-stripe-socks",
+      "colour-tennis-white-toe"
+    ],
+    "S22-F03": [
+      "colour-tennis-burgundy-shoulder-knit",
+      "colour-tennis-lilac-cardigan",
+      "colour-tennis-pearl-studs",
+      "colour-tennis-wrap-shorts",
+      "colour-tennis-white-toe",
+      "colour-tennis-ivory-polo"
+    ],
+    "S23-F01": [],
+    "S23-F02": [],
+    "S23-F03": [],
+    "S24-F01": [],
+    "S24-F02": [],
+    "S24-F03": [],
+    "S25-F01": [],
+    "S25-F02": [],
+    "S25-F03": [],
+    "S26-F01": [
+      "colour-flax-woven-sandals",
+      "colour-sky-earrings",
+      "colour-sky-linen-tunic",
+      "colour-sky-metal-barrette",
+      "colour-white-barrel-trousers"
+    ],
+    "S26-F02": [
+      "colour-cream-rib-skirt",
+      "colour-navy-cocoon-cardigan",
+      "colour-navy-cuff",
+      "colour-navy-earrings",
+      "colour-navy-mules",
+      "colour-rust-wrap-sash"
+    ],
+    "S26-F03": [
+      "colour-ceramic-earrings",
+      "colour-coral-gold-cuff",
+      "colour-coral-linen-dress",
+      "colour-ivory-espadrilles"
+    ],
+    "S27-F01": [],
+    "S27-F02": [],
+    "S27-F03": [],
+    "S28-F01": [
+      "colour-jade-cuff",
+      "colour-jade-earrings",
+      "colour-jade-pointed-flats",
+      "colour-jade-qipao"
+    ],
+    "S28-F02": [
+      "colour-black-sculptural-loafers",
+      "colour-ivory-shell",
+      "colour-ivory-wide-trousers",
+      "colour-vermilion-cutwork-jacket",
+      "colour-vermilion-earrings"
+    ],
+    "S28-F03": [
+      "colour-ivory-slim-trousers",
+      "colour-slate-earrings",
+      "colour-slate-hairpin",
+      "colour-slate-wrap-coat",
+      "colour-umber-square-shoes"
+    ],
+    "S29-F01": [],
+    "S29-F02": [],
+    "S29-F03": [],
+    "S30-F01": [],
+    "S30-F02": [],
+    "S30-F03": []
+  },
+  "sourceCommit": "6433994ddcc43d2d8e0e46a7d550edee1bda7ab6"
+}

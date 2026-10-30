@@ -60,3 +60,4 @@
 .native-series-row small{display:block;color:#817783;font-size:11px;line-height:1.7}
 @media(max-width:360px){.collection-grid{gap:12px 7px}.collection-card strong{font-size:11px}.collection-filters{gap:4px}.collection-filters button{font-size:11px}.collection-garments img{height:80px}}
 @media(prefers-reduced-motion:reduce){.collection-panel *{scroll-behavior:auto!important}}
+

@@ -18,6 +18,12 @@ window.CharacterPortraits=(()=>{
 
  versions.push(...[['pure-black','清纯·黑瞳'],['pure-brown','清纯·棕瞳']].map(([id,name])=>({id,name,fullHead:true,neckless:true,assets:pureRoot+id+'/',headImage:pureRoot+id+'/head-canvas.png',thumbnail:pureRoot+id+'/head-hd.png',body:pureRoot+id+'/body-0-0.png'})));
 
+ const distinctRoot='/assets/materials/characters/face-distinct-v9/';
+ versions.push(...[['puppy-soft-round','小狗眼·软圆脸'],['puppy-warm-heart','小狗眼·甜心脸'],['goddess-cool-defined','清冷女神·疏朗骨相']].map(([id,name])=>({id,name,fullHead:true,neckless:true,assets:distinctRoot+id+'/',headImage:distinctRoot+id+'/head-canvas.png',thumbnail:distinctRoot+id+'/head-hd.png',body:distinctRoot+id+'/body-0-0.png'})));
+ const beautyRoot='/assets/materials/characters/face-beauty-v10/';
+ versions.push(...[['beauty-puppy','温柔·水杏小狗眼'],['beauty-goddess','清冷·玉颜女神'],['beauty-radiant','明艳·桃花甜心']].map(([id,name])=>({id,name,fullHead:true,neckless:true,assets:beautyRoot+id+'/',headImage:beautyRoot+id+'/head-canvas.png',thumbnail:beautyRoot+id+'/head-hd.png',body:beautyRoot+id+'/body-0-0.png'})));
+ const relaxedRoot='/assets/materials/characters/face-relaxed-v11/';
+ versions.push({id:'relaxed-y2k',name:'Y2K·松弛小眼',fullHead:true,neckless:true,assets:relaxedRoot+'relaxed-y2k/',headImage:relaxedRoot+'relaxed-y2k/head-canvas.png',thumbnail:relaxedRoot+'relaxed-y2k/head-hd.png',body:relaxedRoot+'relaxed-y2k/body-0-0.png'});
  const realRoot='/assets/materials/characters/face-realistic-v3/';
 
  versions.push(...[['real-natural','写实·清秀圆颌'],['real-warm','写实·柔和雀斑'],['real-defined','写实·自然骨相']].map(([id,name])=>({id,name,fullHead:true,assets:realRoot+id+'/',thumbnail:realRoot+id+'/head-hd.png',body:realRoot+id+'/body-0-0.png'})));

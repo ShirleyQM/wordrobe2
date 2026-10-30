@@ -1,0 +1,34 @@
+{
+  "id": "socks-ribbed-crew",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "defaultColor": "#c8c6bd",
+  "referenceLuminance": 150,
+  "sourceSeparation": "Generated neutral gray material master deliberately for dynamic recolor, not grayscale conversion of colored artwork. Luminance calibrated into neutral shadow/highlight; high-frequency grain into texture. No separate authored ink; lineart intentionally empty, seam detail retained in tonal maps. Base-mask excludes fixed sole/trim.",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "empty": true
+    }
+  ],
+  "presets": "/assets/materials/sources/footwear-knit-20261024/material-presets.json",
+  "backLayers": false,
+  "cuffRepair": "Explicit 2.8px shallow concave front cut and front-edge cloth shadow. Existing true knit layers retained; no inner/rear piece. Original authored ink was empty and remains empty.",
+  "sourceResolution": "native 939x1676 original material layers; no synthetic HD upscale"
+}

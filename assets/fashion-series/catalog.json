@@ -488,8 +488,6 @@
       "seriesId": "S01",
       "titleZh": "鎏金主场",
       "title": "A Gilded Entrance",
-      "brand": "Dolce & Gabbana",
-      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
       "art": {
         "layout": "single",
         "url": "/assets/fashion-series/previews/cards/S01-F01.webp",
@@ -510,7 +508,24 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-jade-pointed-flats",
+          "name": "玉色折枝 · 尖头平底鞋",
+          "nameEn": "Jade Branches · Jade pointed flats",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-pointed-flats/front.png",
+          "slot": "shoes",
+          "pieceId": "jade-pointed-flats"
+        },
+        {
+          "id": "colour-coral-gold-cuff",
+          "name": "陶土风帆 · 浅金宽腕饰",
+          "nameEn": "Terracotta Sails · Coral gold cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-coral-gold-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "coral-gold-cuff"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -539,7 +554,16 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-jade-pointed-flats",
+          "name": "玉色折枝 · 尖头平底鞋",
+          "nameEn": "Jade Branches · Jade pointed flats",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-pointed-flats/front.png",
+          "slot": "shoes",
+          "pieceId": "jade-pointed-flats"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -549,8 +573,6 @@
       "seriesId": "S01",
       "titleZh": "锋芒入席",
       "title": "An Entrance with an Edge",
-      "brand": "Versace",
-      "sourceUrl": "https://www.versace.com/us/en/stories/fashion-shows/fw-2024-fashion-show.html",
       "art": {
         "layout": "single",
         "url": "/assets/fashion-series/previews/cards/S01-F03.webp",
@@ -570,7 +592,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-ivory-shell",
+          "name": "朱红折领 · 象牙短内搭",
+          "nameEn": "Vermilion Folds · Shell",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-shell/front.png",
+          "slot": "top",
+          "pieceId": "ivory-shell"
+        },
+        {
+          "id": "colour-riding-black-wrap-skirt",
+          "name": "栗色缰线 · 骑褶裹裙",
+          "nameEn": "Chestnut Reins · Riding black wrap skirt",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-wrap-skirt/front.png",
+          "slot": "bottom",
+          "pieceId": "riding-black-wrap-skirt"
+        },
+        {
+          "id": "colour-riding-black-tights",
+          "name": "绿松石的风 · 不透连裤袜",
+          "nameEn": "A Teal Wind · Riding black tights",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-tights/front.png",
+          "slot": "socks",
+          "pieceId": "riding-black-tights"
+        },
+        {
+          "id": "colour-riding-black-boot-fronts",
+          "name": "栗色缰线 · 骑靴正面",
+          "nameEn": "Chestnut Reins · Riding black boot fronts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-boot-fronts/front.png",
+          "slot": "shoes",
+          "pieceId": "riding-black-boot-fronts"
+        },
+        {
+          "id": "colour-coral-gold-cuff",
+          "name": "陶土风帆 · 浅金宽腕饰",
+          "nameEn": "Terracotta Sails · Coral gold cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-coral-gold-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "coral-gold-cuff"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -580,8 +643,6 @@
       "seriesId": "S02",
       "titleZh": "最后一首安可",
       "title": "One Last Encore",
-      "brand": "Dior Homme / Hedi Slimane",
-      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
       "art": {
         "layout": "single",
         "url": "/assets/fashion-series/previews/cards/S02-F01.webp",
@@ -601,7 +662,16 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-tennis-silver-studs",
+          "name": "橘色抢七 · 球场银色耳钉",
+          "nameEn": "Orange Tie-Break · Tennis silver studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-silver-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "tennis-silver-studs"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -630,7 +700,16 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-riding-black-tights",
+          "name": "绿松石的风 · 不透连裤袜",
+          "nameEn": "A Teal Wind · Riding black tights",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-tights/front.png",
+          "slot": "socks",
+          "pieceId": "riding-black-tights"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -660,7 +739,24 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-riding-black-tights",
+          "name": "绿松石的风 · 不透连裤袜",
+          "nameEn": "A Teal Wind · Riding black tights",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-tights/front.png",
+          "slot": "socks",
+          "pieceId": "riding-black-tights"
+        },
+        {
+          "id": "colour-tennis-silver-studs",
+          "name": "橘色抢七 · 球场银色耳钉",
+          "nameEn": "Orange Tie-Break · Tennis silver studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-silver-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "tennis-silver-studs"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -670,8 +766,6 @@
       "seriesId": "S03",
       "titleZh": "看台上的缎光",
       "title": "Satin in the Stands",
-      "brand": "adidas Originals",
-      "sourceUrl": "https://www.adidas.com.eg/en/jersey-ss/KC0127.html",
       "art": {
         "layout": "single",
         "url": "/assets/fashion-series/previews/cards/S03-F01.webp",
@@ -688,7 +782,16 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-tennis-white-toe",
+          "name": "常青边线 · 球鞋鞋头",
+          "nameEn": "The Evergreen Line · Tennis white toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-white-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "tennis-white-toe"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -716,7 +819,24 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-city-navy-canvas-toe",
+          "name": "珊瑚唱片 · 帆布鞋头",
+          "nameEn": "Coral Records · City navy canvas toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-navy-canvas-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "city-navy-canvas-toe"
+        },
+        {
+          "id": "colour-ivory-wide-trousers",
+          "name": "朱红折领 · 象牙阔腿裤",
+          "nameEn": "Vermilion Folds · Wide trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-wide-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "ivory-wide-trousers"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -746,7 +866,24 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-city-black-sneaker-toe",
+          "name": "黄昏高频 · 运动鞋头",
+          "nameEn": "Sunset Frequency · City black sneaker toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-black-sneaker-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "city-black-sneaker-toe"
+        },
+        {
+          "id": "colour-tennis-navy-skort-front",
+          "name": "橘色抢七 · 百褶裙",
+          "nameEn": "Orange Tie-Break · Tennis navy skort front",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-navy-skort-front/front.png",
+          "slot": "bottom",
+          "pieceId": "tennis-navy-skort-front"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -775,7 +912,48 @@
       "lessonId": "y2k-l2",
       "lessonReady": true,
       "unlockLevel": 2,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-orbit-blue-capelet",
+          "name": "轨道静默 · 透明肩罩",
+          "nameEn": "Orbital Silence · Translucent Capelet",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-orbit-blue-capelet/front.png",
+          "slot": "coat",
+          "pieceId": "orbit-blue-capelet"
+        },
+        {
+          "id": "colour-orbit-geometric-dress",
+          "name": "轨道静默 · 立领几何短裙",
+          "nameEn": "Orbital Silence · Geometric Halterneck Mini Dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-orbit-geometric-dress/front.png",
+          "slot": "dress",
+          "pieceId": "orbit-geometric-dress"
+        },
+        {
+          "id": "colour-orbit-rectangular-earrings",
+          "name": "轨道静默 · 轨道银框耳饰",
+          "nameEn": "Orbital Silence · Orbit rectangular earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-orbit-rectangular-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "orbit-rectangular-earrings"
+        },
+        {
+          "id": "colour-orbit-silver-boot-fronts",
+          "name": "轨道静默 · 方头长靴",
+          "nameEn": "Orbital Silence · Square-Toe Knee Boots",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-orbit-silver-boot-fronts/front.png",
+          "slot": "shoes",
+          "pieceId": "orbit-silver-boot-fronts"
+        },
+        {
+          "id": "colour-sky-metal-barrette",
+          "name": "天蓝空隙 · 长辫发扣",
+          "nameEn": "Sky-Blue Space · Sky metal barrette",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-sky-metal-barrette/front.png",
+          "slot": "jewelry",
+          "pieceId": "sky-metal-barrette"
+        }
+      ],
       "tier": "ordinary",
       "price": 0,
       "status": "lesson_ready"
@@ -804,7 +982,48 @@
       "lessonId": "y2k-l4",
       "lessonReady": true,
       "unlockLevel": 4,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-frequency-chunky-toes",
+          "name": "失真频段 · 银黑方头厚底鞋头",
+          "nameEn": "Distorted Frequency · Frequency chunky toes",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-frequency-chunky-toes/front.png",
+          "slot": "shoes",
+          "pieceId": "frequency-chunky-toes"
+        },
+        {
+          "id": "colour-frequency-denim-bolero",
+          "name": "失真频段 · 宽肩丹宁短夹克",
+          "nameEn": "Distorted Frequency · Broad-Shoulder Denim Bolero",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-frequency-denim-bolero/front.png",
+          "slot": "coat",
+          "pieceId": "frequency-denim-bolero"
+        },
+        {
+          "id": "colour-frequency-lilac-tank",
+          "name": "失真频段 · 撞边背心",
+          "nameEn": "Distorted Frequency · Contrast-Trim Tank",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-frequency-lilac-tank/front.png",
+          "slot": "top",
+          "pieceId": "frequency-lilac-tank"
+        },
+        {
+          "id": "colour-frequency-lowrise-flares",
+          "name": "失真频段 · 低腰喇叭牛仔裤",
+          "nameEn": "Distorted Frequency · Low-Rise Flared Jeans",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-frequency-lowrise-flares/front.png",
+          "slot": "bottom",
+          "pieceId": "frequency-lowrise-flares"
+        },
+        {
+          "id": "colour-frequency-silver-earcuffs",
+          "name": "失真频段 · 折线耳骨夹",
+          "nameEn": "Distorted Frequency · Frequency silver earcuffs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-frequency-silver-earcuffs/front.png",
+          "slot": "jewelry",
+          "pieceId": "frequency-silver-earcuffs"
+        }
+      ],
       "tier": "ordinary",
       "price": 0,
       "status": "lesson_ready"
@@ -832,7 +1051,40 @@
       "lessonId": "y2k-l6",
       "lessonReady": true,
       "unlockLevel": 6,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-echo-asymmetric-dress",
+          "name": "液态回声 · 不对称抽褶短裙",
+          "nameEn": "Liquid Echo · Asymmetric Ruched Mini Dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-echo-asymmetric-dress/front.png",
+          "slot": "dress",
+          "pieceId": "echo-asymmetric-dress"
+        },
+        {
+          "id": "colour-echo-blue-armwarmer",
+          "name": "液态回声 · 冰蓝镂空袖套",
+          "nameEn": "Liquid Echo · Echo blue armwarmer",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-echo-blue-armwarmer/front.png",
+          "slot": "jewelry",
+          "pieceId": "echo-blue-armwarmer"
+        },
+        {
+          "id": "colour-echo-hair-crescents",
+          "name": "液态回声 · 双弧发夹",
+          "nameEn": "Liquid Echo · Echo hair crescents",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-echo-hair-crescents/front.png",
+          "slot": "jewelry",
+          "pieceId": "echo-hair-crescents"
+        },
+        {
+          "id": "colour-echo-platform-toes",
+          "name": "液态回声 · 丁香银带厚底鞋头",
+          "nameEn": "Liquid Echo · Echo platform toes",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-echo-platform-toes/front.png",
+          "slot": "shoes",
+          "pieceId": "echo-platform-toes"
+        }
+      ],
       "tier": "ordinary",
       "price": 0,
       "status": "lesson_ready"
@@ -1274,7 +1526,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-lemon-bay-dress",
+          "name": "柠檬海湾 · 几何领长裙",
+          "nameEn": "Lemon Bay · Lemon bay dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-lemon-bay-dress/front.png",
+          "slot": "dress",
+          "pieceId": "lemon-bay-dress"
+        },
+        {
+          "id": "colour-white-front-sandals",
+          "name": "柠檬海湾 · 凉鞋",
+          "nameEn": "Lemon Bay · Front sandals",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-white-front-sandals/front.png",
+          "slot": "shoes",
+          "pieceId": "white-front-sandals"
+        },
+        {
+          "id": "colour-lemon-bay-pearl-earrings",
+          "name": "柠檬海湾 · 椭圆珍珠耳饰",
+          "nameEn": "Lemon Bay · Lemon bay pearl earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-lemon-bay-pearl-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "lemon-bay-pearl-earrings"
+        },
+        {
+          "id": "colour-lemon-bay-gold-cuff",
+          "name": "柠檬海湾 · 金色腕饰",
+          "nameEn": "Lemon Bay · Lemon bay gold cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-lemon-bay-gold-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "lemon-bay-gold-cuff"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1302,7 +1587,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-vermilion-shirt-dress",
+          "name": "朱砂午后 · 衬衫裙",
+          "nameEn": "Vermilion Afternoon · Vermilion shirt dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-vermilion-shirt-dress/front.png",
+          "slot": "dress",
+          "pieceId": "vermilion-shirt-dress"
+        },
+        {
+          "id": "colour-cream-sash",
+          "name": "朱砂午后 · 腰带",
+          "nameEn": "Vermilion Afternoon · Sash",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-cream-sash/front.png",
+          "slot": "jewelry",
+          "pieceId": "cream-sash"
+        },
+        {
+          "id": "colour-olive-front-sandals",
+          "name": "朱砂午后 · 凉鞋",
+          "nameEn": "Vermilion Afternoon · Front sandals",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-olive-front-sandals/front.png",
+          "slot": "shoes",
+          "pieceId": "olive-front-sandals"
+        },
+        {
+          "id": "colour-vermilion-pearl-earrings",
+          "name": "朱砂午后 · 长方珍珠耳饰",
+          "nameEn": "Vermilion Afternoon · Vermilion pearl earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-vermilion-pearl-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "vermilion-pearl-earrings"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1333,7 +1651,64 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-honey-long-vest",
+          "name": "蜂蜜色航线 · 长马甲",
+          "nameEn": "A Honey-Coloured Route · Long vest",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-honey-long-vest/front.png",
+          "slot": "coat",
+          "pieceId": "honey-long-vest"
+        },
+        {
+          "id": "colour-ivory-ribbed-top",
+          "name": "蜂蜜色航线 · 针织背心",
+          "nameEn": "A Honey-Coloured Route · Ribbed top",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-ribbed-top/front.png",
+          "slot": "top",
+          "pieceId": "ivory-ribbed-top"
+        },
+        {
+          "id": "colour-navy-tailored-shorts",
+          "name": "蜂蜜色航线 · 短裤",
+          "nameEn": "A Honey-Coloured Route · Tailored shorts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-navy-tailored-shorts/front.png",
+          "slot": "bottom",
+          "pieceId": "navy-tailored-shorts"
+        },
+        {
+          "id": "colour-honey-woven-loafers",
+          "name": "蜂蜜色航线 · 编织便鞋",
+          "nameEn": "A Honey-Coloured Route · Woven loafers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-honey-woven-loafers/front.png",
+          "slot": "shoes",
+          "pieceId": "honey-woven-loafers"
+        },
+        {
+          "id": "colour-honey-gold-hoops",
+          "name": "蜂蜜色航线 · 椭圆金耳环",
+          "nameEn": "A Honey-Coloured Route · Gold hoops",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-honey-gold-hoops/front.png",
+          "slot": "jewelry",
+          "pieceId": "honey-gold-hoops"
+        },
+        {
+          "id": "colour-honey-chain-bracelet",
+          "name": "蜂蜜色航线 · 链式手镯",
+          "nameEn": "A Honey-Coloured Route · Chain bracelet",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-honey-chain-bracelet/front.png",
+          "slot": "jewelry",
+          "pieceId": "honey-chain-bracelet"
+        },
+        {
+          "id": "colour-honey-braid-cuffs",
+          "name": "蜂蜜色航线 · 编发金扣",
+          "nameEn": "A Honey-Coloured Route · Braid cuffs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-honey-braid-cuffs/front.png",
+          "slot": "jewelry",
+          "pieceId": "honey-braid-cuffs"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1435,8 +1810,6 @@
       "seriesId": "S13",
       "titleZh": "钴蓝主光",
       "title": "Cobalt Key Light",
-      "brand": "Versace",
-      "sourceUrl": "https://www.vogue.com/fashion-shows/fall-1995-ready-to-wear/versace",
       "art": {
         "layout": "single",
         "url": "/assets/fashion-series/previews/cards/S13-F02.webp",
@@ -1569,7 +1942,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-riding-black-boot-fronts",
+          "name": "栗色缰线 · 骑靴正面",
+          "nameEn": "Chestnut Reins · Riding black boot fronts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-boot-fronts/front.png",
+          "slot": "shoes",
+          "pieceId": "riding-black-boot-fronts"
+        },
+        {
+          "id": "colour-riding-black-wrap-skirt",
+          "name": "栗色缰线 · 骑褶裹裙",
+          "nameEn": "Chestnut Reins · Riding black wrap skirt",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-wrap-skirt/front.png",
+          "slot": "bottom",
+          "pieceId": "riding-black-wrap-skirt"
+        },
+        {
+          "id": "colour-riding-burgundy-leather-jacket",
+          "name": "栗色缰线 · 栗酒红骑装皮衣",
+          "nameEn": "Chestnut Reins · Riding burgundy leather jacket",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-burgundy-leather-jacket/front.png",
+          "slot": "coat",
+          "pieceId": "riding-burgundy-leather-jacket"
+        },
+        {
+          "id": "colour-riding-butter-knit",
+          "name": "栗色缰线 · 奶油细针织内搭",
+          "nameEn": "Chestnut Reins · Riding butter knit",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-butter-knit/front.png",
+          "slot": "top",
+          "pieceId": "riding-butter-knit"
+        },
+        {
+          "id": "colour-riding-gold-studs",
+          "name": "栗色缰线 · 骑装金色耳钉",
+          "nameEn": "Chestnut Reins · Riding gold studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-gold-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "riding-gold-studs"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1598,7 +2012,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-riding-cream-waistcoat",
+          "name": "奶油色骑迹 · 奶油修身骑装背心",
+          "nameEn": "Cream-Coloured Tracks · Riding cream waistcoat",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-cream-waistcoat/front.png",
+          "slot": "coat",
+          "pieceId": "riding-cream-waistcoat"
+        },
+        {
+          "id": "colour-riding-navy-breeches",
+          "name": "奶油色骑迹 · 骑装长裤",
+          "nameEn": "Cream-Coloured Tracks · Riding navy breeches",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-navy-breeches/front.png",
+          "slot": "bottom",
+          "pieceId": "riding-navy-breeches"
+        },
+        {
+          "id": "colour-riding-navy-poplin-shirt",
+          "name": "奶油色骑迹 · 长袖衬衫",
+          "nameEn": "Cream-Coloured Tracks · Riding navy poplin shirt",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-navy-poplin-shirt/front.png",
+          "slot": "top",
+          "pieceId": "riding-navy-poplin-shirt"
+        },
+        {
+          "id": "colour-riding-black-boot-fronts",
+          "name": "栗色缰线 · 骑靴正面",
+          "nameEn": "Chestnut Reins · Riding black boot fronts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-boot-fronts/front.png",
+          "slot": "shoes",
+          "pieceId": "riding-black-boot-fronts"
+        },
+        {
+          "id": "colour-riding-gold-studs",
+          "name": "栗色缰线 · 骑装金色耳钉",
+          "nameEn": "Chestnut Reins · Riding gold studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-gold-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "riding-gold-studs"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1627,7 +2082,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-riding-black-tights",
+          "name": "绿松石的风 · 不透连裤袜",
+          "nameEn": "A Teal Wind · Riding black tights",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-tights/front.png",
+          "slot": "socks",
+          "pieceId": "riding-black-tights"
+        },
+        {
+          "id": "colour-riding-oat-corduroy-culottes",
+          "name": "绿松石的风 · 燕麦灯芯绒裙裤",
+          "nameEn": "A Teal Wind · Riding oat corduroy culottes",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-oat-corduroy-culottes/front.png",
+          "slot": "bottom",
+          "pieceId": "riding-oat-corduroy-culottes"
+        },
+        {
+          "id": "colour-riding-silver-pin",
+          "name": "绿松石的风 · 斗篷别针",
+          "nameEn": "A Teal Wind · Riding silver pin",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-silver-pin/front.png",
+          "slot": "jewelry",
+          "pieceId": "riding-silver-pin"
+        },
+        {
+          "id": "colour-riding-teal-cape-coat",
+          "name": "绿松石的风 · 深青骑装斗篷",
+          "nameEn": "A Teal Wind · Riding teal cape coat",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-teal-cape-coat/front.png",
+          "slot": "coat",
+          "pieceId": "riding-teal-cape-coat"
+        },
+        {
+          "id": "colour-riding-black-boot-fronts",
+          "name": "栗色缰线 · 骑靴正面",
+          "nameEn": "Chestnut Reins · Riding black boot fronts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-riding-black-boot-fronts/front.png",
+          "slot": "shoes",
+          "pieceId": "riding-black-boot-fronts"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1932,7 +2428,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-city-coral-waist-shirt",
+          "name": "珊瑚唱片 · 珊瑚衬衫系腰前片",
+          "nameEn": "Coral Records · City coral waist shirt",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-coral-waist-shirt/front.png",
+          "slot": "jewelry",
+          "pieceId": "city-coral-waist-shirt"
+        },
+        {
+          "id": "colour-city-navy-canvas-toe",
+          "name": "珊瑚唱片 · 帆布鞋头",
+          "nameEn": "Coral Records · City navy canvas toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-navy-canvas-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "city-navy-canvas-toe"
+        },
+        {
+          "id": "colour-city-silver-disc-earrings",
+          "name": "珊瑚唱片 · 唱片银圆耳饰",
+          "nameEn": "Coral Records · City silver disc earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-silver-disc-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "city-silver-disc-earrings"
+        },
+        {
+          "id": "colour-city-striped-top",
+          "name": "珊瑚唱片 · 珊瑚海军条纹上衣",
+          "nameEn": "Coral Records · City striped top",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-striped-top/front.png",
+          "slot": "top",
+          "pieceId": "city-striped-top"
+        },
+        {
+          "id": "colour-ivory-wide-trousers",
+          "name": "朱红折领 · 象牙阔腿裤",
+          "nameEn": "Vermilion Folds · Wide trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-wide-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "ivory-wide-trousers"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1960,7 +2497,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-city-blue-pleated-jumpsuit",
+          "name": "蓝调合成器 · 电蓝细褶连身裤",
+          "nameEn": "A Blue Synthesizer · City blue pleated jumpsuit",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-blue-pleated-jumpsuit/front.png",
+          "slot": "dress",
+          "pieceId": "city-blue-pleated-jumpsuit"
+        },
+        {
+          "id": "colour-city-pink-earrings",
+          "name": "蓝调合成器 · 粉银几何耳饰",
+          "nameEn": "A Blue Synthesizer · City pink earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-pink-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "city-pink-earrings"
+        },
+        {
+          "id": "colour-city-pink-fold-jacket",
+          "name": "蓝调合成器 · 樱粉折纸短外套",
+          "nameEn": "A Blue Synthesizer · City pink fold jacket",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-pink-fold-jacket/front.png",
+          "slot": "coat",
+          "pieceId": "city-pink-fold-jacket"
+        },
+        {
+          "id": "colour-city-silver-square-toe",
+          "name": "蓝调合成器 · 方头鞋前片",
+          "nameEn": "A Blue Synthesizer · City silver square toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-silver-square-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "city-silver-square-toe"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -1988,7 +2558,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-city-black-gold-earrings",
+          "name": "黄昏高频 · 黑金几何耳钉",
+          "nameEn": "Sunset Frequency · City black gold earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-black-gold-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "city-black-gold-earrings"
+        },
+        {
+          "id": "colour-city-black-sneaker-toe",
+          "name": "黄昏高频 · 运动鞋头",
+          "nameEn": "Sunset Frequency · City black sneaker toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-black-sneaker-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "city-black-sneaker-toe"
+        },
+        {
+          "id": "colour-city-mustard-track-dress",
+          "name": "黄昏高频 · 芥黄运动拉链裙",
+          "nameEn": "Sunset Frequency · City mustard track dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-mustard-track-dress/front.png",
+          "slot": "dress",
+          "pieceId": "city-mustard-track-dress"
+        },
+        {
+          "id": "colour-city-white-nylon-jacket",
+          "name": "黄昏高频 · 尼龙短外套",
+          "nameEn": "Sunset Frequency · City white nylon jacket",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-city-white-nylon-jacket/front.png",
+          "slot": "coat",
+          "pieceId": "city-white-nylon-jacket"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2086,7 +2689,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-tennis-front-pleat-panel",
+          "name": "常青边线 · 象牙前褶叠裙片",
+          "nameEn": "The Evergreen Line · Tennis front pleat panel",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-front-pleat-panel/front.png",
+          "slot": "jewelry",
+          "pieceId": "tennis-front-pleat-panel"
+        },
+        {
+          "id": "colour-tennis-green-coat",
+          "name": "常青边线 · 常青翻领短外套",
+          "nameEn": "The Evergreen Line · Tennis green coat",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-green-coat/front.png",
+          "slot": "coat",
+          "pieceId": "tennis-green-coat"
+        },
+        {
+          "id": "colour-tennis-green-trousers",
+          "name": "常青边线 · 常青棉尼龙长裤",
+          "nameEn": "The Evergreen Line · Tennis green trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-green-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "tennis-green-trousers"
+        },
+        {
+          "id": "colour-tennis-ivory-polo",
+          "name": "常青边线 · 象牙罗纹Polo",
+          "nameEn": "The Evergreen Line · Tennis ivory polo",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-ivory-polo/front.png",
+          "slot": "top",
+          "pieceId": "tennis-ivory-polo"
+        },
+        {
+          "id": "colour-tennis-white-toe",
+          "name": "常青边线 · 球鞋鞋头",
+          "nameEn": "The Evergreen Line · Tennis white toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-white-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "tennis-white-toe"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2115,7 +2759,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-tennis-apricot-polo",
+          "name": "橘色抢七 · 杏橘珠地Polo",
+          "nameEn": "Orange Tie-Break · Tennis apricot polo",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-apricot-polo/front.png",
+          "slot": "top",
+          "pieceId": "tennis-apricot-polo"
+        },
+        {
+          "id": "colour-tennis-navy-skort-front",
+          "name": "橘色抢七 · 百褶裙",
+          "nameEn": "Orange Tie-Break · Tennis navy skort front",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-navy-skort-front/front.png",
+          "slot": "bottom",
+          "pieceId": "tennis-navy-skort-front"
+        },
+        {
+          "id": "colour-tennis-silver-studs",
+          "name": "橘色抢七 · 球场银色耳钉",
+          "nameEn": "Orange Tie-Break · Tennis silver studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-silver-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "tennis-silver-studs"
+        },
+        {
+          "id": "colour-tennis-stripe-socks",
+          "name": "橘色抢七 · 细条纹网球袜",
+          "nameEn": "Orange Tie-Break · Tennis stripe socks",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-stripe-socks/front.png",
+          "slot": "socks",
+          "pieceId": "tennis-stripe-socks"
+        },
+        {
+          "id": "colour-tennis-white-toe",
+          "name": "常青边线 · 球鞋鞋头",
+          "nameEn": "The Evergreen Line · Tennis white toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-white-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "tennis-white-toe"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2145,7 +2830,56 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-tennis-burgundy-shoulder-knit",
+          "name": "丁香休赛日 · 肩搭针织",
+          "nameEn": "A Lilac Rest Day · Tennis burgundy shoulder knit",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-burgundy-shoulder-knit/front.png",
+          "slot": "coat",
+          "pieceId": "tennis-burgundy-shoulder-knit"
+        },
+        {
+          "id": "colour-tennis-lilac-cardigan",
+          "name": "丁香休赛日 · 丁香华夫格短衫",
+          "nameEn": "A Lilac Rest Day · Tennis lilac cardigan",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-lilac-cardigan/front.png",
+          "slot": "coat",
+          "pieceId": "tennis-lilac-cardigan"
+        },
+        {
+          "id": "colour-tennis-pearl-studs",
+          "name": "丁香休赛日 · 丁香珍珠耳钉",
+          "nameEn": "A Lilac Rest Day · Tennis pearl studs",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-pearl-studs/front.png",
+          "slot": "jewelry",
+          "pieceId": "tennis-pearl-studs"
+        },
+        {
+          "id": "colour-tennis-wrap-shorts",
+          "name": "丁香休赛日 · 象牙斜叠短裤",
+          "nameEn": "A Lilac Rest Day · Tennis wrap shorts",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-wrap-shorts/front.png",
+          "slot": "bottom",
+          "pieceId": "tennis-wrap-shorts"
+        },
+        {
+          "id": "colour-tennis-white-toe",
+          "name": "常青边线 · 球鞋鞋头",
+          "nameEn": "The Evergreen Line · Tennis white toe",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-white-toe/front.png",
+          "slot": "shoes",
+          "pieceId": "tennis-white-toe"
+        },
+        {
+          "id": "colour-tennis-ivory-polo",
+          "name": "常青边线 · 象牙罗纹Polo",
+          "nameEn": "The Evergreen Line · Tennis ivory polo",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-tennis-ivory-polo/front.png",
+          "slot": "top",
+          "pieceId": "tennis-ivory-polo"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2381,7 +3115,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-flax-woven-sandals",
+          "name": "天蓝空隙 · 编织凉鞋",
+          "nameEn": "Sky-Blue Space · Flax woven sandals",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-flax-woven-sandals/front.png",
+          "slot": "shoes",
+          "pieceId": "flax-woven-sandals"
+        },
+        {
+          "id": "colour-sky-earrings",
+          "name": "天蓝空隙 · 贝光耳饰",
+          "nameEn": "Sky-Blue Space · Sky earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-sky-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "sky-earrings"
+        },
+        {
+          "id": "colour-sky-linen-tunic",
+          "name": "天蓝空隙 · 天蓝宽肩衬裙",
+          "nameEn": "Sky-Blue Space · Sky linen tunic",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-sky-linen-tunic/front.png",
+          "slot": "top",
+          "pieceId": "sky-linen-tunic"
+        },
+        {
+          "id": "colour-sky-metal-barrette",
+          "name": "天蓝空隙 · 长辫发扣",
+          "nameEn": "Sky-Blue Space · Sky metal barrette",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-sky-metal-barrette/front.png",
+          "slot": "jewelry",
+          "pieceId": "sky-metal-barrette"
+        },
+        {
+          "id": "colour-white-barrel-trousers",
+          "name": "天蓝空隙 · 弧线裤",
+          "nameEn": "Sky-Blue Space · Barrel trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-white-barrel-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "white-barrel-trousers"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2411,7 +3186,56 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-cream-rib-skirt",
+          "name": "海军蓝软岛 · 奶油罗纹长裙",
+          "nameEn": "The Navy Soft Island · Rib skirt",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-cream-rib-skirt/front.png",
+          "slot": "bottom",
+          "pieceId": "cream-rib-skirt"
+        },
+        {
+          "id": "colour-navy-cocoon-cardigan",
+          "name": "海军蓝软岛 · 茧形针织",
+          "nameEn": "The Navy Soft Island · Cocoon cardigan",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-navy-cocoon-cardigan/front.png",
+          "slot": "coat",
+          "pieceId": "navy-cocoon-cardigan"
+        },
+        {
+          "id": "colour-navy-cuff",
+          "name": "海军蓝软岛 · 暖金窄腕饰",
+          "nameEn": "The Navy Soft Island · Cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-navy-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "navy-cuff"
+        },
+        {
+          "id": "colour-navy-earrings",
+          "name": "海军蓝软岛 · 暖金水滴耳饰",
+          "nameEn": "The Navy Soft Island · Earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-navy-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "navy-earrings"
+        },
+        {
+          "id": "colour-navy-mules",
+          "name": "海军蓝软岛 · 低跟穆勒",
+          "nameEn": "The Navy Soft Island · Mules",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-navy-mules/front.png",
+          "slot": "shoes",
+          "pieceId": "navy-mules"
+        },
+        {
+          "id": "colour-rust-wrap-sash",
+          "name": "海军蓝软岛 · 铁锈色腰带",
+          "nameEn": "The Navy Soft Island · Rust wrap sash",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-rust-wrap-sash/front.png",
+          "slot": "jewelry",
+          "pieceId": "rust-wrap-sash"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2439,7 +3263,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-ceramic-earrings",
+          "name": "陶土风帆 · 瓷白卵石耳坠",
+          "nameEn": "Terracotta Sails · Ceramic earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ceramic-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "ceramic-earrings"
+        },
+        {
+          "id": "colour-coral-gold-cuff",
+          "name": "陶土风帆 · 浅金宽腕饰",
+          "nameEn": "Terracotta Sails · Coral gold cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-coral-gold-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "coral-gold-cuff"
+        },
+        {
+          "id": "colour-coral-linen-dress",
+          "name": "陶土风帆 · 陶土风帆亚麻裙",
+          "nameEn": "Terracotta Sails · Coral linen dress",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-coral-linen-dress/front.png",
+          "slot": "dress",
+          "pieceId": "coral-linen-dress"
+        },
+        {
+          "id": "colour-ivory-espadrilles",
+          "name": "陶土风帆 · 象牙编织渔夫鞋",
+          "nameEn": "Terracotta Sails · Espadrilles",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-espadrilles/front.png",
+          "slot": "shoes",
+          "pieceId": "ivory-espadrilles"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2536,7 +3393,40 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-jade-cuff",
+          "name": "玉色折枝 · 金色腕饰",
+          "nameEn": "Jade Branches · Jade cuff",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-cuff/front.png",
+          "slot": "jewelry",
+          "pieceId": "jade-cuff"
+        },
+        {
+          "id": "colour-jade-earrings",
+          "name": "玉色折枝 · 玉色金边耳坠",
+          "nameEn": "Jade Branches · Jade earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "jade-earrings"
+        },
+        {
+          "id": "colour-jade-pointed-flats",
+          "name": "玉色折枝 · 尖头平底鞋",
+          "nameEn": "Jade Branches · Jade pointed flats",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-pointed-flats/front.png",
+          "slot": "shoes",
+          "pieceId": "jade-pointed-flats"
+        },
+        {
+          "id": "colour-jade-qipao",
+          "name": "玉色折枝 · 斜襟旗袍",
+          "nameEn": "Jade Branches · Jade qipao",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-jade-qipao/front.png",
+          "slot": "dress",
+          "pieceId": "jade-qipao"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2565,7 +3455,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-black-sculptural-loafers",
+          "name": "朱红折领 · 雕塑乐福鞋",
+          "nameEn": "Vermilion Folds · Sculptural loafers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-black-sculptural-loafers/front.png",
+          "slot": "shoes",
+          "pieceId": "black-sculptural-loafers"
+        },
+        {
+          "id": "colour-ivory-shell",
+          "name": "朱红折领 · 象牙短内搭",
+          "nameEn": "Vermilion Folds · Shell",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-shell/front.png",
+          "slot": "top",
+          "pieceId": "ivory-shell"
+        },
+        {
+          "id": "colour-ivory-wide-trousers",
+          "name": "朱红折领 · 象牙阔腿裤",
+          "nameEn": "Vermilion Folds · Wide trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-wide-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "ivory-wide-trousers"
+        },
+        {
+          "id": "colour-vermilion-cutwork-jacket",
+          "name": "朱红折领 · 朱红镂纹短外套",
+          "nameEn": "Vermilion Folds · Vermilion cutwork jacket",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-vermilion-cutwork-jacket/front.png",
+          "slot": "coat",
+          "pieceId": "vermilion-cutwork-jacket"
+        },
+        {
+          "id": "colour-vermilion-earrings",
+          "name": "朱红折领 · 朱红珍珠耳饰",
+          "nameEn": "Vermilion Folds · Vermilion earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-vermilion-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "vermilion-earrings"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2594,7 +3525,48 @@
       "lessonId": null,
       "lessonReady": false,
       "unlockLevel": null,
-      "garments": [],
+      "garments": [
+        {
+          "id": "colour-ivory-slim-trousers",
+          "name": "石蓝叠影 · 冷白九分裤",
+          "nameEn": "Slate-Blue Layers · Slim trousers",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-ivory-slim-trousers/front.png",
+          "slot": "bottom",
+          "pieceId": "ivory-slim-trousers"
+        },
+        {
+          "id": "colour-slate-earrings",
+          "name": "石蓝叠影 · 几何耳饰",
+          "nameEn": "Slate-Blue Layers · Slate earrings",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-slate-earrings/front.png",
+          "slot": "jewelry",
+          "pieceId": "slate-earrings"
+        },
+        {
+          "id": "colour-slate-hairpin",
+          "name": "石蓝叠影 · 盘发簪",
+          "nameEn": "Slate-Blue Layers · Slate hairpin",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-slate-hairpin/front.png",
+          "slot": "jewelry",
+          "pieceId": "slate-hairpin"
+        },
+        {
+          "id": "colour-slate-wrap-coat",
+          "name": "石蓝叠影 · 裹身长衣",
+          "nameEn": "Slate-Blue Layers · Slate wrap coat",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-slate-wrap-coat/front.png",
+          "slot": "dress",
+          "pieceId": "slate-wrap-coat"
+        },
+        {
+          "id": "colour-umber-square-shoes",
+          "name": "石蓝叠影 · 深棕方头鞋",
+          "nameEn": "Slate-Blue Layers · Umber square shoes",
+          "image": "/assets/materials/sources/colour-incoming-20261030/rough-fit-v2/colour-umber-square-shoes/front.png",
+          "slot": "shoes",
+          "pieceId": "umber-square-shoes"
+        }
+      ],
       "tier": "collectible",
       "price": 0,
       "status": "art_ready"
@@ -2741,8 +3713,8 @@
   "pieces": [
     {
       "id": "honey-long-vest",
-      "nameZh": "蜂蜜色航线·长马甲",
-      "nameEn": "Honey long vest",
+      "nameZh": "蜂蜜色航线 · 长马甲",
+      "nameEn": "A Honey-Coloured Route · Long vest",
       "slot": "coat",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/honey-long-vest.webp",
@@ -2754,12 +3726,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-long-vest/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-long-vest/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·长马甲",
+      "originalNameEn": "Honey long vest",
+      "pieceNameZh": "长马甲",
+      "pieceNameEn": "Long vest",
+      "runtimeId": "colour-honey-long-vest"
     },
     {
       "id": "ivory-ribbed-top",
-      "nameZh": "蜂蜜色航线·针织背心",
-      "nameEn": "Ivory ribbed top",
+      "nameZh": "蜂蜜色航线 · 针织背心",
+      "nameEn": "A Honey-Coloured Route · Ribbed top",
       "slot": "top",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ivory-ribbed-top.webp",
@@ -2771,12 +3748,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/ivory-ribbed-top/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/ivory-ribbed-top/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·针织背心",
+      "originalNameEn": "Ivory ribbed top",
+      "pieceNameZh": "针织背心",
+      "pieceNameEn": "Ribbed top",
+      "runtimeId": "colour-ivory-ribbed-top"
     },
     {
       "id": "navy-tailored-shorts",
-      "nameZh": "蜂蜜色航线·短裤",
-      "nameEn": "Navy tailored shorts",
+      "nameZh": "蜂蜜色航线 · 短裤",
+      "nameEn": "A Honey-Coloured Route · Tailored shorts",
       "slot": "bottom",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/navy-tailored-shorts.webp",
@@ -2788,12 +3770,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/navy-tailored-shorts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/navy-tailored-shorts/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·短裤",
+      "originalNameEn": "Navy tailored shorts",
+      "pieceNameZh": "短裤",
+      "pieceNameEn": "Tailored shorts",
+      "runtimeId": "colour-navy-tailored-shorts"
     },
     {
       "id": "honey-woven-loafers",
-      "nameZh": "蜂蜜色航线·编织便鞋",
-      "nameEn": "Honey woven loafers",
+      "nameZh": "蜂蜜色航线 · 编织便鞋",
+      "nameEn": "A Honey-Coloured Route · Woven loafers",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/honey-woven-loafers.webp",
@@ -2805,12 +3792,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-woven-loafers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-woven-loafers/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·编织便鞋",
+      "originalNameEn": "Honey woven loafers",
+      "pieceNameZh": "编织便鞋",
+      "pieceNameEn": "Woven loafers",
+      "runtimeId": "colour-honey-woven-loafers"
     },
     {
       "id": "honey-gold-hoops",
-      "nameZh": "蜂蜜色航线·椭圆金耳环",
-      "nameEn": "Honey gold hoops",
+      "nameZh": "蜂蜜色航线 · 椭圆金耳环",
+      "nameEn": "A Honey-Coloured Route · Gold hoops",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/honey-gold-hoops.webp",
@@ -2822,12 +3814,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-gold-hoops/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-gold-hoops/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·椭圆金耳环",
+      "originalNameEn": "Honey gold hoops",
+      "pieceNameZh": "椭圆金耳环",
+      "pieceNameEn": "Gold hoops",
+      "runtimeId": "colour-honey-gold-hoops"
     },
     {
       "id": "honey-chain-bracelet",
-      "nameZh": "蜂蜜色航线·链式手镯",
-      "nameEn": "Honey chain bracelet",
+      "nameZh": "蜂蜜色航线 · 链式手镯",
+      "nameEn": "A Honey-Coloured Route · Chain bracelet",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/honey-chain-bracelet.webp",
@@ -2839,12 +3836,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-chain-bracelet/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-chain-bracelet/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·链式手镯",
+      "originalNameEn": "Honey chain bracelet",
+      "pieceNameZh": "链式手镯",
+      "pieceNameEn": "Chain bracelet",
+      "runtimeId": "colour-honey-chain-bracelet"
     },
     {
       "id": "honey-braid-cuffs",
-      "nameZh": "蜂蜜色航线·编发金扣",
-      "nameEn": "Honey braid cuffs",
+      "nameZh": "蜂蜜色航线 · 编发金扣",
+      "nameEn": "A Honey-Coloured Route · Braid cuffs",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/honey-braid-cuffs.webp",
@@ -2856,12 +3858,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-braid-cuffs/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/honey-braid-cuffs/colour-front.png",
+      "originalNameZh": "蜂蜜色航线·编发金扣",
+      "originalNameEn": "Honey braid cuffs",
+      "pieceNameZh": "编发金扣",
+      "pieceNameEn": "Braid cuffs",
+      "runtimeId": "colour-honey-braid-cuffs"
     },
     {
       "id": "vermilion-shirt-dress",
-      "nameZh": "朱砂午后·衬衫裙",
-      "nameEn": "Vermilion shirt dress",
+      "nameZh": "朱砂午后 · 衬衫裙",
+      "nameEn": "Vermilion Afternoon · Vermilion shirt dress",
       "slot": "dress",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/vermilion-shirt-dress.webp",
@@ -2873,12 +3880,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-shirt-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-shirt-dress/colour-front.png",
+      "originalNameZh": "朱砂午后·衬衫裙",
+      "originalNameEn": "Vermilion shirt dress",
+      "pieceNameZh": "衬衫裙",
+      "pieceNameEn": "Vermilion shirt dress",
+      "runtimeId": "colour-vermilion-shirt-dress"
     },
     {
       "id": "cream-sash",
-      "nameZh": "朱砂午后·腰带",
-      "nameEn": "Cream sash",
+      "nameZh": "朱砂午后 · 腰带",
+      "nameEn": "Vermilion Afternoon · Sash",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/cream-sash.webp",
@@ -2890,12 +3902,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/cream-sash/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/cream-sash/colour-front.png",
+      "originalNameZh": "朱砂午后·腰带",
+      "originalNameEn": "Cream sash",
+      "pieceNameZh": "腰带",
+      "pieceNameEn": "Sash",
+      "runtimeId": "colour-cream-sash"
     },
     {
       "id": "olive-front-sandals",
-      "nameZh": "朱砂午后·橄榄绿凉鞋",
-      "nameEn": "Olive front sandals",
+      "nameZh": "朱砂午后 · 凉鞋",
+      "nameEn": "Vermilion Afternoon · Front sandals",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/olive-front-sandals.webp",
@@ -2907,12 +3924,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/olive-front-sandals/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/olive-front-sandals/colour-front.png",
+      "originalNameZh": "朱砂午后·橄榄绿凉鞋",
+      "originalNameEn": "Olive front sandals",
+      "pieceNameZh": "凉鞋",
+      "pieceNameEn": "Front sandals",
+      "runtimeId": "colour-olive-front-sandals"
     },
     {
       "id": "vermilion-pearl-earrings",
-      "nameZh": "朱砂午后·长方珍珠耳饰",
-      "nameEn": "Vermilion pearl earrings",
+      "nameZh": "朱砂午后 · 长方珍珠耳饰",
+      "nameEn": "Vermilion Afternoon · Vermilion pearl earrings",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/vermilion-pearl-earrings.webp",
@@ -2924,12 +3946,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-pearl-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/vermilion-pearl-earrings/colour-front.png",
+      "originalNameZh": "朱砂午后·长方珍珠耳饰",
+      "originalNameEn": "Vermilion pearl earrings",
+      "pieceNameZh": "长方珍珠耳饰",
+      "pieceNameEn": "Vermilion pearl earrings",
+      "runtimeId": "colour-vermilion-pearl-earrings"
     },
     {
       "id": "lemon-bay-dress",
-      "nameZh": "柠檬海湾·几何领长裙",
-      "nameEn": "Lemon bay dress",
+      "nameZh": "柠檬海湾 · 几何领长裙",
+      "nameEn": "Lemon Bay · Lemon bay dress",
       "slot": "dress",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/lemon-bay-dress.webp",
@@ -2941,12 +3968,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-dress/colour-front.png",
+      "originalNameZh": "柠檬海湾·几何领长裙",
+      "originalNameEn": "Lemon bay dress",
+      "pieceNameZh": "几何领长裙",
+      "pieceNameEn": "Lemon bay dress",
+      "runtimeId": "colour-lemon-bay-dress"
     },
     {
       "id": "white-front-sandals",
-      "nameZh": "柠檬海湾·白色凉鞋",
-      "nameEn": "White front sandals",
+      "nameZh": "柠檬海湾 · 凉鞋",
+      "nameEn": "Lemon Bay · Front sandals",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/white-front-sandals.webp",
@@ -2958,12 +3990,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/white-front-sandals/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/white-front-sandals/colour-front.png",
+      "originalNameZh": "柠檬海湾·白色凉鞋",
+      "originalNameEn": "White front sandals",
+      "pieceNameZh": "凉鞋",
+      "pieceNameEn": "Front sandals",
+      "runtimeId": "colour-white-front-sandals"
     },
     {
       "id": "lemon-bay-pearl-earrings",
-      "nameZh": "柠檬海湾·椭圆珍珠耳饰",
-      "nameEn": "Lemon bay pearl earrings",
+      "nameZh": "柠檬海湾 · 椭圆珍珠耳饰",
+      "nameEn": "Lemon Bay · Lemon bay pearl earrings",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/lemon-bay-pearl-earrings.webp",
@@ -2975,12 +4012,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-pearl-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-pearl-earrings/colour-front.png",
+      "originalNameZh": "柠檬海湾·椭圆珍珠耳饰",
+      "originalNameEn": "Lemon bay pearl earrings",
+      "pieceNameZh": "椭圆珍珠耳饰",
+      "pieceNameEn": "Lemon bay pearl earrings",
+      "runtimeId": "colour-lemon-bay-pearl-earrings"
     },
     {
       "id": "lemon-bay-gold-cuff",
-      "nameZh": "柠檬海湾·金色腕饰",
-      "nameEn": "Lemon bay gold cuff",
+      "nameZh": "柠檬海湾 · 金色腕饰",
+      "nameEn": "Lemon Bay · Lemon bay gold cuff",
       "slot": "jewelry",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/lemon-bay-gold-cuff.webp",
@@ -2992,12 +4034,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-gold-cuff/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/dolce-vita/colour-front-assets/lemon-bay-gold-cuff/colour-front.png",
+      "originalNameZh": "柠檬海湾·金色腕饰",
+      "originalNameEn": "Lemon bay gold cuff",
+      "pieceNameZh": "金色腕饰",
+      "pieceNameEn": "Lemon bay gold cuff",
+      "runtimeId": "colour-lemon-bay-gold-cuff"
     },
     {
       "id": "black-sculptural-loafers",
-      "nameZh": "黑色雕塑乐福鞋",
-      "nameEn": "Black sculptural loafers",
+      "nameZh": "朱红折领 · 雕塑乐福鞋",
+      "nameEn": "Vermilion Folds · Sculptural loafers",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/black-sculptural-loafers.webp",
@@ -3009,12 +4056,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/black-sculptural-loafers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/black-sculptural-loafers/colour-front.png",
+      "originalNameZh": "黑色雕塑乐福鞋",
+      "originalNameEn": "Black sculptural loafers",
+      "pieceNameZh": "雕塑乐福鞋",
+      "pieceNameEn": "Sculptural loafers",
+      "runtimeId": "colour-black-sculptural-loafers"
     },
     {
       "id": "ivory-shell",
-      "nameZh": "象牙短内搭",
-      "nameEn": "Ivory shell",
+      "nameZh": "朱红折领 · 象牙短内搭",
+      "nameEn": "Vermilion Folds · Shell",
       "slot": "top",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ivory-shell.webp",
@@ -3028,12 +4080,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-shell/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-shell/colour-front.png",
+      "originalNameZh": "象牙短内搭",
+      "originalNameEn": "Ivory shell",
+      "pieceNameZh": "象牙短内搭",
+      "pieceNameEn": "Shell",
+      "runtimeId": "colour-ivory-shell"
     },
     {
       "id": "ivory-wide-trousers",
-      "nameZh": "象牙阔腿裤",
-      "nameEn": "Ivory wide trousers",
+      "nameZh": "朱红折领 · 象牙阔腿裤",
+      "nameEn": "Vermilion Folds · Wide trousers",
       "slot": "bottom",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ivory-wide-trousers.webp",
@@ -3049,12 +4106,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-wide-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-wide-trousers/colour-front.png",
+      "originalNameZh": "象牙阔腿裤",
+      "originalNameEn": "Ivory wide trousers",
+      "pieceNameZh": "象牙阔腿裤",
+      "pieceNameEn": "Wide trousers",
+      "runtimeId": "colour-ivory-wide-trousers"
     },
     {
       "id": "vermilion-cutwork-jacket",
-      "nameZh": "朱红镂纹短外套",
-      "nameEn": "Vermilion cutwork jacket",
+      "nameZh": "朱红折领 · 朱红镂纹短外套",
+      "nameEn": "Vermilion Folds · Vermilion cutwork jacket",
       "slot": "outerwear",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/vermilion-cutwork-jacket.webp",
@@ -3066,12 +4128,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-cutwork-jacket/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-cutwork-jacket/colour-front.png",
+      "originalNameZh": "朱红镂纹短外套",
+      "originalNameEn": "Vermilion cutwork jacket",
+      "pieceNameZh": "朱红镂纹短外套",
+      "pieceNameEn": "Vermilion cutwork jacket",
+      "runtimeId": "colour-vermilion-cutwork-jacket"
     },
     {
       "id": "vermilion-earrings",
-      "nameZh": "朱红珍珠耳饰",
-      "nameEn": "Vermilion earrings",
+      "nameZh": "朱红折领 · 朱红珍珠耳饰",
+      "nameEn": "Vermilion Folds · Vermilion earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/vermilion-earrings.webp",
@@ -3083,12 +4150,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/vermilion-earrings/colour-front.png",
+      "originalNameZh": "朱红珍珠耳饰",
+      "originalNameEn": "Vermilion earrings",
+      "pieceNameZh": "朱红珍珠耳饰",
+      "pieceNameEn": "Vermilion earrings",
+      "runtimeId": "colour-vermilion-earrings"
     },
     {
       "id": "jade-cuff",
-      "nameZh": "金色腕饰",
-      "nameEn": "Jade cuff",
+      "nameZh": "玉色折枝 · 金色腕饰",
+      "nameEn": "Jade Branches · Jade cuff",
       "slot": "bracelet",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/jade-cuff.webp",
@@ -3100,12 +4172,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-cuff/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-cuff/colour-front.png",
+      "originalNameZh": "金色腕饰",
+      "originalNameEn": "Jade cuff",
+      "pieceNameZh": "金色腕饰",
+      "pieceNameEn": "Jade cuff",
+      "runtimeId": "colour-jade-cuff"
     },
     {
       "id": "jade-earrings",
-      "nameZh": "玉色金边耳坠",
-      "nameEn": "Jade earrings",
+      "nameZh": "玉色折枝 · 玉色金边耳坠",
+      "nameEn": "Jade Branches · Jade earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/jade-earrings.webp",
@@ -3117,12 +4194,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-earrings/colour-front.png",
+      "originalNameZh": "玉色金边耳坠",
+      "originalNameEn": "Jade earrings",
+      "pieceNameZh": "玉色金边耳坠",
+      "pieceNameEn": "Jade earrings",
+      "runtimeId": "colour-jade-earrings"
     },
     {
       "id": "jade-pointed-flats",
-      "nameZh": "黑色尖头平底鞋",
-      "nameEn": "Jade pointed flats",
+      "nameZh": "玉色折枝 · 尖头平底鞋",
+      "nameEn": "Jade Branches · Jade pointed flats",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/jade-pointed-flats.webp",
@@ -3137,12 +4219,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-pointed-flats/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-pointed-flats/colour-front.png",
+      "originalNameZh": "黑色尖头平底鞋",
+      "originalNameEn": "Jade pointed flats",
+      "pieceNameZh": "尖头平底鞋",
+      "pieceNameEn": "Jade pointed flats",
+      "runtimeId": "colour-jade-pointed-flats"
     },
     {
       "id": "jade-qipao",
-      "nameZh": "玉绿斜襟旗袍",
-      "nameEn": "Jade qipao",
+      "nameZh": "玉色折枝 · 斜襟旗袍",
+      "nameEn": "Jade Branches · Jade qipao",
       "slot": "dress",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/jade-qipao.webp",
@@ -3154,12 +4241,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-qipao/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/jade-qipao/colour-front.png",
+      "originalNameZh": "玉绿斜襟旗袍",
+      "originalNameEn": "Jade qipao",
+      "pieceNameZh": "斜襟旗袍",
+      "pieceNameEn": "Jade qipao",
+      "runtimeId": "colour-jade-qipao"
     },
     {
       "id": "cream-rib-skirt",
-      "nameZh": "奶油罗纹长裙",
-      "nameEn": "Cream rib skirt",
+      "nameZh": "海军蓝软岛 · 奶油罗纹长裙",
+      "nameEn": "The Navy Soft Island · Rib skirt",
       "slot": "bottom",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/cream-rib-skirt.webp",
@@ -3171,12 +4263,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/cream-rib-skirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/cream-rib-skirt/colour-front.png",
+      "originalNameZh": "奶油罗纹长裙",
+      "originalNameEn": "Cream rib skirt",
+      "pieceNameZh": "奶油罗纹长裙",
+      "pieceNameEn": "Rib skirt",
+      "runtimeId": "colour-cream-rib-skirt"
     },
     {
       "id": "navy-cocoon-cardigan",
-      "nameZh": "海军蓝茧形针织",
-      "nameEn": "Navy cocoon cardigan",
+      "nameZh": "海军蓝软岛 · 茧形针织",
+      "nameEn": "The Navy Soft Island · Cocoon cardigan",
       "slot": "outerwear",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/navy-cocoon-cardigan.webp",
@@ -3188,12 +4285,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cocoon-cardigan/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cocoon-cardigan/colour-front.png",
+      "originalNameZh": "海军蓝茧形针织",
+      "originalNameEn": "Navy cocoon cardigan",
+      "pieceNameZh": "茧形针织",
+      "pieceNameEn": "Cocoon cardigan",
+      "runtimeId": "colour-navy-cocoon-cardigan"
     },
     {
       "id": "navy-cuff",
-      "nameZh": "暖金窄腕饰",
-      "nameEn": "Navy cuff",
+      "nameZh": "海军蓝软岛 · 暖金窄腕饰",
+      "nameEn": "The Navy Soft Island · Cuff",
       "slot": "bracelet",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/navy-cuff.webp",
@@ -3205,12 +4307,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cuff/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-cuff/colour-front.png",
+      "originalNameZh": "暖金窄腕饰",
+      "originalNameEn": "Navy cuff",
+      "pieceNameZh": "暖金窄腕饰",
+      "pieceNameEn": "Cuff",
+      "runtimeId": "colour-navy-cuff"
     },
     {
       "id": "navy-earrings",
-      "nameZh": "暖金水滴耳饰",
-      "nameEn": "Navy earrings",
+      "nameZh": "海军蓝软岛 · 暖金水滴耳饰",
+      "nameEn": "The Navy Soft Island · Earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/navy-earrings.webp",
@@ -3222,12 +4329,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-earrings/colour-front.png",
+      "originalNameZh": "暖金水滴耳饰",
+      "originalNameEn": "Navy earrings",
+      "pieceNameZh": "暖金水滴耳饰",
+      "pieceNameEn": "Earrings",
+      "runtimeId": "colour-navy-earrings"
     },
     {
       "id": "navy-mules",
-      "nameZh": "海军蓝低跟穆勒",
-      "nameEn": "Navy mules",
+      "nameZh": "海军蓝软岛 · 低跟穆勒",
+      "nameEn": "The Navy Soft Island · Mules",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/navy-mules.webp",
@@ -3239,12 +4351,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-mules/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/navy-mules/colour-front.png",
+      "originalNameZh": "海军蓝低跟穆勒",
+      "originalNameEn": "Navy mules",
+      "pieceNameZh": "低跟穆勒",
+      "pieceNameEn": "Mules",
+      "runtimeId": "colour-navy-mules"
     },
     {
       "id": "rust-wrap-sash",
-      "nameZh": "铁锈色腰带",
-      "nameEn": "Rust wrap sash",
+      "nameZh": "海军蓝软岛 · 铁锈色腰带",
+      "nameEn": "The Navy Soft Island · Rust wrap sash",
       "slot": "belt",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/rust-wrap-sash.webp",
@@ -3256,12 +4373,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/rust-wrap-sash/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/rust-wrap-sash/colour-front.png",
+      "originalNameZh": "铁锈色腰带",
+      "originalNameEn": "Rust wrap sash",
+      "pieceNameZh": "铁锈色腰带",
+      "pieceNameEn": "Rust wrap sash",
+      "runtimeId": "colour-rust-wrap-sash"
     },
     {
       "id": "ivory-slim-trousers",
-      "nameZh": "冷白九分裤",
-      "nameEn": "Ivory slim trousers",
+      "nameZh": "石蓝叠影 · 冷白九分裤",
+      "nameEn": "Slate-Blue Layers · Slim trousers",
       "slot": "bottom",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ivory-slim-trousers.webp",
@@ -3273,12 +4395,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-slim-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-slim-trousers/colour-front.png",
+      "originalNameZh": "冷白九分裤",
+      "originalNameEn": "Ivory slim trousers",
+      "pieceNameZh": "冷白九分裤",
+      "pieceNameEn": "Slim trousers",
+      "runtimeId": "colour-ivory-slim-trousers"
     },
     {
       "id": "slate-earrings",
-      "nameZh": "银色几何耳饰",
-      "nameEn": "Slate earrings",
+      "nameZh": "石蓝叠影 · 几何耳饰",
+      "nameEn": "Slate-Blue Layers · Slate earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/slate-earrings.webp",
@@ -3290,12 +4417,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-earrings/colour-front.png",
+      "originalNameZh": "银色几何耳饰",
+      "originalNameEn": "Slate earrings",
+      "pieceNameZh": "几何耳饰",
+      "pieceNameEn": "Slate earrings",
+      "runtimeId": "colour-slate-earrings"
     },
     {
       "id": "slate-hairpin",
-      "nameZh": "银色盘发簪",
-      "nameEn": "Slate hairpin",
+      "nameZh": "石蓝叠影 · 盘发簪",
+      "nameEn": "Slate-Blue Layers · Slate hairpin",
       "slot": "hair-accessory",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/slate-hairpin.webp",
@@ -3307,12 +4439,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-hairpin/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-hairpin/colour-front.png",
+      "originalNameZh": "银色盘发簪",
+      "originalNameEn": "Slate hairpin",
+      "pieceNameZh": "盘发簪",
+      "pieceNameEn": "Slate hairpin",
+      "runtimeId": "colour-slate-hairpin"
     },
     {
       "id": "slate-wrap-coat",
-      "nameZh": "石蓝裹身长衣",
-      "nameEn": "Slate wrap coat",
+      "nameZh": "石蓝叠影 · 裹身长衣",
+      "nameEn": "Slate-Blue Layers · Slate wrap coat",
       "slot": "dress",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/slate-wrap-coat.webp",
@@ -3324,12 +4461,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-wrap-coat/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/slate-wrap-coat/colour-front.png",
+      "originalNameZh": "石蓝裹身长衣",
+      "originalNameEn": "Slate wrap coat",
+      "pieceNameZh": "裹身长衣",
+      "pieceNameEn": "Slate wrap coat",
+      "runtimeId": "colour-slate-wrap-coat"
     },
     {
       "id": "umber-square-shoes",
-      "nameZh": "深棕方头鞋",
-      "nameEn": "Umber square shoes",
+      "nameZh": "石蓝叠影 · 深棕方头鞋",
+      "nameEn": "Slate-Blue Layers · Umber square shoes",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/umber-square-shoes.webp",
@@ -3341,12 +4483,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/umber-square-shoes/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/umber-square-shoes/colour-front.png",
+      "originalNameZh": "深棕方头鞋",
+      "originalNameEn": "Umber square shoes",
+      "pieceNameZh": "深棕方头鞋",
+      "pieceNameEn": "Umber square shoes",
+      "runtimeId": "colour-umber-square-shoes"
     },
     {
       "id": "ceramic-earrings",
-      "nameZh": "瓷白卵石耳坠",
-      "nameEn": "Ceramic earrings",
+      "nameZh": "陶土风帆 · 瓷白卵石耳坠",
+      "nameEn": "Terracotta Sails · Ceramic earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ceramic-earrings.webp",
@@ -3358,12 +4505,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ceramic-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ceramic-earrings/colour-front.png",
+      "originalNameZh": "瓷白卵石耳坠",
+      "originalNameEn": "Ceramic earrings",
+      "pieceNameZh": "瓷白卵石耳坠",
+      "pieceNameEn": "Ceramic earrings",
+      "runtimeId": "colour-ceramic-earrings"
     },
     {
       "id": "coral-gold-cuff",
-      "nameZh": "浅金宽腕饰",
-      "nameEn": "Coral gold cuff",
+      "nameZh": "陶土风帆 · 浅金宽腕饰",
+      "nameEn": "Terracotta Sails · Coral gold cuff",
       "slot": "bracelet",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/coral-gold-cuff.webp",
@@ -3378,12 +4530,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-gold-cuff/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-gold-cuff/colour-front.png",
+      "originalNameZh": "浅金宽腕饰",
+      "originalNameEn": "Coral gold cuff",
+      "pieceNameZh": "浅金宽腕饰",
+      "pieceNameEn": "Coral gold cuff",
+      "runtimeId": "colour-coral-gold-cuff"
     },
     {
       "id": "coral-linen-dress",
-      "nameZh": "陶土风帆亚麻裙",
-      "nameEn": "Coral linen dress",
+      "nameZh": "陶土风帆 · 陶土风帆亚麻裙",
+      "nameEn": "Terracotta Sails · Coral linen dress",
       "slot": "dress",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/coral-linen-dress.webp",
@@ -3395,12 +4552,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-linen-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/coral-linen-dress/colour-front.png",
+      "originalNameZh": "陶土风帆亚麻裙",
+      "originalNameEn": "Coral linen dress",
+      "pieceNameZh": "陶土风帆亚麻裙",
+      "pieceNameEn": "Coral linen dress",
+      "runtimeId": "colour-coral-linen-dress"
     },
     {
       "id": "ivory-espadrilles",
-      "nameZh": "象牙编织渔夫鞋",
-      "nameEn": "Ivory espadrilles",
+      "nameZh": "陶土风帆 · 象牙编织渔夫鞋",
+      "nameEn": "Terracotta Sails · Espadrilles",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/ivory-espadrilles.webp",
@@ -3412,12 +4574,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-espadrilles/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/ivory-espadrilles/colour-front.png",
+      "originalNameZh": "象牙编织渔夫鞋",
+      "originalNameEn": "Ivory espadrilles",
+      "pieceNameZh": "象牙编织渔夫鞋",
+      "pieceNameEn": "Espadrilles",
+      "runtimeId": "colour-ivory-espadrilles"
     },
     {
       "id": "flax-woven-sandals",
-      "nameZh": "浅麻编织凉鞋",
-      "nameEn": "Flax woven sandals",
+      "nameZh": "天蓝空隙 · 编织凉鞋",
+      "nameEn": "Sky-Blue Space · Flax woven sandals",
       "slot": "shoes",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/flax-woven-sandals.webp",
@@ -3429,12 +4596,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/flax-woven-sandals/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/flax-woven-sandals/colour-front.png",
+      "originalNameZh": "浅麻编织凉鞋",
+      "originalNameEn": "Flax woven sandals",
+      "pieceNameZh": "编织凉鞋",
+      "pieceNameEn": "Flax woven sandals",
+      "runtimeId": "colour-flax-woven-sandals"
     },
     {
       "id": "sky-earrings",
-      "nameZh": "银色贝光耳饰",
-      "nameEn": "Sky earrings",
+      "nameZh": "天蓝空隙 · 贝光耳饰",
+      "nameEn": "Sky-Blue Space · Sky earrings",
       "slot": "earrings",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/sky-earrings.webp",
@@ -3446,12 +4618,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-earrings/colour-front.png",
+      "originalNameZh": "银色贝光耳饰",
+      "originalNameEn": "Sky earrings",
+      "pieceNameZh": "贝光耳饰",
+      "pieceNameEn": "Sky earrings",
+      "runtimeId": "colour-sky-earrings"
     },
     {
       "id": "sky-linen-tunic",
-      "nameZh": "天蓝宽肩衬裙",
-      "nameEn": "Sky linen tunic",
+      "nameZh": "天蓝空隙 · 天蓝宽肩衬裙",
+      "nameEn": "Sky-Blue Space · Sky linen tunic",
       "slot": "top",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/sky-linen-tunic.webp",
@@ -3463,12 +4640,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-linen-tunic/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-linen-tunic/colour-front.png",
+      "originalNameZh": "天蓝宽肩衬裙",
+      "originalNameEn": "Sky linen tunic",
+      "pieceNameZh": "天蓝宽肩衬裙",
+      "pieceNameEn": "Sky linen tunic",
+      "runtimeId": "colour-sky-linen-tunic"
     },
     {
       "id": "sky-metal-barrette",
-      "nameZh": "银色长辫发扣",
-      "nameEn": "Sky metal barrette",
+      "nameZh": "天蓝空隙 · 长辫发扣",
+      "nameEn": "Sky-Blue Space · Sky metal barrette",
       "slot": "hair-accessory",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/sky-metal-barrette.webp",
@@ -3482,12 +4664,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-metal-barrette/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/sky-metal-barrette/colour-front.png",
+      "originalNameZh": "银色长辫发扣",
+      "originalNameEn": "Sky metal barrette",
+      "pieceNameZh": "长辫发扣",
+      "pieceNameEn": "Sky metal barrette",
+      "runtimeId": "colour-sky-metal-barrette"
     },
     {
       "id": "white-barrel-trousers",
-      "nameZh": "白色弧线裤",
-      "nameEn": "White barrel trousers",
+      "nameZh": "天蓝空隙 · 弧线裤",
+      "nameEn": "Sky-Blue Space · Barrel trousers",
       "slot": "bottom",
       "fabric": "",
       "image": "/assets/fashion-series/previews/pieces/white-barrel-trousers.webp",
@@ -3499,12 +4686,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/white-barrel-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/qipao-coastal/colour-front-assets/white-barrel-trousers/colour-front.png",
+      "originalNameZh": "白色弧线裤",
+      "originalNameEn": "White barrel trousers",
+      "pieceNameZh": "弧线裤",
+      "pieceNameEn": "Barrel trousers",
+      "runtimeId": "colour-white-barrel-trousers"
     },
     {
       "id": "riding-black-boot-fronts",
-      "nameZh": "黑色骑靴正面",
-      "nameEn": "Riding black boot fronts",
+      "nameZh": "栗色缰线 · 骑靴正面",
+      "nameEn": "Chestnut Reins · Riding black boot fronts",
       "slot": "shoes",
       "fabric": "riding-leather",
       "image": "/assets/fashion-series/previews/pieces/riding-black-boot-fronts.webp",
@@ -3520,12 +4712,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-boot-fronts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-boot-fronts/colour-front.png",
+      "originalNameZh": "黑色骑靴正面",
+      "originalNameEn": "Riding black boot fronts",
+      "pieceNameZh": "骑靴正面",
+      "pieceNameEn": "Riding black boot fronts",
+      "runtimeId": "colour-riding-black-boot-fronts"
     },
     {
       "id": "riding-black-wrap-skirt",
-      "nameZh": "黑色骑褶裹裙",
-      "nameEn": "Riding black wrap skirt",
+      "nameZh": "栗色缰线 · 骑褶裹裙",
+      "nameEn": "Chestnut Reins · Riding black wrap skirt",
       "slot": "bottom",
       "fabric": "dense-wool",
       "image": "/assets/fashion-series/previews/pieces/riding-black-wrap-skirt.webp",
@@ -3539,12 +4736,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-wrap-skirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-wrap-skirt/colour-front.png",
+      "originalNameZh": "黑色骑褶裹裙",
+      "originalNameEn": "Riding black wrap skirt",
+      "pieceNameZh": "骑褶裹裙",
+      "pieceNameEn": "Riding black wrap skirt",
+      "runtimeId": "colour-riding-black-wrap-skirt"
     },
     {
       "id": "riding-burgundy-leather-jacket",
-      "nameZh": "栗酒红骑装皮衣",
-      "nameEn": "Riding burgundy leather jacket",
+      "nameZh": "栗色缰线 · 栗酒红骑装皮衣",
+      "nameEn": "Chestnut Reins · Riding burgundy leather jacket",
       "slot": "outerwear",
       "fabric": "supple-leather",
       "image": "/assets/fashion-series/previews/pieces/riding-burgundy-leather-jacket.webp",
@@ -3556,12 +4758,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-burgundy-leather-jacket/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-burgundy-leather-jacket/colour-front.png",
+      "originalNameZh": "栗酒红骑装皮衣",
+      "originalNameEn": "Riding burgundy leather jacket",
+      "pieceNameZh": "栗酒红骑装皮衣",
+      "pieceNameEn": "Riding burgundy leather jacket",
+      "runtimeId": "colour-riding-burgundy-leather-jacket"
     },
     {
       "id": "riding-butter-knit",
-      "nameZh": "奶油细针织内搭",
-      "nameEn": "Riding butter knit",
+      "nameZh": "栗色缰线 · 奶油细针织内搭",
+      "nameEn": "Chestnut Reins · Riding butter knit",
       "slot": "top",
       "fabric": "fine-wool-knit",
       "image": "/assets/fashion-series/previews/pieces/riding-butter-knit.webp",
@@ -3573,12 +4780,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-butter-knit/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-butter-knit/colour-front.png",
+      "originalNameZh": "奶油细针织内搭",
+      "originalNameEn": "Riding butter knit",
+      "pieceNameZh": "奶油细针织内搭",
+      "pieceNameEn": "Riding butter knit",
+      "runtimeId": "colour-riding-butter-knit"
     },
     {
       "id": "riding-gold-studs",
-      "nameZh": "骑装金色耳钉",
-      "nameEn": "Riding gold studs",
+      "nameZh": "栗色缰线 · 骑装金色耳钉",
+      "nameEn": "Chestnut Reins · Riding gold studs",
       "slot": "earrings",
       "fabric": "gold",
       "image": "/assets/fashion-series/previews/pieces/riding-gold-studs.webp",
@@ -3591,12 +4803,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-gold-studs/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-gold-studs/colour-front.png",
+      "originalNameZh": "骑装金色耳钉",
+      "originalNameEn": "Riding gold studs",
+      "pieceNameZh": "骑装金色耳钉",
+      "pieceNameEn": "Riding gold studs",
+      "runtimeId": "colour-riding-gold-studs"
     },
     {
       "id": "riding-cream-waistcoat",
-      "nameZh": "奶油修身骑装背心",
-      "nameEn": "Riding cream waistcoat",
+      "nameZh": "奶油色骑迹 · 奶油修身骑装背心",
+      "nameEn": "Cream-Coloured Tracks · Riding cream waistcoat",
       "slot": "outerwear",
       "fabric": "wool-gabardine",
       "image": "/assets/fashion-series/previews/pieces/riding-cream-waistcoat.webp",
@@ -3608,12 +4825,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-cream-waistcoat/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-cream-waistcoat/colour-front.png",
+      "originalNameZh": "奶油修身骑装背心",
+      "originalNameEn": "Riding cream waistcoat",
+      "pieceNameZh": "奶油修身骑装背心",
+      "pieceNameEn": "Riding cream waistcoat",
+      "runtimeId": "colour-riding-cream-waistcoat"
     },
     {
       "id": "riding-navy-breeches",
-      "nameZh": "海军蓝骑装长裤",
-      "nameEn": "Riding navy breeches",
+      "nameZh": "奶油色骑迹 · 骑装长裤",
+      "nameEn": "Cream-Coloured Tracks · Riding navy breeches",
       "slot": "bottom",
       "fabric": "stretch-riding-twill",
       "image": "/assets/fashion-series/previews/pieces/riding-navy-breeches.webp",
@@ -3625,12 +4847,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-breeches/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-breeches/colour-front.png",
+      "originalNameZh": "海军蓝骑装长裤",
+      "originalNameEn": "Riding navy breeches",
+      "pieceNameZh": "骑装长裤",
+      "pieceNameEn": "Riding navy breeches",
+      "runtimeId": "colour-riding-navy-breeches"
     },
     {
       "id": "riding-navy-poplin-shirt",
-      "nameZh": "海军蓝长袖衬衫",
-      "nameEn": "Riding navy poplin shirt",
+      "nameZh": "奶油色骑迹 · 长袖衬衫",
+      "nameEn": "Cream-Coloured Tracks · Riding navy poplin shirt",
       "slot": "top",
       "fabric": "fine-poplin",
       "image": "/assets/fashion-series/previews/pieces/riding-navy-poplin-shirt.webp",
@@ -3642,12 +4869,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-poplin-shirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-navy-poplin-shirt/colour-front.png",
+      "originalNameZh": "海军蓝长袖衬衫",
+      "originalNameEn": "Riding navy poplin shirt",
+      "pieceNameZh": "长袖衬衫",
+      "pieceNameEn": "Riding navy poplin shirt",
+      "runtimeId": "colour-riding-navy-poplin-shirt"
     },
     {
       "id": "riding-black-tights",
-      "nameZh": "黑色不透连裤袜",
-      "nameEn": "Riding black tights",
+      "nameZh": "绿松石的风 · 不透连裤袜",
+      "nameEn": "A Teal Wind · Riding black tights",
       "slot": "tights",
       "fabric": "opaque-matte-knit",
       "image": "/assets/fashion-series/previews/pieces/riding-black-tights.webp",
@@ -3664,12 +4896,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-tights/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-black-tights/colour-front.png",
+      "originalNameZh": "黑色不透连裤袜",
+      "originalNameEn": "Riding black tights",
+      "pieceNameZh": "不透连裤袜",
+      "pieceNameEn": "Riding black tights",
+      "runtimeId": "colour-riding-black-tights"
     },
     {
       "id": "riding-oat-corduroy-culottes",
-      "nameZh": "燕麦灯芯绒裙裤",
-      "nameEn": "Riding oat corduroy culottes",
+      "nameZh": "绿松石的风 · 燕麦灯芯绒裙裤",
+      "nameEn": "A Teal Wind · Riding oat corduroy culottes",
       "slot": "bottom",
       "fabric": "wide-wale-corduroy",
       "image": "/assets/fashion-series/previews/pieces/riding-oat-corduroy-culottes.webp",
@@ -3681,12 +4918,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-oat-corduroy-culottes/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-oat-corduroy-culottes/colour-front.png",
+      "originalNameZh": "燕麦灯芯绒裙裤",
+      "originalNameEn": "Riding oat corduroy culottes",
+      "pieceNameZh": "燕麦灯芯绒裙裤",
+      "pieceNameEn": "Riding oat corduroy culottes",
+      "runtimeId": "colour-riding-oat-corduroy-culottes"
     },
     {
       "id": "riding-silver-pin",
-      "nameZh": "银色斗篷别针",
-      "nameEn": "Riding silver pin",
+      "nameZh": "绿松石的风 · 斗篷别针",
+      "nameEn": "A Teal Wind · Riding silver pin",
       "slot": "brooch",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/riding-silver-pin.webp",
@@ -3698,12 +4940,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-silver-pin/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-silver-pin/colour-front.png",
+      "originalNameZh": "银色斗篷别针",
+      "originalNameEn": "Riding silver pin",
+      "pieceNameZh": "斗篷别针",
+      "pieceNameEn": "Riding silver pin",
+      "runtimeId": "colour-riding-silver-pin"
     },
     {
       "id": "riding-teal-cape-coat",
-      "nameZh": "深青骑装斗篷",
-      "nameEn": "Riding teal cape coat",
+      "nameZh": "绿松石的风 · 深青骑装斗篷",
+      "nameEn": "A Teal Wind · Riding teal cape coat",
       "slot": "outerwear",
       "fabric": "felted-wool",
       "image": "/assets/fashion-series/previews/pieces/riding-teal-cape-coat.webp",
@@ -3715,12 +4962,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-teal-cape-coat/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/riding-teal-cape-coat/colour-front.png",
+      "originalNameZh": "深青骑装斗篷",
+      "originalNameEn": "Riding teal cape coat",
+      "pieceNameZh": "深青骑装斗篷",
+      "pieceNameEn": "Riding teal cape coat",
+      "runtimeId": "colour-riding-teal-cape-coat"
     },
     {
       "id": "city-coral-waist-shirt",
-      "nameZh": "珊瑚衬衫系腰前片",
-      "nameEn": "City coral waist shirt",
+      "nameZh": "珊瑚唱片 · 珊瑚衬衫系腰前片",
+      "nameEn": "Coral Records · City coral waist shirt",
       "slot": "waist-accessory",
       "fabric": "cotton-poplin",
       "image": "/assets/fashion-series/previews/pieces/city-coral-waist-shirt.webp",
@@ -3732,12 +4984,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-coral-waist-shirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-coral-waist-shirt/colour-front.png",
+      "originalNameZh": "珊瑚衬衫系腰前片",
+      "originalNameEn": "City coral waist shirt",
+      "pieceNameZh": "珊瑚衬衫系腰前片",
+      "pieceNameEn": "City coral waist shirt",
+      "runtimeId": "colour-city-coral-waist-shirt"
     },
     {
       "id": "city-navy-canvas-toe",
-      "nameZh": "海军蓝帆布鞋头",
-      "nameEn": "City navy canvas toe",
+      "nameZh": "珊瑚唱片 · 帆布鞋头",
+      "nameEn": "Coral Records · City navy canvas toe",
       "slot": "shoes",
       "fabric": "canvas-rubber",
       "image": "/assets/fashion-series/previews/pieces/city-navy-canvas-toe.webp",
@@ -3751,12 +5008,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-navy-canvas-toe/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-navy-canvas-toe/colour-front.png",
+      "originalNameZh": "海军蓝帆布鞋头",
+      "originalNameEn": "City navy canvas toe",
+      "pieceNameZh": "帆布鞋头",
+      "pieceNameEn": "City navy canvas toe",
+      "runtimeId": "colour-city-navy-canvas-toe"
     },
     {
       "id": "city-silver-disc-earrings",
-      "nameZh": "唱片银圆耳饰",
-      "nameEn": "City silver disc earrings",
+      "nameZh": "珊瑚唱片 · 唱片银圆耳饰",
+      "nameEn": "Coral Records · City silver disc earrings",
       "slot": "earrings",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/city-silver-disc-earrings.webp",
@@ -3768,12 +5030,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-disc-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-disc-earrings/colour-front.png",
+      "originalNameZh": "唱片银圆耳饰",
+      "originalNameEn": "City silver disc earrings",
+      "pieceNameZh": "唱片银圆耳饰",
+      "pieceNameEn": "City silver disc earrings",
+      "runtimeId": "colour-city-silver-disc-earrings"
     },
     {
       "id": "city-striped-top",
-      "nameZh": "珊瑚海军条纹上衣",
-      "nameEn": "City striped top",
+      "nameZh": "珊瑚唱片 · 珊瑚海军条纹上衣",
+      "nameEn": "Coral Records · City striped top",
       "slot": "top",
       "fabric": "cotton-jersey",
       "image": "/assets/fashion-series/previews/pieces/city-striped-top.webp",
@@ -3785,12 +5052,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-striped-top/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-striped-top/colour-front.png",
+      "originalNameZh": "珊瑚海军条纹上衣",
+      "originalNameEn": "City striped top",
+      "pieceNameZh": "珊瑚海军条纹上衣",
+      "pieceNameEn": "City striped top",
+      "runtimeId": "colour-city-striped-top"
     },
     {
       "id": "city-blue-pleated-jumpsuit",
-      "nameZh": "电蓝细褶连身裤",
-      "nameEn": "City blue pleated jumpsuit",
+      "nameZh": "蓝调合成器 · 电蓝细褶连身裤",
+      "nameEn": "A Blue Synthesizer · City blue pleated jumpsuit",
       "slot": "jumpsuit",
       "fabric": "micropleated-fabric",
       "image": "/assets/fashion-series/previews/pieces/city-blue-pleated-jumpsuit.webp",
@@ -3802,12 +5074,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-blue-pleated-jumpsuit/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-blue-pleated-jumpsuit/colour-front.png",
+      "originalNameZh": "电蓝细褶连身裤",
+      "originalNameEn": "City blue pleated jumpsuit",
+      "pieceNameZh": "电蓝细褶连身裤",
+      "pieceNameEn": "City blue pleated jumpsuit",
+      "runtimeId": "colour-city-blue-pleated-jumpsuit"
     },
     {
       "id": "city-pink-earrings",
-      "nameZh": "粉银几何耳饰",
-      "nameEn": "City pink earrings",
+      "nameZh": "蓝调合成器 · 粉银几何耳饰",
+      "nameEn": "A Blue Synthesizer · City pink earrings",
       "slot": "earrings",
       "fabric": "enamel-silver",
       "image": "/assets/fashion-series/previews/pieces/city-pink-earrings.webp",
@@ -3819,12 +5096,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-earrings/colour-front.png",
+      "originalNameZh": "粉银几何耳饰",
+      "originalNameEn": "City pink earrings",
+      "pieceNameZh": "粉银几何耳饰",
+      "pieceNameEn": "City pink earrings",
+      "runtimeId": "colour-city-pink-earrings"
     },
     {
       "id": "city-pink-fold-jacket",
-      "nameZh": "樱粉折纸短外套",
-      "nameEn": "City pink fold jacket",
+      "nameZh": "蓝调合成器 · 樱粉折纸短外套",
+      "nameEn": "A Blue Synthesizer · City pink fold jacket",
       "slot": "outerwear",
       "fabric": "structured-cotton",
       "image": "/assets/fashion-series/previews/pieces/city-pink-fold-jacket.webp",
@@ -3836,12 +5118,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-fold-jacket/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-pink-fold-jacket/colour-front.png",
+      "originalNameZh": "樱粉折纸短外套",
+      "originalNameEn": "City pink fold jacket",
+      "pieceNameZh": "樱粉折纸短外套",
+      "pieceNameEn": "City pink fold jacket",
+      "runtimeId": "colour-city-pink-fold-jacket"
     },
     {
       "id": "city-silver-square-toe",
-      "nameZh": "银色方头鞋前片",
-      "nameEn": "City silver square toe",
+      "nameZh": "蓝调合成器 · 方头鞋前片",
+      "nameEn": "A Blue Synthesizer · City silver square toe",
       "slot": "shoes",
       "fabric": "metallic-leather",
       "image": "/assets/fashion-series/previews/pieces/city-silver-square-toe.webp",
@@ -3853,12 +5140,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-square-toe/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-silver-square-toe/colour-front.png",
+      "originalNameZh": "银色方头鞋前片",
+      "originalNameEn": "City silver square toe",
+      "pieceNameZh": "方头鞋前片",
+      "pieceNameEn": "City silver square toe",
+      "runtimeId": "colour-city-silver-square-toe"
     },
     {
       "id": "city-black-gold-earrings",
-      "nameZh": "黑金几何耳钉",
-      "nameEn": "City black gold earrings",
+      "nameZh": "黄昏高频 · 黑金几何耳钉",
+      "nameEn": "Sunset Frequency · City black gold earrings",
       "slot": "earrings",
       "fabric": "enamel-gold",
       "image": "/assets/fashion-series/previews/pieces/city-black-gold-earrings.webp",
@@ -3870,12 +5162,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-gold-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-gold-earrings/colour-front.png",
+      "originalNameZh": "黑金几何耳钉",
+      "originalNameEn": "City black gold earrings",
+      "pieceNameZh": "黑金几何耳钉",
+      "pieceNameEn": "City black gold earrings",
+      "runtimeId": "colour-city-black-gold-earrings"
     },
     {
       "id": "city-black-sneaker-toe",
-      "nameZh": "黑色运动鞋头",
-      "nameEn": "City black sneaker toe",
+      "nameZh": "黄昏高频 · 运动鞋头",
+      "nameEn": "Sunset Frequency · City black sneaker toe",
       "slot": "shoes",
       "fabric": "technical-mesh",
       "image": "/assets/fashion-series/previews/pieces/city-black-sneaker-toe.webp",
@@ -3889,12 +5186,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-sneaker-toe/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-black-sneaker-toe/colour-front.png",
+      "originalNameZh": "黑色运动鞋头",
+      "originalNameEn": "City black sneaker toe",
+      "pieceNameZh": "运动鞋头",
+      "pieceNameEn": "City black sneaker toe",
+      "runtimeId": "colour-city-black-sneaker-toe"
     },
     {
       "id": "city-mustard-track-dress",
-      "nameZh": "芥黄运动拉链裙",
-      "nameEn": "City mustard track dress",
+      "nameZh": "黄昏高频 · 芥黄运动拉链裙",
+      "nameEn": "Sunset Frequency · City mustard track dress",
       "slot": "dress",
       "fabric": "technical-jersey",
       "image": "/assets/fashion-series/previews/pieces/city-mustard-track-dress.webp",
@@ -3906,12 +5208,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-mustard-track-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-mustard-track-dress/colour-front.png",
+      "originalNameZh": "芥黄运动拉链裙",
+      "originalNameEn": "City mustard track dress",
+      "pieceNameZh": "芥黄运动拉链裙",
+      "pieceNameEn": "City mustard track dress",
+      "runtimeId": "colour-city-mustard-track-dress"
     },
     {
       "id": "city-white-nylon-jacket",
-      "nameZh": "白色尼龙短外套",
-      "nameEn": "City white nylon jacket",
+      "nameZh": "黄昏高频 · 尼龙短外套",
+      "nameEn": "Sunset Frequency · City white nylon jacket",
       "slot": "outerwear",
       "fabric": "crinkled-nylon",
       "image": "/assets/fashion-series/previews/pieces/city-white-nylon-jacket.webp",
@@ -3923,12 +5230,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-white-nylon-jacket/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/city-white-nylon-jacket/colour-front.png",
+      "originalNameZh": "白色尼龙短外套",
+      "originalNameEn": "City white nylon jacket",
+      "pieceNameZh": "尼龙短外套",
+      "pieceNameEn": "City white nylon jacket",
+      "runtimeId": "colour-city-white-nylon-jacket"
     },
     {
       "id": "tennis-front-pleat-panel",
-      "nameZh": "象牙前褶叠裙片",
-      "nameEn": "Tennis front pleat panel",
+      "nameZh": "常青边线 · 象牙前褶叠裙片",
+      "nameEn": "The Evergreen Line · Tennis front pleat panel",
       "slot": "waist-accessory",
       "fabric": "crisp-cotton",
       "image": "/assets/fashion-series/previews/pieces/tennis-front-pleat-panel.webp",
@@ -3940,12 +5252,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-front-pleat-panel/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-front-pleat-panel/colour-front.png",
+      "originalNameZh": "象牙前褶叠裙片",
+      "originalNameEn": "Tennis front pleat panel",
+      "pieceNameZh": "象牙前褶叠裙片",
+      "pieceNameEn": "Tennis front pleat panel",
+      "runtimeId": "colour-tennis-front-pleat-panel"
     },
     {
       "id": "tennis-green-coat",
-      "nameZh": "常青翻领短外套",
-      "nameEn": "Tennis green coat",
+      "nameZh": "常青边线 · 常青翻领短外套",
+      "nameEn": "The Evergreen Line · Tennis green coat",
       "slot": "outerwear",
       "fabric": "cotton-nylon",
       "image": "/assets/fashion-series/previews/pieces/tennis-green-coat.webp",
@@ -3957,12 +5274,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-coat/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-coat/colour-front.png",
+      "originalNameZh": "常青翻领短外套",
+      "originalNameEn": "Tennis green coat",
+      "pieceNameZh": "常青翻领短外套",
+      "pieceNameEn": "Tennis green coat",
+      "runtimeId": "colour-tennis-green-coat"
     },
     {
       "id": "tennis-green-trousers",
-      "nameZh": "常青棉尼龙长裤",
-      "nameEn": "Tennis green trousers",
+      "nameZh": "常青边线 · 常青棉尼龙长裤",
+      "nameEn": "The Evergreen Line · Tennis green trousers",
       "slot": "bottom",
       "fabric": "cotton-nylon",
       "image": "/assets/fashion-series/previews/pieces/tennis-green-trousers.webp",
@@ -3974,12 +5296,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-green-trousers/colour-front.png",
+      "originalNameZh": "常青棉尼龙长裤",
+      "originalNameEn": "Tennis green trousers",
+      "pieceNameZh": "常青棉尼龙长裤",
+      "pieceNameEn": "Tennis green trousers",
+      "runtimeId": "colour-tennis-green-trousers"
     },
     {
       "id": "tennis-ivory-polo",
-      "nameZh": "象牙罗纹Polo",
-      "nameEn": "Tennis ivory polo",
+      "nameZh": "常青边线 · 象牙罗纹Polo",
+      "nameEn": "The Evergreen Line · Tennis ivory polo",
       "slot": "top",
       "fabric": "fine-rib-cotton",
       "image": "/assets/fashion-series/previews/pieces/tennis-ivory-polo.webp",
@@ -3992,12 +5319,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-ivory-polo/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-ivory-polo/colour-front.png",
+      "originalNameZh": "象牙罗纹Polo",
+      "originalNameEn": "Tennis ivory polo",
+      "pieceNameZh": "象牙罗纹Polo",
+      "pieceNameEn": "Tennis ivory polo",
+      "runtimeId": "colour-tennis-ivory-polo"
     },
     {
       "id": "tennis-white-toe",
-      "nameZh": "白色球鞋鞋头",
-      "nameEn": "Tennis white toe",
+      "nameZh": "常青边线 · 球鞋鞋头",
+      "nameEn": "The Evergreen Line · Tennis white toe",
       "slot": "shoes",
       "fabric": "leather-rubber",
       "image": "/assets/fashion-series/previews/pieces/tennis-white-toe.webp",
@@ -4013,12 +5345,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-white-toe/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-white-toe/colour-front.png",
+      "originalNameZh": "白色球鞋鞋头",
+      "originalNameEn": "Tennis white toe",
+      "pieceNameZh": "球鞋鞋头",
+      "pieceNameEn": "Tennis white toe",
+      "runtimeId": "colour-tennis-white-toe"
     },
     {
       "id": "tennis-apricot-polo",
-      "nameZh": "杏橘珠地Polo",
-      "nameEn": "Tennis apricot polo",
+      "nameZh": "橘色抢七 · 杏橘珠地Polo",
+      "nameEn": "Orange Tie-Break · Tennis apricot polo",
       "slot": "top",
       "fabric": "cotton-pique",
       "image": "/assets/fashion-series/previews/pieces/tennis-apricot-polo.webp",
@@ -4030,12 +5367,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-apricot-polo/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-apricot-polo/colour-front.png",
+      "originalNameZh": "杏橘珠地Polo",
+      "originalNameEn": "Tennis apricot polo",
+      "pieceNameZh": "杏橘珠地Polo",
+      "pieceNameEn": "Tennis apricot polo",
+      "runtimeId": "colour-tennis-apricot-polo"
     },
     {
       "id": "tennis-navy-skort-front",
-      "nameZh": "海军蓝百褶裙",
-      "nameEn": "Tennis navy skort front",
+      "nameZh": "橘色抢七 · 百褶裙",
+      "nameEn": "Orange Tie-Break · Tennis navy skort front",
       "slot": "bottom",
       "fabric": "crisp-technical-twill",
       "image": "/assets/fashion-series/previews/pieces/tennis-navy-skort-front.webp",
@@ -4049,12 +5391,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-navy-skort-front/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-navy-skort-front/colour-front.png",
+      "originalNameZh": "海军蓝百褶裙",
+      "originalNameEn": "Tennis navy skort front",
+      "pieceNameZh": "百褶裙",
+      "pieceNameEn": "Tennis navy skort front",
+      "runtimeId": "colour-tennis-navy-skort-front"
     },
     {
       "id": "tennis-silver-studs",
-      "nameZh": "球场银色耳钉",
-      "nameEn": "Tennis silver studs",
+      "nameZh": "橘色抢七 · 球场银色耳钉",
+      "nameEn": "Orange Tie-Break · Tennis silver studs",
       "slot": "earrings",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/tennis-silver-studs.webp",
@@ -4069,12 +5416,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-silver-studs/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-silver-studs/colour-front.png",
+      "originalNameZh": "球场银色耳钉",
+      "originalNameEn": "Tennis silver studs",
+      "pieceNameZh": "球场银色耳钉",
+      "pieceNameEn": "Tennis silver studs",
+      "runtimeId": "colour-tennis-silver-studs"
     },
     {
       "id": "tennis-stripe-socks",
-      "nameZh": "细条纹网球袜",
-      "nameEn": "Tennis stripe socks",
+      "nameZh": "橘色抢七 · 细条纹网球袜",
+      "nameEn": "Orange Tie-Break · Tennis stripe socks",
       "slot": "socks",
       "fabric": "cotton-knit",
       "image": "/assets/fashion-series/previews/pieces/tennis-stripe-socks.webp",
@@ -4086,12 +5438,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-stripe-socks/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-stripe-socks/colour-front.png",
+      "originalNameZh": "细条纹网球袜",
+      "originalNameEn": "Tennis stripe socks",
+      "pieceNameZh": "细条纹网球袜",
+      "pieceNameEn": "Tennis stripe socks",
+      "runtimeId": "colour-tennis-stripe-socks"
     },
     {
       "id": "tennis-burgundy-shoulder-knit",
-      "nameZh": "酒红肩搭针织",
-      "nameEn": "Tennis burgundy shoulder knit",
+      "nameZh": "丁香休赛日 · 肩搭针织",
+      "nameEn": "A Lilac Rest Day · Tennis burgundy shoulder knit",
       "slot": "shoulder-accessory",
       "fabric": "cotton-knit",
       "image": "/assets/fashion-series/previews/pieces/tennis-burgundy-shoulder-knit.webp",
@@ -4103,12 +5460,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-burgundy-shoulder-knit/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-burgundy-shoulder-knit/colour-front.png",
+      "originalNameZh": "酒红肩搭针织",
+      "originalNameEn": "Tennis burgundy shoulder knit",
+      "pieceNameZh": "肩搭针织",
+      "pieceNameEn": "Tennis burgundy shoulder knit",
+      "runtimeId": "colour-tennis-burgundy-shoulder-knit"
     },
     {
       "id": "tennis-lilac-cardigan",
-      "nameZh": "丁香华夫格短衫",
-      "nameEn": "Tennis lilac cardigan",
+      "nameZh": "丁香休赛日 · 丁香华夫格短衫",
+      "nameEn": "A Lilac Rest Day · Tennis lilac cardigan",
       "slot": "outerwear",
       "fabric": "waffle-knit",
       "image": "/assets/fashion-series/previews/pieces/tennis-lilac-cardigan.webp",
@@ -4120,12 +5482,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-lilac-cardigan/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-lilac-cardigan/colour-front.png",
+      "originalNameZh": "丁香华夫格短衫",
+      "originalNameEn": "Tennis lilac cardigan",
+      "pieceNameZh": "丁香华夫格短衫",
+      "pieceNameEn": "Tennis lilac cardigan",
+      "runtimeId": "colour-tennis-lilac-cardigan"
     },
     {
       "id": "tennis-pearl-studs",
-      "nameZh": "丁香珍珠耳钉",
-      "nameEn": "Tennis pearl studs",
+      "nameZh": "丁香休赛日 · 丁香珍珠耳钉",
+      "nameEn": "A Lilac Rest Day · Tennis pearl studs",
       "slot": "earrings",
       "fabric": "pearl",
       "image": "/assets/fashion-series/previews/pieces/tennis-pearl-studs.webp",
@@ -4137,12 +5504,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-pearl-studs/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-pearl-studs/colour-front.png",
+      "originalNameZh": "丁香珍珠耳钉",
+      "originalNameEn": "Tennis pearl studs",
+      "pieceNameZh": "丁香珍珠耳钉",
+      "pieceNameEn": "Tennis pearl studs",
+      "runtimeId": "colour-tennis-pearl-studs"
     },
     {
       "id": "tennis-wrap-shorts",
-      "nameZh": "象牙斜叠短裤",
-      "nameEn": "Tennis wrap shorts",
+      "nameZh": "丁香休赛日 · 象牙斜叠短裤",
+      "nameEn": "A Lilac Rest Day · Tennis wrap shorts",
       "slot": "bottom",
       "fabric": "cotton-twill",
       "image": "/assets/fashion-series/previews/pieces/tennis-wrap-shorts.webp",
@@ -4154,12 +5526,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-wrap-shorts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/tennis-city-equestrian/colour-front-assets/tennis-wrap-shorts/colour-front.png",
+      "originalNameZh": "象牙斜叠短裤",
+      "originalNameEn": "Tennis wrap shorts",
+      "pieceNameZh": "象牙斜叠短裤",
+      "pieceNameEn": "Tennis wrap shorts",
+      "runtimeId": "colour-tennis-wrap-shorts"
     },
     {
       "id": "orbit-blue-capelet",
-      "nameZh": "冰蓝透明肩罩",
-      "nameEn": "Orbit blue capelet",
+      "nameZh": "轨道静默 · 透明肩罩",
+      "nameEn": "Orbital Silence · Translucent Capelet",
       "slot": "shoulder-accessory",
       "fabric": "translucent-organza",
       "image": "/assets/fashion-series/previews/pieces/orbit-blue-capelet.webp",
@@ -4171,12 +5548,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-blue-capelet/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-blue-capelet/colour-front.png",
+      "originalNameZh": "冰蓝透明肩罩",
+      "originalNameEn": "Orbit blue capelet",
+      "pieceNameZh": "透明肩罩",
+      "pieceNameEn": "Translucent Capelet",
+      "runtimeId": "colour-orbit-blue-capelet"
     },
     {
       "id": "orbit-geometric-dress",
-      "nameZh": "冰白弧线几何短裙",
-      "nameEn": "Orbit geometric dress",
+      "nameZh": "轨道静默 · 立领几何短裙",
+      "nameEn": "Orbital Silence · Geometric Halterneck Mini Dress",
       "slot": "dress",
       "fabric": "bonded-jersey",
       "image": "/assets/fashion-series/previews/pieces/orbit-geometric-dress.webp",
@@ -4188,12 +5570,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-geometric-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-geometric-dress/colour-front.png",
+      "originalNameZh": "冰白弧线几何短裙",
+      "originalNameEn": "Orbit geometric dress",
+      "pieceNameZh": "立领几何短裙",
+      "pieceNameEn": "Geometric Halterneck Mini Dress",
+      "runtimeId": "colour-orbit-geometric-dress"
     },
     {
       "id": "orbit-rectangular-earrings",
-      "nameZh": "轨道银框耳饰",
-      "nameEn": "Orbit rectangular earrings",
+      "nameZh": "轨道静默 · 轨道银框耳饰",
+      "nameEn": "Orbital Silence · Orbit rectangular earrings",
       "slot": "earrings",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/orbit-rectangular-earrings.webp",
@@ -4205,12 +5592,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-rectangular-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-rectangular-earrings/colour-front.png",
+      "originalNameZh": "轨道银框耳饰",
+      "originalNameEn": "Orbit rectangular earrings",
+      "pieceNameZh": "轨道银框耳饰",
+      "pieceNameEn": "Orbit rectangular earrings",
+      "runtimeId": "colour-orbit-rectangular-earrings"
     },
     {
       "id": "orbit-silver-boot-fronts",
-      "nameZh": "银色方头靴前片",
-      "nameEn": "Orbit silver boot fronts",
+      "nameZh": "轨道静默 · 方头长靴",
+      "nameEn": "Orbital Silence · Square-Toe Knee Boots",
       "slot": "shoes",
       "fabric": "satin-metallic-leather",
       "image": "/assets/fashion-series/previews/pieces/orbit-silver-boot-fronts.webp",
@@ -4222,12 +5614,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-silver-boot-fronts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/orbit-silver-boot-fronts/colour-front.png",
+      "originalNameZh": "银色方头靴前片",
+      "originalNameEn": "Orbit silver boot fronts",
+      "pieceNameZh": "方头长靴",
+      "pieceNameEn": "Square-Toe Knee Boots",
+      "runtimeId": "colour-orbit-silver-boot-fronts"
     },
     {
       "id": "frequency-chunky-toes",
-      "nameZh": "银黑方头厚底鞋头",
-      "nameEn": "Frequency chunky toes",
+      "nameZh": "失真频段 · 银黑方头厚底鞋头",
+      "nameEn": "Distorted Frequency · Frequency chunky toes",
       "slot": "shoes",
       "fabric": "metallic-leather-rubber",
       "image": "/assets/fashion-series/previews/pieces/frequency-chunky-toes.webp",
@@ -4239,12 +5636,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-chunky-toes/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-chunky-toes/colour-front.png",
+      "originalNameZh": "银黑方头厚底鞋头",
+      "originalNameEn": "Frequency chunky toes",
+      "pieceNameZh": "银黑方头厚底鞋头",
+      "pieceNameEn": "Frequency chunky toes",
+      "runtimeId": "colour-frequency-chunky-toes"
     },
     {
       "id": "frequency-denim-bolero",
-      "nameZh": "银蓝洗水牛仔短夹克",
-      "nameEn": "Frequency denim bolero",
+      "nameZh": "失真频段 · 宽肩丹宁短夹克",
+      "nameEn": "Distorted Frequency · Broad-Shoulder Denim Bolero",
       "slot": "outerwear",
       "fabric": "acid-wash-denim",
       "image": "/assets/fashion-series/previews/pieces/frequency-denim-bolero.webp",
@@ -4256,12 +5658,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-denim-bolero/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-denim-bolero/colour-front.png",
+      "originalNameZh": "银蓝洗水牛仔短夹克",
+      "originalNameEn": "Frequency denim bolero",
+      "pieceNameZh": "宽肩丹宁短夹克",
+      "pieceNameEn": "Broad-Shoulder Denim Bolero",
+      "runtimeId": "colour-frequency-denim-bolero"
     },
     {
       "id": "frequency-lilac-tank",
-      "nameZh": "丁香荧边短背心",
-      "nameEn": "Frequency lilac tank",
+      "nameZh": "失真频段 · 撞边背心",
+      "nameEn": "Distorted Frequency · Contrast-Trim Tank",
       "slot": "top",
       "fabric": "compact-cotton-jersey",
       "image": "/assets/fashion-series/previews/pieces/frequency-lilac-tank.webp",
@@ -4273,12 +5680,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lilac-tank/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lilac-tank/colour-front.png",
+      "originalNameZh": "丁香荧边短背心",
+      "originalNameEn": "Frequency lilac tank",
+      "pieceNameZh": "撞边背心",
+      "pieceNameEn": "Contrast-Trim Tank",
+      "runtimeId": "colour-frequency-lilac-tank"
     },
     {
       "id": "frequency-lowrise-flares",
-      "nameZh": "低腰双片牛仔喇叭裤",
-      "nameEn": "Frequency lowrise flares",
+      "nameZh": "失真频段 · 低腰喇叭牛仔裤",
+      "nameEn": "Distorted Frequency · Low-Rise Flared Jeans",
       "slot": "bottom",
       "fabric": "acid-wash-denim",
       "image": "/assets/fashion-series/previews/pieces/frequency-lowrise-flares.webp",
@@ -4290,12 +5702,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lowrise-flares/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-lowrise-flares/colour-front.png",
+      "originalNameZh": "低腰双片牛仔喇叭裤",
+      "originalNameEn": "Frequency lowrise flares",
+      "pieceNameZh": "低腰喇叭牛仔裤",
+      "pieceNameEn": "Low-Rise Flared Jeans",
+      "runtimeId": "colour-frequency-lowrise-flares"
     },
     {
       "id": "frequency-silver-earcuffs",
-      "nameZh": "银色折线耳骨夹",
-      "nameEn": "Frequency silver earcuffs",
+      "nameZh": "失真频段 · 折线耳骨夹",
+      "nameEn": "Distorted Frequency · Frequency silver earcuffs",
       "slot": "earrings",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/frequency-silver-earcuffs.webp",
@@ -4307,12 +5724,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-silver-earcuffs/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/frequency-silver-earcuffs/colour-front.png",
+      "originalNameZh": "银色折线耳骨夹",
+      "originalNameEn": "Frequency silver earcuffs",
+      "pieceNameZh": "折线耳骨夹",
+      "pieceNameEn": "Frequency silver earcuffs",
+      "runtimeId": "colour-frequency-silver-earcuffs"
     },
     {
       "id": "echo-asymmetric-dress",
-      "nameZh": "丁香非对称流动裙",
-      "nameEn": "Echo asymmetric dress",
+      "nameZh": "液态回声 · 不对称抽褶短裙",
+      "nameEn": "Liquid Echo · Asymmetric Ruched Mini Dress",
       "slot": "dress",
       "fabric": "jersey-and-sheer-chiffon",
       "image": "/assets/fashion-series/previews/pieces/echo-asymmetric-dress.webp",
@@ -4324,12 +5746,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-asymmetric-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-asymmetric-dress/colour-front.png",
+      "originalNameZh": "丁香非对称流动裙",
+      "originalNameEn": "Echo asymmetric dress",
+      "pieceNameZh": "不对称抽褶短裙",
+      "pieceNameEn": "Asymmetric Ruched Mini Dress",
+      "runtimeId": "colour-echo-asymmetric-dress"
     },
     {
       "id": "echo-blue-armwarmer",
-      "nameZh": "冰蓝镂空袖套",
-      "nameEn": "Echo blue armwarmer",
+      "nameZh": "液态回声 · 冰蓝镂空袖套",
+      "nameEn": "Liquid Echo · Echo blue armwarmer",
       "slot": "arm-accessory",
       "fabric": "openwork-knit",
       "image": "/assets/fashion-series/previews/pieces/echo-blue-armwarmer.webp",
@@ -4341,12 +5768,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-blue-armwarmer/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-blue-armwarmer/colour-front.png",
+      "originalNameZh": "冰蓝镂空袖套",
+      "originalNameEn": "Echo blue armwarmer",
+      "pieceNameZh": "冰蓝镂空袖套",
+      "pieceNameEn": "Echo blue armwarmer",
+      "runtimeId": "colour-echo-blue-armwarmer"
     },
     {
       "id": "echo-hair-crescents",
-      "nameZh": "银色双弧发夹",
-      "nameEn": "Echo hair crescents",
+      "nameZh": "液态回声 · 双弧发夹",
+      "nameEn": "Liquid Echo · Echo hair crescents",
       "slot": "hair-accessory",
       "fabric": "silver",
       "image": "/assets/fashion-series/previews/pieces/echo-hair-crescents.webp",
@@ -4358,12 +5790,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-hair-crescents/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-hair-crescents/colour-front.png",
+      "originalNameZh": "银色双弧发夹",
+      "originalNameEn": "Echo hair crescents",
+      "pieceNameZh": "双弧发夹",
+      "pieceNameEn": "Echo hair crescents",
+      "runtimeId": "colour-echo-hair-crescents"
     },
     {
       "id": "echo-platform-toes",
-      "nameZh": "丁香银带厚底鞋头",
-      "nameEn": "Echo platform toes",
+      "nameZh": "液态回声 · 丁香银带厚底鞋头",
+      "nameEn": "Liquid Echo · Echo platform toes",
       "slot": "shoes",
       "fabric": "metallic-lilac-leather",
       "image": "/assets/fashion-series/previews/pieces/echo-platform-toes.webp",
@@ -4375,12 +5812,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-platform-toes/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/y2k-future/colour-front-assets/echo-platform-toes/colour-front.png",
+      "originalNameZh": "丁香银带厚底鞋头",
+      "originalNameEn": "Echo platform toes",
+      "pieceNameZh": "丁香银带厚底鞋头",
+      "pieceNameEn": "Echo platform toes",
+      "runtimeId": "colour-echo-platform-toes"
     },
     {
       "id": "mob-black-creased-trousers",
-      "nameZh": "黑色窄直礼服裤",
-      "nameEn": "Mob black creased trousers",
+      "nameZh": "鎏金主场 · 窄直礼服裤",
+      "nameEn": "A Gilded Entrance · Mob black creased trousers",
       "slot": "bottom",
       "fabric": "wool-gabardine",
       "image": "/assets/fashion-series/previews/pieces/mob-black-creased-trousers.webp",
@@ -4392,12 +5834,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-creased-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-creased-trousers/colour-front.png",
+      "originalNameZh": "黑色窄直礼服裤",
+      "originalNameEn": "Mob black creased trousers",
+      "pieceNameZh": "窄直礼服裤",
+      "pieceNameEn": "Mob black creased trousers",
+      "runtimeId": null
     },
     {
       "id": "mob-black-doublebreast-vest",
-      "nameZh": "黑缎领双排扣马甲",
-      "nameEn": "Mob black doublebreast vest",
+      "nameZh": "鎏金主场 · 黑缎领双排扣马甲",
+      "nameEn": "A Gilded Entrance · Mob black doublebreast vest",
       "slot": "outerwear",
       "fabric": "wool-and-satin",
       "image": "/assets/fashion-series/previews/pieces/mob-black-doublebreast-vest.webp",
@@ -4409,12 +5856,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-doublebreast-vest/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-doublebreast-vest/colour-front.png",
+      "originalNameZh": "黑缎领双排扣马甲",
+      "originalNameEn": "Mob black doublebreast vest",
+      "pieceNameZh": "黑缎领双排扣马甲",
+      "pieceNameEn": "Mob black doublebreast vest",
+      "runtimeId": null
     },
     {
       "id": "mob-black-opera-gloves",
-      "nameZh": "黑绒长手套",
-      "nameEn": "Mob black opera gloves",
+      "nameZh": "鎏金主场 · 黑绒长手套",
+      "nameEn": "A Gilded Entrance · Mob black opera gloves",
       "slot": "gloves",
       "fabric": "velvet",
       "image": "/assets/fashion-series/previews/pieces/mob-black-opera-gloves.webp",
@@ -4427,12 +5879,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-opera-gloves/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-opera-gloves/colour-front.png",
+      "originalNameZh": "黑绒长手套",
+      "originalNameEn": "Mob black opera gloves",
+      "pieceNameZh": "黑绒长手套",
+      "pieceNameEn": "Mob black opera gloves",
+      "runtimeId": null
     },
     {
       "id": "mob-espresso-faux-fur-cape",
-      "nameZh": "浓咖仿皮草短披",
-      "nameEn": "Mob espresso faux fur cape",
+      "nameZh": "鎏金主场 · 浓咖仿皮草短披",
+      "nameEn": "A Gilded Entrance · Mob espresso faux fur cape",
       "slot": "outerwear",
       "fabric": "faux-fur",
       "image": "/assets/fashion-series/previews/pieces/mob-espresso-faux-fur-cape.webp",
@@ -4444,12 +5901,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-espresso-faux-fur-cape/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-espresso-faux-fur-cape/colour-front.png",
+      "originalNameZh": "浓咖仿皮草短披",
+      "originalNameEn": "Mob espresso faux fur cape",
+      "pieceNameZh": "浓咖仿皮草短披",
+      "pieceNameEn": "Mob espresso faux fur cape",
+      "runtimeId": null
     },
     {
       "id": "mob-opaque-lace-shell",
-      "nameZh": "黑色不透蕾纹内搭",
-      "nameEn": "Mob opaque lace shell",
+      "nameZh": "鎏金主场 · 不透蕾纹内搭",
+      "nameEn": "A Gilded Entrance · Mob opaque lace shell",
       "slot": "top",
       "fabric": "opaque-lace-pattern-knit",
       "image": "/assets/fashion-series/previews/pieces/mob-opaque-lace-shell.webp",
@@ -4461,12 +5923,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-opaque-lace-shell/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-opaque-lace-shell/colour-front.png",
+      "originalNameZh": "黑色不透蕾纹内搭",
+      "originalNameEn": "Mob opaque lace shell",
+      "pieceNameZh": "不透蕾纹内搭",
+      "pieceNameEn": "Mob opaque lace shell",
+      "runtimeId": null
     },
     {
       "id": "mob-wide-square-earrings",
-      "nameZh": "古金宽方耳饰",
-      "nameEn": "Mob wide square earrings",
+      "nameZh": "鎏金主场 · 古金宽方耳饰",
+      "nameEn": "A Gilded Entrance · Mob wide square earrings",
       "slot": "earrings",
       "fabric": "antique-gold",
       "image": "/assets/fashion-series/previews/pieces/mob-wide-square-earrings.webp",
@@ -4480,12 +5947,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-wide-square-earrings/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-wide-square-earrings/colour-front.png",
+      "originalNameZh": "古金宽方耳饰",
+      "originalNameEn": "Mob wide square earrings",
+      "pieceNameZh": "古金宽方耳饰",
+      "pieceNameEn": "Mob wide square earrings",
+      "runtimeId": null
     },
     {
       "id": "mob-black-satin-shawl",
-      "nameZh": "黑缎低披肩前片",
-      "nameEn": "Mob black satin shawl",
+      "nameZh": "石榴夜宴 · 黑缎低披肩前片",
+      "nameEn": "The Garnet Supper · Mob black satin shawl",
       "slot": "shoulder-accessory",
       "fabric": "satin",
       "image": "/assets/fashion-series/previews/pieces/mob-black-satin-shawl.webp",
@@ -4497,12 +5969,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-satin-shawl/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-black-satin-shawl/colour-front.png",
+      "originalNameZh": "黑缎低披肩前片",
+      "originalNameEn": "Mob black satin shawl",
+      "pieceNameZh": "黑缎低披肩前片",
+      "pieceNameEn": "Mob black satin shawl",
+      "runtimeId": null
     },
     {
       "id": "mob-oxblood-bias-dress",
-      "nameZh": "石榴单肩斜裁长裙",
-      "nameEn": "Mob oxblood bias dress",
+      "nameZh": "石榴夜宴 · 石榴单肩斜裁长裙",
+      "nameEn": "The Garnet Supper · Mob oxblood bias dress",
       "slot": "dress",
       "fabric": "bias-silk",
       "image": "/assets/fashion-series/previews/pieces/mob-oxblood-bias-dress.webp",
@@ -4514,12 +5991,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-bias-dress/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-bias-dress/colour-front.png",
+      "originalNameZh": "石榴单肩斜裁长裙",
+      "originalNameEn": "Mob oxblood bias dress",
+      "pieceNameZh": "石榴单肩斜裁长裙",
+      "pieceNameEn": "Mob oxblood bias dress",
+      "runtimeId": null
     },
     {
       "id": "mob-oxblood-hourglass-jacket",
-      "nameZh": "酒红锐肩收腰外套",
-      "nameEn": "Mob oxblood hourglass jacket",
+      "nameZh": "锋芒入席 · 锐肩收腰外套",
+      "nameEn": "An Entrance with an Edge · Mob oxblood hourglass jacket",
       "slot": "outerwear",
       "fabric": "structured-wool",
       "image": "/assets/fashion-series/previews/pieces/mob-oxblood-hourglass-jacket.webp",
@@ -4531,12 +6013,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-hourglass-jacket/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/mob-oxblood-hourglass-jacket/colour-front.png",
+      "originalNameZh": "酒红锐肩收腰外套",
+      "originalNameEn": "Mob oxblood hourglass jacket",
+      "pieceNameZh": "锐肩收腰外套",
+      "pieceNameEn": "Mob oxblood hourglass jacket",
+      "runtimeId": null
     },
     {
       "id": "indie-black-zip-trousers",
-      "nameZh": "黑色拉链窄裤",
-      "nameEn": "Indie black zip trousers",
+      "nameZh": "最后一首安可 · 拉链窄裤",
+      "nameEn": "One Last Encore · Indie black zip trousers",
       "slot": "bottom",
       "fabric": "stretch-cotton-twill",
       "image": "/assets/fashion-series/previews/pieces/indie-black-zip-trousers.webp",
@@ -4548,12 +6035,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-zip-trousers/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-zip-trousers/colour-front.png",
+      "originalNameZh": "黑色拉链窄裤",
+      "originalNameEn": "Indie black zip trousers",
+      "pieceNameZh": "拉链窄裤",
+      "pieceNameEn": "Indie black zip trousers",
+      "runtimeId": null
     },
     {
       "id": "indie-charcoal-long-blazer",
-      "nameZh": "窄肩炭黑长西装",
-      "nameEn": "Indie charcoal long blazer",
+      "nameZh": "最后一首安可 · 窄肩炭黑长西装",
+      "nameEn": "One Last Encore · Indie charcoal long blazer",
       "slot": "outerwear",
       "fabric": "fine-charcoal-wool",
       "image": "/assets/fashion-series/previews/pieces/indie-charcoal-long-blazer.webp",
@@ -4565,12 +6057,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-charcoal-long-blazer/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-charcoal-long-blazer/colour-front.png",
+      "originalNameZh": "窄肩炭黑长西装",
+      "originalNameEn": "Indie charcoal long blazer",
+      "pieceNameZh": "窄肩炭黑长西装",
+      "pieceNameEn": "Indie charcoal long blazer",
+      "runtimeId": null
     },
     {
       "id": "indie-chelsea-boot-fronts",
-      "nameZh": "旧黑切尔西短靴前片",
-      "nameEn": "Indie chelsea boot fronts",
+      "nameZh": "最后一首安可 · 旧黑切尔西短靴前片",
+      "nameEn": "One Last Encore · Indie chelsea boot fronts",
       "slot": "shoes",
       "fabric": "worn-leather",
       "image": "/assets/fashion-series/previews/pieces/indie-chelsea-boot-fronts.webp",
@@ -4584,12 +6081,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-chelsea-boot-fronts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-chelsea-boot-fronts/colour-front.png",
+      "originalNameZh": "旧黑切尔西短靴前片",
+      "originalNameEn": "Indie chelsea boot fronts",
+      "pieceNameZh": "旧黑切尔西短靴前片",
+      "pieceNameEn": "Indie chelsea boot fronts",
+      "runtimeId": null
     },
     {
       "id": "indie-ivory-crew-tee",
-      "nameZh": "素象牙贴身T恤",
-      "nameEn": "Indie ivory crew tee",
+      "nameZh": "最后一首安可 · 素象牙贴身T恤",
+      "nameEn": "One Last Encore · Indie ivory crew tee",
       "slot": "top",
       "fabric": "fine-cotton-jersey",
       "image": "/assets/fashion-series/previews/pieces/indie-ivory-crew-tee.webp",
@@ -4601,12 +6103,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-crew-tee/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-crew-tee/colour-front.png",
+      "originalNameZh": "素象牙贴身T恤",
+      "originalNameEn": "Indie ivory crew tee",
+      "pieceNameZh": "素象牙贴身T恤",
+      "pieceNameEn": "Indie ivory crew tee",
+      "runtimeId": null
     },
     {
       "id": "indie-ivory-cuff-fronts",
-      "nameZh": "象牙长袖口前片",
-      "nameEn": "Indie ivory cuff fronts",
+      "nameZh": "最后一首安可 · 象牙长袖口前片",
+      "nameEn": "One Last Encore · Indie ivory cuff fronts",
       "slot": "arm-accessory",
       "fabric": "cotton-poplin",
       "image": "/assets/fashion-series/previews/pieces/indie-ivory-cuff-fronts.webp",
@@ -4618,12 +6125,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-cuff-fronts/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-ivory-cuff-fronts/colour-front.png",
+      "originalNameZh": "象牙长袖口前片",
+      "originalNameEn": "Indie ivory cuff fronts",
+      "pieceNameZh": "象牙长袖口前片",
+      "pieceNameEn": "Indie ivory cuff fronts",
+      "runtimeId": null
     },
     {
       "id": "indie-skinny-scarf",
-      "nameZh": "黑色细长围巾前片",
-      "nameEn": "Indie skinny scarf",
+      "nameZh": "最后一首安可 · 细长围巾前片",
+      "nameEn": "One Last Encore · Indie skinny scarf",
       "slot": "neck-accessory",
       "fabric": "silk",
       "image": "/assets/fashion-series/previews/pieces/indie-skinny-scarf.webp",
@@ -4635,12 +6147,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-skinny-scarf/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-skinny-scarf/colour-front.png",
+      "originalNameZh": "黑色细长围巾前片",
+      "originalNameEn": "Indie skinny scarf",
+      "pieceNameZh": "细长围巾前片",
+      "pieceNameEn": "Indie skinny scarf",
+      "runtimeId": null
     },
     {
       "id": "indie-black-wrist-cuff",
-      "nameZh": "旧黑双扣腕带",
-      "nameEn": "Indie black wrist cuff",
+      "nameZh": "闪光灯余温 · 旧黑双扣腕带",
+      "nameEn": "After the Flash · Indie black wrist cuff",
       "slot": "bracelet",
       "fabric": "worn-leather",
       "image": "/assets/fashion-series/previews/pieces/indie-black-wrist-cuff.webp",
@@ -4652,12 +6169,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-wrist-cuff/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-wrist-cuff/colour-front.png",
+      "originalNameZh": "旧黑双扣腕带",
+      "originalNameEn": "Indie black wrist cuff",
+      "pieceNameZh": "旧黑双扣腕带",
+      "pieceNameEn": "Indie black wrist cuff",
+      "runtimeId": null
     },
     {
       "id": "indie-silver-sequin-skirt",
-      "nameZh": "细银片斜扣短裙",
-      "nameEn": "Indie silver sequin skirt",
+      "nameZh": "闪光灯余温 · 细银片斜扣短裙",
+      "nameEn": "After the Flash · Indie silver sequin skirt",
       "slot": "bottom",
       "fabric": "micro-sequins",
       "image": "/assets/fashion-series/previews/pieces/indie-silver-sequin-skirt.webp",
@@ -4669,12 +6191,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-silver-sequin-skirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-silver-sequin-skirt/colour-front.png",
+      "originalNameZh": "细银片斜扣短裙",
+      "originalNameEn": "Indie silver sequin skirt",
+      "pieceNameZh": "细银片斜扣短裙",
+      "pieceNameEn": "Indie silver sequin skirt",
+      "runtimeId": null
     },
     {
       "id": "indie-washed-charcoal-tee",
-      "nameZh": "水洗炭灰宽T恤",
-      "nameEn": "Indie washed charcoal tee",
+      "nameZh": "闪光灯余温 · 水洗炭灰宽T恤",
+      "nameEn": "After the Flash · Indie washed charcoal tee",
       "slot": "top",
       "fabric": "washed-cotton-jersey",
       "image": "/assets/fashion-series/previews/pieces/indie-washed-charcoal-tee.webp",
@@ -4686,12 +6213,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-washed-charcoal-tee/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-washed-charcoal-tee/colour-front.png",
+      "originalNameZh": "水洗炭灰宽T恤",
+      "originalNameEn": "Indie washed charcoal tee",
+      "pieceNameZh": "水洗炭灰宽T恤",
+      "pieceNameEn": "Indie washed charcoal tee",
+      "runtimeId": null
     },
     {
       "id": "indie-black-leather-bomber",
-      "nameZh": "洗旧皮飞行夹克",
-      "nameEn": "Indie black leather bomber",
+      "nameZh": "借来的凌晨 · 洗旧皮飞行夹克",
+      "nameEn": "Borrowed After Midnight · Indie black leather bomber",
       "slot": "outerwear",
       "fabric": "washed-leather-shearling",
       "image": "/assets/fashion-series/previews/pieces/indie-black-leather-bomber.webp",
@@ -4703,12 +6235,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-leather-bomber/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-black-leather-bomber/colour-front.png",
+      "originalNameZh": "洗旧皮飞行夹克",
+      "originalNameEn": "Indie black leather bomber",
+      "pieceNameZh": "洗旧皮飞行夹克",
+      "pieceNameEn": "Indie black leather bomber",
+      "runtimeId": null
     },
     {
       "id": "indie-cobalt-velvet-wrap-skirt",
-      "nameZh": "钴黑系结绒面短裙",
-      "nameEn": "Indie cobalt velvet wrap skirt",
+      "nameZh": "借来的凌晨 · 钴黑系结绒面短裙",
+      "nameEn": "Borrowed After Midnight · Indie cobalt velvet wrap skirt",
       "slot": "bottom",
       "fabric": "velvet",
       "image": "/assets/fashion-series/previews/pieces/indie-cobalt-velvet-wrap-skirt.webp",
@@ -4720,12 +6257,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-cobalt-velvet-wrap-skirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-cobalt-velvet-wrap-skirt/colour-front.png",
+      "originalNameZh": "钴黑系结绒面短裙",
+      "originalNameEn": "Indie cobalt velvet wrap skirt",
+      "pieceNameZh": "钴黑系结绒面短裙",
+      "pieceNameEn": "Indie cobalt velvet wrap skirt",
+      "runtimeId": null
     },
     {
       "id": "indie-long-rib-tank",
-      "nameZh": "象牙长罗纹背心",
-      "nameEn": "Indie long rib tank",
+      "nameZh": "借来的凌晨 · 象牙长罗纹背心",
+      "nameEn": "Borrowed After Midnight · Indie long rib tank",
       "slot": "top",
       "fabric": "fine-rib-knit",
       "image": "/assets/fashion-series/previews/pieces/indie-long-rib-tank.webp",
@@ -4737,12 +6279,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-long-rib-tank/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/indie-long-rib-tank/colour-front.png",
+      "originalNameZh": "象牙长罗纹背心",
+      "originalNameEn": "Indie long rib tank",
+      "pieceNameZh": "象牙长罗纹背心",
+      "pieceNameEn": "Indie long rib tank",
+      "runtimeId": null
     },
     {
       "id": "blokette-blue-bias-skirt",
-      "nameZh": "雾蓝斜裁缎裙",
-      "nameEn": "Blokette blue bias skirt",
+      "nameZh": "看台上的缎光 · 雾蓝斜裁缎裙",
+      "nameEn": "Satin in the Stands · Blokette blue bias skirt",
       "slot": "bottom",
       "fabric": "bias-satin",
       "image": "/assets/fashion-series/previews/pieces/blokette-blue-bias-skirt.webp",
@@ -4754,12 +6301,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-blue-bias-skirt/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-blue-bias-skirt/colour-front.png",
+      "originalNameZh": "雾蓝斜裁缎裙",
+      "originalNameEn": "Blokette blue bias skirt",
+      "pieceNameZh": "雾蓝斜裁缎裙",
+      "pieceNameEn": "Blokette blue bias skirt",
+      "runtimeId": null
     },
     {
       "id": "blokette-burgundy-jersey",
-      "nameZh": "酒红弧线宽球衣",
-      "nameEn": "Blokette burgundy jersey",
+      "nameZh": "看台上的缎光 · 弧线宽球衣",
+      "nameEn": "Satin in the Stands · Blokette burgundy jersey",
       "slot": "top",
       "fabric": "jacquard-sport-jersey",
       "image": "/assets/fashion-series/previews/pieces/blokette-burgundy-jersey.webp",
@@ -4771,12 +6323,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-burgundy-jersey/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-burgundy-jersey/colour-front.png",
+      "originalNameZh": "酒红弧线宽球衣",
+      "originalNameEn": "Blokette burgundy jersey",
+      "pieceNameZh": "弧线宽球衣",
+      "pieceNameEn": "Blokette burgundy jersey",
+      "runtimeId": null
     },
     {
       "id": "blokette-ivory-ribbon-clips",
-      "nameZh": "象牙几何结发夹",
-      "nameEn": "Blokette ivory ribbon clips",
+      "nameZh": "看台上的缎光 · 象牙几何结发夹",
+      "nameEn": "Satin in the Stands · Blokette ivory ribbon clips",
       "slot": "hair-accessory",
       "fabric": "grosgrain-ribbon",
       "image": "/assets/fashion-series/previews/pieces/blokette-ivory-ribbon-clips.webp",
@@ -4790,12 +6347,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-ribbon-clips/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-ribbon-clips/colour-front.png",
+      "originalNameZh": "象牙几何结发夹",
+      "originalNameEn": "Blokette ivory ribbon clips",
+      "pieceNameZh": "象牙几何结发夹",
+      "pieceNameEn": "Blokette ivory ribbon clips",
+      "runtimeId": null
     },
     {
       "id": "blokette-jacquard-skipper",
-      "nameZh": "疏格针织短Polo",
-      "nameEn": "Blokette jacquard skipper",
+      "nameZh": "织入加时赛 · 疏格针织短Polo",
+      "nameEn": "Woven into Extra Time · Blokette jacquard skipper",
       "slot": "top",
       "fabric": "cotton-jacquard-knit",
       "image": "/assets/fashion-series/previews/pieces/blokette-jacquard-skipper.webp",
@@ -4807,12 +6369,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-jacquard-skipper/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-jacquard-skipper/colour-front.png",
+      "originalNameZh": "疏格针织短Polo",
+      "originalNameEn": "Blokette jacquard skipper",
+      "pieceNameZh": "疏格针织短Polo",
+      "pieceNameEn": "Blokette jacquard skipper",
+      "runtimeId": null
     },
     {
       "id": "blokette-cream-knee-socks",
-      "nameZh": "奶油色块长袜",
-      "nameEn": "Blokette cream knee socks",
+      "nameZh": "终场换一面 · 块长袜",
+      "nameEn": "After the Final Whistle · Blokette cream knee socks",
       "slot": "socks",
       "fabric": "cotton-rib-knit",
       "image": "/assets/fashion-series/previews/pieces/blokette-cream-knee-socks.webp",
@@ -4824,12 +6391,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-cream-knee-socks/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-cream-knee-socks/colour-front.png",
+      "originalNameZh": "奶油色块长袜",
+      "originalNameEn": "Blokette cream knee socks",
+      "pieceNameZh": "块长袜",
+      "pieceNameEn": "Blokette cream knee socks",
+      "runtimeId": null
     },
     {
       "id": "blokette-ivory-nylon-longcoat",
-      "nameZh": "米白轻尼龙长外层",
-      "nameEn": "Blokette ivory nylon longcoat",
+      "nameZh": "终场换一面 · 轻尼龙长外层",
+      "nameEn": "After the Final Whistle · Blokette ivory nylon longcoat",
       "slot": "outerwear",
       "fabric": "translucent-nylon",
       "image": "/assets/fashion-series/previews/pieces/blokette-ivory-nylon-longcoat.webp",
@@ -4841,12 +6413,17 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-nylon-longcoat/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-ivory-nylon-longcoat/colour-front.png",
+      "originalNameZh": "米白轻尼龙长外层",
+      "originalNameEn": "Blokette ivory nylon longcoat",
+      "pieceNameZh": "轻尼龙长外层",
+      "pieceNameEn": "Blokette ivory nylon longcoat",
+      "runtimeId": null
     },
     {
       "id": "blokette-sky-broad-jersey",
-      "nameZh": "雾蓝宽肩球衣",
-      "nameEn": "Blokette sky broad jersey",
+      "nameZh": "终场换一面 · 雾蓝宽肩球衣",
+      "nameEn": "After the Final Whistle · Blokette sky broad jersey",
       "slot": "top",
       "fabric": "technical-jersey",
       "image": "/assets/fashion-series/previews/pieces/blokette-sky-broad-jersey.webp",
@@ -4858,7 +6435,12 @@
       ],
       "status": "art_ready",
       "wearable": false,
-      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-sky-broad-jersey/colour-front.png"
+      "sourceImage": "/art-production/2026-10-30-colour-fronts/blokette-indie-mob/colour-front-assets/blokette-sky-broad-jersey/colour-front.png",
+      "originalNameZh": "雾蓝宽肩球衣",
+      "originalNameEn": "Blokette sky broad jersey",
+      "pieceNameZh": "雾蓝宽肩球衣",
+      "pieceNameEn": "Blokette sky broad jersey",
+      "runtimeId": null
     }
   ]
 }

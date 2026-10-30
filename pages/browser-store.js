@@ -5,6 +5,7 @@ class BrowserBucket{
  async put(key,input,options={}){const bytes=typeof input==='string'?new TextEncoder().encode(input):new Uint8Array(input),etag=crypto.randomUUID(),db=await database;return new Promise((resolve,reject)=>{const tx=db.transaction('objects','readwrite'),s=tx.objectStore('objects'),q=s.get(key);let changed=false;q.onsuccess=()=>{const v=q.result,c=options.onlyIf;if(c?.etagMatches&&v?.etag!==c.etagMatches||c?.etagDoesNotMatch==='*'&&v)return;s.put({bytes,etag},key);changed=true;};tx.oncomplete=()=>resolve(changed?{etag}:null);tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error||Error('浏览器保存失败'));});}
 }
 function reconcileRecord(key,value,fallback){
+ if(key==='visibility'&&fallback?.items)return {...fallback,...value,items:{...fallback.items,...value.items}};
  if(!['preppy','prints','imprints','fittings'].includes(key)||!fallback?.items||value._seedRevision===fallback.revision)return value;
  const local=(value.items||[]).filter(i=>i.cloudEdited||String(i.image||i.front||'').startsWith('/assets/materials/published/cloud/'));
  const items=new Map(fallback.items.map(i=>[i.id,i])),draft={...(fallback.draft||{})};

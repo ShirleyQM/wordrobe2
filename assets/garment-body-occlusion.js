@@ -30,6 +30,8 @@
   const url=String(bodyURL).replace(/['"\\\n\r<>]/g,c=>'%'+c.charCodeAt(0).toString(16));
   return `mask-image:url('${url}');-webkit-mask-image:url('${url}');mask-mode:alpha;mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-position:0 0;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;`;
  }
- const api={geometry,style,waistShadow,containment,garmentStyle};root.GarmentBodyOcclusion=api;if(typeof module!=='undefined')module.exports=api;
+ function toeGeometry(item){const y=Math.max(1556,Math.min(1668,Number(item.toeReveal?.startY)||1638)),h=1676-y,n=Math.max(0,Math.min(16,Number(item.toeReveal?.extension)||0));return {y,h,n,bottom:1676+n};}
+ function toeLayer(item,bodyURL){const {y,h,n}=toeGeometry(item);if(item.footwearMode!=='open-toe'||!bodyURL)return '';const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));return `<svg class="shoe-toe-reveal" aria-label="脚趾延伸" viewBox="0 0 939 1676" style="position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible" xmlns="http://www.w3.org/2000/svg"><svg x="330" y="${y}" width="280" height="${h+n}" viewBox="330 ${y} 280 ${h}" preserveAspectRatio="none"><image href="${esc(bodyURL)}" width="939" height="1676"/></svg></svg>`;}
+ const api={geometry,style,waistShadow,containment,garmentStyle,toeLayer,toeGeometry};root.GarmentBodyOcclusion=api;if(typeof module!=='undefined')module.exports=api;
 })(typeof window==='undefined'?globalThis:window);
 

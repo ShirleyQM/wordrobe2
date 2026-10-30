@@ -1,0 +1,43 @@
+{
+  "id": "lc-western-embroidered-boots-v1",
+  "defaultColor": "#986d4d",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "backLayers": false,
+  "presets": "material-presets.json",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over"
+    }
+  ],
+  "sourceSeparation": "Real neutral suede image_gen painting; true prior precolor lineart retained. Colored thread and brown sole excluded from editable mask. Broad lighting and fine nap separated without extending cloth.",
+  "registration": {
+    "perFootScale": 0.329,
+    "leftTranslate": [
+      325,
+      1150
+    ],
+    "rightTranslate": [
+      309,
+      1150
+    ],
+    "automaticWarp": false
+  }
+}

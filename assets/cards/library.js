@@ -20,7 +20,7 @@
  function art(c){if(c.art.layout==='single')return `<img class="collection-art collection-art-single" src="${escape(c.art.url)}" alt="${escape(title(c))}" loading="lazy">`;return `<div class="collection-art" role="img" aria-label="${escape(title(c))}" style="background-image:url('${escape(c.art.url)}');background-position:${c.art.col*50}% ${c.art.row*50}%"></div>`;}
  async function redeem(id){
   await load();const c=data.cards.find(c=>c.id===id);
-  if(!c||c.tier!=='collectible'||!c.garments.length)throw Error(text('配套服装尚未上线。','The matching clothes are not available yet.'));
+  if(!c||c.tier!=='collectible'||(!c.garments.length||!c.price))throw Error(text('配套服装尚未上线。','The matching clothes are not available yet.'));
   const result=await root.PlayerEconomy.purchaseBundle('fashion-card:'+c.id,c.price,c.garments.map(g=>g.id));if(result.insufficient)return result;
   const saved=records();saved[c.id]={...saved[c.id],tier:c.tier,at:saved[c.id]?.at||new Date().toISOString(),garmentIds:c.garments.map(g=>g.id)};localStorage.setItem(KEY,JSON.stringify(saved));return result;
  }
@@ -38,13 +38,13 @@
   function detailHTML(c){
    const has=owned(c),s=root.FashionSeries.series(c.seriesId);
    const pieces=root.FashionSeries.piecesForCard(c.id),rows=new Map();
-   for(const p of pieces)rows.set(p.id,{...rows.get(p.id),id:p.id,image:p.image,name:p.nameZh,nameEn:p.nameEn});
+   for(const p of pieces){const id=p.runtimeId||p.id;rows.set(id,{id,image:p.image,name:p.nameZh,nameEn:p.nameEn});}
    for(const g of [...c.garments,...(options.runtimeForCard?.(c.id)||[])])rows.set(g.id,{...rows.get(g.id),...g,image:g.thumbnail||g.image});
    const garments=[...rows.values()].map(g=>{
     const canWear=options.canWear?options.canWear(g.id):c.garments.some(row=>row.id===g.id);
     return `<button data-card-wear="${escape(g.id)}" ${canWear?'':'disabled'}><img src="${escape(g.image)}" alt="" loading="lazy"><span>${escape(root.I18n?.lang()==='en'?g.nameEn||g.name:g.name)}</span><small>${canWear?text(root.PlayerEconomy.owns(g.id)?'去衣橱':'去试穿',root.PlayerEconomy.owns(g.id)?'View in wardrobe':'Try on'):text('服装待上线','Clothes in progress')}</small></button>`;
    }).join('');
-   return `<button data-card-back>← ${text('返回卡册','Back to cards')}</button><p class="collection-card-origin">${escape(s?seriesLabel(s.id):text('早期设计收藏','Earlier design'))} · ${escape(c.id)}</p>${art(c)}<h2>${escape(title(c))}</h2>${c.brand?`<p class="collection-design-source">${text('设计参考','Design reference')} · ${escape(c.brand)}${c.sourceUrl?` <a href="${escape(c.sourceUrl)}" target="_blank" rel="noopener noreferrer">↗</a>`:''}</p>`:''}${c.legacy?`<p>${escape(root.I18n?.lang()==='en'?c.description:c.descriptionZh)}</p>`:''}<h3>${text('这一套的单品','Pieces in this look')}</h3>${garments?`<div class="collection-garments">${garments}</div>`:`<p class="collection-waiting">${text('单品制作中，先收藏设计灵感。','Pieces are in progress. Explore the design for now.')}</p>`}${c.lessonReady||c.legacy&&c.tier==='ordinary'?`<button data-card-study="${escape(c.lessonId)}">${text(has?'回顾关卡':'前往关卡',has?'Review lesson':'Open lesson')}</button>`:c.tier==='collectible'&&c.garments.length?`<button data-card-redeem="${escape(c.id)}" ${has?'disabled':''}>${has?text('已收藏','Collected'):text('兑换','Redeem')+' · ◈ '+c.price}</button>`:`<p class="collection-waiting">${text('关卡筹备中','Lessons in progress')}</p>`}`;
+   return `<button data-card-back>← ${text('返回卡册','Back to cards')}</button><p class="collection-card-origin">${escape(s?seriesLabel(s.id):text('早期设计收藏','Earlier design'))} · ${escape(c.id)}</p>${art(c)}<h2>${escape(title(c))}</h2>${c.brand?`<p class="collection-design-source">${text('设计参考','Design reference')} · ${escape(c.brand)}${c.sourceUrl?` <a href="${escape(c.sourceUrl)}" target="_blank" rel="noopener noreferrer">↗</a>`:''}</p>`:''}${c.legacy?`<p>${escape(root.I18n?.lang()==='en'?c.description:c.descriptionZh)}</p>`:''}<h3>${text('这一套的单品','Pieces in this look')}</h3>${garments?`<div class="collection-garments">${garments}</div>`:`<p class="collection-waiting">${text('单品制作中，先收藏设计灵感。','Pieces are in progress. Explore the design for now.')}</p>`}${c.lessonReady||c.legacy&&c.tier==='ordinary'?`<button data-card-study="${escape(c.lessonId)}">${text(has?'回顾关卡':'前往关卡',has?'Review lesson':'Open lesson')}</button>`:c.tier==='collectible'&&c.garments.length&&c.price>0?`<button data-card-redeem="${escape(c.id)}" ${has?'disabled':''}>${has?text('已收藏','Collected'):text('兑换','Redeem')+' · ◈ '+c.price}</button>`:`<p class="collection-waiting">${text('关卡筹备中','Lessons in progress')}</p>`}`;
   }
   function listHTML(){
    const all=data.cards,matching=garment?forGarment(garment,options.getGarment?.(garment)):all;
@@ -84,3 +84,4 @@
  }
  root.CardLibrary={load,owned,forGarment,redeem,claimLesson,mount};
 })(window);
+

@@ -1,0 +1,45 @@
+{
+  "id": "satin",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "backLayers": false,
+  "defaultColor": "#eae1cf",
+  "presets": "/assets/materials/sources/mockneck-materials-v1/material-presets.json",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over"
+    }
+  ],
+  "sourceSeparation": "Actual image_gen neutral textile painting separated into broad shadow/highlight and fine texture. Original image_gen pre-color construction lineart retained separately, not a decolored painting.",
+  "styleId": "style:runway-black-rib-shell",
+  "registration": {
+    "scale": 0.4219409282700422,
+    "translate": [
+      273,
+      196
+    ],
+    "uniform": true,
+    "alreadyFitted": true
+  },
+  "hdCanvas": [
+    1878,
+    3352
+  ]
+}

@@ -13,13 +13,13 @@
  }
  const series=id=>data?.series.find(s=>s.id===id)||null;
  const card=id=>data?.cards.find(c=>c.id===id)||null;
- const piece=id=>data?.pieces.find(p=>p.id===id)||null;
+ const piece=id=>data?.pieces.find(p=>p.id===id||p.runtimeId===id)||null;
  const label=(row,language=lang())=>row?(language==='en'?row.nameEn||row.title:row.nameZh||row.titleZh)||'':'';
  function orderedSeries(rows=data?.series||[]){return [...rows].sort((a,b)=>(Number(!!b.lessonReady)-Number(!!a.lessonReady))||(Number(!!b.outfitArtReady)-Number(!!a.outfitArtReady))||(a.order-b.order)||a.id.localeCompare(b.id));}
  function forGarment(id,row={}){
   const ids=[id,row.baseId,row.printedFrom].filter(x=>typeof x==='string');
   const direct=[row.sourceCard,row.sourceCardId,row.cardId,row.fashionCardId,row.source?.cardId,...(Array.isArray(row.sourceCards)?row.sourceCards:[])].filter(x=>typeof x==='string'&&/^S\d{2}-F\d{2}$/.test(x));
-  return (data?.cards||[]).filter(c=>direct.includes(c.id)||c.pieceIds.some(pieceId=>ids.includes(pieceId)));
+  return (data?.cards||[]).filter(c=>direct.includes(c.id)||c.pieceIds.some(pieceId=>ids.includes(pieceId)||ids.includes(piece(pieceId)?.runtimeId)));
  }
  function seriesForGarment(id){return (piece(id)?.seriesIds||[]).map(series).filter(Boolean);}
  function piecesForCard(id){return (card(id)?.pieceIds||[]).map(piece).filter(Boolean);}
@@ -28,7 +28,7 @@
   const old=new Map((original.cards||[]).map(c=>[c.id,c]));
   const canonical=(data?.cards||[]).map(c=>{
    const previous=old.get(c.id)||{};
-   return {...previous,...c,garments:previous.garments||[],legacy:false,description:'',descriptionZh:''};
+   return {...previous,...c,garments:c.garments||previous.garments||[],legacy:false,description:'',descriptionZh:''};
   });
   const currentIds=new Set(canonical.map(c=>c.id));
   const legacy=(original.cards||[]).filter(c=>!currentIds.has(c.id)).map(c=>({...c,legacy:true,seriesId:c.lessonId?.match(/s(\d{2})$/)?.[1]?'S'+c.lessonId.match(/s(\d{2})$/)[1]:null}));
@@ -38,3 +38,4 @@
  const api={load,setData,series,card,piece,label,orderedSeries,forGarment,seriesForGarment,piecesForCard,forLesson,mergeCards,readyCards,getData:()=>data};
  root.FashionSeries=api;if(typeof module!=='undefined')module.exports=api;
 })(typeof window==='undefined'?globalThis:window);
+

@@ -16,7 +16,7 @@
    link.setAttribute('aria-label',text('查看衣服的关联卡片','View linked cards')+' · '+(row?.name||''));wrap.append(link);
   }
  }
- function show(options={}){panel?.dispose();$('#items').innerHTML='<div id="card-library-host"></div>';panel=CardLibrary.mount($('#card-library-host'),{...options,state:panelState,onGarment:goGarment,canWear:id=>!!item(id),getGarment:item,runtimeForCard:id=>catalog.filter(row=>FashionSeries.forGarment(row.id,row).some(c=>c.id===id)),onStudy:id=>window.GameLearningPanel?GameLearningPanel.open(id):StudyNavigation.open()});}
+ function show(options={}){panel?.dispose();$('#items').innerHTML='<div id="card-library-host"></div>';panel=CardLibrary.mount($('#card-library-host'),{...options,state:panelState,onGarment:goGarment,canWear:id=>!!item(id),getGarment:item,runtimeForCard:id=>catalog.filter(row=>FashionSeries.forGarment(row.id,row).some(c=>c.id===id)),onStudy:id=>window.GameLearningPanel?GameLearningPanel.open(id):location.assign('learn.html?lesson='+encodeURIComponent(id))});}
  const previous=render;render=function(){panel?.dispose();panel=null;previous();document.querySelector('.mobile-app').classList.toggle('cards-open',tab==='cards');$('#items').classList.toggle('card-items',tab==='cards');button.textContent=text('卡片','Cards');if(tab==='cards'){$('#categories').hidden=true;$('#hair-colors').hidden=true;$('#atelier-actions').hidden=true;const actions=$('#look-stage-actions');if(actions)actions.hidden=true;show(request||{});request=null;}else links();};
  function open(options={}){if(tab==='learning')window.GameLearningPanel?.close();panelState={};request=options;tab='cards';render();button.scrollIntoView({inline:'nearest',block:'nearest'});}
  window.MobileCards={open};
@@ -24,3 +24,4 @@
  CardLibrary.load().then(()=>{if(tab==='clothes')links();}).catch(()=>{});
  const query=new URLSearchParams(location.search);if(query.get('panel')==='cards'){request={seriesId:query.get('series')||null};tab='cards';render();}
 })();
+

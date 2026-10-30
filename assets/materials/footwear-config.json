@@ -1,0 +1,1292 @@
+{
+  "version": 1,
+  "notes": "Per-shoe explicit rules. Source rects follow saved shoe meshes/curves. Open toes retain the original foot. Preserve all original art and fittings.",
+  "items": {
+    "campus-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "ankle-boots": {
+      "mode": "boot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "coin-loafers": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "campus-01-blue-sailor-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "campus-02-gray-knit-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "campus-03-cream-pinafore-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "campus-04-navy-tailored-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "street-v1-fuzzy-slides": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "street-v1-taupe-pumps": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "street-v1-brown-loafers": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "street-v1-dark-pumps": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-shell-ivory": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-shell-blackline": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-ballet-sport-cream": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-ballet-sport-blush": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-ballet-black": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-ballet-wine": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-point-black": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "af-v1-point-champagne": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "footwear-combat-leather": {
+      "mode": "boot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "footwear-ttoe-open": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "oval-penny-loafers": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "oval-captoe-ballet": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "oval-captoe-espadrilles": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "slides-pearl-quilt": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "slides-gold-patent": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "espadrille-ankle-cap": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-pointed-suede": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-round-denim": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-square-woven": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-round-lace": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-square-patent": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "shoe-v3-lace-sport": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-mcq-clean": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-mcq-suede": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-y3-cross": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-y3-cage": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-quilt-leather": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-quilt-nylon": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-miunb-suede": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-miunb-ribbon": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-shell-classic": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-shell-suede": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-nike-waffle": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "sneaker-nike-mesh": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "lc-western-embroidered-boots-v1": {
+      "mode": "boot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "atlas-cutwork-laceup-lowheel-v1": {
+      "mode": "full-foot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-white-front-sandals": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "colour-olive-front-sandals": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "colour-honey-woven-loafers": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-flax-woven-sandals": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    },
+    "colour-navy-mules": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-ivory-espadrilles": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-jade-pointed-flats": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-black-sculptural-loafers": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-umber-square-shoes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-riding-black-boot-fronts": {
+      "mode": "boot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-city-navy-canvas-toe": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-city-silver-square-toe": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-city-black-sneaker-toe": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-tennis-white-toe": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-orbit-silver-boot-fronts": {
+      "mode": "boot",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-frequency-chunky-toes": {
+      "mode": "closed-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [
+        [
+          330,
+          1605,
+          139,
+          71
+        ],
+        [
+          470,
+          1605,
+          140,
+          71
+        ]
+      ],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      }
+    },
+    "colour-echo-platform-toes": {
+      "mode": "open-toe",
+      "sourceSpace": [
+        939,
+        1676
+      ],
+      "followFitting": true,
+      "sourceRects": [],
+      "legacyCut": "preserve",
+      "legReplacement": {
+        "enabled": false,
+        "anchor": "below-knee",
+        "image": null,
+        "note": "Reserved for a separately approved leg-and-boot asset; no body replacement yet."
+      },
+      "toeReveal": {
+        "extension": 4,
+        "startY": 1638
+      }
+    }
+  }
+}

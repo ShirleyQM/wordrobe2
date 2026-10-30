@@ -2,6 +2,1647 @@
   "version": 1,
   "cards": [
     {
+      "id": "S01-F01",
+      "name": "鎏金主场",
+      "nameEn": "A Gilded Entrance",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S01-F01.webp",
+      "seriesId": "S01",
+      "components": [
+        "窄直礼服裤",
+        "黑缎领双排扣马甲",
+        "黑绒长手套",
+        "浓咖仿皮草短披",
+        "不透蕾纹内搭",
+        "古金宽方耳饰",
+        "尖头平底鞋",
+        "浅金宽腕饰"
+      ],
+      "garmentIds": [
+        "colour-jade-pointed-flats",
+        "colour-coral-gold-cuff"
+      ],
+      "pendingPieceIds": [
+        "mob-black-creased-trousers",
+        "mob-black-doublebreast-vest",
+        "mob-black-opera-gloves",
+        "mob-espresso-faux-fur-cape",
+        "mob-opaque-lace-shell",
+        "mob-wide-square-earrings"
+      ],
+      "componentsEn": [
+        "Mob black creased trousers",
+        "Mob black doublebreast vest",
+        "Mob black opera gloves",
+        "Mob espresso faux fur cape",
+        "Mob opaque lace shell",
+        "Mob wide square earrings",
+        "Jade pointed flats",
+        "Coral gold cuff"
+      ]
+    },
+    {
+      "id": "S01-F02",
+      "name": "石榴夜宴",
+      "nameEn": "The Garnet Supper",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S01-F02.webp",
+      "seriesId": "S01",
+      "components": [
+        "黑缎低披肩前片",
+        "石榴单肩斜裁长裙",
+        "尖头平底鞋",
+        "古金宽方耳饰",
+        "黑绒长手套"
+      ],
+      "garmentIds": [
+        "colour-jade-pointed-flats"
+      ],
+      "pendingPieceIds": [
+        "mob-black-satin-shawl",
+        "mob-oxblood-bias-dress",
+        "mob-wide-square-earrings",
+        "mob-black-opera-gloves"
+      ],
+      "componentsEn": [
+        "Mob black satin shawl",
+        "Mob oxblood bias dress",
+        "Jade pointed flats",
+        "Mob wide square earrings",
+        "Mob black opera gloves"
+      ]
+    },
+    {
+      "id": "S01-F03",
+      "name": "锋芒入席",
+      "nameEn": "An Entrance with an Edge",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S01-F03.webp",
+      "seriesId": "S01",
+      "components": [
+        "锐肩收腰外套",
+        "象牙短内搭",
+        "骑褶裹裙",
+        "不透连裤袜",
+        "骑靴正面",
+        "古金宽方耳饰",
+        "浅金宽腕饰"
+      ],
+      "garmentIds": [
+        "colour-ivory-shell",
+        "colour-riding-black-wrap-skirt",
+        "colour-riding-black-tights",
+        "colour-riding-black-boot-fronts",
+        "colour-coral-gold-cuff"
+      ],
+      "pendingPieceIds": [
+        "mob-oxblood-hourglass-jacket",
+        "mob-wide-square-earrings"
+      ],
+      "componentsEn": [
+        "Mob oxblood hourglass jacket",
+        "Shell",
+        "Riding black wrap skirt",
+        "Riding black tights",
+        "Riding black boot fronts",
+        "Mob wide square earrings",
+        "Coral gold cuff"
+      ]
+    },
+    {
+      "id": "S02-F01",
+      "name": "最后一首安可",
+      "nameEn": "One Last Encore",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S02-F01.webp",
+      "seriesId": "S02",
+      "components": [
+        "拉链窄裤",
+        "窄肩炭黑长西装",
+        "旧黑切尔西短靴前片",
+        "素象牙贴身T恤",
+        "象牙长袖口前片",
+        "细长围巾前片",
+        "球场银色耳钉"
+      ],
+      "garmentIds": [
+        "colour-tennis-silver-studs"
+      ],
+      "pendingPieceIds": [
+        "indie-black-zip-trousers",
+        "indie-charcoal-long-blazer",
+        "indie-chelsea-boot-fronts",
+        "indie-ivory-crew-tee",
+        "indie-ivory-cuff-fronts",
+        "indie-skinny-scarf"
+      ],
+      "componentsEn": [
+        "Indie black zip trousers",
+        "Indie charcoal long blazer",
+        "Indie chelsea boot fronts",
+        "Indie ivory crew tee",
+        "Indie ivory cuff fronts",
+        "Indie skinny scarf",
+        "Tennis silver studs"
+      ]
+    },
+    {
+      "id": "S02-F02",
+      "name": "闪光灯余温",
+      "nameEn": "After the Flash",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S02-F02.webp",
+      "seriesId": "S02",
+      "components": [
+        "旧黑双扣腕带",
+        "细银片斜扣短裙",
+        "水洗炭灰宽T恤",
+        "不透连裤袜",
+        "旧黑切尔西短靴前片"
+      ],
+      "garmentIds": [
+        "colour-riding-black-tights"
+      ],
+      "pendingPieceIds": [
+        "indie-black-wrist-cuff",
+        "indie-silver-sequin-skirt",
+        "indie-washed-charcoal-tee",
+        "indie-chelsea-boot-fronts"
+      ],
+      "componentsEn": [
+        "Indie black wrist cuff",
+        "Indie silver sequin skirt",
+        "Indie washed charcoal tee",
+        "Riding black tights",
+        "Indie chelsea boot fronts"
+      ]
+    },
+    {
+      "id": "S02-F03",
+      "name": "借来的凌晨",
+      "nameEn": "Borrowed After Midnight",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S02-F03.webp",
+      "seriesId": "S02",
+      "components": [
+        "洗旧皮飞行夹克",
+        "钴黑系结绒面短裙",
+        "象牙长罗纹背心",
+        "不透连裤袜",
+        "旧黑切尔西短靴前片",
+        "球场银色耳钉"
+      ],
+      "garmentIds": [
+        "colour-riding-black-tights",
+        "colour-tennis-silver-studs"
+      ],
+      "pendingPieceIds": [
+        "indie-black-leather-bomber",
+        "indie-cobalt-velvet-wrap-skirt",
+        "indie-long-rib-tank",
+        "indie-chelsea-boot-fronts"
+      ],
+      "componentsEn": [
+        "Indie black leather bomber",
+        "Indie cobalt velvet wrap skirt",
+        "Indie long rib tank",
+        "Riding black tights",
+        "Indie chelsea boot fronts",
+        "Tennis silver studs"
+      ]
+    },
+    {
+      "id": "S03-F01",
+      "name": "看台上的缎光",
+      "nameEn": "Satin in the Stands",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S03-F01.webp",
+      "seriesId": "S03",
+      "components": [
+        "雾蓝斜裁缎裙",
+        "弧线宽球衣",
+        "象牙几何结发夹",
+        "球鞋鞋头"
+      ],
+      "garmentIds": [
+        "colour-tennis-white-toe"
+      ],
+      "pendingPieceIds": [
+        "blokette-blue-bias-skirt",
+        "blokette-burgundy-jersey",
+        "blokette-ivory-ribbon-clips"
+      ],
+      "componentsEn": [
+        "Blokette blue bias skirt",
+        "Blokette burgundy jersey",
+        "Blokette ivory ribbon clips",
+        "Tennis white toe"
+      ]
+    },
+    {
+      "id": "S03-F02",
+      "name": "织入加时赛",
+      "nameEn": "Woven into Extra Time",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S03-F02.webp",
+      "seriesId": "S03",
+      "components": [
+        "疏格针织短Polo",
+        "帆布鞋头",
+        "象牙阔腿裤",
+        "象牙几何结发夹"
+      ],
+      "garmentIds": [
+        "colour-city-navy-canvas-toe",
+        "colour-ivory-wide-trousers"
+      ],
+      "pendingPieceIds": [
+        "blokette-jacquard-skipper",
+        "blokette-ivory-ribbon-clips"
+      ],
+      "componentsEn": [
+        "Blokette jacquard skipper",
+        "City navy canvas toe",
+        "Wide trousers",
+        "Blokette ivory ribbon clips"
+      ]
+    },
+    {
+      "id": "S03-F03",
+      "name": "终场换一面",
+      "nameEn": "After the Final Whistle",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S03-F03.webp",
+      "seriesId": "S03",
+      "components": [
+        "块长袜",
+        "轻尼龙长外层",
+        "雾蓝宽肩球衣",
+        "运动鞋头",
+        "百褶裙",
+        "象牙几何结发夹"
+      ],
+      "garmentIds": [
+        "colour-city-black-sneaker-toe",
+        "colour-tennis-navy-skort-front"
+      ],
+      "pendingPieceIds": [
+        "blokette-cream-knee-socks",
+        "blokette-ivory-nylon-longcoat",
+        "blokette-sky-broad-jersey",
+        "blokette-ivory-ribbon-clips"
+      ],
+      "componentsEn": [
+        "Blokette cream knee socks",
+        "Blokette ivory nylon longcoat",
+        "Blokette sky broad jersey",
+        "City black sneaker toe",
+        "Tennis navy skort front",
+        "Blokette ivory ribbon clips"
+      ]
+    },
+    {
+      "id": "S04-F01",
+      "name": "轨道静默",
+      "nameEn": "Orbital Silence",
+      "tier": "ordinary",
+      "image": "/assets/fashion-series/previews/cards/S04-F01.webp",
+      "seriesId": "S04",
+      "components": [
+        "透明肩罩",
+        "立领几何短裙",
+        "轨道银框耳饰",
+        "方头长靴",
+        "长辫发扣"
+      ],
+      "garmentIds": [
+        "colour-orbit-blue-capelet",
+        "colour-orbit-geometric-dress",
+        "colour-orbit-rectangular-earrings",
+        "colour-orbit-silver-boot-fronts",
+        "colour-sky-metal-barrette"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Translucent Capelet",
+        "Geometric Halterneck Mini Dress",
+        "Orbit rectangular earrings",
+        "Square-Toe Knee Boots",
+        "Sky metal barrette"
+      ]
+    },
+    {
+      "id": "S04-F02",
+      "name": "失真频段",
+      "nameEn": "Distorted Frequency",
+      "tier": "ordinary",
+      "image": "/assets/fashion-series/previews/cards/S04-F02.webp",
+      "seriesId": "S04",
+      "components": [
+        "银黑方头厚底鞋头",
+        "宽肩丹宁短夹克",
+        "撞边背心",
+        "低腰喇叭牛仔裤",
+        "折线耳骨夹"
+      ],
+      "garmentIds": [
+        "colour-frequency-chunky-toes",
+        "colour-frequency-denim-bolero",
+        "colour-frequency-lilac-tank",
+        "colour-frequency-lowrise-flares",
+        "colour-frequency-silver-earcuffs"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Frequency chunky toes",
+        "Broad-Shoulder Denim Bolero",
+        "Contrast-Trim Tank",
+        "Low-Rise Flared Jeans",
+        "Frequency silver earcuffs"
+      ]
+    },
+    {
+      "id": "S04-F03",
+      "name": "液态回声",
+      "nameEn": "Liquid Echo",
+      "tier": "ordinary",
+      "image": "/assets/fashion-series/previews/cards/S04-F03.webp",
+      "seriesId": "S04",
+      "components": [
+        "不对称抽褶短裙",
+        "冰蓝镂空袖套",
+        "双弧发夹",
+        "丁香银带厚底鞋头"
+      ],
+      "garmentIds": [
+        "colour-echo-asymmetric-dress",
+        "colour-echo-blue-armwarmer",
+        "colour-echo-hair-crescents",
+        "colour-echo-platform-toes"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Asymmetric Ruched Mini Dress",
+        "Echo blue armwarmer",
+        "Echo hair crescents",
+        "Echo platform toes"
+      ]
+    },
+    {
+      "id": "S05-F01",
+      "name": "风的折线",
+      "nameEn": "A Fold in the Wind",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S05-F01.webp",
+      "seriesId": "S05",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S05-F02",
+      "name": "城市切片",
+      "nameEn": "City in Layers",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S05-F02.webp",
+      "seriesId": "S05",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S05-F03",
+      "name": "偏移坐标",
+      "nameEn": "Displaced Coordinates",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S05-F03.webp",
+      "seriesId": "S05",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S06-F01",
+      "name": "禁书目录",
+      "nameEn": "The Forbidden Index",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S06-F01.webp",
+      "seriesId": "S06",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S06-F02",
+      "name": "午夜辩论",
+      "nameEn": "The Midnight Disputation",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S06-F02.webp",
+      "seriesId": "S06",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S06-F03",
+      "name": "雨廊来信",
+      "nameEn": "Letters Through the Rain",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S06-F03.webp",
+      "seriesId": "S06",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S07-F01",
+      "name": "月蓝蝶影",
+      "nameEn": "Moths in Moon Blue",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S07-F01.webp",
+      "seriesId": "S07",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S07-F02",
+      "name": "赤陶孢子",
+      "nameEn": "Terracotta Spores",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S07-F02.webp",
+      "seriesId": "S07",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S07-F03",
+      "name": "青柠露珠",
+      "nameEn": "Citron Dew",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S07-F03.webp",
+      "seriesId": "S07",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S08-F01",
+      "name": "蓝调热身",
+      "nameEn": "Warming Up in Blue",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S08-F01.webp",
+      "seriesId": "S08",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S08-F02",
+      "name": "覆盆子间奏",
+      "nameEn": "Raspberry Interlude",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S08-F02.webp",
+      "seriesId": "S08",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S08-F03",
+      "name": "黄油色散场",
+      "nameEn": "A Butter-Yellow Exit",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S08-F03.webp",
+      "seriesId": "S08",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S09-F01",
+      "name": "结的决定权",
+      "nameEn": "The Choice of a Knot",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S09-F01.webp",
+      "seriesId": "S09",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S09-F02",
+      "name": "严肃的粉色",
+      "nameEn": "Pink with Conviction",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S09-F02.webp",
+      "seriesId": "S09",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S09-F03",
+      "name": "秩序偏一寸",
+      "nameEn": "A Small Shift in Order",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S09-F03.webp",
+      "seriesId": "S09",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S10-F01",
+      "name": "沙色回旋",
+      "nameEn": "Sand in Rotation",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S10-F01.webp",
+      "seriesId": "S10",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S10-F02",
+      "name": "蓝印旅人",
+      "nameEn": "Blue-Print Traveller",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S10-F02.webp",
+      "seriesId": "S10",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S10-F03",
+      "name": "莓色流苏",
+      "nameEn": "Berry Fringe",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S10-F03.webp",
+      "seriesId": "S10",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S11-F01",
+      "name": "柠檬海湾",
+      "nameEn": "Lemon Bay",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S11-F01.webp",
+      "seriesId": "S11",
+      "components": [
+        "几何领长裙",
+        "凉鞋",
+        "椭圆珍珠耳饰",
+        "金色腕饰"
+      ],
+      "garmentIds": [
+        "colour-lemon-bay-dress",
+        "colour-white-front-sandals",
+        "colour-lemon-bay-pearl-earrings",
+        "colour-lemon-bay-gold-cuff"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Lemon bay dress",
+        "Front sandals",
+        "Lemon bay pearl earrings",
+        "Lemon bay gold cuff"
+      ]
+    },
+    {
+      "id": "S11-F02",
+      "name": "朱砂午后",
+      "nameEn": "Vermilion Afternoon",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S11-F02.webp",
+      "seriesId": "S11",
+      "components": [
+        "衬衫裙",
+        "腰带",
+        "凉鞋",
+        "长方珍珠耳饰"
+      ],
+      "garmentIds": [
+        "colour-vermilion-shirt-dress",
+        "colour-cream-sash",
+        "colour-olive-front-sandals",
+        "colour-vermilion-pearl-earrings"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Vermilion shirt dress",
+        "Sash",
+        "Front sandals",
+        "Vermilion pearl earrings"
+      ]
+    },
+    {
+      "id": "S11-F03",
+      "name": "蜂蜜色航线",
+      "nameEn": "A Honey-Coloured Route",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S11-F03.webp",
+      "seriesId": "S11",
+      "components": [
+        "长马甲",
+        "针织背心",
+        "短裤",
+        "编织便鞋",
+        "椭圆金耳环",
+        "链式手镯",
+        "编发金扣"
+      ],
+      "garmentIds": [
+        "colour-honey-long-vest",
+        "colour-ivory-ribbed-top",
+        "colour-navy-tailored-shorts",
+        "colour-honey-woven-loafers",
+        "colour-honey-gold-hoops",
+        "colour-honey-chain-bracelet",
+        "colour-honey-braid-cuffs"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Long vest",
+        "Ribbed top",
+        "Tailored shorts",
+        "Woven loafers",
+        "Gold hoops",
+        "Chain bracelet",
+        "Braid cuffs"
+      ]
+    },
+    {
+      "id": "S12-F01",
+      "name": "红裙的跳切",
+      "nameEn": "The Red-Skirt Cut",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S12-F01.webp",
+      "seriesId": "S12",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S12-F02",
+      "name": "靛蓝双重奏",
+      "nameEn": "Indigo Duet",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S12-F02.webp",
+      "seriesId": "S12",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S12-F03",
+      "name": "黄油色字幕",
+      "nameEn": "Butter-Yellow Subtitles",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S12-F03.webp",
+      "seriesId": "S12",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S13-F01",
+      "name": "香槟色镜头",
+      "nameEn": "Champagne on Camera",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S13-F01.webp",
+      "seriesId": "S13",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S13-F02",
+      "name": "钴蓝主光",
+      "nameEn": "Cobalt Key Light",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S13-F02.webp",
+      "seriesId": "S13",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S13-F03",
+      "name": "白噪低频",
+      "nameEn": "White Noise",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S13-F03.webp",
+      "seriesId": "S13",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S14-F01",
+      "name": "孔雀扇面",
+      "nameEn": "The Peacock Fan",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S14-F01.webp",
+      "seriesId": "S14",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S14-F02",
+      "name": "银幕的垂线",
+      "nameEn": "Silver-Screen Lines",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S14-F02.webp",
+      "seriesId": "S14",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S14-F03",
+      "name": "石榴节拍",
+      "nameEn": "Garnet Rhythm",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S14-F03.webp",
+      "seriesId": "S14",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S15-F01",
+      "name": "栗色缰线",
+      "nameEn": "Chestnut Reins",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S15-F01.webp",
+      "seriesId": "S15",
+      "components": [
+        "骑靴正面",
+        "骑褶裹裙",
+        "栗酒红骑装皮衣",
+        "奶油细针织内搭",
+        "骑装金色耳钉"
+      ],
+      "garmentIds": [
+        "colour-riding-black-boot-fronts",
+        "colour-riding-black-wrap-skirt",
+        "colour-riding-burgundy-leather-jacket",
+        "colour-riding-butter-knit",
+        "colour-riding-gold-studs"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Riding black boot fronts",
+        "Riding black wrap skirt",
+        "Riding burgundy leather jacket",
+        "Riding butter knit",
+        "Riding gold studs"
+      ]
+    },
+    {
+      "id": "S15-F02",
+      "name": "奶油色骑迹",
+      "nameEn": "Cream-Coloured Tracks",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S15-F02.webp",
+      "seriesId": "S15",
+      "components": [
+        "奶油修身骑装背心",
+        "骑装长裤",
+        "长袖衬衫",
+        "骑靴正面",
+        "骑装金色耳钉"
+      ],
+      "garmentIds": [
+        "colour-riding-cream-waistcoat",
+        "colour-riding-navy-breeches",
+        "colour-riding-navy-poplin-shirt",
+        "colour-riding-black-boot-fronts",
+        "colour-riding-gold-studs"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Riding cream waistcoat",
+        "Riding navy breeches",
+        "Riding navy poplin shirt",
+        "Riding black boot fronts",
+        "Riding gold studs"
+      ]
+    },
+    {
+      "id": "S15-F03",
+      "name": "绿松石的风",
+      "nameEn": "A Teal Wind",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S15-F03.webp",
+      "seriesId": "S15",
+      "components": [
+        "不透连裤袜",
+        "燕麦灯芯绒裙裤",
+        "斗篷别针",
+        "深青骑装斗篷",
+        "骑靴正面"
+      ],
+      "garmentIds": [
+        "colour-riding-black-tights",
+        "colour-riding-oat-corduroy-culottes",
+        "colour-riding-silver-pin",
+        "colour-riding-teal-cape-coat",
+        "colour-riding-black-boot-fronts"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Riding black tights",
+        "Riding oat corduroy culottes",
+        "Riding silver pin",
+        "Riding teal cape coat",
+        "Riding black boot fronts"
+      ]
+    },
+    {
+      "id": "S16-F01",
+      "name": "黑羽写意",
+      "nameEn": "Ink-Black Feathers",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S16-F01.webp",
+      "seriesId": "S16",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S16-F02",
+      "name": "酒红刀锋",
+      "nameEn": "An Oxblood Edge",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S16-F02.webp",
+      "seriesId": "S16",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S16-F03",
+      "name": "夜绿花房",
+      "nameEn": "The Night-Green House",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S16-F03.webp",
+      "seriesId": "S16",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S17-F01",
+      "name": "蓝色涡线",
+      "nameEn": "A Blue Vortex",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S17-F01.webp",
+      "seriesId": "S17",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S17-F02",
+      "name": "潮汐骨架",
+      "nameEn": "Tidal Framework",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S17-F02.webp",
+      "seriesId": "S17",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S17-F03",
+      "name": "玫红负形",
+      "nameEn": "Fuchsia Negative Space",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S17-F03.webp",
+      "seriesId": "S17",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S18-F01",
+      "name": "苔绿边注",
+      "nameEn": "Moss Marginalia",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S18-F01.webp",
+      "seriesId": "S18",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S18-F02",
+      "name": "赭石书页",
+      "nameEn": "Ochre Pages",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S18-F02.webp",
+      "seriesId": "S18",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S18-F03",
+      "name": "紫色删改",
+      "nameEn": "Lavender Revisions",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S18-F03.webp",
+      "seriesId": "S18",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S19-F01",
+      "name": "霓虹底片",
+      "nameEn": "A Neon Negative",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S19-F01.webp",
+      "seriesId": "S19",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S19-F02",
+      "name": "青绿电车",
+      "nameEn": "The Jade Tram",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S19-F02.webp",
+      "seriesId": "S19",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S19-F03",
+      "name": "紫李转角",
+      "nameEn": "Plum Around the Corner",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S19-F03.webp",
+      "seriesId": "S19",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S20-F01",
+      "name": "珊瑚唱片",
+      "nameEn": "Coral Records",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S20-F01.webp",
+      "seriesId": "S20",
+      "components": [
+        "珊瑚衬衫系腰前片",
+        "帆布鞋头",
+        "唱片银圆耳饰",
+        "珊瑚海军条纹上衣",
+        "象牙阔腿裤"
+      ],
+      "garmentIds": [
+        "colour-city-coral-waist-shirt",
+        "colour-city-navy-canvas-toe",
+        "colour-city-silver-disc-earrings",
+        "colour-city-striped-top",
+        "colour-ivory-wide-trousers"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "City coral waist shirt",
+        "City navy canvas toe",
+        "City silver disc earrings",
+        "City striped top",
+        "Wide trousers"
+      ]
+    },
+    {
+      "id": "S20-F02",
+      "name": "蓝调合成器",
+      "nameEn": "A Blue Synthesizer",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S20-F02.webp",
+      "seriesId": "S20",
+      "components": [
+        "电蓝细褶连身裤",
+        "粉银几何耳饰",
+        "樱粉折纸短外套",
+        "方头鞋前片"
+      ],
+      "garmentIds": [
+        "colour-city-blue-pleated-jumpsuit",
+        "colour-city-pink-earrings",
+        "colour-city-pink-fold-jacket",
+        "colour-city-silver-square-toe"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "City blue pleated jumpsuit",
+        "City pink earrings",
+        "City pink fold jacket",
+        "City silver square toe"
+      ]
+    },
+    {
+      "id": "S20-F03",
+      "name": "黄昏高频",
+      "nameEn": "Sunset Frequency",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S20-F03.webp",
+      "seriesId": "S20",
+      "components": [
+        "黑金几何耳钉",
+        "运动鞋头",
+        "芥黄运动拉链裙",
+        "尼龙短外套"
+      ],
+      "garmentIds": [
+        "colour-city-black-gold-earrings",
+        "colour-city-black-sneaker-toe",
+        "colour-city-mustard-track-dress",
+        "colour-city-white-nylon-jacket"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "City black gold earrings",
+        "City black sneaker toe",
+        "City mustard track dress",
+        "City white nylon jacket"
+      ]
+    },
+    {
+      "id": "S21-F01",
+      "name": "紫雾引擎",
+      "nameEn": "A Lavender Engine",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S21-F01.webp",
+      "seriesId": "S21",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S21-F02",
+      "name": "咖啡色尘途",
+      "nameEn": "Coffee-Coloured Roads",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S21-F02.webp",
+      "seriesId": "S21",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S21-F03",
+      "name": "铁锈花边",
+      "nameEn": "Rust and Lace",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S21-F03.webp",
+      "seriesId": "S21",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S22-F01",
+      "name": "常青边线",
+      "nameEn": "The Evergreen Line",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S22-F01.webp",
+      "seriesId": "S22",
+      "components": [
+        "象牙前褶叠裙片",
+        "常青翻领短外套",
+        "常青棉尼龙长裤",
+        "象牙罗纹Polo",
+        "球鞋鞋头"
+      ],
+      "garmentIds": [
+        "colour-tennis-front-pleat-panel",
+        "colour-tennis-green-coat",
+        "colour-tennis-green-trousers",
+        "colour-tennis-ivory-polo",
+        "colour-tennis-white-toe"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Tennis front pleat panel",
+        "Tennis green coat",
+        "Tennis green trousers",
+        "Tennis ivory polo",
+        "Tennis white toe"
+      ]
+    },
+    {
+      "id": "S22-F02",
+      "name": "橘色抢七",
+      "nameEn": "Orange Tie-Break",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S22-F02.webp",
+      "seriesId": "S22",
+      "components": [
+        "杏橘珠地Polo",
+        "百褶裙",
+        "球场银色耳钉",
+        "细条纹网球袜",
+        "球鞋鞋头"
+      ],
+      "garmentIds": [
+        "colour-tennis-apricot-polo",
+        "colour-tennis-navy-skort-front",
+        "colour-tennis-silver-studs",
+        "colour-tennis-stripe-socks",
+        "colour-tennis-white-toe"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Tennis apricot polo",
+        "Tennis navy skort front",
+        "Tennis silver studs",
+        "Tennis stripe socks",
+        "Tennis white toe"
+      ]
+    },
+    {
+      "id": "S22-F03",
+      "name": "丁香休赛日",
+      "nameEn": "A Lilac Rest Day",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S22-F03.webp",
+      "seriesId": "S22",
+      "components": [
+        "肩搭针织",
+        "丁香华夫格短衫",
+        "丁香珍珠耳钉",
+        "象牙斜叠短裤",
+        "球鞋鞋头",
+        "象牙罗纹Polo"
+      ],
+      "garmentIds": [
+        "colour-tennis-burgundy-shoulder-knit",
+        "colour-tennis-lilac-cardigan",
+        "colour-tennis-pearl-studs",
+        "colour-tennis-wrap-shorts",
+        "colour-tennis-white-toe",
+        "colour-tennis-ivory-polo"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Tennis burgundy shoulder knit",
+        "Tennis lilac cardigan",
+        "Tennis pearl studs",
+        "Tennis wrap shorts",
+        "Tennis white toe",
+        "Tennis ivory polo"
+      ]
+    },
+    {
+      "id": "S23-F01",
+      "name": "白色雪脊",
+      "nameEn": "The White Ridge",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S23-F01.webp",
+      "seriesId": "S23",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S23-F02",
+      "name": "红色雪线",
+      "nameEn": "The Red Snow Line",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S23-F02.webp",
+      "seriesId": "S23",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S23-F03",
+      "name": "蓝色回转",
+      "nameEn": "Blue Turns",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S23-F03.webp",
+      "seriesId": "S23",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S24-F01",
+      "name": "沙丘口袋",
+      "nameEn": "Dune Pockets",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S24-F01.webp",
+      "seriesId": "S24",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S24-F02",
+      "name": "蓝墨折页",
+      "nameEn": "A Blue-Ink Fold",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S24-F02.webp",
+      "seriesId": "S24",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S24-F03",
+      "name": "酒渍工作室",
+      "nameEn": "The Wine-Stained Studio",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S24-F03.webp",
+      "seriesId": "S24",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S25-F01",
+      "name": "青潮塑形",
+      "nameEn": "Tide-Shaped",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S25-F01.webp",
+      "seriesId": "S25",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S25-F02",
+      "name": "珊瑚潮汐",
+      "nameEn": "Coral Tides",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S25-F02.webp",
+      "seriesId": "S25",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S25-F03",
+      "name": "珍珠断奏",
+      "nameEn": "A Pearl Syncopation",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S25-F03.webp",
+      "seriesId": "S25",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S26-F01",
+      "name": "天蓝空隙",
+      "nameEn": "Sky-Blue Space",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S26-F01.webp",
+      "seriesId": "S26",
+      "components": [
+        "编织凉鞋",
+        "贝光耳饰",
+        "天蓝宽肩衬裙",
+        "长辫发扣",
+        "弧线裤"
+      ],
+      "garmentIds": [
+        "colour-flax-woven-sandals",
+        "colour-sky-earrings",
+        "colour-sky-linen-tunic",
+        "colour-sky-metal-barrette",
+        "colour-white-barrel-trousers"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Flax woven sandals",
+        "Sky earrings",
+        "Sky linen tunic",
+        "Sky metal barrette",
+        "Barrel trousers"
+      ]
+    },
+    {
+      "id": "S26-F02",
+      "name": "海军蓝软岛",
+      "nameEn": "The Navy Soft Island",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S26-F02.webp",
+      "seriesId": "S26",
+      "components": [
+        "奶油罗纹长裙",
+        "茧形针织",
+        "暖金窄腕饰",
+        "暖金水滴耳饰",
+        "低跟穆勒",
+        "铁锈色腰带"
+      ],
+      "garmentIds": [
+        "colour-cream-rib-skirt",
+        "colour-navy-cocoon-cardigan",
+        "colour-navy-cuff",
+        "colour-navy-earrings",
+        "colour-navy-mules",
+        "colour-rust-wrap-sash"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Rib skirt",
+        "Cocoon cardigan",
+        "Cuff",
+        "Earrings",
+        "Mules",
+        "Rust wrap sash"
+      ]
+    },
+    {
+      "id": "S26-F03",
+      "name": "陶土风帆",
+      "nameEn": "Terracotta Sails",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S26-F03.webp",
+      "seriesId": "S26",
+      "components": [
+        "瓷白卵石耳坠",
+        "浅金宽腕饰",
+        "陶土风帆亚麻裙",
+        "象牙编织渔夫鞋"
+      ],
+      "garmentIds": [
+        "colour-ceramic-earrings",
+        "colour-coral-gold-cuff",
+        "colour-coral-linen-dress",
+        "colour-ivory-espadrilles"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Ceramic earrings",
+        "Coral gold cuff",
+        "Coral linen dress",
+        "Espadrilles"
+      ]
+    },
+    {
+      "id": "S27-F01",
+      "name": "黑紫幕帘",
+      "nameEn": "Black-Violet Curtains",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S27-F01.webp",
+      "seriesId": "S27",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S27-F02",
+      "name": "暗红排练",
+      "nameEn": "A Dark-Red Rehearsal",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S27-F02.webp",
+      "seriesId": "S27",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S27-F03",
+      "name": "象牙色返场",
+      "nameEn": "An Ivory Return",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S27-F03.webp",
+      "seriesId": "S27",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S28-F01",
+      "name": "玉色折枝",
+      "nameEn": "Jade Branches",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S28-F01.webp",
+      "seriesId": "S28",
+      "components": [
+        "金色腕饰",
+        "玉色金边耳坠",
+        "尖头平底鞋",
+        "斜襟旗袍"
+      ],
+      "garmentIds": [
+        "colour-jade-cuff",
+        "colour-jade-earrings",
+        "colour-jade-pointed-flats",
+        "colour-jade-qipao"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Jade cuff",
+        "Jade earrings",
+        "Jade pointed flats",
+        "Jade qipao"
+      ]
+    },
+    {
+      "id": "S28-F02",
+      "name": "朱红折领",
+      "nameEn": "Vermilion Folds",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S28-F02.webp",
+      "seriesId": "S28",
+      "components": [
+        "雕塑乐福鞋",
+        "象牙短内搭",
+        "象牙阔腿裤",
+        "朱红镂纹短外套",
+        "朱红珍珠耳饰"
+      ],
+      "garmentIds": [
+        "colour-black-sculptural-loafers",
+        "colour-ivory-shell",
+        "colour-ivory-wide-trousers",
+        "colour-vermilion-cutwork-jacket",
+        "colour-vermilion-earrings"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Sculptural loafers",
+        "Shell",
+        "Wide trousers",
+        "Vermilion cutwork jacket",
+        "Vermilion earrings"
+      ]
+    },
+    {
+      "id": "S28-F03",
+      "name": "石蓝叠影",
+      "nameEn": "Slate-Blue Layers",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S28-F03.webp",
+      "seriesId": "S28",
+      "components": [
+        "冷白九分裤",
+        "几何耳饰",
+        "盘发簪",
+        "裹身长衣",
+        "深棕方头鞋"
+      ],
+      "garmentIds": [
+        "colour-ivory-slim-trousers",
+        "colour-slate-earrings",
+        "colour-slate-hairpin",
+        "colour-slate-wrap-coat",
+        "colour-umber-square-shoes"
+      ],
+      "pendingPieceIds": [],
+      "componentsEn": [
+        "Slim trousers",
+        "Slate earrings",
+        "Slate hairpin",
+        "Slate wrap coat",
+        "Umber square shoes"
+      ]
+    },
+    {
+      "id": "S29-F01",
+      "name": "黄铜雨檐",
+      "nameEn": "A Brass Rain Eave",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S29-F01.webp",
+      "seriesId": "S29",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S29-F02",
+      "name": "紫酒雨幕",
+      "nameEn": "Wine-Coloured Rain",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S29-F02.webp",
+      "seriesId": "S29",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S29-F03",
+      "name": "蓝色雨痕",
+      "nameEn": "Blue Rain Marks",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S29-F03.webp",
+      "seriesId": "S29",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S30-F01",
+      "name": "银紫序曲",
+      "nameEn": "A Silver-Lilac Overture",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S30-F01.webp",
+      "seriesId": "S30",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S30-F02",
+      "name": "玫红安可",
+      "nameEn": "A Magenta Encore",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S30-F02.webp",
+      "seriesId": "S30",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
+      "id": "S30-F03",
+      "name": "深蓝终章",
+      "nameEn": "The Midnight Finale",
+      "tier": "collectible",
+      "image": "/assets/fashion-series/previews/cards/S30-F03.webp",
+      "seriesId": "S30",
+      "components": [],
+      "garmentIds": [],
+      "pendingPieceIds": [],
+      "componentsEn": []
+    },
+    {
       "id": "C04-A",
       "name": "薄膜晨光",
       "nameEn": "Membrane Morning",
@@ -458,466 +2099,6 @@
         "扁平肩包"
       ],
       "hair": "下颌不对称短发＋窄框眼镜"
-    },
-    {
-      "id": "S01-F01",
-      "name": "鎏金主场",
-      "nameEn": "A Gilded Entrance",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S01-F01.png",
-      "imageGitBlob": "7b52b80b86763236c08653a61b34329d95b5ad07",
-      "brief": "MOB WIFE / flamboyant urban power. Shared black, oxblood, espresso and antique gold, night city cinematic amber. Adult woman with sleek sculpted espresso finger waves ending in precise chin bob, bold red lips. Strong frontal standing pose feet apart, upright head and level gaze, one hand adjusting left glove, shoulders square. Short oversized espresso FAUX FUR cape jacket frames a fitted black double-breasted satin-lapel wool waistcoat worn over opaque black lace shell, full-length narrow sharply creased black trousers and pointed gold-capped black pumps. One original large gold cuff and geometric earrings. Scene: art-deco hotel revolving-door vestibule at night, shadow and amber brass, no text. Brand research 2 only for compact double-breasted tailoring and satin-versus-lace; replace reference underwear with proper waistcoat and trousers, add completely original fur cape and jewellery. Big silhouette contrast and authoritative glamour, not office suit.",
-      "components": [
-        "缎领双排扣马甲",
-        "独立蕾丝内搭",
-        "窄直礼服裤",
-        "仿皮草短披外套",
-        "金属首饰",
-        "尖头鞋"
-      ],
-      "hair": "MOB WIFE / flamboyant urban power. Shared black, oxblood, espresso and antique gold, night city cinematic amber. Adult woman with sleek sculpted espresso finger waves ending in precise chin bob, bold red lips. Strong frontal standing pose feet apart, upright head and level gaze, one hand adjusting left glove, shoulders square. Short oversized espresso FAUX FUR cape jacket frames a fitted black double-breasted satin-lapel wool waistcoat worn over opaque black lace shell, full-length narrow sharply creased black trousers and pointed gold-capped black pumps. One original large gold cuff and geometric earrings. Scene: art-deco hotel revolving-door vestibule at night, shadow and amber brass, no text. Brand research 2 only for compact double-breasted tailoring and satin-versus-lace; replace reference underwear with proper waistcoat and trousers, add completely original fur cape and jewellery. Big silhouette contrast and authoritative glamour, not office suit."
-    },
-    {
-      "id": "S01-F02",
-      "name": "石榴夜宴",
-      "nameEn": "The Garnet Supper",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S01-F02.png",
-      "imageGitBlob": "96c011b3c8ac5ffd6245acac98f48ba0eec47d08",
-      "brief": "MOB WIFE urban flamboyance, same black oxblood espresso antique-gold nighttime palette. Adult woman with high sculptural glossy dark updo, sweeping curved pompadour front and clean exposed neck. Seated upright on edge of a dark red banquette in a grand hotel supper club, feet offset planted both shoes visible, one forearm resting on table edge and other hand holding rigid small evening clutch on thigh; head vertical direct unwavering gaze. An OPAQUE oxblood silk bias-cut ankle-length one-shoulder dress, asymmetric draping gathered through a custom antique-gold oval at waist; ORIGINAL espresso and garnet abstract geological veins only on lower third, not copied marble pattern. Long black velvet opera gloves, broad black satin shawl slung low around upper arms, antique-gold open square earrings, black fine-strap heels. Background polished dark wood and warm amber table lamp, strong confident evening atmosphere. Translate research's geological fluidity and big cape versus fitted column into new print placement, one-shoulder drape, palette and short shawl; no animal stereotypes.",
-      "components": [
-        "单肩斜裁长裙",
-        "低披缎披肩",
-        "长手套",
-        "细带鞋"
-      ],
-      "hair": "MOB WIFE urban flamboyance, same black oxblood espresso antique-gold nighttime palette. Adult woman with high sculptural glossy dark updo, sweeping curved pompadour front and clean exposed neck. Seated upright on edge of a dark red banquette in a grand hotel supper club, feet offset planted both shoes visible, one forearm resting on table edge and other hand holding rigid small evening clutch on thigh; head vertical direct unwavering gaze. An OPAQUE oxblood silk bias-cut ankle-length one-shoulder dress, asymmetric draping gathered through a custom antique-gold oval at waist; ORIGINAL espresso and garnet abstract geological veins only on lower third, not copied marble pattern. Long black velvet opera gloves, broad black satin shawl slung low around upper arms, antique-gold open square earrings, black fine-strap heels. Background polished dark wood and warm amber table lamp, strong confident evening atmosphere. Translate research's geological fluidity and big cape versus fitted column into new print placement, one-shoulder drape, palette and short shawl; no animal stereotypes."
-    },
-    {
-      "id": "S01-F03",
-      "name": "锋芒入席",
-      "nameEn": "An Entrance with an Edge",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S01-F03.png",
-      "imageGitBlob": "3d5113535ef62871e9bb4e7a9f419354f9d9bb5a",
-      "brief": "MOB WIFE urban power glamour, black oxblood espresso antique-gold night mood shared with two companion cards. Adult woman with glossy jet black high sculptural ponytail tightly wrapped at base, one precise waved forehead strand, gold ear cuffs. Decisive walking step down wide low stone entrance stair, head upright looking horizontally ahead, shoulders level, one hand holding small geometric gold-frame bag and other hand inside jacket pocket, no over-shoulder look. Original sculptural oxblood hourglass tailored short jacket with sharp shoulders, curved asymmetric front, a single brushed gold rectangular waist clasp; opaque black square-neck fitted knit inside, black leather high-waist straight midi skirt with asymmetric side pleat opening rather than slit exposure, sheer black tights and black knee boots with architectural gold heel insert. No Medusa, safety pin or brand icon. Scene: dark luxury city gallery exterior after rain with amber lit tall doorway. Research informs sharp structured tailoring and small contrast accents ONLY; change mini dress into jacket plus leather midi, palette and original rectangular hardware.",
-      "components": [
-        "锐肩收腰短外套",
-        "侧褶皮质中长裙",
-        "方领针织内搭",
-        "长靴",
-        "几何金属配件"
-      ],
-      "hair": "MOB WIFE urban power glamour, black oxblood espresso antique-gold night mood shared with two companion cards. Adult woman with glossy jet black high sculptural ponytail tightly wrapped at base, one precise waved forehead strand, gold ear cuffs. Decisive walking step down wide low stone entrance stair, head upright looking horizontally ahead, shoulders level, one hand holding small geometric gold-frame bag and other hand inside jacket pocket, no over-shoulder look. Original sculptural oxblood hourglass tailored short jacket with sharp shoulders, curved asymmetric front, a single brushed gold rectangular waist clasp; opaque black square-neck fitted knit inside, black leather high-waist straight midi skirt with asymmetric side pleat opening rather than slit exposure, sheer black tights and black knee boots with architectural gold heel insert. No Medusa, safety pin or brand icon. Scene: dark luxury city gallery exterior after rain with amber lit tall doorway. Research informs sharp structured tailoring and small contrast accents ONLY; change mini dress into jacket plus leather midi, palette and original rectangular hardware."
-    },
-    {
-      "id": "S02-F01",
-      "name": "最后一首安可",
-      "nameEn": "One Last Encore",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S02-F01.png",
-      "imageGitBlob": "95e2a92b7917c589720966e636e99006bf0f97e0",
-      "brief": "INDIE SLEAZE music-scene editorial: shared charcoal black, dirty ivory, cobalt and worn silver, late-night small venue flash light, gritty environment but clean elegant illustration. Adult woman with black razor shag haircut, cheekbone-length angular bangs, silver tiny studs, smudged eyeliner. Tall narrow stance leaning BACK of shoulder lightly against venue brick wall, head upright with level gaze, ankles offset not coy, one hand inside trouser pocket other holding folded plain gig programme. Original elongated narrow-shoulder charcoal wool blazer with sharp small lapels, extra long dirty-ivory shirt cuffs, skinny black silk scarf left untied, close-fitting plain ivory tee, very narrow black trousers with tiny ankle zip and pointed worn leather low Chelsea boots. No band text. Reference 2: male tailoring structure only; reinterpret for adult woman with longer jacket, exposed cuffs and original scarf layering, not exact suit. Background dim side-door of music venue, coiled cable and single cobalt lamp, cropped empty poster panels without text. Fashion is elongated precise rocker silhouette.",
-      "components": [
-        "窄肩长西装",
-        "修长拉链裤脚长裤",
-        "长袖口衬衫",
-        "独立素T内层",
-        "细围巾",
-        "旧皮短靴"
-      ],
-      "hair": "INDIE SLEAZE music-scene editorial: shared charcoal black, dirty ivory, cobalt and worn silver, late-night small venue flash light, gritty environment but clean elegant illustration. Adult woman with black razor shag haircut, cheekbone-length angular bangs, silver tiny studs, smudged eyeliner. Tall narrow stance leaning BACK of shoulder lightly against venue brick wall, head upright with level gaze, ankles offset not coy, one hand inside trouser pocket other holding folded plain gig programme. Original elongated narrow-shoulder charcoal wool blazer with sharp small lapels, extra long dirty-ivory shirt cuffs, skinny black silk scarf left untied, close-fitting plain ivory tee, very narrow black trousers with tiny ankle zip and pointed worn leather low Chelsea boots. No band text. Reference 2: male tailoring structure only; reinterpret for adult woman with longer jacket, exposed cuffs and original scarf layering, not exact suit. Background dim side-door of music venue, coiled cable and single cobalt lamp, cropped empty poster panels without text. Fashion is elongated precise rocker silhouette."
-    },
-    {
-      "id": "S02-F02",
-      "name": "闪光灯余温",
-      "nameEn": "After the Flash",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S02-F02.png",
-      "imageGitBlob": "361d8c6b8e1433774a7d83b46344645d489a381b",
-      "brief": "INDIE SLEAZE editorial shared charcoal dirty ivory cobalt worn silver nighttime small music venue vibe. Adult woman with bleach-blonde choppy short mullet and dark roots, blunt piecey baby fringe, bold black eyeliner. Seated upright on a low black road flight case backstage, feet planted apart naturally and complete shoes visible; spine/head vertical, horizontal gaze toward camera. Original slouchy washed charcoal fine cotton jersey tee, one side loosely tucked into straight MICRO-SEQUIN silver knee-above mini skirt with a diagonal black grosgrain closure tab, opaque cobalt tights, scuffed black square-toe ankle boots with low stacked heel, narrow black leather wrist cuff. One hand holds folded black jacket next to thigh and other braces on case. Scene dark venue dressing corridor with industrial door, cobalt light spilling from stage, subtle direct-flash crispness, not messy grunge painting. Reference2 ONLY jersey hand and crewneck, not model, jeans, branding or era claim; translate plain tee into loose washed oversized styling plus independently designed sequin skirt/colour hosiery. Controlled high-fashion clash of humble cotton and stage shine.",
-      "components": [
-        "洗旧宽松圆领T恤",
-        "斜向闭合亮片短裙",
-        "中筒袜",
-        "方头短靴",
-        "腕带"
-      ],
-      "hair": "INDIE SLEAZE editorial shared charcoal dirty ivory cobalt worn silver nighttime small music venue vibe. Adult woman with bleach-blonde choppy short mullet and dark roots, blunt piecey baby fringe, bold black eyeliner. Seated upright on a low black road flight case backstage, feet planted apart naturally and complete shoes visible; spine/head vertical, horizontal gaze toward camera. Original slouchy washed charcoal fine cotton jersey tee, one side loosely tucked into straight MICRO-SEQUIN silver knee-above mini skirt with a diagonal black grosgrain closure tab, opaque cobalt tights, scuffed black square-toe ankle boots with low stacked heel, narrow black leather wrist cuff. One hand holds folded black jacket next to thigh and other braces on case. Scene dark venue dressing corridor with industrial door, cobalt light spilling from stage, subtle direct-flash crispness, not messy grunge painting. Reference2 ONLY jersey hand and crewneck, not model, jeans, branding or era claim; translate plain tee into loose washed oversized styling plus independently designed sequin skirt/colour hosiery. Controlled high-fashion clash of humble cotton and stage shine."
-    },
-    {
-      "id": "S02-F03",
-      "name": "借来的凌晨",
-      "nameEn": "Borrowed After Midnight",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S02-F03.png",
-      "imageGitBlob": "7c669a4c9bc6e6bbbdcd8ebc983ee5e2860ec60c",
-      "brief": "INDIE SLEAZE clean fashion illustration with shared charcoal/dirty ivory/cobalt/worn silver palette, small venue nighttime and flash-lit urban mood. Adult woman with dark chestnut sharply layered shoulder-length shag, a single narrow slick braid on one side, undone but deliberately cut, no long generic waves. Walking out of music venue with purposeful short stride, head completely upright looking straight ahead, one hand carrying a small original slouch black shoulder bag and other hand pushing jacket collar away from neck. Big charcoal washed LEATHER bomber with compact pale shearling collar and dropped round sleeves, long dirty-ivory rib-knit tank reaching low hip, original asymmetrical cobalt-black velvet wrap mini skirt with visibly tied fastening, semiopaque black tights and worn pointed low leather boots. No heavy gold jewellery. Reference2 only short voluminous outerwear versus narrow lower half, translate grey fabric bomber/leggings into leather, extended tank and velvet wrap skirt; remove brand marks. Scene rain-damp alley outside an independent venue, one blue neon tube without letters, torn blank poster shapes, crisp fashion character not filthy texture.",
-      "components": [
-        "洗旧皮飞行夹克",
-        "长罗纹背心",
-        "系结绒面短裙",
-        "实色袜",
-        "旧皮短靴"
-      ],
-      "hair": "INDIE SLEAZE clean fashion illustration with shared charcoal/dirty ivory/cobalt/worn silver palette, small venue nighttime and flash-lit urban mood. Adult woman with dark chestnut sharply layered shoulder-length shag, a single narrow slick braid on one side, undone but deliberately cut, no long generic waves. Walking out of music venue with purposeful short stride, head completely upright looking straight ahead, one hand carrying a small original slouch black shoulder bag and other hand pushing jacket collar away from neck. Big charcoal washed LEATHER bomber with compact pale shearling collar and dropped round sleeves, long dirty-ivory rib-knit tank reaching low hip, original asymmetrical cobalt-black velvet wrap mini skirt with visibly tied fastening, semiopaque black tights and worn pointed low leather boots. No heavy gold jewellery. Reference2 only short voluminous outerwear versus narrow lower half, translate grey fabric bomber/leggings into leather, extended tank and velvet wrap skirt; remove brand marks. Scene rain-damp alley outside an independent venue, one blue neon tube without letters, torn blank poster shapes, crisp fashion character not filthy texture."
-    },
-    {
-      "id": "S03-F01",
-      "name": "看台上的缎光",
-      "nameEn": "Satin in the Stands",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S03-F01.png",
-      "imageGitBlob": "8c335c65fcb70d899db7f4a1e16e38887ac0514c",
-      "brief": "BLOKETTE fashion editorial, shared burgundy/cream/soft sky blue/charcoal palette, cool overcast stadium architecture with tender ribbon detail, sporty and romantic not athlete costume. Adult woman with sleek dark blunt jaw bob and two tiny cream ribbon clips placed geometrically. Standing frontal with one leg weight shifted but head vertical and level confident gaze; one hand holds folded stadium programme low and other hand lightly pinches jersey hem at one side to reveal skirt waistband. Original oversized burgundy football jersey with oversized ivory pointed collar, subtle tonal jacquard vertical ribs, asymmetric single ivory curved chest panel, no stripes on sleeve, no logo, sponsor, numbers or crest. Pale sky-blue bias satin ankle-length skirt with soft diagonal seam and flared godet, charcoal knee socks only small glimpse and cream low-profile T-strap sporty flat shoes with no stripes. Scene deserted upper stadium concourse, concrete arches and soft field-green blur below, quiet late afternoon. Reference2 only V-collar/knit construction, change panel map, colour, sleeve length and styling completely; no copy of three stripes.",
-      "components": [
-        "宽领宽松球衣",
-        "斜裁缎面长裙",
-        "细带运动便鞋",
-        "长袜",
-        "成组缎带发夹"
-      ],
-      "hair": "BLOKETTE fashion editorial, shared burgundy/cream/soft sky blue/charcoal palette, cool overcast stadium architecture with tender ribbon detail, sporty and romantic not athlete costume. Adult woman with sleek dark blunt jaw bob and two tiny cream ribbon clips placed geometrically. Standing frontal with one leg weight shifted but head vertical and level confident gaze; one hand holds folded stadium programme low and other hand lightly pinches jersey hem at one side to reveal skirt waistband. Original oversized burgundy football jersey with oversized ivory pointed collar, subtle tonal jacquard vertical ribs, asymmetric single ivory curved chest panel, no stripes on sleeve, no logo, sponsor, numbers or crest. Pale sky-blue bias satin ankle-length skirt with soft diagonal seam and flared godet, charcoal knee socks only small glimpse and cream low-profile T-strap sporty flat shoes with no stripes. Scene deserted upper stadium concourse, concrete arches and soft field-green blur below, quiet late afternoon. Reference2 only V-collar/knit construction, change panel map, colour, sleeve length and styling completely; no copy of three stripes."
-    },
-    {
-      "id": "S03-F02",
-      "name": "织入加时赛",
-      "nameEn": "Woven into Extra Time",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S03-F02.png",
-      "imageGitBlob": "393677b19e751cb7d3a66e34bc95c716d62a07d6",
-      "brief": "BLOKETTE editorial same burgundy/cream/soft sky blue/charcoal and cool stadium-adjacent city afternoon, sport knit plus tailored fluidity. Adult woman with dark glossy centre-part tight braided crown finished as two compact low loops, one cream narrow ribbon woven into back not two bows. Sitting upright on concrete low terrace bench, one foot on lower step other flat grounded, complete shoes visible; head upright looking level sideways toward empty pitch, one hand resting on knee other lightly holding slim ivory zip jacket folded beside hip. Original cropped cream and burgundy fine knit polo with original sparse interlocking rectangular jacquard (NOT research diamond repeat), small sky blue collar and elongated cuffs; high-waist charcoal fluid very wide tailored trousers with one deep side pleat each, narrow cream piping along one outer seam rather than three stripes. Oxblood lace-up low-profile shoes and tiny silver chain. Scene pale brick training-ground courtyard with soft green visible through one gate, no football prop required. Reference2 only knit polo versus sporty rib edges, change geometry, crop, collar, palette and shorts to dramatic tailored trousers. No claim of reproducing cultural motifs.",
-      "components": [
-        "短身提花针织Polo",
-        "高腰深褶流动阔裤",
-        "低帮系带鞋",
-        "编发缎带"
-      ],
-      "hair": "BLOKETTE editorial same burgundy/cream/soft sky blue/charcoal and cool stadium-adjacent city afternoon, sport knit plus tailored fluidity. Adult woman with dark glossy centre-part tight braided crown finished as two compact low loops, one cream narrow ribbon woven into back not two bows. Sitting upright on concrete low terrace bench, one foot on lower step other flat grounded, complete shoes visible; head upright looking level sideways toward empty pitch, one hand resting on knee other lightly holding slim ivory zip jacket folded beside hip. Original cropped cream and burgundy fine knit polo with original sparse interlocking rectangular jacquard (NOT research diamond repeat), small sky blue collar and elongated cuffs; high-waist charcoal fluid very wide tailored trousers with one deep side pleat each, narrow cream piping along one outer seam rather than three stripes. Oxblood lace-up low-profile shoes and tiny silver chain. Scene pale brick training-ground courtyard with soft green visible through one gate, no football prop required. Reference2 only knit polo versus sporty rib edges, change geometry, crop, collar, palette and shorts to dramatic tailored trousers. No claim of reproducing cultural motifs."
-    },
-    {
-      "id": "S03-F03",
-      "name": "终场换一面",
-      "nameEn": "After the Final Whistle",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S03-F03.png",
-      "imageGitBlob": "1efd06a24a944fc07220360b19923e2fbcc243b2",
-      "brief": "BLOKETTE same burgundy/cream/sky blue charcoal cool urban stadium mood. Adult woman with ash dark-brown slick high knot plus short blunt straight fringe, long slender single ribbon tail, no head tilt. Purposeful long step descending broad stadium stairs, head vertical eyes level forward, shoulders stable, one hand inside trackcoat pocket other carrying small original soft cream bag; show both full shoes. Oversized sky-blue box-shoulder football top with dramatic broad structured elbows, burgundy irregular one-sided knit collar and blank chest, no words logos badges numbers or stripe branding. Tiny charcoal pleated skirt partly under oversized shirt, translucent-but-not-transparent cream nylon long sleeveless track-coat with burgundy piping worn open, cream high socks with one broad burgundy block near cuff, black square-toe sporty Mary Jane low shoes. Clear three lengths: compact pleated skirt, broad mid-hip top, calf-long airy outer layer. Reference2 informs exaggerated shoulder and sporty collar contrast only, transform menswear trouser look into layered skirt/nylon outerwear; no copied check shirt or belt. Empty pale concrete stair and stadium glazed wall, afternoon diffuse light.",
-      "components": [
-        "宽肩球衣",
-        "短褶裙",
-        "独立无袖尼龙长外层",
-        "色块长袜",
-        "方头运动玛丽珍"
-      ],
-      "hair": "BLOKETTE same burgundy/cream/sky blue charcoal cool urban stadium mood. Adult woman with ash dark-brown slick high knot plus short blunt straight fringe, long slender single ribbon tail, no head tilt. Purposeful long step descending broad stadium stairs, head vertical eyes level forward, shoulders stable, one hand inside trackcoat pocket other carrying small original soft cream bag; show both full shoes. Oversized sky-blue box-shoulder football top with dramatic broad structured elbows, burgundy irregular one-sided knit collar and blank chest, no words logos badges numbers or stripe branding. Tiny charcoal pleated skirt partly under oversized shirt, translucent-but-not-transparent cream nylon long sleeveless track-coat with burgundy piping worn open, cream high socks with one broad burgundy block near cuff, black square-toe sporty Mary Jane low shoes. Clear three lengths: compact pleated skirt, broad mid-hip top, calf-long airy outer layer. Reference2 informs exaggerated shoulder and sporty collar contrast only, transform menswear trouser look into layered skirt/nylon outerwear; no copied check shirt or belt. Empty pale concrete stair and stadium glazed wall, afternoon diffuse light."
-    },
-    {
-      "id": "S04-F01",
-      "name": "轨道静默",
-      "nameEn": "Orbital Silence",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S04-F01.png",
-      "imageGitBlob": "b9a08863916140d5817a8b0ea398200fdbd3980b",
-      "brief": "CYBER Y2K retro future editorial, unified silver/ice-blue/lilac palette with sparse electric lime. Adult woman with precise glossy black geometric chin bob, silver front panel and blunt micro-fringe. Upright head, chin level, frontal symmetrical planted stance feet apart, arms relaxed slightly away from body, aloof direct gaze. Original ice-white bonded jersey sculptural sleeveless mini dress with a sculpted crescent standing neckline rather than a hood; one asymmetric curved hip overlay and thin ice-blue seam channels. An abbreviated translucent ice-blue capelet only across shoulders with geometric slit openings, silver satin-finish fitted knee boots with square toes, one small rigid crescent bag in right hand. Scene: empty retro-futurist transit observation deck, curved glass wall and pale orbital light ring, cool clean dusk, not a space suit. Reinterpret reference's smooth wrapping and boots by changing length, neckline, seams, accessories and colour; no copied side buttons.",
-      "components": [
-        "新月立领几何无袖短裙",
-        "透明肩罩",
-        "方头贴腿长靴",
-        "几何发饰",
-        "耳饰"
-      ],
-      "hair": "银黑双色几何短鲍勃，齐短刘海"
-    },
-    {
-      "id": "S04-F02",
-      "name": "失真频段",
-      "nameEn": "Distorted Frequency",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S04-F02.png",
-      "imageGitBlob": "e7cfc3bfeea8f3456b790ebb412f5e9e23d9883d",
-      "brief": "CYBER Y2K retro future editorial with the same ice-blue/lilac/silver palette and tiny lime accents. Adult woman with wet slicked-back short black wolf cut, two thin braided temple strands, silver ear cuffs. Head NOT tilted sideways: neck vertical, slight forward nod as she looks at compact silver music player in one hand; other hand hooked into trouser pocket. Strong stance with one boot on a low concrete ledge, shoulders level and stable. Original silver-blue acid-washed DENIM bolero jacket with broad angular shoulders, cropped rib-length, curved utilitarian seams and raw controlled seam edges; a lilac opaque fitted jersey tank with small lime edge binding; radically low-slung wide DENIM flares with curved double-panel knee inserts and diagonal fastening waistband, no logos, no decorative straps unconnected. Square-toed chunky silver-black boots fully visible under flared hems. Scene: late-night elevated station concourse with cool blue glass and a blurred violet waveform installation; uncluttered and editorial, no readable text. Translate reference's tonal washed denim and oversized shoulders into entirely new cropped-top/low-rise flare proportions, not a copied long denim coat.",
-      "components": [
-        "宽肩短丹宁夹克",
-        "低腰斜扣阔腿牛仔裤",
-        "撞边背心",
-        "方头厚底鞋"
-      ],
-      "hair": "湿感后梳短狼尾，鬓角两束细辫"
-    },
-    {
-      "id": "S04-F03",
-      "name": "液态回声",
-      "nameEn": "Liquid Echo",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S04-F03.png",
-      "imageGitBlob": "e7184d6f637d660c2609df61298824161f292307",
-      "brief": "CYBER Y2K soft retro-future, shared ice-blue/silver/lilac palette. Adult woman with two high sculptural compact hair knots, two long poker-straight side sections, thin silver hair hoops. Walking laterally in a long deliberate editorial stride, upright head looking forward not back, no head cant, arms swinging naturally and separated. Original lilac asymmetric jersey mini dress over opaque lilac short lining: gathered diagonally at one hip with a flat custom silver crescent clasp, long narrow rippling side panel to calf, one long flared sleeve while other shoulder has a broad secure strap. Add detachable fine openwork ice-blue knit arm warmer on bare arm, small silver shoulder bag, metallic lilac platform sandals with ankle straps, both sandals visible. No butterfly, rose, cross, brand logos or seashell bra. Scene: empty chrome-and-glass rooftop sound pavilion with cool translucent aqua panels, violet sunset reflected on floor, same coherent future atmosphere as transit cards but different place. Reference 2 informs jersey drape, asymmetric flowing hems and dress-over-layering only; entirely change green sleeveless dress over flared trousers into lilac one-sleeve shorter layered silhouette.",
-      "components": [
-        "单侧袖不对称抽褶短裙",
-        "独立镂空袖套",
-        "金属感厚底凉鞋",
-        "细银发箍"
-      ],
-      "hair": "高位双结盘发与两束笔直长发，细银发箍"
-    },
-    {
-      "id": "S05-F01",
-      "name": "风的折线",
-      "nameEn": "A Fold in the Wind",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S05-F01.png",
-      "imageGitBlob": "0a7a13754012230fe94aecdbf32f1c7280e34887",
-      "brief": "SCANDI CITY fashion editorial, shared cool overcast Nordic light, pale concrete, steel blue, oat ivory, deep navy with one oxblood red accent; clean grown-up architectural mood, not mundane office clothes. Adult woman with slick precise centre part dark brown low loop chignon, no stray wavy locks. Head fully vertical, gaze level toward horizon, body in quiet standing pause, both hands lightly adjusting the two ends of a broad sculptural scarf collar at upper chest without covering waist. Original deep navy compact-wool coat with continuous oversized scarf collar, long wrap fold diagonally over one shoulder, strong clean shoulders, exceptionally wide elbow-length outer sleeves revealing long oat fine-gauge knit sleeves. Coat ends just BELOW knee, unbelted column shape with off-centre concealed closure, no copied fringe or contrast border stitching. Narrow oat ankle-length straight trousers, oxblood sculptural pointed slingback low heels, small original flat ivory leather clutch tucked under arm. Scene: harbour modernist colonnade in wind, pale stone and calm grey sea, Nordic diffuse light. Reinterpret reference wool scarf/coat relation into new shoulder folds, sleeve lengths, palette, trousers and shoes.",
-      "components": [
-        "短外袖围领羊毛外套",
-        "细针织长袖内搭",
-        "及踝直筒裤",
-        "低跟后空鞋"
-      ],
-      "hair": "深棕湿感中分低环髻，耳侧无碎发"
-    },
-    {
-      "id": "S05-F02",
-      "name": "城市切片",
-      "nameEn": "City in Layers",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S05-F02.png",
-      "imageGitBlob": "5479f6e55c9ae6d7ad9824a46e995e4873b3302f",
-      "brief": "SCANDI CITY fashion editorial, same cool overcast Nordic architectural atmosphere, oat/steel/green/pale pink with restrained oxblood accent. Adult woman with copper-red graphic bowl-pixie haircut and precise short fringe, straight neck and absolutely upright level head, relaxed confident direct gaze. Seated upright on edge of long pale stone museum bench, one hand braced next to hip, other holds small dark green rounded bag on thigh, feet planted naturally offset not crossed, whole outfit visible. Original forest-green fitted-waist cropped jacket with dramatically rounded balloon sleeves, pale-pink exaggerated pointed cotton collar layered above it. Opaque pale-pink A-line knee skirt beneath an open frontal overlay of widely spaced dark-green satin ribbons, forming clean moving vertical strips rather than beaded floral fringe, each ribbon anchored to waistband. Dark green fine knee socks and chunky squared double-strap black patent Mary Janes, modest heel. No logos or copied floral beading. Scene: outdoor sculpture courtyard with pale concrete curved wall and red-brown brick beyond, crisp cloudy daylight, not a cafe. Reference 2 informs fitted waist versus full sleeves, matte jacket vs mobile lower layer, grounded chunky shoes; recompose colour, cropped length, collar, ribbon skirt and footwear.",
-      "components": [
-        "收腰鼓袖外套",
-        "大领独立内搭",
-        "不透明底裙",
-        "独立垂直带条罩层",
-        "长袜",
-        "双带厚底鞋"
-      ],
-      "hair": "铜红齐刘海短切发，后部圆润贴颈"
-    },
-    {
-      "id": "S05-F03",
-      "name": "偏移坐标",
-      "nameEn": "Displaced Coordinates",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S05-F03.png",
-      "imageGitBlob": "a87fe0fc28935de1e1b8c7730c445e1cf2a6b467",
-      "brief": "SCANDI CITY fashion editorial, shared cool slate Nordic daylight and oat/steel/navy colours with tiny oxblood accent. Adult woman with cool ash brown short spiky slick-back haircut, exposed forehead/ears, upright straight head, horizontal concentrated gaze. Purposeful large step ascending one broad low museum stair, torso naturally in forward movement but neck straight no sideways tilt; one hand in jacket pocket, other holding soft folded oxblood bag low by thigh. Original sculptural steel-blue oil-sheened denim jacket with broad high funnel collar and very curved sleeves, waist cropped asymmetrically at one side, worn open enough to see an oat fine rib tank. A matching steel-blue long asymmetric wrap denim skirt to mid-calf with a broad diagonal front panel, back kick pleat and displaced waistband fastener, not jeans; slight dark seam abrasion rather than noisy tears. Black squared chunky ankle boots with small brushed steel rectangular buckles. Scene: brutalist Nordic art museum exterior, broad pale concrete steps and one industrial blue sculpture, cold urban light. Reference 2 informs stiff high collar and dark treated denim, NOT exact black jacket/jeans; change colour, hem length, lower garment, panel arrangement, hair and pose.",
-      "components": [
-        "高立领弧袖短丹宁夹克",
-        "斜裹丹宁长裙",
-        "罗纹背心",
-        "扣饰短靴"
-      ],
-      "hair": "冷棕后梳刺束短发，露额与耳部"
-    },
-    {
-      "id": "S06-F01",
-      "name": "禁书目录",
-      "nameEn": "The Forbidden Index",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S06-F01.png",
-      "imageGitBlob": "7d3930c29ece7de22cfd7e2474fc27d0fbfc2646",
-      "brief": "A stern elegant woman with jet black razor-cut cheekbone bob, micro straight fringe, one ear tucked, oxblood lip. Original dramatic tailoring: charcoal fine chalkstripe sharply extended shoulder jacket cropped high at front but with two sculpted long rear tails, tightly shaped waist, single diagonal fastening; aged ivory narrow pointed collar shirt and a long narrow oxblood silk tie. A high-waisted black wool ankle-length asymmetric wrap skirt with an inserted fan of steel-grey knife pleats on one side; pointed black heeled ankle boots, dark gloves. Pose: frontal planted stance, one foot slightly forward, one gloved hand holds an open old book low at waist, other hand resting lightly on carved stone lectern, assertive upright gaze at viewer. Scene: locked archive balcony with tall dark bookcases and one Gothic pointed window, narrow blue moonlight, a tiny distant amber lamp. Tailoring and pleats must be visually bold, not an ordinary office blazer. Change silhouette, material, bottom garment, hair and setting from photo.",
-      "components": [
-        "锐肩斜扣收腰短前长摆夹克",
-        "尖领独立衬衫",
-        "窄丝领带",
-        "单侧插褶裹长裙",
-        "尖头低跟短靴",
-        "深色手套"
-      ],
-      "hair": "A stern elegant woman with jet black razor-cut cheekbone bob, micro straight fringe, one ear tucked, oxblood lip. Original dramatic tailoring: charcoal fine chalkstripe sharply extended shoulder jacket cropped high at front but with two sculpted long rear tails, tightly shaped waist, single diagonal fastening; aged ivory narrow pointed collar shirt and a long narrow oxblood silk tie. A high-waisted black wool ankle-length asymmetric wrap skirt with an inserted fan of steel-grey knife pleats on one side; pointed black heeled ankle boots, dark gloves. Pose: frontal planted stance, one foot slightly forward, one gloved hand holds an open old book low at waist, other hand resting lightly on carved stone lectern, assertive upright gaze at viewer. Scene: locked archive balcony with tall dark bookcases and one Gothic pointed window, narrow blue moonlight, a tiny distant amber lamp. Tailoring and pleats must be visually bold, not an ordinary office blazer. Change silhouette, material, bottom garment, hair and setting from photo."
-    },
-    {
-      "id": "S06-F02",
-      "name": "午夜辩论",
-      "nameEn": "The Midnight Disputation",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S06-F02.png",
-      "imageGitBlob": "356dbefcbcfe6744274c84fd1cf7b52a6722a4cc",
-      "brief": "An androgynously elegant woman with precisely slicked side part and sculptural folded low knot at nape, a single silver hair pin, thin small oval spectacles. Experimental scholarly layering: oversized aged-ivory crisp poplin shirt with exaggerated long pointed collar and voluminous sleeves gathered at narrow cuffs; over it an ink-black British barathea sleeveless waistcoat with very deep armholes and long asymmetric apron-like front panel. Dramatically wide black fine corduroy knee-length culottes with deep box pleats, oxblood fine wool knee socks and chunky polished black square-toe heeled Oxford shoes. A charcoal cropped capelet jacket hangs over just one shoulder, not a second long coat. Pose: seated on edge of a dark oak seminar table, torso upright, feet both planted separated naturally, one hand braced behind on table and other holding a closed folio beside thigh, confident direct level gaze. Frame complete shoes and full outfit. Scene: deserted wood-panelled debating chamber, tall blackboard with faint illegible erased marks, cool high window illumination, tiny amber light in background. Fashion impact from extreme shirt volume against architectural vest and culottes, not jeans or basic casualwear. Transform photo's black blazer plus jeans into completely new shirt/vest/culotte proportion.",
-      "components": [
-        "大袖尖领衬衫",
-        "深袖窿斜摆长马甲",
-        "深箱褶灯芯绒裙裤",
-        "细羊毛长袜",
-        "方头厚跟牛津鞋",
-        "单肩短披层",
-        "窄椭圆眼镜",
-        "细银发针"
-      ],
-      "hair": "An androgynously elegant woman with precisely slicked side part and sculptural folded low knot at nape, a single silver hair pin, thin small oval spectacles. Experimental scholarly layering: oversized aged-ivory crisp poplin shirt with exaggerated long pointed collar and voluminous sleeves gathered at narrow cuffs; over it an ink-black British barathea sleeveless waistcoat with very deep armholes and long asymmetric apron-like front panel. Dramatically wide black fine corduroy knee-length culottes with deep box pleats, oxblood fine wool knee socks and chunky polished black square-toe heeled Oxford shoes. A charcoal cropped capelet jacket hangs over just one shoulder, not a second long coat. Pose: seated on edge of a dark oak seminar table, torso upright, feet both planted separated naturally, one hand braced behind on table and other holding a closed folio beside thigh, confident direct level gaze. Frame complete shoes and full outfit. Scene: deserted wood-panelled debating chamber, tall blackboard with faint illegible erased marks, cool high window illumination, tiny amber light in background. Fashion impact from extreme shirt volume against architectural vest and culottes, not jeans or basic casualwear. Transform photo's black blazer plus jeans into completely new shirt/vest/culotte proportion."
-    },
-    {
-      "id": "S06-F03",
-      "name": "雨廊来信",
-      "nameEn": "Letters Through the Rain",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S06-F03.png",
-      "imageGitBlob": "6cfae168ffd687926c2cab5aa2bad6b31cade74c",
-      "brief": "A poised woman with slick wet-look black hair swept tightly back into a high long braided ponytail, two architectural braided loops at crown; cool smoky eyes. Original monumental storm silhouette: near-black moss boiled-wool coat, broad sculptural raised collar, asymmetrical storm yoke that creates a short cape across shoulders, exaggerated cocoon sleeves, defined waist with narrow oxblood leather belt, long mid-calf flaring hem with one angled front opening revealing a dark charcoal sharply pleated mini kilt and black opaque tights. Long black polished knee-high boots with sculpted moderate heel. Tiny flashes of original broken-window charcoal/oxblood jacquard inside coat opening, NOT Burberry check. Restrained chunky charcoal knit at neck, no copied wavy zipper or fringed cuffs. Pose: decisive side-three-quarter walking stride through archway, head upright looking over shoulder with chin level, one hand holds a sealed cream letter by hip, other hand inside coat pocket; hem and long braided ponytail lifted slightly by wind. Scene: rain-soaked university cloister at night, Gothic stone arches, slate-blue wet paving, distant dim amber window. More editorial than ordinary trench: overscaled collar/yoke, cocoon sleeves, tall boots, narrow waist and broad hem. Reinterpret researched felted wool, not exact olive runway coat.",
-      "components": [
-        "高立领风雨肩片茧袖收腰大衣",
-        "窄皮带",
-        "短褶裙",
-        "不透明连裤袜",
-        "低跟及膝靴",
-        "粗针织领部内搭"
-      ],
-      "hair": "A poised woman with slick wet-look black hair swept tightly back into a high long braided ponytail, two architectural braided loops at crown; cool smoky eyes. Original monumental storm silhouette: near-black moss boiled-wool coat, broad sculptural raised collar, asymmetrical storm yoke that creates a short cape across shoulders, exaggerated cocoon sleeves, defined waist with narrow oxblood leather belt, long mid-calf flaring hem with one angled front opening revealing a dark charcoal sharply pleated mini kilt and black opaque tights. Long black polished knee-high boots with sculpted moderate heel. Tiny flashes of original broken-window charcoal/oxblood jacquard inside coat opening, NOT Burberry check. Restrained chunky charcoal knit at neck, no copied wavy zipper or fringed cuffs. Pose: decisive side-three-quarter walking stride through archway, head upright looking over shoulder with chin level, one hand holds a sealed cream letter by hip, other hand inside coat pocket; hem and long braided ponytail lifted slightly by wind. Scene: rain-soaked university cloister at night, Gothic stone arches, slate-blue wet paving, distant dim amber window. More editorial than ordinary trench: overscaled collar/yoke, cocoon sleeves, tall boots, narrow waist and broad hem. Reinterpret researched felted wool, not exact olive runway coat."
-    },
-    {
-      "id": "S07-F01",
-      "name": "苔影回声",
-      "nameEn": "Echoes in Moss",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S07-F01.png",
-      "imageGitBlob": "f7d99c63cfc9a351a6456c8fde30f2043bd2909d",
-      "brief": "FAIRYCORE fashion editorial, shared moss sage, smoked lilac, ivory and antiqued copper, humid misty forest just before dusk. Adult woman with dark chestnut intricately braided crown and one long narrow rope braid, small copper botanical comb no flower crown. Calm frontal standing with head upright and level eyes, one arm extended slightly sideways with palm open hovering above fern, other hand holds skirt seam low without lifting it. Original smoked-lilac opaque bias silk ankle dress with fine black-moss velvet branching applique concentrated on ONE shoulder and opposite lower hem, tapered column body but broad translucent sage organza cape sleeves suspended from neckline and floating apart like leaves. Original copper low block-heel lace-up shoes visible, no actual wings. Scene: shadowy forest clearing with dark tree trunks and low ground fog, cool green light and one narrow pale shaft; clothing must remain clear, not glowing fantasy particles. Research2 ONLY lace/velvet botanical contrast and column against transparent drape; alter length, palette, pattern distribution and sleeve engineering completely. Refined mysterious woodland feeling, no generic flower princess or glitter overload.",
-      "components": [
-        "植物绒花斜裁及踝裙",
-        "叶状透明悬袖披层",
-        "低跟系带鞋",
-        "植物发梳"
-      ],
-      "hair": "细密编冠＋一条窄长绳辫，额前无花冠；铜植物梳独立配件。"
-    },
-    {
-      "id": "S07-F02",
-      "name": "落叶的体积",
-      "nameEn": "The Volume of Fallen Leaves",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S07-F02.png",
-      "imageGitBlob": "31cf7e796f7d005eea4f216ea2a48ce7ccbb4d67",
-      "brief": "FAIRYCORE same moss-sage, smoked lilac, ivory and copper dusk forest mood. Adult woman with angular dark auburn pixie haircut and small combed upward textured crest, exposed ears, single copper ear cuff. Seated upright on broad dry fallen log, feet planted offset on firm ground, head vertical watching mist at eye level, one hand braced next to hip other rests on knee, thoughtful alert not sleepy. Original moss organza CROPPED cocoon cape with inflated curved shoulders, gathered into structured ivory cotton collar, no flowers trapped inside; an opaque ivory fine knit fitted long sleeve under it, deep smoked-lilac wide tailored wool trousers with very deep reverse pleats and paper-like drape, original dark moss squared lace-up shoes. One narrow copper ribbon actually closes cape neck, no pearls everywhere. Scene: fern-covered forest ravine with a stone bridge behind, damp cool twilight, visually coherent with companion forest cards but different location. Research2 only transparent layered envelope, neck gathering and ties; transpose long sheer dress into architectural short cape over wide trousers, no underwear copying. High fashion volume, not hiking outfit.",
-      "components": [
-        "领口抽量茧形透明短斗篷",
-        "贴身细针织长袖",
-        "深反褶阔腿长裤",
-        "方头系带平底鞋",
-        "细金属耳扣"
-      ],
-      "hair": "棱角耳露短发、略上梳纹理发峰；不因棕色不同重做同版短发。"
-    },
-    {
-      "id": "S07-F03",
-      "name": "露水的针脚",
-      "nameEn": "Stitches of Dew",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S07-F03.png",
-      "imageGitBlob": "d85c323982424c6c5daece6b5d0972cade7f4bb1",
-      "brief": "FAIRYCORE shared moss/sage smoked lilac ivory copper cool misty woodland dusk, elegant not sugary. Adult woman with dark ash long hair formed into two low sculptural braided loops, straight short feathered fringe and tiny copper hair pins, no tilted head. Deliberate walking step across a broad flat stone garden path, head upright looking forward, one hand carries a folded ivory shawl at hip, other hand relaxed swinging outward. Original asymmetrical sage fine-knit fitted top with diagonal neckline and long sleeves, ivory ankle-length double-layer tulle A-skirt with smoked-lilac opaque underskirt; embroidery is ORIGINAL fine copper and sage fern-vein lines sparse at waist becoming denser along just ONE lower diagonal sweep, not all-over flower bouquets or copied roses. One pleated side tulle flounce creates a drifting silhouette, original moss flat closed-toe laced shoes completely visible. Scene: abandoned mossy glasshouse at forest edge, misted arched windows, cool twilight with fern shadows, no neon glow. Reference2 informs tulle and embroidery spacing only; transform dress into separate knit top plus asymmetric skirt, change motifs, density map and proportion.",
-      "components": [
-        "斜领贴身长袖针织",
-        "及踝不透明 A 字内搭裙",
-        "单侧荷叶刺绣薄纱罩裙",
-        "可披肩巾",
-        "闭口系带平底鞋",
-        "成组细发针"
-      ],
-      "hair": "两个低位雕塑编环＋短羽状刘海；先核对现有前51/后43双低髻，编环结构一致才复用，不能横切。"
-    },
-    {
-      "id": "S08-F01",
-      "name": "身体醒来之前",
-      "nameEn": "Before the Body Wakes",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S08-F01.png",
-      "imageGitBlob": "d63f891df648be139fbddd0a5aee55561df242eb",
-      "brief": "BALLETCORE fashion editorial, shared dusty rose/soft dove grey/ivory/ink ribbon, pale cool rehearsal-morning light and restrained warm timber, quiet concentrated bodily awareness. Adult woman with immaculate ballet coil bun, one fine braided ring at base and precise middle part, head upright, poised level gaze. Full-body relaxed standing beside barre, BOTH feet flat naturally close and offset, left hand rests lightly on barre at waist height while right arm extended softly forward in rounded port de bras; no pointe or extreme stretch. Original dusty-rose fine rib cropped wrap cardigan over ivory square-neck opaque knit shell, high-waist dove-grey fluid straight trousers cropped at ankle, rib ivory socks and original pale silver rounded fashion flats with SHORT cross ankle ribbons, not pointe shoes or training equipment. Research2 ONLY rounded shallow vamp plus crossed ribbons and socks; modify glitter to muted satin leather, ribbon path and toe shape. Everything else ORIGINAL fashion layering, no brand attribution to trousers/cardigan. Scene bright empty rehearsal studio near large north-facing window and barre, no stage costume, strong diagonal wrap construction and clean line.",
-      "components": [
-        "裹身短针织开衫",
-        "方领针织背心",
-        "及踝流动直裤",
-        "细罗纹短袜",
-        "圆头交叉短带平底鞋"
-      ],
-      "hair": "利落中分、紧实盘髻、髻根一圈细编辫；先核对已有盘发。"
-    },
-    {
-      "id": "S08-F02",
-      "name": "褶线里的呼吸",
-      "nameEn": "Breathing Between Pleats",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S08-F02.png",
-      "imageGitBlob": "12e0303bb6882074360b889a4986f2feaf423f79",
-      "brief": "BALLETCORE same dusty rose/dove-grey/ivory with ink ribbon, soft cool studio light and pale timber. Adult woman with slick high ponytail folded into a sculptural long loop, one narrow dark ribbon at base, fine face-framing blunt strand, head strictly upright level gaze toward mirror. Taking a gentle walking half-step along barre with one hand touching it lightly, other hand holds folded grey warm-up cardigan low at hip, BOTH complete flat shoes visible, no pointe. Original fitted ivory long-sleeve rib jersey top with a diagonal dusty-rose wrap band fastening at side waist; long dove-grey sharply accordion pleated skirt to ankle, dusty-rose flat shoes with tiny squared toe and one narrow elastic strap, ivory fine rib leg warmers collapsed at ankles. No tennis micro skirt, logos or copied underwear layering. Research2 only tiny fitted layer vs pleat volume plus socks and flat shoe tension; invert cropped outerwear/mini-skirt into compact top and sweeping long pleats, softer palette. Scene: empty rehearsal room with tall narrow windows and one soft curtain, cool daylight, poised moving fashion not performance costume.",
-      "components": [
-        "长袖针织与斜向裹带",
-        "及踝风琴褶裙",
-        "软针织休息披层",
-        "堆叠针织腿套",
-        "细方头单带平底鞋"
-      ],
-      "hair": "高马尾折成长环、窄底带、细直面框发束；带作为可选独立配件，不烘焙颜色。"
-    },
-    {
-      "id": "S08-F03",
-      "name": "幕间的安静",
-      "nameEn": "Quiet Between Rehearsals",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S08-F03.png",
-      "imageGitBlob": "68ae332fde664de49a05db5220ea3d3c210d3824",
-      "brief": "BALLETCORE same dusty rose/ivory/dove grey with ink tiny ribbon, cool diffuse rehearsal morning light and pale wood. Adult woman with precise dark chin-length blunt bob tucked behind ears, tiny asymmetrical silver comb, head completely upright, level thoughtful gaze out window. Sitting upright on studio wooden bench, both legs forward offset with BOTH feet fully grounded, one hand folds a dusty-rose knit wrap across lap and other rests beside hip; hands do not touch hair. Original ivory opaque fine-knit long sleeveless column dress to mid-calf with gentle side pleat, worn beneath a dove-grey sheer organza balloon-sleeve very cropped bolero tied with TWO small functional ink tapes at front, opaque sleeves underlayer not necessary as no body exposure there; dusty rose opaque socks and ivory soft rounded double-strap low fashion flats. Tiny sparse stitched gathered seams at cuffs, no pearls or actual roses. Research2 only sheer envelope and soft tied gathers, translate sleeveless sheer long dress into cropped sheer sleeve volume over opaque knit column. Scene rehearsal building corridor by frosted studio windows and stacked empty stools, distinct from barre scenes but shared disciplined quiet mood.",
-      "components": [
-        "双系带短身纱袖外层",
-        "侧褶背心针织中长裙",
-        "实色细罗纹袜",
-        "圆头双带低跟平底鞋",
-        "偏侧小发梳"
-      ],
-      "hair": "深色精准齐颏 bob，耳后别发，不对称银梳独立。"
-    },
-    {
-      "id": "S09-F01",
-      "name": "结的决定权",
-      "nameEn": "The Choice of a Knot",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S09-F01.png",
-      "imageGitBlob": "ebc2f864ad0bf4fb689cede111a3a33bd37b43e8",
-      "brief": "COQUETTE adult fashion editorial, shared black/ivory/dusty rose and tiny silver, cool elegant urban afternoon with pale stone and soft shop-window glass; self-possessed modern romance, not childish. Adult woman with slick dark side part and two architectural low ribbon-shaped hair loops, no generic curls. Frontal stable standing with head upright, gaze direct, feet apart slightly, both hands actively tying ONE dusty-rose broad functional side-waist knot on skirt, natural anatomy. Original ivory crisp silk-cotton long-pointed collar blouse with exaggerated elongated fitted cuffs and narrow soft front pleats, black high-waist narrow calf-length wrap skirt actually held shut by broad dusty-rose grosgrain side tie through reinforced slit; one hidden internal closure supports wear. Original black low slingback square-toe shoes, tiny silver drop earrings. No giant decorative chest bow or copied shoulder bows. Research2 only spare ribbon contrast against simple long body, reassign bow from decoration to actual skirt closure, turn long dress into blouse and narrow midi, redesign colour distribution. Scene: quiet independent bookshop window with unreadable spines and pale stone facade, same adult city mood as companions.",
-      "components": [
-        "长尖领细褶长袖衬衫",
-        "侧腰结窄长裹裙",
-        "方头低跟后空鞋",
-        "细银耳坠"
-      ],
-      "hair": "侧分贴头、两个扁平低位带状发环；与编发双低髻结构有别，不硬合并。"
-    },
-    {
-      "id": "S09-F02",
-      "name": "严肃的粉色",
-      "nameEn": "Pink with Conviction",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S09-F02.png",
-      "imageGitBlob": "230dbe3edf394626111b8d0a150456876ada15c3",
-      "brief": "COQUETTE adult architectural romance, shared black ivory dusty rose silver cool city afternoon, disciplined tailoring with one expressive bow, not childlike school uniform. Adult woman with polished black graphic ear-length bowl bob and precise high micro-fringe, small flat silver geometric hair clip. Seated upright on low pale gallery plinth, head upright with stern level direct gaze; feet grounded slightly offset showing BOTH full shoes, left hand braced lightly beside hip, right hand holds small structured dusty-rose bag on knee. Original black structured short-sleeve dress with sharply sculpted ivory folded collar, very fitted waist, architectural side peplum and above-knee tulip skirt, broad dusty-rose sash threaded through side channels and tied into ONE low asymmetric flat bow at hip, opaque black tights and squared black Mary Jane low block heels. No lingerie details, lace stockings, pearl tiara or copied central bust bow. Research2 ONLY taut upper body vs gathered skirt, black/white contrasts and bow vocabulary; build a newly tailored collar/peplum/tulip shape, move knot to functional side. Scene: city design gallery foyer with pale concrete, a dusty rose angular sculpture and soft reflected glass light.",
-      "components": [
-        "折领短袖郁金香短裙",
-        "不透明连裤袜",
-        "方头低跟玛丽珍",
-        "几何发夹"
-      ],
-      "hair": "耳长圆弧 bob＋高位微短齐刘海，几何发夹独立。"
-    },
-    {
-      "id": "S09-F03",
-      "name": "秩序偏一寸",
-      "nameEn": "A Small Shift in Order",
-      "tier": "fashion",
-      "image": "assets/materials/card-production/atlas-all-20261030/references/S09-F03.png",
-      "imageGitBlob": "ca813b8dd03114c725f6b044ccdd864ccc9a5c33",
-      "brief": "COQUETTE adult urban fashion, same black ivory dusty rose and restrained silver cool city afternoon. Adult woman with ash-brown very slick centre-part long braid folded into a flat angular knot at nape, one thin silver barrette, strong graphic soft makeup. Decisive walking step across stone pedestrian courtyard, head straight upright eyes horizontally forward, one hand in trouser pocket other holding an original small ivory angular bag; no over-shoulder look. Original elongated charcoal sleeveless tailored waistcoat with off-centre button placket ending upper thigh, underneath dusty-rose cotton shirt with elongated ivory pointed collar and one narrow black neck tie actually closing collar; hem of pink shirt intentionally visible below vest on ONE side. High-waist black fluid wide trousers with a displaced asymmetric front pleat, black square-toe low strap shoes. One small thin dusty-rose ribbon securing back vent of waistcoat, not scattered bows. Research2 ONLY disciplined shirt-knit layering with deliberately visible hem and soft volume; replace cardigan/skirt/boots completely with long waistcoat and trousers, new palette and tie closure. Scene elegant pale stone tram-stop arcade with shopfront reflections and tiny greenery, shared urban romance but no copied uniform.",
-      "components": [
-        "偏心门襟长马甲",
-        "长领衬衫",
-        "窄领带",
-        "错位前褶阔腿裤",
-        "方头细带低跟鞋",
-        "细长发夹"
-      ],
-      "hair": "中分贴头、长辫折成后颈扁平角结，细银夹独立。"
     }
   ],
   "items": [
@@ -1361,4 +2542,3 @@
     }
   ]
 }
-
