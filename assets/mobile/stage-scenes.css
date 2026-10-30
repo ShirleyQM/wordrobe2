@@ -27,3 +27,10 @@
 .mobile-app .stage[data-scene=midnight-runway] .wear-icon{color:#e7e0e9}
 .mobile-app .stage[data-scene=midnight-runway] .wear-icon[aria-pressed=true]{color:#fff;background:#f8f6f320;opacity:1}
 .mobile-app .stage[data-scene=midnight-runway] #edit-layer-order{color:#f8f6f3;background:#464148b3}
+
+.mobile-app .stage[data-scene] #clothing-order{background:#f8f6f3c9}
+.mobile-app .stage[data-scene] .wear-icon{color:#544854}
+.mobile-app .stage[data-scene] .wear-icon[aria-pressed=true]{color:#302934;opacity:1}
+.mobile-app .stage[data-scene=midnight-runway] #clothing-order{background:#2d2932d4}
+.mobile-app .stage[data-scene=midnight-runway] .wear-icon{color:#e7e0e9}
+.mobile-app .stage[data-scene=midnight-runway] .wear-icon[aria-pressed=true]{color:#fff}
