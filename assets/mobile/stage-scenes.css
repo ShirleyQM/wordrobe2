@@ -19,3 +19,11 @@
 .scene-choices [aria-pressed=true] span:before{content:'✓ ';font-weight:600}
 #stage-scene-dialog button:focus-visible,#stage-scene-switch:focus-visible{outline:2px solid #8a6d94;outline-offset:3px}
 @media(max-height:600px){.scene-choices img{height:95px}#stage-scene-dialog{max-height:88dvh}}
+
+/* Keep existing preview controls legible over a dark scene. */
+.mobile-app .stage[data-scene] #view-controls{background:#f8f6f3e8;color:#464148}
+.mobile-app .stage[data-scene] #view-controls button{color:#464148}
+.mobile-app .stage[data-scene] #view-controls button[aria-pressed=true]{background:#e5dfe9;color:#302934}
+.mobile-app .stage[data-scene=midnight-runway] .wear-icon{color:#e7e0e9}
+.mobile-app .stage[data-scene=midnight-runway] .wear-icon[aria-pressed=true]{color:#fff;background:#f8f6f320;opacity:1}
+.mobile-app .stage[data-scene=midnight-runway] #edit-layer-order{color:#f8f6f3;background:#464148b3}
