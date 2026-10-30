@@ -1,0 +1,9 @@
+{
+  "archive": "basic-style-templates-20261030.zip",
+  "styleCount": 50,
+  "files": 307,
+  "bytes": 4898367,
+  "sha256": "5aeffb4667bdc0d706eb1ec4d2c6008a296b8d9b73c2e1cce65260700fd1980d",
+  "contents": "assets/garment-styles/; unzip at repository root; preserves original PNG/JSON bytes",
+  "warning": "Extracted silhouettes are not clean lineart, approved fabric masters, or art acceptance."
+}

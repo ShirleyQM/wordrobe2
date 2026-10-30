@@ -1,0 +1,17 @@
+{
+  "styleId": "replace-with-existing-style-id",
+  "baseId": "replace-with-existing-garment-id",
+  "sourceSha256": null,
+  "fitSha256": null,
+  "appearance": {
+    "pattern": "solid",
+    "fabric": "cotton",
+    "baseColor": "#C8B7C9",
+    "inkColor": "#464148",
+    "scale": 1,
+    "direction": 0,
+    "motif": null,
+    "placement": null
+  },
+  "note": "结构字段不可由外观配方修改；原件和手调保留。"
+}

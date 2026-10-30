@@ -1,3 +1,5 @@
+> 历史参考：其中自动拟合、内片/后层要求不适用于新制作。以 SKILL.md、production-sop.md 和当前项目最新用户要求为准。旧 Node 批次合同不用于新 Python 候选包。
+
 # 沈知微实例
 
 母版：项目 `assets/gentle-campus-v2/sources/base.png`；已切身体/发型：`assets/gentle-campus-v2/layers/`。

@@ -1,0 +1,26 @@
+{
+  "garmentId": "replace-with-stable-id",
+  "frontSha256": null,
+  "sourceSha256": null,
+  "fitSha256": null,
+  "technicalPass": false,
+  "visualPass": false,
+  "runtimeValidated": false,
+  "checks": {
+    "fullBody": false,
+    "local100percent": false,
+    "lightBackground": false,
+    "darkBackground": false,
+    "armpits": false,
+    "sleeveInnerEdges": false,
+    "cuffs": false,
+    "neckline": false,
+    "waistAndHem": false,
+    "skinNotBaked": false,
+    "transparentBack": false,
+    "wearRemoveSwitchRefresh": false
+  },
+  "evidence": [],
+  "notes": [],
+  "acceptedAt": null
+}

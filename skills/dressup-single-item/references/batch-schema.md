@@ -1,3 +1,5 @@
+> 历史参考：其中自动拟合、内片/后层要求不适用于新制作。以 SKILL.md、production-sop.md 和当前项目最新用户要求为准。旧 Node 批次合同不用于新 Python 候选包。
+
 # 批次配置与复现
 
 本 Skill 附带的脚本适配沈知微工程的图层命名（body、upper、hair-front/back、socks、shoes）。其他工程先改适配器或映射资源路径，不照搬肩腰坐标。

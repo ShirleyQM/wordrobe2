@@ -1,0 +1,18 @@
+{
+  "canvas": [
+    939,
+    1676
+  ],
+  "source": "original.png",
+  "outline": "outline.png",
+  "outlineRecord": "outline-record.json",
+  "body": "body-reference.png",
+  "registration": {
+    "scale": 1,
+    "translate": [
+      0,
+      0
+    ]
+  },
+  "details": []
+}

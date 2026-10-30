@@ -1,0 +1,7 @@
+{
+  "basis": "approved-garment-outline",
+  "approved": false,
+  "bodyAlphaExpanded": false,
+  "sha256": "REPLACE_WITH_ACTUAL_OUTLINE_SHA256",
+  "reviewNote": "默认未批准；必须实际核对本件衣服轮廓并记录批准依据。"
+}

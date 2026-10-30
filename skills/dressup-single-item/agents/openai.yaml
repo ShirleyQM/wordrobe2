@@ -1,6 +1,6 @@
 interface:
   display_name: "换装单件出图与验收"
-  short_description: "固定人物母版上的服装单件生成、遮挡补画、同画布归位和逐件试穿校验"
+  short_description: "固定人物服装分类制作、无内片透明归位、面料分层和逐件试穿验收"
   default_prompt: "使用 $dressup-single-item，按母版为每件衣服出图、归位并逐件完成试穿校验。"
 policy:
   allow_implicit_invocation: true

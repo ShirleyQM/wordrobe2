@@ -1,0 +1,32 @@
+{
+  "id": "replace-with-stable-id",
+  "slot": "top",
+  "styleId": "replace-with-structure-style-id",
+  "baseId": null,
+  "canvas": [
+    939,
+    1676
+  ],
+  "fit": "fitted|regular|loose",
+  "sleeve": "replace-with-actual-sleeve",
+  "neckline": "replace-with-actual-neckline",
+  "hem": "replace-with-actual-hem",
+  "construction": [],
+  "sourceSha256": null,
+  "fitSha256": null,
+  "appearance": {
+    "fabric": null,
+    "baseColor": null,
+    "pattern": "solid",
+    "scale": 1,
+    "direction": 0,
+    "placement": null
+  },
+  "capabilities": {
+    "recolor": false,
+    "print": false
+  },
+  "innerPieces": false,
+  "backTransparent": true,
+  "status": "pending"
+}
