@@ -95,3 +95,8 @@ for s in d['series']:
 需要PDF时点击网页的“打印 / 存为 PDF”；本包不混入旧版PDF。
 ''')
 print('Built V5:',len(PAGE),'characters; 30 readings, 60 interactive choices, 30 discussions')
+
+# The main entry now combines the readings with the active fashion collection.
+if (ROOT/'card-art/fashion-manifest.json').exists():
+ import subprocess,sys
+ subprocess.run([sys.executable,str(ROOT/'scripts/build_complete_atlas.py')],check=True)

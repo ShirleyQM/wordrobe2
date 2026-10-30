@@ -1,0 +1,26 @@
+{
+  "S14": {
+    "intro_zh": "这一关比较三种晚装语言：Lanvin 1926 年的横向裙量、Ralph Lauren 的礼服剪裁与斜裁垂坠、Gucci 的长外套与金属落点。Art Deco 的几何和节奏是整组的视觉线索，三张卡分别采用祖母绿、银灰和石榴红。",
+    "scene_zh": "卡面中的黑金乐厅与夜宴为原创场景。真实出处分别是博物馆藏品、纽约秀场与米兰秀场；下方逐卡列出，不能把三张都当作某场晚宴的实录。",
+    "contexts": {
+      "S14-F01": {"label": "Jeanne Lanvin · 1926 年 robe de style", "text": "苏格兰国家博物馆介绍的 1926 年装饰丝质 robe de style。卡面借用横向展开的裙量，改为祖母绿和几何金饰。该来源没有提供它在某场晚宴的穿着记录。", "url": "https://www.nms.ac.uk/discover-catalogue/100-years-of-the-little-black-dress"},
+      "S14-F02": {"label": "Ralph Lauren · 2024 秋冬，纽约", "text": "Vogue 记述秀场设于纽约 650 Madison Avenue 总部，秀后在 Polo Bar 用餐，模特穿着秀上的格纹裤装和斜裁长裙到场。这是可核实的晚餐背景；本卡的银灰裙与短夹克是重组设计，并非当晚某位来宾的原装。", "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/ralph-lauren"},
+      "S14-F03": {"label": "Gucci · 2024 春夏，米兰", "text": "Sabato De Sarno 的首个 Gucci 系列；Vogue 记述原计划在 Brera 街区办秀，因雨改至品牌总部。卡面取长剪裁外层与金属装饰，转为酒红外套和流苏裙；出处是秀场。", "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/gucci"}
+    }
+  },
+  "S27": {
+    "title_zh": "Ballet Noir · 黑天鹅后台",
+    "title_en": "Ballet Noir · Backstage in Shadow",
+    "intro_zh": "把芭蕾的轻与时装的暗放在一起：Rodarte 的透明长层、Simone Rocha 的抽褶与系带、Repetto 的日常芭蕾鞋。三张以梅紫黑纱、锈粉巧克力、奶油深青区分，长裙、裤装、针织柱形各有重点。",
+    "scene_zh": "舞台侧翼、镜前坐凳与后台出口是原创情境。这里表现的是演出前后的时装想象；与阅读中的 Pavlova 真实舞台服装分别标明。",
+    "contexts": {
+      "S27-F01": {"label": "Rodarte · 2024 秋冬", "text": "Vogue 的系列评论描述透明蕾丝、窄长礼服与悬浮般的荷叶边。卡面把这种轻薄层次转为黑色长外层和梅紫斜摆纱裙。", "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/rodarte"},
+      "S27-F02": {"label": "Simone Rocha · 2024 春夏 The Dress Rehearsal", "text": "这一系列确实在英国国家芭蕾舞团伦敦总部发布。Vogue 记述透明衣层中放入玫瑰；卡面提取抽褶、系带和透明体积，改作锈粉罩衫与深色长裤。", "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/simone-rocha"},
+      "S27-F03": {"label": "Repetto · Sophia 日常芭蕾鞋", "text": "鞋履参考 Sophia 产品系列的浅口与带状结构。奶油短外套和深青长裙为原创服装搭配；这张是后台时装情境。", "url": "https://repetto.com/en/collections/sophia-ballerina"}
+    }
+  },
+  "S29": {
+    "intro_zh": "伦敦的雨不靠一个大本钟解释：Mackintosh 的A字雨外套、Burberry 的收腰长外套、Margaret Howell 的实用层次，分别落在河岸、咖啡馆门前与住宅街。芥末黄、梅紫、象牙白在冷灰天光里保留区别。",
+    "scene_zh": "三张共用低云、湿路面与冷色漫射光，场景分别是细雨河岸、蓝调时刻的咖啡馆与雨后住宅街；建筑、时间和人物动作各不相同。"
+  }
+}

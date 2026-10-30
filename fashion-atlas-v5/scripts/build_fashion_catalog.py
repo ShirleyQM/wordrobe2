@@ -14,8 +14,10 @@ rows=[active[k]for k in sorted(active)];assert len(rows)==90
 for n in range(1,31):assert sum(x['series_id']=='S%02d'%n for x in rows)==3
 save(A/'fashion-manifest.json',rows)
 series={s['series_id']:s for s in read(R/'archive/content-v4.json')['series']}
+for sid,ctx in read(R/'references/overall-content-context.json').items():
+ if ctx.get('title_zh'):series[sid]['title_zh']=ctx['title_zh']
 css='body{margin:0;background:#edeae4;color:#252731;font:15px/1.7 system-ui}main{max-width:1450px;margin:auto;padding:36px 4vw}h1{font-size:42px}h2{margin-top:56px}a{color:inherit}nav{display:flex;gap:14px;flex-wrap:wrap}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}img{width:100%;border-radius:14px}small{color:#75636c}.sw{display:inline-block;width:18px;height:18px;border-radius:50%;margin-right:7px}@media(max-width:650px){.grid{grid-template-columns:1fr}}'
-out=['<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fashion Atlas · 30关时尚卡</title><style>'+css+'</style><main><small>FASHION ATLAS / 90 FASHION CARDS</small><h1>30关 · 品牌参考时尚卡</h1><p>每关三张，以品牌研究转译廓形、面料与配色。点击卡面查看逐件参考和原站图片。森林与芭蕾采用新版，早期版本保留在原批次中。</p><p><a href="index.html">普通卡总览</a> · <a href="brand-research.json">品牌研究清单</a></p><nav>']
+out=['<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fashion Atlas · 30关时尚卡</title><style>'+css+'</style><main><small>FASHION ATLAS / 90 FASHION CARDS</small><h1>30关 · 品牌参考时尚卡</h1><p>每关三张，以品牌研究转译廓形、面料与配色。点击卡面查看逐件参考和原站图片。森林与芭蕾采用新版，早期版本保留在原批次中。</p><p><a href="../index.html">30关文字与卡面整合版</a> · <a href="index.html">普通卡总览</a> · <a href="brand-research.json">品牌研究清单</a></p><nav>']
 for n in range(1,31):out.append('<a href="#S%02d">%02d</a>'%(n,n))
 out.append('</nav>')
 for sid in sorted(series):

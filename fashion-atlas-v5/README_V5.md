@@ -20,31 +20,10 @@
 需要PDF时点击网页的“打印 / 存为 PDF”；本包不混入旧版PDF。
 
 
-## 前三篇游戏关卡
+## 30关文字与卡面整合版
 
-进入 [学习页](../learn.html) 的 Fashion Atlas。S01–S03 各含 6 张单词卡、12 道语境练习、可选的扩展阅读。原文短引不扩抄，新增段落区分来源导读与原创搭配练习。中文释义、例句译文和段落翻译均由界面主动展开。
+index.html 现为完整图鉴：每关依次显示主题、三个品牌参考卡、逐件改造、公开来源双语导读与三道题。原有普通卡在对应关卡折叠对照。
 
-完成单词与练习即可领取 40 积分、1 张典藏卡和 2 件现有可穿服装；阅读不作为领取条件。典藏卡采用 C01-A、C02-C、C03-A 的原设计身份。服装奖励是从当前展示库选出的灵感搭配，原设计中 concept_only 的服装仍未制作，不冒充已制成素材。
+Art Deco 与 Ballet Noir 逐卡补充具体藏品／系列及活动出处；创作场景与真实记录分别陈述。S29 的三张雨景新版保留原服装设计，旧图仍在同目录。
 
-进度沿用 word-atelier-journey-v1，钱包沿用 word-atelier-wallet-v1；卡册为 wordrobe-fashion-cards-v1。关卡使用 fashion-atlas-s01 至 s03 独立 ID。重复回看不重复发积分，服装发放幂等，已有 30 关与手调数据不覆盖。
-
-内容：assets/learning/fashion-lessons.json；控制器：assets/learning/fashion-atlas.js；作者数据及校验：tools/fashion-atlas/。运行 node tools/fashion-atlas/build.cjs 重建三关，运行 node tools/fashion-atlas/test.cjs 验证奖励与可选阅读。
-
-
-
-## 品牌与设计修订 V2
-
-前三关增加默认折叠的品牌介绍与三套设计方向，均不参与完成条件或奖励判定。保留 V4 的设计观察方法，当前选用 Roberto Cavalli、Dries Van Noten、Saint Laurent、Miu Miu、Wales Bonner、Martine Rose 六个独立系列参考。品牌与引用仅表示视觉研究，不表示联名或背书；排除记录和本轮检索范围在 tools/fashion-atlas/brand-policy.json。未将检索无结果表述为永久无争议。
-
-9套设计沿用卡片 ID，旧设计保存在 legacy_design_v5。新增图片是统一概念板，非已归位透明服装；现有服装奖励及手调文件不替换。品牌照片按用户展开后才从原站加载，保留图源署名和系列链接；原站不可用时隐藏破图并保留链接。概念板使用无损 WebP，已验证解码像素与生成 PNG 一致。
-
-设计数据：tools/fashion-atlas/design-v2.cjs；同步：node tools/fashion-atlas/apply-design-v2.cjs；重建：node tools/fashion-atlas/build.cjs；检查：node tools/fashion-atlas/test-design.cjs。
-
-
-## 卡面预览
-
-- [普通卡总览](card-art/index.html)
-- [第4—5关品牌参考时尚卡：六张与逐件来源](card-art/fashion-s04-s05/index.html)
-- [暗黑学院时尚卡：三张与品牌来源](card-art/fashion-s06/index.html)
-
-保留普通卡，另增时尚卡。完整提示词和设计清单随各批目录提供；品牌参考照片不收入仓库，仅保留公开来源链接。
+独立重建整合页：python3 scripts/build_complete_atlas.py。布局文件：scripts/complete-atlas.css 与 scripts/complete-atlas.js。补充出处与主题说明：references/overall-content-context.json。旧阅读页快照：reading-room-v5.html。
