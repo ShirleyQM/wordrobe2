@@ -1,0 +1,44 @@
+{
+  "id": "atlas-wrap-knit-cardigan-v1",
+  "styleId": "style:atlas-waist-wrap-cardigan",
+  "baseId": "atlas-wrap-knit-cardigan-v1",
+  "defaultColor": "#d1a3a7",
+  "geometryDisplacement": false,
+  "paintedFolds": true,
+  "backLayers": false,
+  "presets": "material-presets.json",
+  "layers": [
+    {
+      "path": "base-mask.png",
+      "operation": "color-fill"
+    },
+    {
+      "path": "shadow.png",
+      "blend": "multiply"
+    },
+    {
+      "path": "highlight.png",
+      "blend": "screen"
+    },
+    {
+      "path": "texture.png",
+      "blend": "neutral-gray-modulation"
+    },
+    {
+      "path": "lineart.png",
+      "blend": "source-over"
+    }
+  ],
+  "sourceSeparation": "Actual neutral image_gen knit repair separated into painted broad light and fine yarn. Genuine precolor saved separately. Runtime lineart intentionally empty: initial cuff ovals/old inner sleeve edges must not be restored. Painted structural shading is in shadow/highlight layers.",
+  "opacity": 1,
+  "registration": {
+    "scale": 1,
+    "translate": [
+      0,
+      0
+    ],
+    "alreadyFitted": true,
+    "parts": "../outline-final-record.json"
+  },
+  "appearanceDerivation": "Same registered geometry; fine variant opacity is a subset of source, no baked inner garment/body."
+}
