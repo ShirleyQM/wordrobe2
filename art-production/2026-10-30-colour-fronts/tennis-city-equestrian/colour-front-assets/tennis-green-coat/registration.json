@@ -1,0 +1,32 @@
+{
+  "id": "tennis-green-coat",
+  "name": "常青翻领短外套",
+  "slot": "outerwear",
+  "cards": [
+    "S22-F01"
+  ],
+  "seriesIds": [
+    "S22"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    159,
+    273,
+    637,
+    516
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "6ec9377444695a9e38026ce378a58e33c54ce800b6e13584e19dd2c9beffab2e"
+}

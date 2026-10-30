@@ -6,19 +6,23 @@
   "front": "colour-front.png",
   "back": "back.png",
   "size": [
-    1238,
-    1271
+    939,
+    1676
   ],
-  "sha256": "72bf85d2990aad255fe18fff382a47ba23d26ccd5ed06ae13a687f8e60719196",
+  "sha256": "50adfdd587421a50b9524e54a666ea2b2cb61755e22ce84461b0ef8af304ecfb",
   "trueTransparency": true,
   "backTransparent": true,
   "recolor": false,
-  "status": "local-colour-front-art",
-  "wearingTest": "not-requested",
+  "status": "local-registered-colour-front-art",
+  "wearingTest": "local-fixed-pose-reviewed",
   "runtimeValidated": false,
   "fabric": "supple-leather",
   "brandReference": "Hermès",
   "brandRelationship": "material-and-silhouette-study-not-official-product",
   "view": "front-visible-worn-material-only",
-  "sourceType": "new-imagegen-art"
+  "sourceType": "new-imagegen-art",
+  "registeredFront": "front.png",
+  "registration": "registration.json",
+  "localWearingValidated": true,
+  "repairVersion": "sleeve-pose-and-front-only-v1"
 }

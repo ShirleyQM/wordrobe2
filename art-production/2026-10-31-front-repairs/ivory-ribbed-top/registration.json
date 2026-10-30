@@ -1,0 +1,32 @@
+{
+  "id": "ivory-ribbed-top",
+  "name": "蜂蜜色航线·针织背心",
+  "slot": "top",
+  "cards": [
+    "S11-F03"
+  ],
+  "seriesIds": [
+    "S11"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    353,
+    311,
+    242,
+    370
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "adb76e49c300aa4be5508ae3844848229ddfd3ae9a20a2a8ff9ce136aab55e18"
+}

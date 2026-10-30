@@ -6,19 +6,23 @@
   "front": "colour-front.png",
   "back": "back.png",
   "size": [
-    1199,
-    1312
+    939,
+    1676
   ],
-  "sha256": "81acf7f1047c6a0538a2f53175e2a72c1d68a84368df62ccc3a20a18b6b8c1e6",
+  "sha256": "208ce7f04fa2a28442a341570f08cb05fff06ff59fc93f51f35afbdb852d3b98",
   "trueTransparency": true,
   "backTransparent": true,
   "recolor": false,
-  "status": "local-colour-front-art",
-  "wearingTest": "not-requested",
+  "status": "local-registered-colour-front-art",
+  "wearingTest": "local-fixed-pose-reviewed",
   "runtimeValidated": false,
   "fabric": "waffle-knit",
   "brandReference": "Sporty & Rich",
   "brandRelationship": "material-and-silhouette-study-not-official-product",
   "view": "front-visible-worn-material-only",
-  "sourceType": "new-imagegen-art"
+  "sourceType": "new-imagegen-art",
+  "registeredFront": "front.png",
+  "registration": "registration.json",
+  "localWearingValidated": true,
+  "repairVersion": "sleeve-pose-and-front-only-v1"
 }

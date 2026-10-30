@@ -1,0 +1,34 @@
+{
+  "id": "ivory-shell",
+  "name": "象牙短内搭",
+  "slot": "top",
+  "cards": [
+    "S28-F02",
+    "S01-F03"
+  ],
+  "seriesIds": [
+    "S28",
+    "S01"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    346,
+    309,
+    246,
+    359
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "37fd8b6b5c1ee59e8317976b7a18b98b51b95bca9b34decae698c8749e8836ee"
+}

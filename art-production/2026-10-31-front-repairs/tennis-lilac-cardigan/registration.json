@@ -1,0 +1,32 @@
+{
+  "id": "tennis-lilac-cardigan",
+  "name": "丁香华夫格短衫",
+  "slot": "outerwear",
+  "cards": [
+    "S22-F03"
+  ],
+  "seriesIds": [
+    "S22"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    187,
+    284,
+    579,
+    504
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "208ce7f04fa2a28442a341570f08cb05fff06ff59fc93f51f35afbdb852d3b98"
+}

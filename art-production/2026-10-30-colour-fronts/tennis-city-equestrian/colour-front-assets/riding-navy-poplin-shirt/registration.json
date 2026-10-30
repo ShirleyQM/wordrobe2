@@ -1,0 +1,32 @@
+{
+  "id": "riding-navy-poplin-shirt",
+  "name": "海军蓝长袖衬衫",
+  "slot": "top",
+  "cards": [
+    "S15-F02"
+  ],
+  "seriesIds": [
+    "S15"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    187,
+    281,
+    570,
+    507
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "f67d0b3acbbd4895be4f202c3127b80e3f4aa70d443b073d612383b3c6a9e28c"
+}

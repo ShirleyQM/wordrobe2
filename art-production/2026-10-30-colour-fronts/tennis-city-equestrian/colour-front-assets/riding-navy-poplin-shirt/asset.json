@@ -6,19 +6,23 @@
   "front": "colour-front.png",
   "back": "back.png",
   "size": [
-    1024,
-    1536
+    939,
+    1676
   ],
-  "sha256": "138a7c7deec0bba54a046a7f29eaaa9dec3e66715c2fe950c8c4562552a75b0a",
+  "sha256": "f67d0b3acbbd4895be4f202c3127b80e3f4aa70d443b073d612383b3c6a9e28c",
   "trueTransparency": true,
   "backTransparent": true,
   "recolor": false,
-  "status": "local-colour-front-art",
-  "wearingTest": "not-requested",
+  "status": "local-registered-colour-front-art",
+  "wearingTest": "local-fixed-pose-reviewed",
   "runtimeValidated": false,
   "fabric": "fine-poplin",
   "brandReference": "Ralph Lauren",
   "brandRelationship": "material-and-silhouette-study-not-official-product",
   "view": "front-visible-worn-material-only",
-  "sourceType": "new-imagegen-art"
+  "sourceType": "new-imagegen-art",
+  "registeredFront": "front.png",
+  "registration": "registration.json",
+  "localWearingValidated": true,
+  "repairVersion": "sleeve-pose-and-front-only-v1"
 }

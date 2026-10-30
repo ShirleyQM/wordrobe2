@@ -6,15 +6,15 @@
   "front": "colour-front.png",
   "back": "back.png",
   "size": [
-    1211,
-    1299
+    939,
+    1676
   ],
-  "sha256": "7fb734ef052276cb3a66f2789f1a867338903883786bf1a86090daca689ed39c",
+  "sha256": "37fd8b6b5c1ee59e8317976b7a18b98b51b95bca9b34decae698c8749e8836ee",
   "trueTransparency": true,
   "backTransparent": true,
   "recolor": false,
-  "status": "local-colour-front-art",
-  "wearingTest": "not-requested",
+  "status": "local-registered-colour-front-art",
+  "wearingTest": "local-fixed-pose-reviewed",
   "runtimeValidated": false,
   "fabric": "existing-material",
   "brandReference": "已出素材复用",
@@ -23,5 +23,9 @@
   "brandRelationship": "original-combination",
   "view": "front-visible-worn-material-only",
   "sourceType": "existing-art-reuse",
-  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/ivory-shell"
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/ivory-shell",
+  "registeredFront": "front.png",
+  "registration": "registration.json",
+  "localWearingValidated": true,
+  "repairVersion": "sleeve-pose-and-front-only-v1"
 }

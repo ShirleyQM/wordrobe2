@@ -57,21 +57,25 @@
       "front": "colour-front.png",
       "back": "back.png",
       "size": [
-        1238,
-        1271
+        939,
+        1676
       ],
-      "sha256": "72bf85d2990aad255fe18fff382a47ba23d26ccd5ed06ae13a687f8e60719196",
+      "sha256": "50adfdd587421a50b9524e54a666ea2b2cb61755e22ce84461b0ef8af304ecfb",
       "trueTransparency": true,
       "backTransparent": true,
       "recolor": false,
-      "status": "local-colour-front-art",
-      "wearingTest": "not-requested",
+      "status": "local-registered-colour-front-art",
+      "wearingTest": "local-fixed-pose-reviewed",
       "runtimeValidated": false,
       "fabric": "supple-leather",
       "brandReference": "Hermès",
       "brandRelationship": "material-and-silhouette-study-not-official-product",
       "view": "front-visible-worn-material-only",
-      "sourceType": "new-imagegen-art"
+      "sourceType": "new-imagegen-art",
+      "registeredFront": "front.png",
+      "registration": "registration.json",
+      "localWearingValidated": true,
+      "repairVersion": "sleeve-pose-and-front-only-v1"
     },
     {
       "id": "riding-butter-knit",
@@ -177,21 +181,25 @@
       "front": "colour-front.png",
       "back": "back.png",
       "size": [
-        1024,
-        1536
+        939,
+        1676
       ],
-      "sha256": "138a7c7deec0bba54a046a7f29eaaa9dec3e66715c2fe950c8c4562552a75b0a",
+      "sha256": "f67d0b3acbbd4895be4f202c3127b80e3f4aa70d443b073d612383b3c6a9e28c",
       "trueTransparency": true,
       "backTransparent": true,
       "recolor": false,
-      "status": "local-colour-front-art",
-      "wearingTest": "not-requested",
+      "status": "local-registered-colour-front-art",
+      "wearingTest": "local-fixed-pose-reviewed",
       "runtimeValidated": false,
       "fabric": "fine-poplin",
       "brandReference": "Ralph Lauren",
       "brandRelationship": "material-and-silhouette-study-not-official-product",
       "view": "front-visible-worn-material-only",
-      "sourceType": "new-imagegen-art"
+      "sourceType": "new-imagegen-art",
+      "registeredFront": "front.png",
+      "registration": "registration.json",
+      "localWearingValidated": true,
+      "repairVersion": "sleeve-pose-and-front-only-v1"
     },
     {
       "id": "riding-black-tights",
@@ -634,21 +642,25 @@
       "front": "colour-front.png",
       "back": "back.png",
       "size": [
-        1536,
-        1024
+        939,
+        1676
       ],
-      "sha256": "e0ccd54e55c089aeaa932b009c89b44abff5eec790a84c9217cdb98f6f508a0a",
+      "sha256": "6ec9377444695a9e38026ce378a58e33c54ce800b6e13584e19dd2c9beffab2e",
       "trueTransparency": true,
       "backTransparent": true,
       "recolor": false,
-      "status": "local-colour-front-art",
-      "wearingTest": "not-requested",
+      "status": "local-registered-colour-front-art",
+      "wearingTest": "local-fixed-pose-reviewed",
       "runtimeValidated": false,
       "fabric": "cotton-nylon",
       "brandReference": "Lacoste",
       "brandRelationship": "material-and-silhouette-study-not-official-product",
       "view": "front-visible-worn-material-only",
-      "sourceType": "new-imagegen-art"
+      "sourceType": "new-imagegen-art",
+      "registeredFront": "front.png",
+      "registration": "registration.json",
+      "localWearingValidated": true,
+      "repairVersion": "sleeve-pose-and-front-only-v1"
     },
     {
       "id": "tennis-green-trousers",
@@ -850,21 +862,25 @@
       "front": "colour-front.png",
       "back": "back.png",
       "size": [
-        1199,
-        1312
+        939,
+        1676
       ],
-      "sha256": "81acf7f1047c6a0538a2f53175e2a72c1d68a84368df62ccc3a20a18b6b8c1e6",
+      "sha256": "208ce7f04fa2a28442a341570f08cb05fff06ff59fc93f51f35afbdb852d3b98",
       "trueTransparency": true,
       "backTransparent": true,
       "recolor": false,
-      "status": "local-colour-front-art",
-      "wearingTest": "not-requested",
+      "status": "local-registered-colour-front-art",
+      "wearingTest": "local-fixed-pose-reviewed",
       "runtimeValidated": false,
       "fabric": "waffle-knit",
       "brandReference": "Sporty & Rich",
       "brandRelationship": "material-and-silhouette-study-not-official-product",
       "view": "front-visible-worn-material-only",
-      "sourceType": "new-imagegen-art"
+      "sourceType": "new-imagegen-art",
+      "registeredFront": "front.png",
+      "registration": "registration.json",
+      "localWearingValidated": true,
+      "repairVersion": "sleeve-pose-and-front-only-v1"
     },
     {
       "id": "tennis-pearl-studs",

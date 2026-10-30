@@ -1,0 +1,32 @@
+{
+  "id": "riding-burgundy-leather-jacket",
+  "name": "栗酒红骑装皮衣",
+  "slot": "outerwear",
+  "cards": [
+    "S15-F01"
+  ],
+  "seriesIds": [
+    "S15"
+  ],
+  "front": "front.png",
+  "back": "back.png",
+  "canvas": [
+    939,
+    1676
+  ],
+  "bounds": [
+    178,
+    280,
+    586,
+    502
+  ],
+  "boundsFormat": "x-y-width-height",
+  "registration": "same-coordinate fixed-pose; uniform resize/translation only; no automatic warp",
+  "localWearingValidated": true,
+  "runtimeValidated": false,
+  "wearable": false,
+  "recolor": false,
+  "sourceTool": "built-in image_gen",
+  "repair": "sleeve-pose-and-front-only-v1",
+  "sha256": "50adfdd587421a50b9524e54a666ea2b2cb61755e22ce84461b0ef8af304ecfb"
+}

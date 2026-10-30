@@ -1,0 +1,14 @@
+{
+  "visual_reviewed": true,
+  "local_fixed_pose_validated": true,
+  "runtime_validated": false,
+  "checks": [
+    "real transparent front only",
+    "no rear neckline/cuff/waist lip",
+    "upper arm, elbow and wrist reviewed on original frozen pose",
+    "no body/skin/underwear in garment",
+    "blank back",
+    "stable piece and card IDs"
+  ],
+  "notes": "Not a runtime equipment import. Preview and raw production corrections only; no save/fitting data or runtime collection changes."
+}

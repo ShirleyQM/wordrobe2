@@ -123,16 +123,20 @@
       "front": "colour-front.png",
       "back": "back.png",
       "size": [
-        980,
-        1604
+        939,
+        1676
       ],
-      "sha256": "68aa768c89a4598df97f1a0cb42164516c28ff490c3258cbdb8a51a6faa434e1",
+      "sha256": "adb76e49c300aa4be5508ae3844848229ddfd3ae9a20a2a8ff9ce136aab55e18",
       "trueTransparency": true,
       "backTransparent": true,
       "recolor": false,
-      "status": "local-colour-front-art",
-      "wearingTest": "not-requested",
-      "runtimeValidated": false
+      "status": "local-registered-colour-front-art",
+      "wearingTest": "local-fixed-pose-reviewed",
+      "runtimeValidated": false,
+      "registeredFront": "front.png",
+      "registration": "registration.json",
+      "localWearingValidated": true,
+      "repairVersion": "sleeve-pose-and-front-only-v1"
     },
     {
       "id": "navy-tailored-shorts",
