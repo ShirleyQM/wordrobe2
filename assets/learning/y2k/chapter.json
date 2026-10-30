@@ -223,112 +223,142 @@
   ],
   "texts": [
     {
-      "id": "t1",
-      "title": "A Future Built from Edges",
-      "title_zh": "用边缘构造未来",
+      "id": "r2-1",
+      "title": "When structure is only an impression",
       "paragraphs": [
         [
           "P1",
-          "Look first at Orbital Silence, our original card inspired by a Courrèges reference. The white dress has a fitted silhouette, while its high neckline and angular panels give the body a structured outline. The shape does not depend on a large print. Instead, the edges do much of the visual work.",
-          "先看以 Courrèges 为参考设计的原创卡「轨道静默」。白裙廓形贴体，高领与棱角分割构成明确的结构。造型不靠大面积印花，而让边缘承担主要视觉作用。"
+          "A fashion editor describes a close-fitting white dress as “structured”, pointing to its high neckline and angular panels. Yet a photograph alone cannot establish how firmly the fabric holds its shape: a soft garment stretched over the body can produce a similarly crisp outline. The editor’s description is therefore a reading of the visible design, rather than a measurement of the textile.",
+          ""
         ],
         [
           "P2",
-          "Now compare the shoulder cape with the boots. The cape is translucent: light passes through it, and the body remains partly visible. The metallic boots reflect light from a more solid surface. This contrast in texture makes the outfit interesting even though its colours stay close to white, blue and silver.",
-          "再比较肩罩与靴子：肩罩半透明，光线可以穿过，身体仍部分可见；金属光泽的靴子则从更实的表面反光。即使颜色集中在白、蓝、银，质感对比仍让造型有趣。"
+          "This distinction does not make the description useless. Silhouette describes the outline a viewer perceives; construction concerns the means by which that outline is produced. A garment may look sharply defined because of its cut, its internal support, its fit, or the model’s posture. Treating any one of these possible causes as certain would exceed the available evidence.",
+          ""
         ],
         [
           "P3",
-          "Calling the look futuristic is a visual interpretation, not a claim that these clothes contain new technology. The card changes the reference into a short geometric dress and a separate cape. To describe it precisely, name a shape, a material effect and the relationship between them. “Shiny” alone tells us very little.",
-          "“未来感”是视觉判断，不代表衣服含有新科技。卡面将参考转译为几何短裙与独立肩罩。精确描述需要指出形状、材质效果及其关系，只有“闪亮”远远不够。"
+          "The same caution applies to the silver boots beside the dress. Their reflective finish supports the description “metallic”, but it does not establish that their surface is solid metal. Precise fashion writing can remain vivid while separating what an image shows from what an observer merely supposes.",
+          ""
         ]
       ],
-      "source_ids": [
-        "courreges"
-      ],
-      "kind": "本节原创读图课文；品牌原图供对照",
-      "word_count": 155
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
     },
     {
-      "id": "t2",
-      "title": "Denim Has More Than One Voice",
-      "title_zh": "丹宁不只有一种声音",
+      "id": "r2-2",
+      "title": "Why a restricted palette can feel complex",
       "paragraphs": [
         [
           "P1",
-          "In Distorted Frequency, a cropped jacket and wide trousers create a layered denim outfit. The shoulders look oversized, but the jacket ends above the waist. That short length matters. It keeps the upper half compact while the trousers carry most of the volume. Changing one length can change the proportion of the whole look.",
-          "「失真频段」把短夹克与阔腿裤组合成层叠丹宁。肩部宽大，夹克却在腰线上方结束；上半身因此紧凑，体积主要交给裤子。改变一处长度，就能改变全身比例。"
+          "At first glance, a white dress, a pale blue capelet and silver boots offer little colour variation. An editor might therefore expect the outfit to look uniform. That expectation assumes that colour does most of the work of distinguishing one surface from another. In this outfit, however, light behaves differently at each surface: the capelet admits some light, the boots return sharp reflections, and the dress presents a more continuous visual plane.",
+          ""
         ],
         [
           "P2",
-          "The washed surface contains pale and dark areas. Curved seams lead the eye down the legs, while metal hardware gives small points of emphasis. A washed effect describes a surface treatment; frayed describes loose threads along an edge. They are related to a worn appearance, but they do not mean the same thing. Do not call every pale patch a hole.",
-          "洗水表面有深浅区域，弧形接缝引导视线向下，金属配件提供小焦点。washed 指表面处理，frayed 指边缘松散线头，二者都可能呈现旧感，但意思不同；浅色斑块不等于破洞。"
+          "The capelet also leaves parts of the body visible. It can therefore soften the boundary around the shoulders without adding the visual weight of a similarly sized opaque coat. This does not mean that transparent layers always make a silhouette lighter. A dense arrangement of folds or several overlapping layers could have the opposite effect.",
+          ""
         ],
         [
           "P3",
-          "The card takes a Diesel reference as a starting point, then changes the jacket length, waist construction and panel lines. Its small music device suggests a personal story. It does not prove that the exact outfit existed in the year 2000. Describe what you can see before giving the clothes a date.",
-          "卡面从 Diesel 参考出发，改变衣长、腰部结构与分割线。小型音乐设备提供故事线索，却不能证明整套衣服真实存在于 2000 年。先描述可见细节，再判断年代。"
+          "The outfit’s coherence lies in the relationship among its surfaces, rather than in their being identical. A shared pale palette holds the pieces together, while differences in translucency and reflection keep them distinct. Removing those differences might make the colours easier to match, but could also remove the contrast on which the composition depends.",
+          ""
         ]
       ],
-      "source_ids": [
-        "diesel"
-      ],
-      "kind": "本节原创读图课文；品牌原图供对照",
-      "word_count": 166
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
     },
     {
-      "id": "t3",
-      "title": "A Softer Version of the Future",
-      "title_zh": "未来也可以柔软",
+      "id": "r2-3",
+      "title": "Denim and the manufacture of age",
       "paragraphs": [
         [
           "P1",
-          "Liquid Echo offers a different answer to the same theme. Its lilac dress is draped around the body, with an asymmetric hem that extends on one side. A sheer sleeve makes one arm look lighter, while the other side uses an open knitted layer. The outline feels fluid rather than rigid.",
-          "「液态回声」给同一主题另一种答案：淡紫裙以垂褶围绕身体，不对称下摆在一侧延长。一侧透视袖使手臂轻盈，另一侧采用镂空针织层，轮廓流动而非僵硬。"
+          "Two denim jackets may appear equally worn while arriving at that appearance through very different processes. One may have faded gradually through use; the other may have acquired pale areas during production. Calling both surfaces “washed” can describe a visible effect, but cannot by itself reconstruct either garment’s history. Appearance and provenance answer different questions.",
+          ""
         ],
         [
           "P2",
-          "Metallic platform sandals add weight below the delicate fabric. The background has an iridescent effect, shifting between blue and pink. Be careful with your description: the coloured glass behind the model does not prove that the dress itself changes colour. A scene can suggest a material effect without every garment sharing it.",
-          "金属光泽厚底凉鞋在轻薄裙料下方增加重量。背景在蓝粉之间变色，呈现虹彩效果；但背景玻璃的颜色，不能证明裙子本身也会变色。场景与服装的材质需要分别判断。"
+          "The distinction matters when describing a deliberately distressed collection. A pale patch is not necessarily a hole, and a frayed edge does not establish that a garment is old. Designers can produce both effects on new fabric. Such interventions may invoke the associations of wear without requiring the practical damage or long use with which those associations originated.",
+          ""
         ],
         [
           "P3",
-          "This is an original interpretation developed from a Blumarine reference, not a copied runway look. It uses a softer proportion than the first card and a different surface from the denim outfit. The three cards belong together because they explore a shared idea through different shapes, not because they wear identical colours.",
-          "这套是从 Blumarine 参考发展出的原创转译。它比第一张更柔软，表面也不同于丹宁。三张卡通过不同形状探索同一想法，关联不依赖完全相同的颜色。"
+          "This is not a reason to regard manufactured wear as inherently deceptive. A collection may openly present distressing as a design technique. The stronger criticism would concern a specific unsupported claim—for example, that a newly treated jacket had actually been worn for decades. An assessment of that claim would require evidence of the garment’s history, not simply a judgement about how convincingly its surface imitates age.",
+          ""
         ]
       ],
-      "source_ids": [
-        "blumarine"
-      ],
-      "kind": "本节原创读图课文；品牌原图供对照",
-      "word_count": 155
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
     },
     {
-      "id": "t4",
-      "title": "The Past Inside the Future",
-      "title_zh": "未来里的过去",
+      "id": "r2-4",
+      "title": "The short jacket and the wide trouser",
       "paragraphs": [
         [
           "P1",
-          "A fashion revival is not a time machine. People can borrow an older visual language while changing the cut, fabric and way an outfit is worn. Nostalgia describes the feeling attached to the past; revival describes a return to popularity. One is an emotion, while the other is a change in fashion.",
-          "时尚复兴不是时光机。人们借用过去的视觉语言，同时改变剪裁、面料与穿法。nostalgia 是对过去的情绪，revival 是重新流行；一个是感受，一个是时尚的变化。"
+          "An oversized denim jacket need not make the entire upper body appear expansive. In one styling study, the shoulders are broad but the hem ends above the waist. Below it, wide trousers carry most of the outfit’s volume. Describing the jacket only as “large” misses the relation between these two dimensions: width increases at the shoulder while length is curtailed.",
+          ""
         ],
         [
           "P2",
-          "Our three cards make this distinction useful. Orbital Silence depends on a structured shape and a contrast between translucent and metallic surfaces. Distorted Frequency uses washed denim, curved seams and an oversized upper outline. Liquid Echo replaces that weight with fluid, draped fabric and an asymmetric hem. Their differences are part of the chapter, not mistakes to remove.",
-          "三张卡让这种区别有了具体对象：「轨道静默」依靠结构及半透明与金属表面的对比；「失真频段」使用洗水丹宁、弧形接缝与宽肩；「液态回声」改用流动垂褶与不对称下摆。差别本身就是本节内容。"
+          "Curved seams provide another organising device. They guide the eye down the trouser legs, linking separate panels into a continuous visual movement. Metal fastenings create local accents, but their prominence should not be confused with responsibility for the overall proportion. A small bright buckle may attract attention without determining the relative lengths of the upper and lower parts.",
+          ""
         ],
         [
           "P3",
-          "Imagine choosing a caption for the collection. “Three silver outfits from 2000” would be inaccurate: the designs are new and the colours differ. A stronger caption would explain how each outfit builds its own version of a remembered future. In fashion English, a convincing interpretation starts with visible evidence and keeps historical claims separate from invented scenes.",
-          "如果为整组写文案，“三套来自 2000 年的银色服装”并不准确：设计是新的，颜色也不同。更好的说明是，每套如何构建记忆中的未来。可靠的时尚表达从可见证据出发，将历史事实与创作场景分开。"
+          "Suppose the jacket were lengthened while its shoulders and the trousers remained unchanged. The outfit might still be recognisably oversized, yet its balance would alter because more of the upper region would be covered. A stylist’s useful task is therefore not simply to name each piece, but to explain how a change in one part affects the reading of the whole.",
+          ""
         ]
       ],
-      "source_ids": [
-        "y2k"
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
+    },
+    {
+      "id": "r2-5",
+      "title": "A surface that belongs to the scene",
+      "paragraphs": [
+        [
+          "P1",
+          "A lilac dress appears against blue-and-pink glass in a fashion illustration. Because the glass shifts in colour across the scene, a viewer describes the entire look as iridescent. That description may capture the atmosphere, but it obscures an important question: which part of the image actually displays the effect? The background’s colour changes do not establish that the dress would change colour as its viewing angle changed.",
+          ""
+        ],
+        [
+          "P2",
+          "The dress is more securely described through its draped folds and unequal hem. These features contribute to a fluid outline, while a sheer sleeve leaves the arm partly visible. Metallic platform sandals add a contrasting sense of solidity below. None of these observations requires the dress itself to possess every optical property suggested by the surrounding scene.",
+          ""
+        ],
+        [
+          "P3",
+          "An editor could deliberately use the coloured glass to extend the outfit’s mood beyond the garment. The scene would then function as an interpretive frame rather than as a textile specification. To evaluate the claim that the dress is physically iridescent, however, one would need evidence that distinguishes a property of its surface from the effects of coloured light, illustration or background design.",
+          ""
+        ]
       ],
-      "kind": "本节原创比较阅读；公开文章为延伸阅读",
-      "word_count": 166
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
+    },
+    {
+      "id": "r2-6",
+      "title": "A revival without a replica",
+      "paragraphs": [
+        [
+          "P1",
+          "A collection invokes the early digital era through three markedly different looks: a sharply outlined white dress, a washed-denim ensemble and a lilac draped outfit. A critic objects that the colours and silhouettes are too varied to form a coherent revival. The objection treats fidelity to a single appearance as the test of a shared historical reference.",
+          ""
+        ],
+        [
+          "P2",
+          "An alternative account locates the connection at the level of a recurring idea: imagining a future through visual languages associated with the past. The white dress suggests a controlled, geometric future; the denim ensemble introduces the personal traces of use; the lilac outfit offers movement and softness. Their differences need not be defects in the collection. They can be the means through which its shared question is explored.",
+          ""
+        ],
+        [
+          "P3",
+          "This argument does not establish that the designs are historically exact. Revival names a return of interest in an earlier style, whereas nostalgia describes an attitude toward the past. Neither term guarantees that every new garment reproduces an actual period example. A convincing account of the collection should therefore explain the relationship among its interpretations without inventing a single original outfit from which all three supposedly descend.",
+          ""
+        ]
+      ],
+      "kind": "Original reading · Wordrobe",
+      "source_ids": []
     }
   ],
   "sources": [
@@ -481,140 +511,123 @@
         "texture"
       ],
       "review_words": [],
-      "text_id": null,
+      "text_id": "r2-1",
       "minutes": 6,
       "reward_card": null,
       "questions": [
         {
-          "type": "meaning",
-          "prompt": "What does “silhouette” describe?",
-          "answer": "The overall outline",
+          "id": "y2k-r2-l1-q1",
+          "type": "reading",
+          "prompt": "The author’s primary purpose is to",
           "options": [
-            "A brand logo",
-            "The overall outline",
-            "The colour of the stitching"
+            "reject visual description as an unreliable way to discuss clothing",
+            "distinguish a visible effect from assumptions about how it is produced",
+            "establish internal support as the main source of a sharp silhouette",
+            "argue that photographs are less useful than written descriptions"
           ],
-          "explanation": "silhouette 是整体外形，不是局部标识。",
-          "word_ids": [
-            "silhouette"
+          "answer": "distinguish a visible effect from assumptions about how it is produced",
+          "notes": [
+            "The passage preserves a role for visual description.",
+            "The dress and boots both illustrate the distinction between observation and an inferred cause.",
+            "Internal support is one of several possible causes, not the established explanation.",
+            "The passage compares kinds of claims, not the value of photographs and writing."
           ],
-          "evidence": "单品说明：立领几何短裙、银色方头长靴；对应词条与例句",
-          "id": "y2k-l1-q1",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-boots"
-          ],
-          "prompt_zh": "“silhouette” 描述服装的什么？",
-          "options_zh": [
-            "品牌商标",
-            "整体廓形",
-            "缝线颜色"
-          ]
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "Which word describes a surface with a metal-like shine?",
-          "answer": "metallic",
+          "id": "y2k-r2-l1-q2",
+          "type": "reading",
+          "prompt": "Which additional evidence would most directly strengthen the editor’s claim about the dress’s physical structure?",
           "options": [
-            "geometric",
-            "metallic",
-            "fitted"
+            "A second photograph showing the same neckline",
+            "A close-up showing that the panels are white",
+            "An examination showing that the garment retains its shape without being worn",
+            "A record showing that the collection was described as futuristic"
           ],
-          "explanation": "metallic 描述金属般的表面效果。",
-          "word_ids": [
-            "metallic"
+          "answer": "An examination showing that the garment retains its shape without being worn",
+          "notes": [
+            "Another image may repeat the same visible effect without revealing its cause.",
+            "Colour does not establish the ability to hold a shape.",
+            "Shape retention off the body directly tests the physical property in question.",
+            "A collection’s theme is not evidence about fabric behaviour."
           ],
-          "evidence": "单品说明：银色方头长靴、银色月牙包；对应词条与例句",
-          "id": "y2k-l1-q2",
-          "item_ids": [
-            "orbital-boots",
-            "orbital-bag"
-          ],
-          "prompt_zh": "Which word means “有金属光泽的”?"
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "How do “structured” and “fitted” differ?",
-          "answer": "One describes shape retention; the other describes closeness to the body.",
+          "id": "y2k-r2-l1-q3",
+          "type": "reading",
+          "prompt": "Why does the author mention the model’s posture?",
           "options": [
-            "One describes shape retention; the other describes closeness to the body.",
-            "Both describe a very loose fit.",
-            "Both describe colour only."
+            "To identify a possible source of a crisp outline other than the garment itself",
+            "To suggest that good posture requires internal garment support",
+            "To explain why the dress should be photographed without a model",
+            "To establish posture as the most influential feature of the silhouette"
           ],
-          "explanation": "衣服可有结构但不贴身；两种属性不能混为一谈。",
-          "word_ids": [
-            "structured",
-            "fitted"
+          "answer": "To identify a possible source of a crisp outline other than the garment itself",
+          "notes": [
+            "Posture is included among alternative causes, which limits the certainty of a construction claim.",
+            "The passage makes no causal claim from posture to internal support.",
+            "An alternative explanation does not amount to a recommendation about photography.",
+            "No ranking among the possible causes is provided."
           ],
-          "evidence": "单品说明：立领几何短裙；对应词条与例句",
-          "id": "y2k-l1-q3",
-          "item_ids": [
-            "orbital-dress"
-          ],
-          "prompt_zh": "“structured” 与 “fitted” 的区别是什么？",
-          "options_zh": [
-            "前者强调保形结构，后者强调贴体程度",
-            "两者都表示非常宽大",
-            "两者都只描述颜色"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "Light passes through the ___ cape.",
-          "answer": "translucent",
+          "id": "y2k-r2-l1-q4",
+          "type": "reading",
+          "prompt": "As used in the passage, “exceed” most nearly means",
           "options": [
-            "structured",
-            "translucent",
-            "metallic"
+            "improve the quality of",
+            "bring attention to",
+            "go beyond the limits of",
+            "remove the need for"
           ],
-          "explanation": "句子强调光线穿过肩罩，应选半透明的 translucent。",
-          "word_ids": [
-            "translucent"
+          "answer": "go beyond the limits of",
+          "notes": [
+            "The issue is the scope of a claim, not the quality of evidence.",
+            "A claim may draw attention to evidence without overstating it.",
+            "Treating a possible cause as certain goes beyond what the image supports.",
+            "The author requires evidence rather than dispensing with it."
           ],
-          "evidence": "单品说明：冰蓝透明肩罩；对应词条与例句",
-          "id": "y2k-l1-q4",
-          "item_ids": [
-            "orbital-cape"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "The rough sleeve and smooth boots create a ___ in texture.",
-          "answer": "contrast",
+          "id": "y2k-r2-l1-q5",
+          "type": "reading",
+          "prompt": "The discussion of the boots serves primarily to",
           "options": [
-            "contrast",
-            "silhouette",
-            "neckline"
+            "introduce an exception to the argument about the dress",
+            "shift the discussion from visual design to manufacturing costs",
+            "show that reflective surfaces are difficult to describe accurately",
+            "extend the same evidential principle to a different material effect"
           ],
-          "explanation": "两个表面质感形成对比，搭配为 a contrast in texture。",
-          "word_ids": [
-            "contrast",
-            "texture"
+          "answer": "extend the same evidential principle to a different material effect",
+          "notes": [
+            "The boots follow the same principle; they are not an exception.",
+            "Costs are not discussed.",
+            "“Metallic” is presented as a defensible description of the appearance.",
+            "The argument moves from an apparent structure to an apparent material composition."
           ],
-          "evidence": "单品说明：冰蓝透明肩罩、银色方头长靴、银色月牙包；对应词条与例句",
-          "id": "y2k-l1-q5",
-          "item_ids": [
-            "orbital-cape",
-            "orbital-boots",
-            "orbital-bag"
-          ]
+          "revision": 2
         },
         {
-          "type": "spelling",
-          "prompt": "Spell the word: based on shapes such as lines and circles. Starts with g.",
-          "answer": "geometric",
-          "options": [],
-          "explanation": "几何形的 = geometric。",
-          "word_ids": [
-            "geometric"
+          "id": "y2k-r2-l1-q6",
+          "type": "reading",
+          "prompt": "Which statement would the author most likely endorse?",
+          "options": [
+            "A description should avoid any term whose physical cause is uncertain.",
+            "An account can be visually precise without claiming to establish material composition.",
+            "A close fit is sufficient evidence that a garment contains internal support.",
+            "The use of vivid language necessarily weakens the accuracy of fashion writing."
           ],
-          "evidence": "单品说明：立领几何短裙、银色月牙包；对应词条与例句",
-          "id": "y2k-l1-q6",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-bag"
+          "answer": "An account can be visually precise without claiming to establish material composition.",
+          "notes": [
+            "The author allows terms that accurately describe an appearance.",
+            "The final sentence explicitly permits vivid description with limited claims.",
+            "Close fit is an alternative cause, not proof of internal support.",
+            "The passage says vividness and accuracy can coexist."
           ],
-          "prompt_zh": "拼写：几何形的（g 开头）"
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -641,146 +654,123 @@
         "contrast",
         "texture"
       ],
-      "text_id": "t1",
+      "text_id": "r2-2",
       "minutes": 5,
       "reward_card": "S04-F01",
       "questions": [
         {
+          "id": "y2k-r2-l2-q1",
           "type": "reading",
-          "prompt": "[P1] Why do the edges matter in Orbital Silence?",
-          "answer": "They define its shape without a large print.",
+          "prompt": "The initial expectation of uniformity depends on which assumption?",
           "options": [
-            "They define its shape without a large print.",
-            "They show the name of the designer.",
-            "They hide every part of the body."
+            "Differences in colour are the principal source of visual differentiation.",
+            "Pale blue is difficult to combine with white.",
+            "Reflective materials necessarily appear darker than translucent ones.",
+            "A coherent outfit should contain equally sized pieces."
           ],
-          "explanation": "P1 最后两句说明造型依靠边缘，而非大印花。",
-          "word_ids": [
-            "silhouette",
-            "geometric"
+          "answer": "Differences in colour are the principal source of visual differentiation.",
+          "notes": [
+            "The next sentence identifies the assumption that colour does most of the differentiating work.",
+            "The passage does not claim these colours are difficult to combine.",
+            "No general relation between reflection and darkness is stated.",
+            "The sizes of the pieces do not underlie the expectation."
           ],
-          "evidence": "t1 P1",
-          "id": "y2k-l2-q1",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-boots",
-            "orbital-bag"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l2-q2",
           "type": "reading",
-          "prompt": "[P2] Which comparison explains the outfit’s texture contrast?",
-          "answer": "A light-transmitting cape and reflective boots",
+          "prompt": "Why does the author discuss folds and overlapping layers?",
           "options": [
-            "A large print and a small print",
-            "Two pieces with the same surface",
-            "A light-transmitting cape and reflective boots"
+            "To explain how the capelet in this outfit was manufactured",
+            "To dispute the claim that the capelet admits light",
+            "To qualify a possible generalisation about transparent garments",
+            "To demonstrate that opaque coats can never soften a shoulder line"
           ],
-          "explanation": "P2 分别描述肩罩透光、靴子反光。",
-          "word_ids": [
-            "texture",
-            "translucent",
-            "metallic"
+          "answer": "To qualify a possible generalisation about transparent garments",
+          "notes": [
+            "The example concerns visual weight, not manufacturing.",
+            "It accepts translucency while considering a different effect of layering.",
+            "It limits the claim that transparency always creates lightness.",
+            "The passage makes no universal claim about opaque coats."
           ],
-          "evidence": "t1 P2",
-          "id": "y2k-l2-q2",
-          "item_ids": [
-            "orbital-cape",
-            "orbital-boots",
-            "orbital-bag"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l2-q3",
           "type": "reading",
-          "prompt": "[P3] Does “futuristic” prove that the outfit uses new technology?",
-          "answer": "No. It is a visual interpretation.",
+          "prompt": "Which change would most directly remove the contrast described in the final paragraph?",
           "options": [
-            "Yes. A high neckline proves it.",
-            "No. It is a visual interpretation.",
-            "Yes. Every shiny material is electronic."
+            "Keeping the palette pale while varying the lengths of the pieces",
+            "Giving the capelet and boots similarly opaque, matte surfaces",
+            "Adding a small silver fastening to the dress",
+            "Photographing the outfit from a second angle"
           ],
-          "explanation": "P3 明确区分视觉未来感与技术功能。",
-          "word_ids": [],
-          "evidence": "t1 P3",
-          "id": "y2k-l2-q3",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-cape",
-            "orbital-boots",
-            "orbital-bag"
-          ]
+          "answer": "Giving the capelet and boots similarly opaque, matte surfaces",
+          "notes": [
+            "Length changes do not directly eliminate the stated differences in light behaviour.",
+            "Similar matte opacity removes the contrast between transmission and sharp reflection.",
+            "A small fastening need not erase the larger surface relationships.",
+            "A second view does not itself change the materials."
+          ],
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "What is a “fitted silhouette”?",
-          "answer": "An overall outline that follows the body",
+          "id": "y2k-r2-l2-q4",
+          "type": "reading",
+          "prompt": "The phrase “visual weight” refers primarily to",
           "options": [
-            "A wide, shapeless surface",
-            "An overall outline that follows the body",
-            "A seam with loose threads"
+            "the measured mass of the clothing",
+            "the cost of adding another garment",
+            "the strength needed to support a fabric",
+            "the apparent heaviness of a form within the image"
           ],
-          "explanation": "fitted 描述贴合程度，silhouette 描述全身外形。",
-          "word_ids": [
-            "fitted",
-            "silhouette"
+          "answer": "the apparent heaviness of a form within the image",
+          "notes": [
+            "The passage discusses how a layer appears rather than how much it weighs.",
+            "Cost is not considered.",
+            "Support strength is not the property being compared.",
+            "The comparison concerns perceived solidity and density."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l2-q4",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-boots"
-          ],
-          "prompt_zh": "“fitted silhouette” 最合适的解释是：",
-          "options_zh": [
-            "宽大且无形的表面",
-            "贴体的整体廓形",
-            "起毛的接缝"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "A ___ bodice holds its shape.",
-          "answer": "structured",
+          "id": "y2k-r2-l2-q5",
+          "type": "reading",
+          "prompt": "The final paragraph suggests that coherence and contrast",
           "options": [
-            "translucent",
-            "structured",
-            "metallic"
+            "can operate together rather than cancel one another",
+            "require all surfaces to have identical finishes",
+            "depend on using a wide range of colours",
+            "are interchangeable descriptions of the same feature"
           ],
-          "explanation": "保形能力对应 structured；透光或反光本身不等于保形。",
-          "word_ids": [
-            "structured"
+          "answer": "can operate together rather than cancel one another",
+          "notes": [
+            "A shared palette provides coherence while different surfaces provide contrast.",
+            "Identical finishes could remove the contrast.",
+            "The argument is specifically about a restricted palette.",
+            "The paragraph assigns different roles to coherence and contrast."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l2-q5",
-          "item_ids": [
-            "orbital-dress"
-          ]
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "What does “geometric” describe in “geometric neckline”?",
-          "answer": "The shape of the neckline",
+          "id": "y2k-r2-l2-q6",
+          "type": "reading",
+          "prompt": "Which conclusion is best supported by the passage?",
           "options": [
-            "The fabric’s water resistance",
-            "The wearer’s age",
-            "The shape of the neckline"
+            "Colour can be ignored whenever an outfit includes reflective boots.",
+            "Translucent garments produce the same effect under all conditions.",
+            "A limited palette does not preclude a visually differentiated outfit.",
+            "Matching surface finishes is the most reliable way to create contrast."
           ],
-          "explanation": "geometric 描述几何形状，与年龄或防护性能无关。",
-          "word_ids": [
-            "geometric"
+          "answer": "A limited palette does not preclude a visually differentiated outfit.",
+          "notes": [
+            "The palette still performs the role of holding the pieces together.",
+            "The second paragraph explicitly qualifies that generalisation.",
+            "Surface behaviour provides differentiation despite the restricted palette.",
+            "Matching finishes may eliminate, rather than produce, the relevant contrast."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l2-q6",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-bag"
-          ],
-          "prompt_zh": "在 “geometric neckline” 中，geometric 修饰什么？",
-          "options_zh": [
-            "面料的耐水性",
-            "穿着者的年龄",
-            "领口的形状"
-          ]
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -807,137 +797,123 @@
         "seam"
       ],
       "review_words": [],
-      "text_id": null,
+      "text_id": "r2-3",
       "minutes": 6,
       "reward_card": null,
       "questions": [
         {
-          "type": "meaning",
-          "prompt": "What is “distressed denim”?",
-          "answer": "Denim with deliberately worn areas",
+          "id": "y2k-r2-l3-q1",
+          "type": "reading",
+          "prompt": "Which distinction is central to the passage?",
           "options": [
-            "Newly sewn silk",
-            "Completely transparent plastic",
-            "Denim with deliberately worn areas"
+            "The durability of denim as opposed to other fabrics",
+            "The visible signs of wear as opposed to evidence of actual use",
+            "The commercial value of old jackets as opposed to new ones",
+            "The desirability of natural fading as opposed to artificial distressing"
           ],
-          "explanation": "distressed 在服装中描述人为旧感；denim 是丹宁。",
-          "word_ids": [
-            "distressed",
-            "denim"
+          "answer": "The visible signs of wear as opposed to evidence of actual use",
+          "notes": [
+            "Durability is not the issue under examination.",
+            "The passage repeatedly separates the surface effect from the history that produced it.",
+            "No comparison of market value is offered.",
+            "The author avoids ranking the two processes by desirability."
           ],
-          "evidence": "单品说明：宽肩短丹宁夹克；对应词条与例句",
-          "id": "y2k-l3-q1",
-          "item_ids": [
-            "frequency-jacket"
-          ],
-          "prompt_zh": "“distressed denim” 指什么？",
-          "options_zh": [
-            "刚缝好的丝绸",
-            "完全透明的塑料",
-            "经过刻意做旧的丹宁"
-          ]
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "Which word names buckles and zips as garment details?",
-          "answer": "hardware",
+          "id": "y2k-r2-l3-q2",
+          "type": "reading",
+          "prompt": "A frayed edge would provide the strongest direct evidence for which claim?",
           "options": [
-            "texture",
-            "nostalgia",
-            "hardware"
+            "The jacket has been worn for many years.",
+            "The designer intended to mislead the buyer.",
+            "Loose threads are present along an edge.",
+            "The fabric was damaged after it was sold."
           ],
-          "explanation": "服装语境中的 hardware 指搭扣、拉链等金属配件。",
-          "word_ids": [
-            "hardware"
+          "answer": "Loose threads are present along an edge.",
+          "notes": [
+            "Fraying can be produced on new fabric.",
+            "Intent cannot be inferred from the edge alone.",
+            "This describes the observable feature without inventing a history.",
+            "The timing of the treatment is not established by its appearance."
           ],
-          "evidence": "单品说明：斜腰头阔腿裤、银黑厚底鞋；对应词条与例句",
-          "id": "y2k-l3-q2",
-          "item_ids": [
-            "frequency-trousers",
-            "frequency-shoes"
-          ]
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "What do “oversized” and “layered” describe?",
-          "answer": "Extra volume and multiple clothing layers",
+          "id": "y2k-r2-l3-q3",
+          "type": "reading",
+          "prompt": "The author introduces “a pale patch” primarily to",
           "options": [
-            "Fading and holes",
-            "Softness and transparency",
-            "Extra volume and multiple clothing layers"
+            "show why a visible treatment should not automatically be classified as physical damage",
+            "argue that washing is more effective than cutting for producing holes",
+            "establish a reliable method for determining a garment’s age",
+            "suggest that deliberate distressing is usually concealed by designers"
           ],
-          "explanation": "oversized 是尺寸／体积关系，layered 是衣层关系。",
-          "word_ids": [
-            "oversized",
-            "layered"
+          "answer": "show why a visible treatment should not automatically be classified as physical damage",
+          "notes": [
+            "A pale area and a hole are different kinds of observable feature.",
+            "The relative effectiveness of production techniques is not compared.",
+            "The example limits rather than supplies an age test.",
+            "The passage later allows designers to disclose the technique openly."
           ],
-          "evidence": "单品说明：宽肩短丹宁夹克、紫色青柠边背心；对应词条与例句",
-          "id": "y2k-l3-q3",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-vest"
-          ],
-          "prompt_zh": "“oversized” 和 “layered” 分别强调什么？",
-          "options_zh": [
-            "褪色与破洞",
-            "柔软与透明",
-            "体积偏大与多层叠穿"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "The ___ surface has uneven pale areas after treatment.",
-          "answer": "washed",
+          "id": "y2k-r2-l3-q4",
+          "type": "reading",
+          "prompt": "What is implied about the author’s view of manufactured wear?",
           "options": [
-            "fitted",
-            "geometric",
-            "washed"
+            "It is acceptable only when it exactly reproduces naturally aged fabric.",
+            "It should be judged solely by the amount of damage it creates.",
+            "Its use makes every historical claim about a collection unreliable.",
+            "It need not be misleading when presented as a design intervention."
           ],
-          "explanation": "洗水处理对应 washed；浅色变化不自动等于破洞。",
-          "word_ids": [
-            "washed"
+          "answer": "It need not be misleading when presented as a design intervention.",
+          "notes": [
+            "Exact imitation is not a condition the author imposes.",
+            "The passage focuses on claims and evidence, not damage alone.",
+            "The argument concerns particular unsupported claims, not every historical statement.",
+            "The final paragraph explicitly allows an openly acknowledged technique."
           ],
-          "evidence": "单品说明：宽肩短丹宁夹克、斜腰头阔腿裤；对应词条与例句",
-          "id": "y2k-l3-q4",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-trousers"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "Loose threads hang from the ___ hem.",
-          "answer": "frayed",
+          "id": "y2k-r2-l3-q5",
+          "type": "reading",
+          "prompt": "As used in the first paragraph, “provenance” most nearly refers to",
           "options": [
-            "frayed",
-            "metallic",
-            "structured"
+            "surface texture",
+            "the documented origin and history of an object",
+            "the arrangement of fabric panels",
+            "the visual strength of a colour contrast"
           ],
-          "explanation": "frayed 指边缘磨散、露出松线。",
-          "word_ids": [
-            "frayed"
+          "answer": "the documented origin and history of an object",
+          "notes": [
+            "Texture concerns appearance; provenance concerns history.",
+            "The paragraph contrasts how a garment looks with how it came to have that appearance.",
+            "Panel arrangement concerns construction rather than historical origin.",
+            "Colour contrast cannot establish the object’s history."
           ],
-          "evidence": "单品说明：宽肩短丹宁夹克；对应词条与例句",
-          "id": "y2k-l3-q5",
-          "item_ids": [
-            "frequency-jacket"
-          ]
+          "revision": 2
         },
         {
-          "type": "spelling",
-          "prompt": "Spell the word: a line where two pieces of fabric are joined. Starts with s.",
-          "answer": "seam",
-          "options": [],
-          "explanation": "接缝 = seam。",
-          "word_ids": [
-            "seam"
+          "id": "y2k-r2-l3-q6",
+          "type": "reading",
+          "prompt": "Which finding would most directly challenge the hypothetical claim about decades of use?",
+          "options": [
+            "The jacket has several convincingly faded areas.",
+            "The jacket belongs to a collection inspired by workwear.",
+            "Production records show that the jacket was newly made and treated last month.",
+            "The buyer prefers naturally faded denim."
           ],
-          "evidence": "单品说明：斜腰头阔腿裤；对应词条与例句",
-          "id": "y2k-l3-q6",
-          "item_ids": [
-            "frequency-trousers"
+          "answer": "Production records show that the jacket was newly made and treated last month.",
+          "notes": [
+            "A convincing appearance is compatible with a newly treated garment.",
+            "An inspiration does not establish the history of the individual jacket.",
+            "A recent production record directly conflicts with decades of actual use.",
+            "A buyer’s preference does not bear on the truth of the historical claim."
           ],
-          "prompt_zh": "拼写：缝合两片布料的接缝（s 开头）"
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -964,142 +940,123 @@
         "frayed",
         "seam"
       ],
-      "text_id": "t2",
+      "text_id": "r2-4",
       "minutes": 5,
       "reward_card": "S04-F02",
       "questions": [
         {
+          "id": "y2k-r2-l4-q1",
           "type": "reading",
-          "prompt": "[P1] Why is the jacket’s short length important?",
-          "answer": "It balances the volume of the wide trousers.",
+          "prompt": "The first paragraph indicates that “large” is an inadequate description because it",
           "options": [
-            "It makes every surface transparent.",
-            "It balances the volume of the wide trousers.",
-            "It removes the trousers from the look."
+            "implies that denim cannot retain a defined shape",
+            "ignores the difference between shoulder width and garment length",
+            "confuses a jacket with the trousers worn beneath it",
+            "assumes that the jacket must be longer than the trousers"
           ],
-          "explanation": "P1 解释紧凑上身和宽大裤装的比例关系。",
-          "word_ids": [
-            "proportion",
-            "oversized",
-            "layered"
+          "answer": "ignores the difference between shoulder width and garment length",
+          "notes": [
+            "Shape retention is not the point being made.",
+            "The jacket is broad in one dimension and shortened in another.",
+            "The passage does not suggest a confusion between garment categories.",
+            "No such comparison of total lengths is attributed to the word “large”."
           ],
-          "evidence": "t2 P1",
-          "id": "y2k-l4-q1",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-vest"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l4-q2",
           "type": "reading",
-          "prompt": "[P2] Which description is accurate?",
-          "answer": "Washed is a surface treatment; frayed refers to loose edge threads.",
+          "prompt": "What role do curved seams play in the described outfit?",
           "options": [
-            "Washed is a surface treatment; frayed refers to loose edge threads.",
-            "Frayed means covered in metal.",
-            "Washed always means a hole."
+            "They provide evidence of the trousers’ historical period.",
+            "They account for the brightness of the metal fastenings.",
+            "They direct attention along the legs and connect the panels visually.",
+            "They reduce the actual quantity of fabric in the trousers."
           ],
-          "explanation": "P2 直接区分洗水表面和磨散边缘。",
-          "word_ids": [
-            "washed",
-            "frayed"
+          "answer": "They direct attention along the legs and connect the panels visually.",
+          "notes": [
+            "No historical dating follows from the seams.",
+            "Seams and fastenings have different roles in the argument.",
+            "The second paragraph explicitly links the seams to visual movement and continuity.",
+            "The passage describes a perceptual effect, not a reduction in fabric."
           ],
-          "evidence": "t2 P2",
-          "id": "y2k-l4-q2",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-trousers"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l4-q3",
           "type": "reading",
-          "prompt": "[P3] What can the music device tell us?",
-          "answer": "It suggests a story, but does not date the exact outfit.",
+          "prompt": "Why does the author mention the bright buckle?",
           "options": [
-            "The outfit was definitely made in 2000.",
-            "The jacket is an electronic product.",
-            "It suggests a story, but does not date the exact outfit."
+            "To distinguish local visual emphasis from overall proportion",
+            "To establish hardware as the principal source of the outfit’s volume",
+            "To suggest that eye-catching details should always be removed",
+            "To explain why the jacket’s hem must remain above the waist"
           ],
-          "explanation": "P3 说明道具是故事线索，不是年代证据。",
-          "word_ids": [],
-          "evidence": "t2 P3",
-          "id": "y2k-l4-q3",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-trousers",
-            "frequency-vest",
-            "frequency-shoes"
-          ]
+          "answer": "To distinguish local visual emphasis from overall proportion",
+          "notes": [
+            "A detail can attract attention without controlling the length relationships.",
+            "The passage explicitly warns against this inference.",
+            "The author assigns the detail a role without rejecting it.",
+            "The buckle does not explain the specified hem position."
+          ],
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "The buckle is “hardware”. What does hardware mean here?",
-          "answer": "Metal garment details",
+          "id": "y2k-r2-l4-q4",
+          "type": "reading",
+          "prompt": "In the hypothetical alteration, which feature is explicitly held constant?",
           "options": [
-            "Computer software",
-            "Metal garment details",
-            "Folds in fabric"
+            "The length of the jacket",
+            "The amount of upper-body coverage",
+            "The perceived balance of the outfit",
+            "The breadth of the shoulders"
           ],
-          "explanation": "同一英文词在服装语境中有具体含义。",
-          "word_ids": [
-            "hardware"
+          "answer": "The breadth of the shoulders",
+          "notes": [
+            "The length is the feature being changed.",
+            "Longer coverage is an expected result of the alteration.",
+            "The balance is expected to change.",
+            "The passage specifies that the shoulders remain unchanged."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l4-q4",
-          "item_ids": [
-            "frequency-trousers",
-            "frequency-shoes"
-          ],
-          "prompt_zh": "The buckle is “hardware”. 这里 hardware 指：",
-          "options_zh": [
-            "电脑软件",
-            "服装金属配件",
-            "布料褶皱"
-          ]
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "Curved ___ lead the eye down the trouser legs.",
-          "answer": "seams",
+          "id": "y2k-r2-l4-q5",
+          "type": "reading",
+          "prompt": "Which statement best captures the author’s general recommendation?",
           "options": [
-            "boots",
-            "seams",
-            "capes"
+            "Use familiar garment labels instead of discussing relationships.",
+            "Describe how interacting dimensions produce the outfit’s overall effect.",
+            "Give the brightest detail priority over the outline of the outfit.",
+            "Avoid hypothetical changes because their effects cannot be discussed."
           ],
-          "explanation": "分割裤腿并引导视线的是接缝，复数 seams。",
-          "word_ids": [
-            "seam"
+          "answer": "Describe how interacting dimensions produce the outfit’s overall effect.",
+          "notes": [
+            "The author finds labels alone insufficient.",
+            "The conclusion asks the stylist to connect a change in one part to the whole.",
+            "Prominence is explicitly distinguished from control of proportion.",
+            "The hypothetical alteration is used to clarify the relationship."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l4-q5",
-          "item_ids": [
-            "frequency-trousers"
-          ]
+          "revision": 2
         },
         {
-          "type": "meaning",
-          "prompt": "What is denim?",
-          "answer": "A type of fabric",
+          "id": "y2k-r2-l4-q6",
+          "type": "reading",
+          "prompt": "The passage suggests that an outfit could remain “oversized” while",
           "options": [
-            "A type of fabric",
-            "A type of button",
-            "A hairstyle"
+            "losing all visual continuity between its panels",
+            "retaining exactly the same upper-to-lower balance",
+            "changing its proportion through an increase in jacket length",
+            "becoming independent of its component garments’ dimensions"
           ],
-          "explanation": "denim 是牛仔布／丹宁。",
-          "word_ids": [
-            "denim"
+          "answer": "changing its proportion through an increase in jacket length",
+          "notes": [
+            "No loss of all continuity is required by the described change.",
+            "The passage predicts that the balance would alter.",
+            "A general style category can remain while the specific relation of lengths changes.",
+            "The argument makes the dimensions of the parts central to the whole."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l4-q6",
-          "item_ids": [
-            "frequency-jacket"
-          ],
-          "prompt_zh": "“denim” 是：",
-          "options_zh": [
-            "一种布料",
-            "一种扣子",
-            "一种发型"
-          ]
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -1126,136 +1083,123 @@
         "proportion"
       ],
       "review_words": [],
-      "text_id": "t3",
+      "text_id": "r2-5",
       "minutes": 7,
       "reward_card": null,
       "questions": [
         {
-          "type": "meaning",
-          "prompt": "What do “fluid” and “sheer” describe?",
-          "answer": "Flowing movement and a see-through effect",
-          "options": [
-            "Structural stiffness and size",
-            "Historical date and brand price",
-            "Flowing movement and a see-through effect"
-          ],
-          "explanation": "fluid 关乎垂坠流动，sheer 关乎轻薄透视。",
-          "word_ids": [
-            "fluid",
-            "sheer"
-          ],
-          "evidence": "单品说明：不对称抽褶短裙、薄纱袖与镂空袖套、金属紫厚底凉鞋；对应词条与例句",
-          "id": "y2k-l5-q1",
-          "item_ids": [
-            "echo-dress",
-            "echo-sleeves",
-            "echo-sandals"
-          ],
-          "prompt_zh": "“fluid” 和 “sheer” 分别描述什么？",
-          "options_zh": [
-            "结构硬度与尺寸",
-            "历史年代与品牌价格",
-            "流动垂坠感与透视效果"
-          ]
-        },
-        {
-          "type": "meaning",
-          "prompt": "What does “draped” describe?",
-          "answer": "Arranging fabric into folds",
-          "options": [
-            "Removing every seam",
-            "Arranging fabric into folds",
-            "Printing words on fabric"
-          ],
-          "explanation": "draped 是通过悬垂、收拢布料塑形。",
-          "word_ids": [
-            "draped"
-          ],
-          "evidence": "单品说明：不对称抽褶短裙；对应词条与例句",
-          "id": "y2k-l5-q2",
-          "item_ids": [
-            "echo-dress"
-          ],
-          "prompt_zh": "“draped” 描述怎样的造型方式？",
-          "options_zh": [
-            "把所有接缝去掉",
-            "让布料形成垂褶",
-            "只在布上印字"
-          ]
-        },
-        {
-          "type": "meaning",
-          "prompt": "Which term means that colours shift with the viewing angle?",
-          "answer": "iridescent",
-          "options": [
-            "iridescent",
-            "oversized",
-            "distressed"
-          ],
-          "explanation": "iridescent 指虹彩或随角度变化的色彩效果。",
-          "word_ids": [
-            "iridescent"
-          ],
-          "evidence": "单品说明：银色小包与双结发髻；对应词条与例句",
-          "id": "y2k-l5-q3",
-          "item_ids": [
-            "echo-accessories"
-          ]
-        },
-        {
-          "type": "cloze",
-          "prompt": "A ___ brings an older style back into popularity, while ___ describes a feeling about the past.",
-          "answer": "revival / nostalgia",
-          "options": [
-            "nostalgia / hardware",
-            "texture / revival",
-            "revival / nostalgia"
-          ],
-          "explanation": "revival 是重新流行；nostalgia 是怀旧情绪。",
-          "word_ids": [
-            "revival",
-            "nostalgia"
-          ],
-          "evidence": "单品说明：银色小包与双结发髻；对应词条与例句",
-          "id": "y2k-l5-q4",
-          "item_ids": [
-            "echo-accessories"
-          ]
-        },
-        {
-          "type": "spelling",
-          "prompt": "Spell the word: having unequal sides. Starts with a.",
-          "answer": "asymmetric",
-          "options": [],
-          "explanation": "不对称的 = asymmetric。",
-          "word_ids": [
-            "asymmetric"
-          ],
-          "evidence": "单品说明：不对称抽褶短裙；对应词条与例句",
-          "id": "y2k-l5-q5",
-          "item_ids": [
-            "echo-dress"
-          ],
-          "prompt_zh": "拼写：不对称的（a 开头）"
-        },
-        {
+          "id": "y2k-r2-l5-q1",
           "type": "reading",
-          "prompt": "[P2] Where does the text clearly identify an iridescent effect?",
-          "answer": "In the blue-and-pink background",
+          "prompt": "Which claim is most directly challenged by the passage?",
           "options": [
-            "In the blue-and-pink background",
-            "In the woman’s skin",
-            "In every part of the dress"
+            "A background can contribute to the atmosphere of a fashion image.",
+            "An asymmetric hem can contribute to a fluid outline.",
+            "A colour-shifting background establishes that the dress has the same optical property.",
+            "An illustration can represent both sheer and metallic surfaces."
           ],
-          "explanation": "P2 区分背景效果与服装本身，不能由背景推断裙子变色。",
-          "word_ids": [
-            "iridescent"
+          "answer": "A colour-shifting background establishes that the dress has the same optical property.",
+          "notes": [
+            "The author explicitly permits this atmospheric function.",
+            "This is one of the observations the author considers secure.",
+            "The argument separates the property of the scene from a claim about the garment.",
+            "The author accepts these descriptions when they refer to visible features."
           ],
-          "evidence": "t3 P2",
-          "id": "y2k-l5-q6",
-          "item_ids": [
-            "echo-accessories"
-          ]
+          "revision": 2
+        },
+        {
+          "id": "y2k-r2-l5-q2",
+          "type": "reading",
+          "prompt": "The discussion of folds and an unequal hem mainly serves to",
+          "options": [
+            "offer descriptions that require fewer unsupported assumptions about the material",
+            "prove that fluid garments cannot have iridescent surfaces",
+            "explain why the background should be removed from the illustration",
+            "establish the historical origin of the dress"
+          ],
+          "answer": "offer descriptions that require fewer unsupported assumptions about the material",
+          "notes": [
+            "These features are directly represented and do not require transferring a background effect to the dress.",
+            "The passage does not make fluidity and iridescence mutually exclusive.",
+            "The scene is allowed to provide an interpretive frame.",
+            "Historical origin is not established by the folds or hem."
+          ],
+          "revision": 2
+        },
+        {
+          "id": "y2k-r2-l5-q3",
+          "type": "reading",
+          "prompt": "Which observation would most strengthen the claim that the dress itself is iridescent?",
+          "options": [
+            "The illustrator used pink and blue in several areas of the background.",
+            "The dress remains the same colour when photographed from different angles.",
+            "The collection’s promotional text repeatedly uses the word “future”.",
+            "Under neutral lighting, the garment’s surface changes colour as the viewing angle changes."
+          ],
+          "answer": "Under neutral lighting, the garment’s surface changes colour as the viewing angle changes.",
+          "notes": [
+            "Background colours do not isolate a property of the dress.",
+            "A stable colour would not support the stated angle-dependent effect.",
+            "A thematic word is not evidence of the material’s optical behaviour.",
+            "This observation isolates the dress and tests the relevant optical property."
+          ],
+          "revision": 2
+        },
+        {
+          "id": "y2k-r2-l5-q4",
+          "type": "reading",
+          "prompt": "In the final paragraph, “frame” refers to",
+          "options": [
+            "a rigid structure supporting the glass",
+            "a context that guides the interpretation of the outfit",
+            "a border proving where the original illustration ends",
+            "a pattern physically printed onto the dress"
+          ],
+          "answer": "a context that guides the interpretation of the outfit",
+          "notes": [
+            "The paragraph distinguishes interpretation from physical specifications.",
+            "The scene provides a context for reading the garment’s mood.",
+            "The author is not discussing image boundaries or authenticity.",
+            "The frame is supplied by the scene, not printed on the garment."
+          ],
+          "revision": 2
+        },
+        {
+          "id": "y2k-r2-l5-q5",
+          "type": "reading",
+          "prompt": "Why are the platform sandals mentioned?",
+          "options": [
+            "To identify an independent visual contrast within the outfit",
+            "To show that the dress shares the sandals’ composition",
+            "To argue that the glass determines the weight of the shoes",
+            "To establish the sandals as the source of the background colours"
+          ],
+          "answer": "To identify an independent visual contrast within the outfit",
+          "notes": [
+            "Their apparent solidity contrasts with the dress’s fluid and sheer elements.",
+            "No transfer of composition from shoes to dress is justified.",
+            "The passage discusses visual relationships, not a background’s effect on actual mass.",
+            "The background colours are not attributed to the sandals."
+          ],
+          "revision": 2
+        },
+        {
+          "id": "y2k-r2-l5-q6",
+          "type": "reading",
+          "prompt": "The author’s position is best characterised as",
+          "options": [
+            "rejecting mood as irrelevant to the assessment of fashion imagery",
+            "accepting all visual impressions as reliable material specifications",
+            "allowing atmospheric interpretation while restricting claims about physical properties",
+            "preferring technical textile information to all visible descriptions"
+          ],
+          "answer": "allowing atmospheric interpretation while restricting claims about physical properties",
+          "notes": [
+            "The author gives the mood-producing scene a legitimate role.",
+            "The argument specifically limits this move from impression to specification.",
+            "Interpretation is allowed, but a physical claim requires separate evidence.",
+            "Visible descriptions of folds, hem and sleeve remain useful."
+          ],
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -1298,136 +1242,123 @@
         "iridescent",
         "proportion"
       ],
-      "text_id": "t4",
+      "text_id": "r2-6",
       "minutes": 6,
       "reward_card": "S04-F03",
       "questions": [
         {
+          "id": "y2k-r2-l6-q1",
           "type": "reading",
-          "prompt": "[P1] How do revival and nostalgia differ?",
-          "answer": "One is renewed popularity; the other is a feeling.",
+          "prompt": "The critic’s objection rests on which assumption?",
           "options": [
-            "One is renewed popularity; the other is a feeling.",
-            "Both prove an outfit is old.",
-            "Both mean a fabric is transparent."
+            "A historical reference is coherent only if its visual interpretations closely resemble one another.",
+            "A revival must contain at least three different silhouettes.",
+            "Denim was absent from the early digital era.",
+            "Nostalgia is unrelated to how collections are interpreted."
           ],
-          "explanation": "P1 区分趋势变化与情绪。",
-          "word_ids": [
-            "revival",
-            "nostalgia"
+          "answer": "A historical reference is coherent only if its visual interpretations closely resemble one another.",
+          "notes": [
+            "The criticism uses similarity of appearance as the criterion for coherence.",
+            "The number of silhouettes is not a condition stated by the critic.",
+            "The passage supplies no claim about denim’s absence.",
+            "The objection concerns visual consistency rather than a denial of nostalgic interpretation."
           ],
-          "evidence": "t4 P1",
-          "id": "y2k-l6-q1",
-          "item_ids": [
-            "echo-accessories"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l6-q2",
           "type": "reading",
-          "prompt": "[P2] Which card centres on washed denim and curved seams?",
-          "answer": "Distorted Frequency",
+          "prompt": "The author’s alternative account treats the differences among the looks as",
           "options": [
-            "Orbital Silence",
-            "Distorted Frequency",
-            "Liquid Echo"
+            "evidence that the critic has misidentified their individual colours",
+            "a reason to abandon the historical reference altogether",
+            "a vehicle for examining a common theme from several directions",
+            "proof that the garments reproduce a single historical ensemble"
           ],
-          "explanation": "P2 第二种造型对应洗水丹宁与弧形接缝。",
-          "word_ids": [
-            "washed",
-            "denim",
-            "seam"
+          "answer": "a vehicle for examining a common theme from several directions",
+          "notes": [
+            "The author accepts the described colours and silhouettes.",
+            "The account preserves the shared historical reference.",
+            "The differences allow multiple answers to a shared question about a remembered future.",
+            "The final paragraph warns against inventing such a single source."
           ],
-          "evidence": "t4 P2",
-          "id": "y2k-l6-q2",
-          "item_ids": [
-            "frequency-jacket",
-            "frequency-trousers"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l6-q3",
           "type": "reading",
-          "prompt": "[P2] Which card is described as fluid and draped?",
-          "answer": "Liquid Echo",
+          "prompt": "Which distinction does the final paragraph draw?",
           "options": [
-            "Orbital Silence",
-            "Distorted Frequency",
-            "Liquid Echo"
+            "A distinction between inexpensive revivals and expensive originals",
+            "A distinction between renewed stylistic interest and a feeling toward the past",
+            "A distinction between digital technology and traditional textile production",
+            "A distinction between accurate colours and inaccurate silhouettes"
           ],
-          "explanation": "P2 将第三张与流动垂褶相连。",
-          "word_ids": [
-            "fluid",
-            "draped"
+          "answer": "A distinction between renewed stylistic interest and a feeling toward the past",
+          "notes": [
+            "Prices do not enter the argument.",
+            "Revival concerns returning interest; nostalgia concerns an attitude or feeling.",
+            "The passage’s distinction is conceptual rather than technological.",
+            "Neither colours nor silhouettes are graded for accuracy in this way."
           ],
-          "evidence": "t4 P2",
-          "id": "y2k-l6-q3",
-          "item_ids": [
-            "echo-dress",
-            "echo-sandals"
-          ]
+          "revision": 2
         },
         {
+          "id": "y2k-r2-l6-q4",
           "type": "reading",
-          "prompt": "[P3] Which caption is best supported by the text?",
-          "answer": "Three new interpretations of a remembered future",
+          "prompt": "Which finding would most weaken the critic’s stated objection?",
           "options": [
-            "Three exact copies of one runway outfit",
-            "Three identical silver outfits made in 2000",
-            "Three new interpretations of a remembered future"
+            "The three outfits were shown consecutively in the presentation.",
+            "The designer used different fabrics for each of the outfits.",
+            "The outfits received different responses from different viewers.",
+            "A clear account shows how the different looks each develop the same underlying idea."
           ],
-          "explanation": "P3 指出设计是新的，颜色与廓形不同；共同点是对记忆中未来的再诠释。",
-          "word_ids": [],
-          "evidence": "t4 P3",
-          "id": "y2k-l6-q4",
-          "item_ids": [
-            "orbital-dress",
-            "orbital-cape",
-            "orbital-boots",
-            "orbital-bag",
-            "frequency-jacket",
-            "frequency-trousers",
-            "frequency-vest",
-            "frequency-shoes",
-            "echo-dress",
-            "echo-sleeves",
-            "echo-sandals",
-            "echo-accessories"
-          ]
+          "answer": "A clear account shows how the different looks each develop the same underlying idea.",
+          "notes": [
+            "Sequence alone does not establish a shared interpretive relation.",
+            "Different fabrics repeat the variation to which the critic objects.",
+            "Different responses do not directly establish thematic coherence.",
+            "A demonstrated common idea challenges the assumption that visual similarity is necessary."
+          ],
+          "revision": 2
         },
         {
-          "type": "cloze",
-          "prompt": "A short jacket changes the ___ between the upper and lower parts of the look.",
-          "answer": "proportion",
+          "id": "y2k-r2-l6-q5",
+          "type": "reading",
+          "prompt": "The qualification “does not establish that the designs are historically exact” prevents which inference?",
           "options": [
-            "hardware",
-            "proportion",
-            "nostalgia"
+            "A coherent reinterpretation must also be an exact reproduction of period clothing.",
+            "Different interpretations can address the same question.",
+            "A collection can invoke visual languages associated with the past.",
+            "Revival and nostalgia are useful but distinct concepts."
           ],
-          "explanation": "proportion 指上下部分的比例关系。",
-          "word_ids": [
-            "proportion"
+          "answer": "A coherent reinterpretation must also be an exact reproduction of period clothing.",
+          "notes": [
+            "The author separates thematic coherence from exact historical reproduction.",
+            "That is part of the argument, not an inference being blocked.",
+            "The passage expressly accepts such an invocation.",
+            "The distinction remains central after the qualification."
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l6-q5",
-          "item_ids": [
-            "echo-dress",
-            "echo-sandals"
-          ]
+          "revision": 2
         },
         {
-          "type": "spelling",
-          "prompt": "Spell the word: light and see-through. Starts with s; five letters.",
-          "answer": "sheer",
-          "options": [],
-          "explanation": "轻薄透视的 = sheer。",
-          "word_ids": [
-            "sheer"
+          "id": "y2k-r2-l6-q6",
+          "type": "reading",
+          "prompt": "Which proposed description best fits the author’s argument?",
+          "options": [
+            "Three identical period outfits preserved in different materials",
+            "Three incompatible styles whose historical references cancel each other",
+            "Three contemporary responses to a shared idea of the remembered future",
+            "Three proofs that nostalgic fashion requires no changes to original designs"
           ],
-          "evidence": "词卡例句",
-          "id": "y2k-l6-q6",
-          "item_ids": [
-            "echo-sleeves"
+          "answer": "Three contemporary responses to a shared idea of the remembered future",
+          "notes": [
+            "The designs differ and are not established as period originals.",
+            "The author argues that variation can contribute to coherence.",
+            "This formulation connects the shared theme with the distinct new interpretations.",
+            "The passage allows transformation rather than requiring unchanged originals."
           ],
-          "prompt_zh": "拼写：轻薄透视的（s 开头，5 个字母）"
+          "revision": 2
         }
       ],
       "item_ids": [
@@ -1567,17 +1498,6 @@
         "x": 51,
         "y": 37
       },
-      "practice": {
-        "id": "orbital-dress-practice",
-        "prompt": "Which phrase describes the dress’s overall outline?",
-        "answer": "a fitted silhouette",
-        "options": [
-          "a frayed hem",
-          "a fitted silhouette",
-          "a washed finish"
-        ],
-        "explanation": "silhouette 指整体廓形，fitted 描述贴体。"
-      },
       "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
     },
     {
@@ -1598,17 +1518,6 @@
       "hotspot": {
         "x": 25,
         "y": 27
-      },
-      "practice": {
-        "id": "orbital-cape-practice",
-        "prompt": "The arm remains partly visible because the capelet is ___.",
-        "answer": "translucent",
-        "options": [
-          "translucent",
-          "oversized",
-          "washed"
-        ],
-        "explanation": "透光并保留部分身体可见度，对应 translucent。"
       },
       "source_url": null
     },
@@ -1631,17 +1540,6 @@
         "x": 56,
         "y": 78
       },
-      "practice": {
-        "id": "orbital-boots-practice",
-        "prompt": "Does “metallic boots” prove that the boots are solid metal?",
-        "answer": "No. It describes their visual finish.",
-        "options": [
-          "Yes. It names their full composition.",
-          "No. It describes their visual finish.",
-          "Yes. Every reflective material is metal."
-        ],
-        "explanation": "metallic 在这里是表面视觉效果，不能据此断定成分。"
-      },
       "source_url": "https://www.courreges.com/fr/page/collection-fall-winter-2024"
     },
     {
@@ -1663,17 +1561,6 @@
       "hotspot": {
         "x": 21,
         "y": 57
-      },
-      "practice": {
-        "id": "orbital-bag-practice",
-        "prompt": "What connects the bag visually to the boots?",
-        "answer": "a metallic surface",
-        "options": [
-          "the same garment length",
-          "loose threads along an edge",
-          "a metallic surface"
-        ],
-        "explanation": "两者以金属光泽呼应，衣长和毛边不是这里的联系。"
       },
       "source_url": null
     },
@@ -1699,17 +1586,6 @@
         "x": 42,
         "y": 26
       },
-      "practice": {
-        "id": "frequency-jacket-practice",
-        "prompt": "Which detail is clearly used to describe this jacket?",
-        "answer": "oversized shoulders and a washed finish",
-        "options": [
-          "a transparent knitted body",
-          "oversized shoulders and a washed finish",
-          "a long fluid train"
-        ],
-        "explanation": "介绍明确指出宽肩和洗水；没有说它有透明针织衣身或长拖尾。"
-      },
       "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
     },
     {
@@ -1734,17 +1610,6 @@
         "x": 61,
         "y": 67
       },
-      "practice": {
-        "id": "frequency-trousers-practice",
-        "prompt": "Which detail joins the fabric panels along the leg?",
-        "answer": "a curved seam",
-        "options": [
-          "a platform sole",
-          "a sheer sleeve",
-          "a curved seam"
-        ],
-        "explanation": "seam 是布片相接的接缝；鞋底与袖子不是裤腿分割。"
-      },
       "source_url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/diesel"
     },
     {
@@ -1767,17 +1632,6 @@
         "x": 51,
         "y": 36
       },
-      "practice": {
-        "id": "frequency-vest-practice",
-        "prompt": "Why does the fitted vest work with the oversized jacket?",
-        "answer": "It creates a contrast in fit and volume.",
-        "options": [
-          "It creates a contrast in fit and volume.",
-          "It hides every denim surface.",
-          "It makes both pieces equally wide."
-        ],
-        "explanation": "贴体内层与宽大外层形成体积和贴合度的对照。"
-      },
       "source_url": null
     },
     {
@@ -1799,17 +1653,6 @@
       "hotspot": {
         "x": 70,
         "y": 91
-      },
-      "practice": {
-        "id": "frequency-shoes-practice",
-        "prompt": "“Platform sole” describes ___, while “metallic” describes ___.",
-        "answer": "shoe structure / surface effect",
-        "options": [
-          "fabric colour / garment length",
-          "shoe structure / surface effect",
-          "historical date / brand name"
-        ],
-        "explanation": "厚底是结构，金属光泽是表面效果。"
       },
       "source_url": null
     },
@@ -1834,17 +1677,6 @@
         "x": 51,
         "y": 45
       },
-      "practice": {
-        "id": "echo-dress-practice",
-        "prompt": "What makes the hem asymmetric?",
-        "answer": "One side extends farther than the other.",
-        "options": [
-          "One side extends farther than the other.",
-          "The fabric is made of denim.",
-          "Both sides have exactly the same length."
-        ],
-        "explanation": "asymmetric 指左右不对称，这里体现在下摆长度差。"
-      },
       "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
     },
     {
@@ -1866,17 +1698,6 @@
       "hotspot": {
         "x": 74,
         "y": 37
-      },
-      "practice": {
-        "id": "echo-sleeves-practice",
-        "prompt": "Do “sheer” and “knit” describe exactly the same property?",
-        "answer": "No. One is a visual effect; the other is textile construction.",
-        "options": [
-          "No. One is a visual effect; the other is textile construction.",
-          "Yes. Both mean a very long hem.",
-          "Yes. Both always mean metal."
-        ],
-        "explanation": "透视是视觉属性，针织是织物结构，不能互相替代。"
       },
       "source_url": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/blumarine"
     },
@@ -1901,17 +1722,6 @@
         "x": 49,
         "y": 86
       },
-      "practice": {
-        "id": "echo-sandals-practice",
-        "prompt": "Which contrast does the description emphasise?",
-        "answer": "heavy soles and light fabric",
-        "options": [
-          "two equally transparent soles",
-          "heavy soles and light fabric",
-          "two identical denim jackets"
-        ],
-        "explanation": "介绍强调厚底与轻薄裙料的重量感对比。"
-      },
       "source_url": null
     },
     {
@@ -1934,19 +1744,23 @@
         "x": 29,
         "y": 27
       },
-      "practice": {
-        "id": "echo-accessories-practice",
-        "prompt": "Which sentence is supported by this description?",
-        "answer": "The scene may evoke nostalgia, but it does not prove a historical date.",
-        "options": [
-          "The scene may evoke nostalgia, but it does not prove a historical date.",
-          "Every silver object must change colour with the viewing angle.",
-          "The bag proves the exact outfit was worn in 2000."
-        ],
-        "explanation": "怀旧是联想，不是年代证据；银色反光也不自动等于虹彩变色。"
-      },
       "source_url": null
     }
   ],
-  "revision": "item-led-v2"
+  "revision": "item-led-v2",
+  "assessment": {
+    "revision": 2,
+    "format": "reading_comprehension",
+    "sources": [
+      {
+        "title": "ETS GRE · Reading Comprehension sample questions",
+        "url": "https://grediagnostic.ets.org/GREDWeb/gred/shorter_passage.jsp"
+      },
+      {
+        "title": "ETS TOEFL · Inference and rhetorical purpose examples",
+        "url": "https://www.in.ets.org/toefl/test-takers/ibt/transcript/reading-inference-rhetorical-purpose.html"
+      }
+    ],
+    "notice": "Original fashion reading questions. Official ETS sample questions are linked for reference."
+  }
 }
