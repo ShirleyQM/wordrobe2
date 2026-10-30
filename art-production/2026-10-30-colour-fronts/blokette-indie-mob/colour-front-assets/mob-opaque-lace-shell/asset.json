@@ -1,0 +1,26 @@
+{
+  "id": "mob-opaque-lace-shell",
+  "name": "黑色不透蕾纹内搭",
+  "slot": "top",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1235,
+    1274
+  ],
+  "sha256": "d8e846ccaa1bd176491f88334826eaba76a819f66750ea8b1931cb5007b62b7b",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "opaque-lace-pattern-knit",
+  "brandReference": "Dolce & Gabbana",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

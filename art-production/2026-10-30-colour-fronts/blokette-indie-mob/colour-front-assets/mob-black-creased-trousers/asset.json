@@ -1,0 +1,26 @@
+{
+  "id": "mob-black-creased-trousers",
+  "name": "黑色窄直礼服裤",
+  "slot": "bottom",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "c13aa1133354277bd5790953135a6665030f2ff55e10ee17ea9c30a22b32f392",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "wool-gabardine",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "card": "S03-F01",
+    "id": "tennis-white-toe",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "球衣混搭统一使用球鞋，复用白色球鞋鞋头"
+  },
+  {
+    "card": "S03-F02",
+    "id": "city-navy-canvas-toe",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "用海军蓝帆布球鞋替换参考卡的皮鞋"
+  },
+  {
+    "card": "S03-F02",
+    "id": "ivory-wide-trousers",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "已有同版型双褶阔裤，复用象牙色，不重复制作炭灰配色"
+  },
+  {
+    "card": "S03-F02",
+    "id": "blokette-ivory-ribbon-clips",
+    "reason": "同款缎带发夹共用"
+  },
+  {
+    "card": "S03-F03",
+    "id": "city-black-sneaker-toe",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "用黑色运动球鞋替换玛丽珍皮鞋"
+  },
+  {
+    "card": "S03-F03",
+    "id": "tennis-navy-skort-front",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "已有同版型短百褶裙，复用海军蓝，不重复制作炭灰色"
+  },
+  {
+    "card": "S03-F03",
+    "id": "blokette-ivory-ribbon-clips",
+    "reason": "同版型发夹复用"
+  },
+  {
+    "card": "S02-F01",
+    "id": "tennis-silver-studs",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "已有银色小耳钉复用"
+  },
+  {
+    "card": "S02-F02",
+    "id": "riding-black-tights",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "已有不透连裤袜同版型，沿用黑色，不另画钴蓝配色"
+  },
+  {
+    "card": "S02-F02",
+    "id": "indie-chelsea-boot-fronts",
+    "reason": "同款旧皮短靴共用"
+  },
+  {
+    "card": "S02-F03",
+    "id": "riding-black-tights",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "黑色连裤袜复用"
+  },
+  {
+    "card": "S02-F03",
+    "id": "indie-chelsea-boot-fronts",
+    "reason": "同款黑色切尔西前片共用"
+  },
+  {
+    "card": "S02-F03",
+    "id": "tennis-silver-studs",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "银色耳钉复用"
+  },
+  {
+    "card": "S01-F01",
+    "id": "jade-pointed-flats",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "沿用已确认黑金尖头鞋头"
+  },
+  {
+    "card": "S01-F01",
+    "id": "coral-gold-cuff",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "已有宽金腕饰复用"
+  },
+  {
+    "card": "S01-F02",
+    "id": "jade-pointed-flats",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "同版型黑金尖头鞋头共用"
+  },
+  {
+    "card": "S01-F02",
+    "id": "mob-wide-square-earrings",
+    "reason": "同款古金宽方耳饰共用"
+  },
+  {
+    "card": "S01-F02",
+    "id": "mob-black-opera-gloves",
+    "reason": "同款长手套共用"
+  },
+  {
+    "card": "S01-F03",
+    "id": "ivory-shell",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "已有方领内搭版型，沿用象牙色，不另画黑色"
+  },
+  {
+    "card": "S01-F03",
+    "id": "riding-black-wrap-skirt",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "相同裹身侧褶中裙版型沿用现有黑色羊毛款，不另画皮质版本"
+  },
+  {
+    "card": "S01-F03",
+    "id": "riding-black-tights",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "黑袜复用"
+  },
+  {
+    "card": "S01-F03",
+    "id": "riding-black-boot-fronts",
+    "sourceBatch": "clothing-production-tennis-city-equestrian-v1",
+    "reason": "黑色长靴正面版型复用"
+  },
+  {
+    "card": "S01-F03",
+    "id": "mob-wide-square-earrings",
+    "reason": "古金耳饰共用"
+  },
+  {
+    "card": "S01-F03",
+    "id": "coral-gold-cuff",
+    "sourceBatch": "clothing-production-qipao-coastal-v1",
+    "reason": "金色腕饰复用"
+  }
+]

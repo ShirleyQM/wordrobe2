@@ -1,0 +1,26 @@
+{
+  "id": "mob-wide-square-earrings",
+  "name": "古金宽方耳饰",
+  "slot": "earrings",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "f421e9f507d173a39d07ba36b2c579176c90b2ce3473675fb36a745fbcb91de6",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "antique-gold",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

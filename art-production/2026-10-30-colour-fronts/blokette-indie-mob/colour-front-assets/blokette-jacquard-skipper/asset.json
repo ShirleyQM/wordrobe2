@@ -1,0 +1,26 @@
+{
+  "id": "blokette-jacquard-skipper",
+  "name": "疏格针织短Polo",
+  "slot": "top",
+  "card": "S03-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "774f626aa68aebba59520aeb6ff24d6ff9e01bfa5a256769bcfbb1eaa8cce4f8",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-jacquard-knit",
+  "brandReference": "Wales Bonner",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/spring-2024-menswear/wales-bonner",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

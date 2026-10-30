@@ -1,0 +1,26 @@
+{
+  "id": "indie-charcoal-long-blazer",
+  "name": "窄肩炭黑长西装",
+  "slot": "outerwear",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "1a26d1be2d43a59ffcc8b1a3080a7e7521b1ed7b47ecf65f625fae16aa2ae8f9",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-charcoal-wool",
+  "brandReference": "Dior Homme / Hedi Slimane",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

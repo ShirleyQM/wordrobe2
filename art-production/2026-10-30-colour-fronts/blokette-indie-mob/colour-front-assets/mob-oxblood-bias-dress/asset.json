@@ -1,0 +1,26 @@
+{
+  "id": "mob-oxblood-bias-dress",
+  "name": "石榴单肩斜裁长裙",
+  "slot": "dress",
+  "card": "S01-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    887,
+    1774
+  ],
+  "sha256": "bb871341b64e1ac2502b55e343e65c8888f1f1a22605a6d42731a7c93a3312ed",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "bias-silk",
+  "brandReference": "Roberto Cavalli",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/roberto-cavalli",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

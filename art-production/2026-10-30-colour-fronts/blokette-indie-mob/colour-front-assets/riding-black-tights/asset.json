@@ -1,0 +1,27 @@
+{
+  "id": "riding-black-tights",
+  "name": "黑色不透连裤袜（复用）",
+  "slot": "tights",
+  "card": "S02-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "d5987ae95f42f69bb6d5f58f4821eb0f4f43f1443b4fb2d2a2a535ace3554be6",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "opaque-matte-knit",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有不透连裤袜同版型，沿用黑色，不另画钴蓝配色",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/riding-black-tights"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mob-oxblood-hourglass-jacket",
+  "name": "酒红锐肩收腰外套",
+  "slot": "outerwear",
+  "card": "S01-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1312,
+    1199
+  ],
+  "sha256": "479d6733f18fcd5683c2108aae21b34f02a774ba4f7fdfa60364e2e5f2c3c2ba",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "structured-wool",
+  "brandReference": "Versace",
+  "sourceUrl": "https://www.versace.com/us/en/stories/fashion-shows/fw-2024-fashion-show.html",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

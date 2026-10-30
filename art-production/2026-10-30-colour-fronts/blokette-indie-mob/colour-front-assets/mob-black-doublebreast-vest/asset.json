@@ -1,0 +1,26 @@
+{
+  "id": "mob-black-doublebreast-vest",
+  "name": "黑缎领双排扣马甲",
+  "slot": "outerwear",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1157,
+    1360
+  ],
+  "sha256": "e96cb917f674475491a6224c2d59efcdbbb275018e75308ef51869a1ba0fde16",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "wool-and-satin",
+  "brandReference": "Dolce & Gabbana",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

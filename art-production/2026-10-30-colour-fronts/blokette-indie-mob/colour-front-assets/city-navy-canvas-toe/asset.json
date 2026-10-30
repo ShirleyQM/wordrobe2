@@ -1,0 +1,27 @@
+{
+  "id": "city-navy-canvas-toe",
+  "name": "海军蓝帆布鞋头（复用）",
+  "slot": "shoes",
+  "card": "S03-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "e1caeee6398a04575103eb081f2d127515a16e0a75cd258652c71b5da55ee2c3",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "canvas-rubber",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "用海军蓝帆布球鞋替换参考卡的皮鞋",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/city-navy-canvas-toe"
+}

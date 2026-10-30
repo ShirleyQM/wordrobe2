@@ -1,0 +1,26 @@
+{
+  "id": "blokette-blue-bias-skirt",
+  "name": "雾蓝斜裁缎裙",
+  "slot": "bottom",
+  "card": "S03-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "2f087ee1a5af4c1b396954495d00e9ec515bebcbd3f10271e7bd4fce4421cb83",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "bias-satin",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

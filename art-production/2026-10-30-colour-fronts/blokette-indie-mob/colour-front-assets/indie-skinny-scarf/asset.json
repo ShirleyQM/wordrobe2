@@ -1,0 +1,26 @@
+{
+  "id": "indie-skinny-scarf",
+  "name": "黑色细长围巾前片",
+  "slot": "neck-accessory",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "ee8b784441938f2745f5d9c7a6bfe7e448554182f4ab6666904ecd0057300375",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silk",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "blokette-ivory-nylon-longcoat",
+  "name": "米白轻尼龙长外层",
+  "slot": "outerwear",
+  "card": "S03-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "72640772b5c27ae497f4058227c25e27cc7f36a83c59db4b1570a38d06e5f805",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "translucent-nylon",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

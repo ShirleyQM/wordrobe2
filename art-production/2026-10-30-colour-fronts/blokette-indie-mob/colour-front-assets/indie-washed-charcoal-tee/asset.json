@@ -1,0 +1,26 @@
+{
+  "id": "indie-washed-charcoal-tee",
+  "name": "水洗炭灰宽T恤",
+  "slot": "top",
+  "card": "S02-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1312,
+    1199
+  ],
+  "sha256": "2a08890f9b560711ceafed57fb2d37f5aa39c284946de7455b31e7f1677eb035",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "washed-cotton-jersey",
+  "brandReference": "American Apparel",
+  "sourceUrl": "https://retail.americanapparel.com/fine-jersey-crewneck-t-shirt/",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

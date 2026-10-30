@@ -1,0 +1,26 @@
+{
+  "id": "indie-chelsea-boot-fronts",
+  "name": "旧黑切尔西短靴前片",
+  "slot": "shoes",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1298,
+    1212
+  ],
+  "sha256": "0b95146509655cd6d0864521c92a58aecd885b79f3ea761c86168589ddbd3e14",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "worn-leather",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

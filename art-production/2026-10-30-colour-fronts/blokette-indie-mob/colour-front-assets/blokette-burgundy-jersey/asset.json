@@ -1,0 +1,26 @@
+{
+  "id": "blokette-burgundy-jersey",
+  "name": "酒红弧线宽球衣",
+  "slot": "top",
+  "card": "S03-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1199,
+    1312
+  ],
+  "sha256": "8786cb5781c65f709dd5285799bf4181b92219b4a211d6211a5d65d50b360983",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "jacquard-sport-jersey",
+  "brandReference": "adidas Originals",
+  "sourceUrl": "https://www.adidas.com.eg/en/jersey-ss/KC0127.html",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "S01-F01",
+    "title": "鎏金主场",
+    "brand": "Dolce & Gabbana",
+    "source": {
+      "key": "dg",
+      "brand": "Dolce & Gabbana",
+      "season": "2024 秋冬",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/dolce-gabbana",
+      "image": "https://assets.vogue.com/photos/65db3d29c1fa6eaddd88979d/master/w_2560%2Cc_limit/00002-dolce-%26-gabbana-fall-2024-ready-to-wear-credit-gorunway.jpg"
+    },
+    "detail": "MOB WIFE / flamboyant urban power. Shared black, oxblood, espresso and antique gold, night city cinematic amber. Adult woman with sleek sculpted espresso finger waves ending in precise chin bob, bold red lips. Strong frontal standing pose feet apart, upright head and level gaze, one hand adjusting left glove, shoulders square. Short oversized espresso FAUX FUR cape jacket frames a fitted black double-breasted satin-lapel wool waistcoat worn over opaque black lace shell, full-length narrow sharply creased black trousers and pointed gold-capped black pumps. One original large gold cuff and geometric earrings. Scene: art-deco hotel revolving-door vestibule at night, shadow and amber brass, no text. Brand research 2 only for compact double-breasted tailoring and satin-versus-lace; replace reference underwear with proper waistcoat and trousers, add completely original fur cape and jewellery. Big silhouette contrast and authoritative glamour, not office suit.",
+    "items": [
+      [
+        "缎领双排扣马甲",
+        "brand",
+        "参考短身礼服剪裁；改为马甲、重设扣位和腰线。"
+      ],
+      [
+        "不透黑蕾丝内搭",
+        "brand",
+        "将薄蕾丝语言转为独立不透内搭。"
+      ],
+      [
+        "窄直礼服裤",
+        "original",
+        "用纵向裤线承接大肩部，与参考图短下装不同。"
+      ],
+      [
+        "仿皮草短披外套、金属饰品和尖头鞋",
+        "original",
+        "新增体积与金属落点，自定版型和饰件。"
+      ]
+    ]
+  },
+  {
+    "id": "S01-F02",
+    "title": "石榴夜宴",
+    "brand": "Roberto Cavalli",
+    "source": {
+      "key": "cavalli",
+      "brand": "Roberto Cavalli",
+      "season": "2024 秋冬",
+      "url": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/roberto-cavalli",
+      "image": "https://cms.showstudio.com/images/qN9YgcNcY_TGdhv8d9EnebA6JUs%3D/549018/width-640/Roberto_Cavalli_AW24_Womenswear_051.jpg"
+    },
+    "detail": "MOB WIFE urban flamboyance, same black oxblood espresso antique-gold nighttime palette. Adult woman with high sculptural glossy dark updo, sweeping curved pompadour front and clean exposed neck. Seated upright on edge of a dark red banquette in a grand hotel supper club, feet offset planted both shoes visible, one forearm resting on table edge and other hand holding rigid small evening clutch on thigh; head vertical direct unwavering gaze. An OPAQUE oxblood silk bias-cut ankle-length one-shoulder dress, asymmetric draping gathered through a custom antique-gold oval at waist; ORIGINAL espresso and garnet abstract geological veins only on lower third, not copied marble pattern. Long black velvet opera gloves, broad black satin shawl slung low around upper arms, antique-gold open square earrings, black fine-strap heels. Background polished dark wood and warm amber table lamp, strong confident evening atmosphere. Translate research's geological fluidity and big cape versus fitted column into new print placement, one-shoulder drape, palette and short shawl; no animal stereotypes.",
+    "items": [
+      [
+        "单肩斜裁长裙",
+        "brand",
+        "参考流动柱形与矿石纹理；原创石榴色、单肩抽褶和局部纹样。"
+      ],
+      [
+        "低披黑缎披肩",
+        "brand",
+        "由大披风缩为低披短幅，改变体积及长度。"
+      ],
+      [
+        "长手套、金属腰扣、小包与细带鞋",
+        "original",
+        "原创晚装配件，连接整组黑金色调。"
+      ]
+    ]
+  },
+  {
+    "id": "S01-F03",
+    "title": "锋芒入席",
+    "brand": "Versace",
+    "source": {
+      "key": "versace",
+      "brand": "Versace",
+      "season": "2024 秋冬",
+      "url": "https://www.versace.com/us/en/stories/fashion-shows/fw-2024-fashion-show.html",
+      "image": "https://assets.vogue.com/photos/65d9a61a53a821ddad733a32/master/w_1280%2Cc_limit/00001-versace-fall-2024-ready-to-wear-credit-gorunway.jpg"
+    },
+    "detail": "MOB WIFE urban power glamour, black oxblood espresso antique-gold night mood shared with two companion cards. Adult woman with glossy jet black high sculptural ponytail tightly wrapped at base, one precise waved forehead strand, gold ear cuffs. Decisive walking step down wide low stone entrance stair, head upright looking horizontally ahead, shoulders level, one hand holding small geometric gold-frame bag and other hand inside jacket pocket, no over-shoulder look. Original sculptural oxblood hourglass tailored short jacket with sharp shoulders, curved asymmetric front, a single brushed gold rectangular waist clasp; opaque black square-neck fitted knit inside, black leather high-waist straight midi skirt with asymmetric side pleat opening rather than slit exposure, sheer black tights and black knee boots with architectural gold heel insert. No Medusa, safety pin or brand icon. Scene: dark luxury city gallery exterior after rain with amber lit tall doorway. Research informs sharp structured tailoring and small contrast accents ONLY; change mini dress into jacket plus leather midi, palette and original rectangular hardware.",
+    "items": [
+      [
+        "锐肩收腰短外套",
+        "brand",
+        "参考利落肩线与紧凑礼服剪裁；重组为酒红短外套。"
+      ],
+      [
+        "皮质中长裙",
+        "original",
+        "以侧褶打开步幅，自定直筒裙轮廓。"
+      ],
+      [
+        "方领针织、长靴与金属配件",
+        "original",
+        "金属件自绘几何形，不使用品牌标志。"
+      ]
+    ]
+  },
+  {
+    "id": "S02-F01",
+    "title": "最后一首安可",
+    "brand": "Dior Homme / Hedi Slimane",
+    "source": {
+      "key": "dior",
+      "brand": "Dior Homme / Hedi Slimane",
+      "season": "2005 秋冬",
+      "url": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
+      "image": "https://assets.vogue.com/photos/55c6514908298d8be21ed454/master/w_1280%2Cc_limit/00010m.jpg"
+    },
+    "detail": "INDIE SLEAZE music-scene editorial: shared charcoal black, dirty ivory, cobalt and worn silver, late-night small venue flash light, gritty environment but clean elegant illustration. Adult woman with black razor shag haircut, cheekbone-length angular bangs, silver tiny studs, smudged eyeliner. Tall narrow stance leaning BACK of shoulder lightly against venue brick wall, head upright with level gaze, ankles offset not coy, one hand inside trouser pocket other holding folded plain gig programme. Original elongated narrow-shoulder charcoal wool blazer with sharp small lapels, extra long dirty-ivory shirt cuffs, skinny black silk scarf left untied, close-fitting plain ivory tee, very narrow black trousers with tiny ankle zip and pointed worn leather low Chelsea boots. No band text. Reference 2: male tailoring structure only; reinterpret for adult woman with longer jacket, exposed cuffs and original scarf layering, not exact suit. Background dim side-door of music venue, coiled cable and single cobalt lamp, cropped empty poster panels without text. Fashion is elongated precise rocker silhouette.",
+    "items": [
+      [
+        "窄肩长西装、修长裤装",
+        "brand",
+        "参考档案中的修长外层和窄裤关系；改为长西装与拉链裤脚，重新设定比例。"
+      ],
+      [
+        "长袖口衬衫与素T层次",
+        "original",
+        "为正装增加不规整露层。"
+      ],
+      [
+        "细围巾、旧皮短靴与折叠节目单",
+        "original",
+        "以音乐现场语境完成造型，不复刻乐队标识。"
+      ]
+    ]
+  },
+  {
+    "id": "S02-F02",
+    "title": "闪光灯余温",
+    "brand": "American Apparel",
+    "source": {
+      "key": "aa",
+      "brand": "American Apparel",
+      "season": "Fine Jersey 产品结构研究；非历史广告复刻",
+      "url": "https://retail.americanapparel.com/fine-jersey-crewneck-t-shirt/",
+      "image": "https://cdn11.bigcommerce.com/s-476cfgput4/images/stencil/640x853/products/119/4039/2001-Z36-alt3__86674.1694448161.jpg?c=1"
+    },
+    "detail": "INDIE SLEAZE editorial shared charcoal dirty ivory cobalt worn silver nighttime small music venue vibe. Adult woman with bleach-blonde choppy short mullet and dark roots, blunt piecey baby fringe, bold black eyeliner. Seated upright on a low black road flight case backstage, feet planted apart naturally and complete shoes visible; spine/head vertical, horizontal gaze toward camera. Original slouchy washed charcoal fine cotton jersey tee, one side loosely tucked into straight MICRO-SEQUIN silver knee-above mini skirt with a diagonal black grosgrain closure tab, opaque cobalt tights, scuffed black square-toe ankle boots with low stacked heel, narrow black leather wrist cuff. One hand holds folded black jacket next to thigh and other braces on case. Scene dark venue dressing corridor with industrial door, cobalt light spilling from stage, subtle direct-flash crispness, not messy grunge painting. Reference2 ONLY jersey hand and crewneck, not model, jeans, branding or era claim; translate plain tee into loose washed oversized styling plus independently designed sequin skirt/colour hosiery. Controlled high-fashion clash of humble cotton and stage shine.",
+    "items": [
+      [
+        "水洗宽松棉T",
+        "brand",
+        "参考现行 Fine Jersey 圆领与柔软布面；改松量和洗旧色，不将产品页当历史证据。"
+      ],
+      [
+        "细亮片短裙",
+        "original",
+        "原创斜向闭合与细密银片表面。"
+      ],
+      [
+        "钴蓝袜、方头短靴与腕带",
+        "original",
+        "用亮面／旧棉／饱和袜色形成对照。"
+      ]
+    ]
+  },
+  {
+    "id": "S02-F03",
+    "title": "借来的凌晨",
+    "brand": "Topshop Unique",
+    "source": {
+      "key": "topshop",
+      "brand": "Topshop Unique",
+      "season": "2016 秋冬；后期造型比较，非亚文化起源依据",
+      "url": "https://www.vogue.com/fashion-shows/fall-2016-ready-to-wear/topshop-unique",
+      "image": "https://assets.vogue.com/photos/56c9c8ac05d0ebda742c4bca/master/w_2560%2Cc_limit/_TOP0035.jpg"
+    },
+    "detail": "INDIE SLEAZE clean fashion illustration with shared charcoal/dirty ivory/cobalt/worn silver palette, small venue nighttime and flash-lit urban mood. Adult woman with dark chestnut sharply layered shoulder-length shag, a single narrow slick braid on one side, undone but deliberately cut, no long generic waves. Walking out of music venue with purposeful short stride, head completely upright looking straight ahead, one hand carrying a small original slouch black shoulder bag and other hand pushing jacket collar away from neck. Big charcoal washed LEATHER bomber with compact pale shearling collar and dropped round sleeves, long dirty-ivory rib-knit tank reaching low hip, original asymmetrical cobalt-black velvet wrap mini skirt with visibly tied fastening, semiopaque black tights and worn pointed low leather boots. No heavy gold jewellery. Reference2 only short voluminous outerwear versus narrow lower half, translate grey fabric bomber/leggings into leather, extended tank and velvet wrap skirt; remove brand marks. Scene rain-damp alley outside an independent venue, one blue neon tube without letters, torn blank poster shapes, crisp fashion character not filthy texture.",
+    "items": [
+      [
+        "洗旧皮飞行夹克",
+        "brand",
+        "参考 2016 秋冬短体积与浅领对照；改皮革、袖量与领宽，作为后期比较。"
+      ],
+      [
+        "长罗纹背心与系结绒面短裙",
+        "original",
+        "用长内层与短裙错位，裙结承担闭合。"
+      ],
+      [
+        "黑袜、旧短靴和软包",
+        "original",
+        "围绕散场行走设计，避免叠加舞台符号。"
+      ]
+    ]
+  },
+  {
+    "id": "S03-F01",
+    "title": "看台上的缎光",
+    "brand": "adidas Originals",
+    "source": {
+      "key": "adidas",
+      "brand": "adidas Originals",
+      "season": "Jersey SS / KC0127 产品结构研究",
+      "url": "https://www.adidas.com.eg/en/jersey-ss/KC0127.html",
+      "image": "https://assets.adidas.com/images/w_1880%2Cf_auto%2Cq_auto/b0d7452088184a7994a94cac52baf0ba_9366/KC0127_01_laydown.jpg"
+    },
+    "detail": "BLOKETTE fashion editorial, shared burgundy/cream/soft sky blue/charcoal palette, cool overcast stadium architecture with tender ribbon detail, sporty and romantic not athlete costume. Adult woman with sleek dark blunt jaw bob and two tiny cream ribbon clips placed geometrically. Standing frontal with one leg weight shifted but head vertical and level confident gaze; one hand holds folded stadium programme low and other hand lightly pinches jersey hem at one side to reveal skirt waistband. Original oversized burgundy football jersey with oversized ivory pointed collar, subtle tonal jacquard vertical ribs, asymmetric single ivory curved chest panel, no stripes on sleeve, no logo, sponsor, numbers or crest. Pale sky-blue bias satin ankle-length skirt with soft diagonal seam and flared godet, charcoal knee socks only small glimpse and cream low-profile T-strap sporty flat shoes with no stripes. Scene deserted upper stadium concourse, concrete arches and soft field-green blur below, quiet late afternoon. Reference2 only V-collar/knit construction, change panel map, colour, sleeve length and styling completely; no copy of three stripes.",
+    "items": [
+      [
+        "酒红宽球衣",
+        "brand",
+        "参考V领、翻领及提花肌理；重画色块，去掉标志条纹、队徽与字样。"
+      ],
+      [
+        "雾蓝斜裁缎裙",
+        "original",
+        "用长裙柔软纵线对照球衣横向体积。"
+      ],
+      [
+        "细带运动便鞋、发夹与节目单",
+        "original",
+        "原创细带与轻便鞋底；不复制品牌鞋型。"
+      ]
+    ],
+    "production_override": "按用户最新要求，鞋履全部用运动球鞋前片替换；原参考卡中皮鞋/玛丽珍不制作。"
+  },
+  {
+    "id": "S03-F02",
+    "title": "织入加时赛",
+    "brand": "Wales Bonner",
+    "source": {
+      "key": "wales",
+      "brand": "Wales Bonner",
+      "season": "2024 春夏",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-menswear/wales-bonner",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a15ad16b7411ccec818471e/1687980915130-32DQBI1VSER8WWVMG9QC/Kolor%2BMagazine%2BWales%2BBonner%2BSpring%2B2024%2BCollection%2BLook396.jpg"
+    },
+    "detail": "BLOKETTE editorial same burgundy/cream/soft sky blue/charcoal and cool stadium-adjacent city afternoon, sport knit plus tailored fluidity. Adult woman with dark glossy centre-part tight braided crown finished as two compact low loops, one cream narrow ribbon woven into back not two bows. Sitting upright on concrete low terrace bench, one foot on lower step other flat grounded, complete shoes visible; head upright looking level sideways toward empty pitch, one hand resting on knee other lightly holding slim ivory zip jacket folded beside hip. Original cropped cream and burgundy fine knit polo with original sparse interlocking rectangular jacquard (NOT research diamond repeat), small sky blue collar and elongated cuffs; high-waist charcoal fluid very wide tailored trousers with one deep side pleat each, narrow cream piping along one outer seam rather than three stripes. Oxblood lace-up low-profile shoes and tiny silver chain. Scene pale brick training-ground courtyard with soft green visible through one gate, no football prop required. Reference2 only knit polo versus sporty rib edges, change geometry, crop, collar, palette and shorts to dramatic tailored trousers. No claim of reproducing cultural motifs.",
+    "items": [
+      [
+        "短身提花针织Polo",
+        "brand",
+        "参考针织领口与运动罗纹；原创矩形疏格，不复制具体纹样。"
+      ],
+      [
+        "高腰流动阔裤",
+        "original",
+        "由短裤换成大褶阔裤，重设上短下长比例。"
+      ],
+      [
+        "低帮系带鞋、折叠外套与编发缎带",
+        "original",
+        "自定款式，缎带只参与发型。"
+      ]
+    ],
+    "production_override": "按用户最新要求，鞋履全部用运动球鞋前片替换；原参考卡中皮鞋/玛丽珍不制作。"
+  },
+  {
+    "id": "S03-F03",
+    "title": "终场换一面",
+    "brand": "Martine Rose",
+    "source": {
+      "key": "martine",
+      "brand": "Martine Rose",
+      "season": "2026 春夏",
+      "url": "https://www.martine-rose.com/pages/spring-summer-2026",
+      "image": "https://martine-rose.com/cdn/shop/files/Martine_Rose_SS26_4x5_034.jpg?v=1750081795&width=2000"
+    },
+    "detail": "BLOKETTE same burgundy/cream/sky blue charcoal cool urban stadium mood. Adult woman with ash dark-brown slick high knot plus short blunt straight fringe, long slender single ribbon tail, no head tilt. Purposeful long step descending broad stadium stairs, head vertical eyes level forward, shoulders stable, one hand inside trackcoat pocket other carrying small original soft cream bag; show both full shoes. Oversized sky-blue box-shoulder football top with dramatic broad structured elbows, burgundy irregular one-sided knit collar and blank chest, no words logos badges numbers or stripe branding. Tiny charcoal pleated skirt partly under oversized shirt, translucent-but-not-transparent cream nylon long sleeveless track-coat with burgundy piping worn open, cream high socks with one broad burgundy block near cuff, black square-toe sporty Mary Jane low shoes. Clear three lengths: compact pleated skirt, broad mid-hip top, calf-long airy outer layer. Reference2 informs exaggerated shoulder and sporty collar contrast only, transform menswear trouser look into layered skirt/nylon outerwear; no copied check shirt or belt. Empty pale concrete stair and stadium glazed wall, afternoon diffuse light.",
+    "items": [
+      [
+        "宽肩雾蓝球衣",
+        "brand",
+        "参考夸张上身与拼接领口；去字样和编号，重设肩袖和色块。"
+      ],
+      [
+        "短褶裙与轻尼龙长外层",
+        "original",
+        "将裤装造型转成短中长三层，外层独立穿脱。"
+      ],
+      [
+        "色块长袜、运动玛丽珍与软包",
+        "original",
+        "原创运动／柔软配件关系，不复刻鞋履。"
+      ]
+    ],
+    "production_override": "按用户最新要求，鞋履全部用运动球鞋前片替换；原参考卡中皮鞋/玛丽珍不制作。"
+  }
+]

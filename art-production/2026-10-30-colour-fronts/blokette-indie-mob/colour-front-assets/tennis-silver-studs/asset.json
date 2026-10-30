@@ -1,0 +1,27 @@
+{
+  "id": "tennis-silver-studs",
+  "name": "球场银色耳钉（复用）",
+  "slot": "earrings",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "e5d95329175710089cd28337a960ca7dd16c3423c78823b48327d4052ebf78e2",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "silver",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有银色小耳钉复用",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/tennis-silver-studs"
+}

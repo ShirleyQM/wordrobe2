@@ -1,0 +1,26 @@
+{
+  "id": "indie-black-leather-bomber",
+  "name": "洗旧皮飞行夹克",
+  "slot": "outerwear",
+  "card": "S02-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "4aa85644b09dc2c9dad9bfee83e093827e81ff53e395984c14613c7b557721da",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "washed-leather-shearling",
+  "brandReference": "Topshop Unique",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2016-ready-to-wear/topshop-unique",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

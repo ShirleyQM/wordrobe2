@@ -1,0 +1,26 @@
+{
+  "id": "indie-black-wrist-cuff",
+  "name": "旧黑双扣腕带",
+  "slot": "bracelet",
+  "card": "S02-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1672,
+    941
+  ],
+  "sha256": "5af9b2560eb3e0d7ebd086d84bec96be3a5d98e1adb79b8ef9e99fd101d23bde",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "worn-leather",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tennis-white-toe",
+  "name": "白色球鞋鞋头（复用）",
+  "slot": "shoes",
+  "card": "S03-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "8d85eb45bc3788ac84f7b0584fe319c8e93fc87d32f11358481d6828136c7232",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "leather-rubber",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "球衣混搭统一使用球鞋，复用白色球鞋鞋头",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/tennis-white-toe"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "riding-black-wrap-skirt",
+  "name": "黑色骑褶裹裙（复用）",
+  "slot": "bottom",
+  "card": "S01-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "edb0d9ece21c78ccd6b67875f9f8bbc0cd88bbf08bf632db9c9f202a12fbec14",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "dense-wool",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "相同裹身侧褶中裙版型沿用现有黑色羊毛款，不另画皮质版本",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/riding-black-wrap-skirt"
+}

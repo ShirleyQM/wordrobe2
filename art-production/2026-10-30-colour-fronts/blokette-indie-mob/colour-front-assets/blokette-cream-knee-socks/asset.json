@@ -1,0 +1,26 @@
+{
+  "id": "blokette-cream-knee-socks",
+  "name": "奶油色块长袜",
+  "slot": "socks",
+  "card": "S03-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "e4a381d6952c5b6474b3f37aac0699e26d15ede2d7b6b8c0ad56d7045e4d508c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "cotton-rib-knit",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "indie-cobalt-velvet-wrap-skirt",
+  "name": "钴黑系结绒面短裙",
+  "slot": "bottom",
+  "card": "S02-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "a2b8ff8da45b9921b1b9ae8021905ddc017a5ff6724af67571d72aee9404dc4e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "velvet",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "indie-ivory-crew-tee",
+  "name": "素象牙贴身T恤",
+  "slot": "top",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1243,
+    1265
+  ],
+  "sha256": "b3405c01b83db442a362855ec18ec4ba80fbedd5400d26d4e055912216bf953f",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-cotton-jersey",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

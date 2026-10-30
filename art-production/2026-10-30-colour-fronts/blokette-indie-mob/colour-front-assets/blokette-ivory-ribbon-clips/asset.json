@@ -1,0 +1,26 @@
+{
+  "id": "blokette-ivory-ribbon-clips",
+  "name": "象牙几何结发夹",
+  "slot": "hair-accessory",
+  "card": "S03-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "ad0c8d40bd20e78f13bf35d05888201d4ac0c9e3a1cf0ada0f7ec8314d9a5bce",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "grosgrain-ribbon",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

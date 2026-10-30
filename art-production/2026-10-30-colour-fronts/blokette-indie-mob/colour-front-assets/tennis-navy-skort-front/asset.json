@@ -1,0 +1,27 @@
+{
+  "id": "tennis-navy-skort-front",
+  "name": "海军蓝百褶裙（复用）",
+  "slot": "bottom",
+  "card": "S03-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "141ecaebea3e6f8a3cd2af52a2806310049eccf7c59f76492fd5235d5d0bfef5",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "crisp-technical-twill",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有同版型短百褶裙，复用海军蓝，不重复制作炭灰色",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-tennis-city-equestrian-v1/colour-front-assets/tennis-navy-skort-front"
+}

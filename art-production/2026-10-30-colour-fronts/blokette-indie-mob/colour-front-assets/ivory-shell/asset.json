@@ -1,0 +1,27 @@
+{
+  "id": "ivory-shell",
+  "name": "象牙短内搭（复用）",
+  "slot": "top",
+  "card": "S01-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1211,
+    1299
+  ],
+  "sha256": "7fb734ef052276cb3a66f2789f1a867338903883786bf1a86090daca689ed39c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "existing-material",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有方领内搭版型，沿用象牙色，不另画黑色",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/ivory-shell"
+}

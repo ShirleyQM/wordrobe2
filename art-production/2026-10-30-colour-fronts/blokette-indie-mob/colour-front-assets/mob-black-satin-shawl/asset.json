@@ -1,0 +1,26 @@
+{
+  "id": "mob-black-satin-shawl",
+  "name": "黑缎低披肩前片",
+  "slot": "shoulder-accessory",
+  "card": "S01-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1145,
+    1374
+  ],
+  "sha256": "3027daf2d10ad53195d02c6e3e7b57ed942d933937aa7bf14f2025f96391797c",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "satin",
+  "brandReference": "Roberto Cavalli",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2024-ready-to-wear/roberto-cavalli",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

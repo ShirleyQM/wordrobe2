@@ -1,0 +1,27 @@
+{
+  "id": "ivory-wide-trousers",
+  "name": "象牙阔腿裤（复用）",
+  "slot": "bottom",
+  "card": "S03-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "1a5c9ca86feab94706ee3bc09c44d914bfae91c47ceb717c36832054be24f97e",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "existing-material",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有同版型双褶阔裤，复用象牙色，不重复制作炭灰配色",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/ivory-wide-trousers"
+}

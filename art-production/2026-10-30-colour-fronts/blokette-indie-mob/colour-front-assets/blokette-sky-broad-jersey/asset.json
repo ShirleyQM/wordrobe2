@@ -1,0 +1,26 @@
+{
+  "id": "blokette-sky-broad-jersey",
+  "name": "雾蓝宽肩球衣",
+  "slot": "top",
+  "card": "S03-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "7a5d82acf8b55bcc8c1e58a8124bc2c11c0c8b2bfc38cf090c871b30d8611f53",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "technical-jersey",
+  "brandReference": "Martine Rose",
+  "sourceUrl": "https://www.martine-rose.com/pages/spring-summer-2026",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mob-espresso-faux-fur-cape",
+  "name": "浓咖仿皮草短披",
+  "slot": "outerwear",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "3b20d84c902433ca3ee4493fdd3d3334e744792db0332c7948c22f639241ca85",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "faux-fur",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

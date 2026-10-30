@@ -1,0 +1,26 @@
+{
+  "id": "indie-silver-sequin-skirt",
+  "name": "细银片斜扣短裙",
+  "slot": "bottom",
+  "card": "S02-F02",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "6b8bd777a82ffcb93b0585976aa65a129be2b198279be17661e1203b10590808",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "micro-sequins",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

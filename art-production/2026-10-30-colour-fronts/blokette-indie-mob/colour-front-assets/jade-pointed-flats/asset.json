@@ -1,0 +1,27 @@
+{
+  "id": "jade-pointed-flats",
+  "name": "黑色尖头平底鞋（复用）",
+  "slot": "shoes",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1774,
+    887
+  ],
+  "sha256": "94bf4f0688455fbecec7cd53ad3249180f1e2be1b9f08f1c8771fdb82457c615",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "existing-material",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "沿用已确认黑金尖头鞋头",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/jade-pointed-flats"
+}

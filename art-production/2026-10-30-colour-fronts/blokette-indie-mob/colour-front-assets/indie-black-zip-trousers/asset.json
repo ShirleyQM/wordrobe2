@@ -1,0 +1,26 @@
+{
+  "id": "indie-black-zip-trousers",
+  "name": "黑色拉链窄裤",
+  "slot": "bottom",
+  "card": "S02-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "c20af58c422c8f57d231017bc520af968fdeb6bc1f0700ab338713d8990159e4",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "stretch-cotton-twill",
+  "brandReference": "Dior Homme / Hedi Slimane",
+  "sourceUrl": "https://www.vogue.com/fashion-shows/fall-2005-menswear/dior-homme",
+  "referenceScope": "面料/廓形研究后原创重组；非品牌原款。",
+  "brandRelationship": "material-and-silhouette-study-not-official-product",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}

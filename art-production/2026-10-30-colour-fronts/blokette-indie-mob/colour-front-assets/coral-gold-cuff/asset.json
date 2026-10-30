@@ -1,0 +1,27 @@
+{
+  "id": "coral-gold-cuff",
+  "name": "浅金宽腕饰（复用）",
+  "slot": "bracelet",
+  "card": "S01-F01",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1240,
+    1269
+  ],
+  "sha256": "afa68feba2bfd575f4fee3bdcb665f4013cf918e1187c50ac19310e98f65e589",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "existing-material",
+  "brandReference": "已出素材复用",
+  "sourceUrl": null,
+  "referenceScope": "已有宽金腕饰复用",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "existing-art-reuse",
+  "reusedFrom": "clothing-production-qipao-coastal-v1/colour-front-assets/coral-gold-cuff"
+}

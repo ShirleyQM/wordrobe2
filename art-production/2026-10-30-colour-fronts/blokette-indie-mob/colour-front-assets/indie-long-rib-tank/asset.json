@@ -1,0 +1,26 @@
+{
+  "id": "indie-long-rib-tank",
+  "name": "象牙长罗纹背心",
+  "slot": "top",
+  "card": "S02-F03",
+  "front": "colour-front.png",
+  "back": "back.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "75365d048cdca70d53157f64e9dca9e11d1d202b3ab9428e8d53852cc02de511",
+  "trueTransparency": true,
+  "backTransparent": true,
+  "recolor": false,
+  "status": "local-colour-front-art",
+  "wearingTest": "not-requested",
+  "runtimeValidated": false,
+  "fabric": "fine-rib-knit",
+  "brandReference": "原创搭配",
+  "sourceUrl": null,
+  "referenceScope": "原创搭配，不标作品牌原款。",
+  "brandRelationship": "original-combination",
+  "view": "front-visible-worn-material-only",
+  "sourceType": "new-imagegen-art"
+}
